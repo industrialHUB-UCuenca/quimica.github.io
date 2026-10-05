@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Docente | Hub IQ</title>
+    <meta name="description" content="Docentes del Hub IQ de Ingeniería Química." />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <a class="brand" href="index.html" aria-label="Inicio Hub IQ">
+        <img src="assets/ucuenca-ciencias-quimicas-logo.png" alt="UCUENCA Ciencias Químicas" />
+        <strong>Hub IQ</strong>
+      </a>
+      <nav class="main-nav" aria-label="Navegación principal">
+        <a href="index.html">Comisiones</a>
+        <a class="active" href="docente.html">Docente</a>
+        <a href="malla.html">Malla</a>
+        <a href="silabos.html">Sílabos</a>
+      </nav>
+    </header>
+
+    <main class="page-shell">
+      <section class="page-banner" aria-label="Facultad de Ciencias Químicas">
+        <div class="page-banner-overlay">
+          <p class="kicker">Ingeniería Química</p>
+          <h1>Docente</h1>
+          <p>Asignaturas, niveles y horas ACD/APE registradas para cada docente.</p>
+        </div>
+      </section>
+
+      <section class="faculty-section" aria-labelledby="facultyTitle">
+        <div class="faculty-toolbar" aria-label="Filtros de docentes">
+          <label>
+            <span>Buscar</span>
+            <input id="facultySearch" type="search" placeholder="Docente o asignatura..." />
+          </label>
+          <label>
+            <span>Ciclo</span>
+            <select id="facultyLevel"></select>
+          </label>
+          <label>
+            <span>Carga</span>
+            <select id="facultyLoad">
+              <option value="all">Todas</option>
+              <option value="high">Mayor carga</option>
+              <option value="medium">Carga media</option>
+              <option value="single">Una asignatura</option>
+            </select>
+          </label>
+        </div>
+
+        <div class="faculty-stats" id="facultyStats" aria-label="Resumen de docentes"></div>
+
+        <div class="faculty-layout">
+          <div>
+            <div class="section-heading compact">
+              <p class="kicker">Directorio dinámico</p>
+              <h2 id="facultyTitle">Docentes y asignaturas</h2>
+              <p>Selecciona un docente para revisar su carga académica y el detalle de asignaturas ACD/APE.</p>
+            </div>
+            <div class="faculty-page-grid" id="facultyGrid"></div>
+          </div>
+
+          <aside class="faculty-detail-panel" aria-label="Detalle de docente">
+            <div id="facultyDetail"></div>
+          </aside>
+        </div>
+      </section>
+    </main>
+    <script src="docente-data.js"></script>
+    <script src="docente.js"></script>
+  </body>
+</html>

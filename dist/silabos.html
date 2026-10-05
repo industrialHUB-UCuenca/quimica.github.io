@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Sílabos | Hub IQ</title>
+    <meta name="description" content="Repositorio de sílabos del Hub IQ de Ingeniería Química." />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <a class="brand" href="index.html" aria-label="Inicio Hub IQ">
+        <img src="assets/ucuenca-ciencias-quimicas-logo.png" alt="UCUENCA Ciencias Químicas" />
+        <strong>Hub IQ</strong>
+      </a>
+      <nav class="main-nav" aria-label="Navegación principal">
+        <a href="index.html">Comisiones</a>
+        <a href="docente.html">Docente</a>
+        <a href="malla.html">Malla</a>
+        <a class="active" href="silabos.html">Sílabos</a>
+      </nav>
+    </header>
+
+    <main class="page-shell">
+      <section class="page-banner" aria-label="Facultad de Ciencias Químicas">
+        <div class="page-banner-overlay">
+          <p class="kicker">Repositorio académico</p>
+          <h1>Sílabos</h1>
+          <p>Explora los sílabos de Ingeniería Química por ciclo, asignatura, docente, unidades y contenidos.</p>
+        </div>
+      </section>
+
+      <section class="syllabi-section" id="navegador">
+        <div class="syllabi-metrics" id="syllabiMetrics" aria-label="Resumen de sílabos"></div>
+
+        <div class="syllabi-toolbar" aria-label="Filtros de sílabos">
+          <label>
+            <span>Buscar</span>
+            <input id="syllabiSearch" type="search" placeholder="Asignatura, docente, unidad o tema..." />
+          </label>
+          <label>
+            <span>Ciclo</span>
+            <select id="syllabiLevel"></select>
+          </label>
+          <label>
+            <span>Grupo</span>
+            <select id="syllabiGroup"></select>
+          </label>
+        </div>
+
+        <section class="syllabi-layout">
+          <div>
+            <div class="section-heading compact">
+              <p class="kicker">Biblioteca</p>
+              <h2>Documentos disponibles</h2>
+              <p>Selecciona un sílabo para revisar su resumen, carga horaria, responsables, unidades y contenidos.</p>
+            </div>
+            <div class="syllabi-list" id="syllabiList"></div>
+          </div>
+
+          <aside class="syllabi-preview" aria-label="Vista previa de sílabo">
+            <div id="syllabiPreview"></div>
+          </aside>
+        </section>
+      </section>
+    </main>
+
+    <script src="syllabi-data.js"></script>
+    <script src="syllabi.js"></script>
+  </body>
+</html>
