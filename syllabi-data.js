@@ -6835,45 +6835,45 @@ const syllabiContentData = {
         "id": "calculo-diferencial-2",
         "title": "Cálculo Diferencial",
         "level": 1,
-        "score": 1,
+        "score": 1.0,
         "keywords": [
-          "aplicaciones",
-          "continuidad",
-          "cálculo",
-          "derivada"
+          "algebraicas",
+          "calculo",
+          "comportamiento",
+          "continuidad"
         ]
       },
       {
         "id": "calculo-diferencial-1-2",
         "title": "Cálculo Diferencial",
         "level": 1,
-        "score": 1,
+        "score": 1.0,
         "keywords": [
-          "aplicaciones",
-          "continuidad",
-          "cálculo",
-          "derivada"
+          "algebraicas",
+          "calculo",
+          "comportamiento",
+          "continuidad"
         ]
       },
       {
         "id": "calculo-integral-1",
         "title": "Cálculo Integral",
         "level": 2,
-        "score": 0.29,
+        "score": 0.25,
         "keywords": [
-          "aplicaciones",
-          "cálculo",
+          "calculo",
           "derivadas",
-          "parciales"
+          "diferencial",
+          "funciones"
         ]
       },
       {
-        "id": "operaciones-unitarias-iii-intercambio-ionico-1",
-        "title": "Operaciones Unitarias III Intercambio Ionico",
-        "level": 8,
-        "score": 0.04,
+        "id": "algebra-lineal-2",
+        "title": "Álgebra Lineal",
+        "level": 1,
+        "score": 0.06,
         "keywords": [
-          "cálculo"
+          "ejercicios"
         ]
       }
     ],
@@ -6882,45 +6882,45 @@ const syllabiContentData = {
         "id": "calculo-diferencial-1",
         "title": "Cálculo Diferencial",
         "level": 1,
-        "score": 1,
+        "score": 1.0,
         "keywords": [
-          "aplicaciones",
-          "continuidad",
-          "cálculo",
-          "derivada"
+          "algebraicas",
+          "calculo",
+          "comportamiento",
+          "continuidad"
         ]
       },
       {
         "id": "calculo-diferencial-1-2",
         "title": "Cálculo Diferencial",
         "level": 1,
-        "score": 1,
+        "score": 1.0,
         "keywords": [
-          "aplicaciones",
-          "continuidad",
-          "cálculo",
-          "derivada"
+          "algebraicas",
+          "calculo",
+          "comportamiento",
+          "continuidad"
         ]
       },
       {
         "id": "calculo-integral-1",
         "title": "Cálculo Integral",
         "level": 2,
-        "score": 0.29,
+        "score": 0.25,
         "keywords": [
-          "aplicaciones",
-          "cálculo",
+          "calculo",
           "derivadas",
-          "parciales"
+          "diferencial",
+          "funciones"
         ]
       },
       {
-        "id": "operaciones-unitarias-iii-intercambio-ionico-1",
-        "title": "Operaciones Unitarias III Intercambio Ionico",
-        "level": 8,
-        "score": 0.04,
+        "id": "algebra-lineal-2",
+        "title": "Álgebra Lineal",
+        "level": 1,
+        "score": 0.06,
         "keywords": [
-          "cálculo"
+          "ejercicios"
         ]
       }
     ],
@@ -6929,201 +6929,200 @@ const syllabiContentData = {
         "id": "fisica-ii-1-2",
         "title": "Física II",
         "level": 2,
-        "score": 1,
+        "score": 1.0,
         "keywords": [
-          "armónico",
-          "capacidad",
+          "campo",
+          "campos",
           "capacitores",
-          "circuitos"
+          "cargas"
+        ]
+      },
+      {
+        "id": "operaciones-unitarias-i-filtracion-y-fluidizacion-1",
+        "title": "Operaciones Unitarias I Filtración y Fluidización",
+        "level": 6,
+        "score": 0.12,
+        "keywords": [
+          "campo",
+          "flujo"
+        ]
+      },
+      {
+        "id": "balances-de-materia-y-energia-1",
+        "title": "Balances de Materia y Energía",
+        "level": 3,
+        "score": 0.06,
+        "keywords": [
+          "energia"
+        ]
+      },
+      {
+        "id": "termodinamica-1",
+        "title": "Termodinámica",
+        "level": 3,
+        "score": 0.06,
+        "keywords": [
+          "energia"
+        ]
+      }
+    ],
+    "fisico-quimica-1": [
+      {
+        "id": "ingenieria-de-proyectos-1",
+        "title": "Ingeniería de Proyectos",
+        "level": 10,
+        "score": 0.19,
+        "keywords": [
+          "aplicacion",
+          "comprension",
+          "estudio"
         ]
       },
       {
         "id": "fisica-i-1",
         "title": "Física I",
         "level": 1,
-        "score": 0.07,
+        "score": 0.12,
         "keywords": [
-          "física"
+          "estudio",
+          "fenomenos"
         ]
       },
       {
-        "id": "transferencia-de-masa-1",
-        "title": "Transferencia de Masa",
-        "level": 5,
-        "score": 0.04,
+        "id": "quimica-organica-ii-1",
+        "title": "Química Orgánica II",
+        "level": 3,
+        "score": 0.12,
         "keywords": [
-          "movimiento"
+          "estudio",
+          "quimica"
         ]
       },
       {
-        "id": "ciencia-e-ingenieria-de-los-materiales-1",
-        "title": "Ciencia e Ingeniería de los Materiales",
+        "id": "sintesis-organica-en-la-industria-1",
+        "title": "Síntesis Orgánica en la Industria",
         "level": 4,
-        "score": 0.03,
+        "score": 0.12,
         "keywords": [
-          "movimiento"
-        ]
-      }
-    ],
-    "fisico-quimica-1": [
-      {
-        "id": "quimica-general-2",
-        "title": "Química General",
-        "level": 1,
-        "score": 0.07,
-        "keywords": [
-          "química"
-        ]
-      },
-      {
-        "id": "ciencia-e-ingenieria-de-los-materiales-1",
-        "title": "Ciencia e Ingeniería de los Materiales",
-        "level": 4,
-        "score": 0.07,
-        "keywords": [
-          "diagramas",
-          "fases"
-        ]
-      },
-      {
-        "id": "quimica-inorganica-1",
-        "title": "Química Inorgánica",
-        "level": 2,
-        "score": 0.05,
-        "keywords": [
-          "química"
-        ]
-      },
-      {
-        "id": "operaciones-unitarias-ii-extraccion-y-absorcion-1",
-        "title": "Operaciones Unitarias II Extracción y Absorción",
-        "level": 7,
-        "score": 0.04,
-        "keywords": [
-          "diagramas"
+          "aplicacion",
+          "quimica"
         ]
       }
     ],
     "operaciones-unitarias-ii-evaporacion-destilacion-y-cristalizacion-1": [
       {
-        "id": "operaciones-unitarias-ii-extraccion-y-absorcion-1",
-        "title": "Operaciones Unitarias II Extracción y Absorción",
-        "level": 7,
-        "score": 0.13,
+        "id": "balances-de-materia-y-energia-1",
+        "title": "Balances de Materia y Energía",
+        "level": 3,
+        "score": 0.19,
         "keywords": [
-          "introducción",
+          "balances",
+          "energia",
+          "materia"
+        ]
+      },
+      {
+        "id": "operaciones-unitarias-i-manipulacion-de-solidos-1",
+        "title": "Operaciones Unitarias I Manipulación de Sólidos",
+        "level": 6,
+        "score": 0.19,
+        "keywords": [
+          "equipos",
           "operaciones",
           "unitarias"
         ]
       },
       {
         "id": "operaciones-unitarias-iii-intercambio-ionico-1",
-        "title": "Operaciones Unitarias III Intercambio Ionico",
+        "title": "Operaciones Unitarias III Intercambio Iónico",
         "level": 8,
-        "score": 0.12,
+        "score": 0.19,
         "keywords": [
-          "introducción",
+          "operacion",
           "operaciones",
           "unitarias"
         ]
       },
       {
-        "id": "operaciones-unitarias-iii-humidificacion-y-secado-1",
-        "title": "Operaciones Unitarias III Humidificación y Secado",
-        "level": 8,
-        "score": 0.12,
-        "keywords": [
-          "operaciones",
-          "unitarias"
-        ]
-      },
-      {
-        "id": "transferencia-de-masa-1",
-        "title": "Transferencia de Masa",
+        "id": "transferencia-de-calor-1",
+        "title": "Transferencia de Calor",
         "level": 5,
         "score": 0.12,
         "keywords": [
-          "introducción",
-          "operaciones",
-          "unitarias"
+          "calor",
+          "equipos"
         ]
       }
     ],
     "microbiologia-industrial-1": [
       {
-        "id": "procesamiento-industrial-de-lacteos-y-carnicos-1",
-        "title": "Procesamiento Industrial de Lácteos y Cárnicos",
+        "id": "procesamiento-termico-de-alimentos-2",
+        "title": "I1 Procesamiento Térmico de Alimentos",
         "level": 9,
-        "score": 0.11,
+        "score": 0.38,
         "keywords": [
-          "cárnicos",
-          "industrial",
-          "lácteos"
+          "alimentos",
+          "carrera",
+          "conocimientos",
+          "dentro"
+        ]
+      },
+      {
+        "id": "procesamiento-industrial-de-cereales-y-fermentaciones-1",
+        "title": "I1 Procesamiento Industrial de Cereales y Fermentaciones",
+        "level": 10,
+        "score": 0.38,
+        "keywords": [
+          "carrera",
+          "conocimientos",
+          "dentro",
+          "dicta"
         ]
       },
       {
         "id": "sintesis-organica-en-la-industria-1",
         "title": "Síntesis Orgánica en la Industria",
         "level": 4,
-        "score": 0.07,
+        "score": 0.25,
         "keywords": [
+          "conocimientos",
           "industrial",
-          "métodos",
-          "productos"
+          "productos",
+          "quimica"
         ]
       },
       {
-        "id": "gestion-y-tecnologia-del-medio-ambiente-1",
-        "title": "Gestión y Tecnología del Medio Ambiente",
-        "level": 7,
-        "score": 0.07,
+        "id": "quimica-general-2",
+        "title": "Química General",
+        "level": 1,
+        "score": 0.19,
         "keywords": [
-          "contaminación",
-          "industrial",
-          "origen"
-        ]
-      },
-      {
-        "id": "procesamiento-industrial-de-frutas-y-verduras-1",
-        "title": "Procesamiento Industrial de Frutas y Verduras",
-        "level": 10,
-        "score": 0.06,
-        "keywords": [
-          "conservación",
-          "industrial"
+          "carrera",
+          "conocimientos",
+          "quimica"
         ]
       }
     ],
     "diseno-y-desarrollo-de-productos-1": [
       {
-        "id": "gestion-energetica-1",
-        "title": "Gestión Energética",
-        "level": 8,
-        "score": 0.18,
+        "id": "ingenieria-de-proyectos-1",
+        "title": "Ingeniería de Proyectos",
+        "level": 10,
+        "score": 0.19,
         "keywords": [
-          "gestión",
-          "introducción"
+          "estudiantes",
+          "gestion",
+          "proyectos"
         ]
       },
       {
-        "id": "trabajo-de-integracion-curricular-i-1",
-        "title": "Trabajo de Integración Curricular I",
-        "level": 9,
-        "score": 0.16,
+        "id": "dibujo-asistido-por-computador-1",
+        "title": "Dibujo Asistido por Computador",
+        "level": 2,
+        "score": 0.12,
         "keywords": [
-          "diseño",
-          "introducción",
-          "proceso"
-        ]
-      },
-      {
-        "id": "gestion-de-calidad-1",
-        "title": "Gestión de Calidad",
-        "level": 8,
-        "score": 0.13,
-        "keywords": [
-          "gestión",
-          "introducción"
+          "desarrollo",
+          "diseno"
         ]
       },
       {
@@ -7132,9 +7131,18 @@ const syllabiContentData = {
         "level": 4,
         "score": 0.12,
         "keywords": [
-          "introducción",
-          "procesos",
+          "proceso",
           "productos"
+        ]
+      },
+      {
+        "id": "emprendimiento-e-innovacion-1",
+        "title": "Emprendimiento e Innovación",
+        "level": 6,
+        "score": 0.12,
+        "keywords": [
+          "desarrollo",
+          "estudiantes"
         ]
       }
     ],
@@ -7143,39 +7151,40 @@ const syllabiContentData = {
         "id": "fisica-ii-1",
         "title": "Física II",
         "level": 2,
-        "score": 1,
+        "score": 1.0,
         "keywords": [
-          "armónico",
-          "capacidad",
+          "campo",
+          "campos",
           "capacitores",
-          "circuitos"
+          "cargas"
         ]
       },
       {
-        "id": "fisica-i-1",
-        "title": "Física I",
-        "level": 1,
-        "score": 0.07,
+        "id": "operaciones-unitarias-i-filtracion-y-fluidizacion-1",
+        "title": "Operaciones Unitarias I Filtración y Fluidización",
+        "level": 6,
+        "score": 0.12,
         "keywords": [
-          "física"
+          "campo",
+          "flujo"
         ]
       },
       {
-        "id": "transferencia-de-masa-1",
-        "title": "Transferencia de Masa",
-        "level": 5,
-        "score": 0.04,
+        "id": "balances-de-materia-y-energia-1",
+        "title": "Balances de Materia y Energía",
+        "level": 3,
+        "score": 0.06,
         "keywords": [
-          "movimiento"
+          "energia"
         ]
       },
       {
-        "id": "ciencia-e-ingenieria-de-los-materiales-1",
-        "title": "Ciencia e Ingeniería de los Materiales",
-        "level": 4,
-        "score": 0.03,
+        "id": "termodinamica-1",
+        "title": "Termodinámica",
+        "level": 3,
+        "score": 0.06,
         "keywords": [
-          "movimiento"
+          "energia"
         ]
       }
     ],
@@ -7186,9 +7195,18 @@ const syllabiContentData = {
         "level": 9,
         "score": 0.12,
         "keywords": [
-          "actividades",
-          "planificación",
-          "prácticas"
+          "desarrollo",
+          "practicas"
+        ]
+      },
+      {
+        "id": "diseno-y-desarrollo-de-productos-1",
+        "title": "Diseño y Desarrollo de Productos",
+        "level": 10,
+        "score": 0.12,
+        "keywords": [
+          "desarrollo",
+          "proceso"
         ]
       },
       {
@@ -7197,26 +7215,15 @@ const syllabiContentData = {
         "level": 10,
         "score": 0.12,
         "keywords": [
-          "actividades",
-          "planificación",
-          "prácticas"
-        ]
-      },
-      {
-        "id": "trabajo-de-integracion-curricular-ii-2",
-        "title": "Trabajo de Integración Curricular II",
-        "level": 10,
-        "score": 0.07,
-        "keywords": [
           "desarrollo",
-          "resultados"
+          "practicas"
         ]
       },
       {
-        "id": "diseno-y-desarrollo-de-productos-1",
-        "title": "Diseño y Desarrollo de Productos",
-        "level": 10,
-        "score": 0.04,
+        "id": "dibujo-asistido-por-computador-1",
+        "title": "Dibujo Asistido por Computador",
+        "level": 2,
+        "score": 0.06,
         "keywords": [
           "desarrollo"
         ]
@@ -7224,391 +7231,398 @@ const syllabiContentData = {
     ],
     "gestion-de-calidad-1": [
       {
+        "id": "fisico-quimica-1",
+        "title": "Físico Química",
+        "level": 4,
+        "score": 0.12,
+        "keywords": [
+          "fundamentos",
+          "teoricos"
+        ]
+      },
+      {
+        "id": "quimica-analitica-de-agua-y-alimentos-1",
+        "title": "Química Analítica de Agua y Alimentos",
+        "level": 7,
+        "score": 0.12,
+        "keywords": [
+          "calidad",
+          "fundamentos"
+        ]
+      },
+      {
         "id": "gestion-energetica-1",
         "title": "Gestión Energética",
         "level": 8,
-        "score": 0.25,
+        "score": 0.12,
         "keywords": [
-          "gestión",
-          "introducción"
+          "gestion",
+          "procesos"
         ]
       },
       {
-        "id": "herramientas-de-metodologia-de-investigacion-1",
-        "title": "Herramientas de Metodología de Investigación",
-        "level": 1,
-        "score": 0.22,
+        "id": "procesamiento-termico-de-alimentos-2",
+        "title": "I1 Procesamiento Térmico de Alimentos",
+        "level": 9,
+        "score": 0.12,
         "keywords": [
-          "introducción",
-          "metodología"
-        ]
-      },
-      {
-        "id": "diseno-y-desarrollo-de-productos-1",
-        "title": "Diseño y Desarrollo de Productos",
-        "level": 10,
-        "score": 0.13,
-        "keywords": [
-          "gestión",
-          "introducción"
-        ]
-      },
-      {
-        "id": "transferencia-de-fluidos-1",
-        "title": "Transferencia de Fluídos",
-        "level": 5,
-        "score": 0.11,
-        "keywords": [
-          "introducción"
+          "estudiantes",
+          "practicos"
         ]
       }
     ],
     "lenguajes-de-programacion-1": [
       {
-        "id": "dibujo-asistido-por-computador-1",
-        "title": "Dibujo Asistido por Computador",
-        "level": 2,
-        "score": 0.11,
+        "id": "ciencia-e-ingenieria-de-los-materiales-1",
+        "title": "Ciencia e Ingeniería de los Materiales",
+        "level": 4,
+        "score": 0.19,
         "keywords": [
-          "aprendizaje",
-          "clase",
-          "horas",
-          "introducción"
+          "introduccion",
+          "practica",
+          "teorica"
         ]
       },
       {
-        "id": "bioquimica-de-alimentos-1",
-        "title": "Bioquímica de Alimentos",
-        "level": 6,
-        "score": 0.09,
+        "id": "organizacion-y-direccion-de-empresas-1",
+        "title": "Organización y Dirección de Empresas",
+        "level": 8,
+        "score": 0.19,
         "keywords": [
-          "aprendizaje",
-          "definición",
-          "horas"
+          "introduccion",
+          "practica",
+          "teorica"
         ]
       },
       {
-        "id": "metalurgia-extractiva-1",
-        "title": "Metalurgia Extractiva",
-        "level": 9,
-        "score": 0.09,
-        "keywords": [
-          "aprendizaje",
-          "clase",
-          "horas",
-          "magistral"
-        ]
-      },
-      {
-        "id": "ingenieria-de-proyectos-1",
-        "title": "Ingeniería de Proyectos",
+        "id": "procesamiento-industrial-de-frutas-y-verduras-1",
+        "title": "I1 Procesamiento Industrial de Frutas y Verduras",
         "level": 10,
-        "score": 0.08,
+        "score": 0.19,
         "keywords": [
-          "aprendizaje",
-          "clase",
-          "horas"
+          "aplicacion",
+          "practica",
+          "teorica"
+        ]
+      },
+      {
+        "id": "diseno-experimental-1",
+        "title": "Diseño Experimental",
+        "level": 4,
+        "score": 0.12,
+        "keywords": [
+          "aplicacion",
+          "disenos"
         ]
       }
     ],
     "economia-industrial-1": [
       {
-        "id": "ingenieria-de-las-reacciones-ii-reactores-1",
-        "title": "Ingeniería de las Reacciones II (reactores)",
-        "level": 6,
-        "score": 0.1,
-        "keywords": [
-          "ingeniería"
-        ]
-      },
-      {
-        "id": "procesamiento-industrial-de-lacteos-y-carnicos-1",
-        "title": "Procesamiento Industrial de Lácteos y Cárnicos",
-        "level": 9,
-        "score": 0.09,
-        "keywords": [
-          "industrial"
-        ]
-      },
-      {
-        "id": "balances-de-materia-y-energia-1",
-        "title": "Balances de Materia y Energía",
-        "level": 3,
-        "score": 0.08,
-        "keywords": [
-          "ingeniería"
-        ]
-      },
-      {
-        "id": "procesamiento-industrial-de-cereales-y-fermentaciones-1",
-        "title": "Procesamiento Industrial de Cereales y Fermentaciones",
-        "level": 10,
-        "score": 0.08,
-        "keywords": [
-          "industrial"
-        ]
-      }
-    ],
-    "operaciones-unitarias-ii-extraccion-y-absorcion-1": [
-      {
-        "id": "operaciones-unitarias-ii-evaporacion-destilacion-y-cristalizacion-1",
-        "title": "Operaciones Unitarias II Evaporación, Destilación y Cristalización",
-        "level": 7,
-        "score": 0.13,
-        "keywords": [
-          "introducción",
-          "operaciones",
-          "unitarias"
-        ]
-      },
-      {
-        "id": "operaciones-unitarias-iii-intercambio-ionico-1",
-        "title": "Operaciones Unitarias III Intercambio Ionico",
-        "level": 8,
-        "score": 0.13,
-        "keywords": [
-          "gases",
-          "introducción",
-          "operaciones",
-          "unitarias"
-        ]
-      },
-      {
-        "id": "transferencia-de-masa-1",
-        "title": "Transferencia de Masa",
-        "level": 5,
-        "score": 0.1,
-        "keywords": [
-          "introducción",
-          "operaciones",
-          "unitarias"
-        ]
-      },
-      {
-        "id": "operaciones-unitarias-iii-humidificacion-y-secado-1",
-        "title": "Operaciones Unitarias III Humidificación y Secado",
-        "level": 8,
-        "score": 0.09,
-        "keywords": [
-          "operaciones",
-          "unitarias"
-        ]
-      }
-    ],
-    "quimica-analitica-de-suelos-1": [
-      {
-        "id": "quimica-analitica-de-agua-y-alimentos-1",
-        "title": "Química Analítica de Agua y Alimentos",
-        "level": 7,
-        "score": 0.22,
+        "id": "diseno-experimental-1",
+        "title": "Diseño Experimental",
+        "level": 4,
+        "score": 0.25,
         "keywords": [
           "analisis",
-          "analítica",
-          "fisicas",
-          "propiedades"
+          "basicos",
+          "conceptos",
+          "principios"
         ]
       },
       {
         "id": "quimica-analitica-1",
         "title": "Química Analítica",
         "level": 4,
-        "score": 0.13,
+        "score": 0.19,
         "keywords": [
-          "analítica",
-          "muestreo",
-          "química"
+          "analisis",
+          "metodos",
+          "profesional"
         ]
       },
       {
-        "id": "cementos-y-nanomateriales-1",
-        "title": "Cementos y Nanomateriales",
-        "level": 10,
-        "score": 0.07,
+        "id": "sintesis-organica-en-la-industria-1",
+        "title": "Síntesis Orgánica en la Industria",
+        "level": 4,
+        "score": 0.19,
         "keywords": [
-          "propiedades",
-          "química"
+          "industria",
+          "industrial",
+          "principios"
         ]
       },
       {
-        "id": "mineralogia-aplicada-1",
-        "title": "Mineralogía Aplicada",
+        "id": "termodinamica-1",
+        "title": "Termodinámica",
+        "level": 3,
+        "score": 0.12,
+        "keywords": [
+          "analisis",
+          "principios"
+        ]
+      }
+    ],
+    "operaciones-unitarias-ii-extraccion-y-absorcion-1": [
+      {
+        "id": "operaciones-unitarias-iii-intercambio-ionico-1",
+        "title": "Operaciones Unitarias III Intercambio Iónico",
+        "level": 8,
+        "score": 0.19,
+        "keywords": [
+          "operacion",
+          "operaciones",
+          "separacion"
+        ]
+      },
+      {
+        "id": "operaciones-unitarias-i-filtracion-y-fluidizacion-1",
+        "title": "Operaciones Unitarias I Filtración y Fluidización",
+        "level": 6,
+        "score": 0.12,
+        "keywords": [
+          "calculo",
+          "operaciones"
+        ]
+      },
+      {
+        "id": "operaciones-unitarias-ii-evaporacion-destilacion-y-cristalizacion-1",
+        "title": "Operaciones Unitarias II Evaporación, Destilación y Cristalización",
         "level": 7,
+        "score": 0.12,
+        "keywords": [
+          "operacion",
+          "operaciones"
+        ]
+      },
+      {
+        "id": "calculo-diferencial-1",
+        "title": "Cálculo Diferencial",
+        "level": 1,
         "score": 0.06,
         "keywords": [
-          "minerales",
-          "propiedades"
+          "calculo"
+        ]
+      }
+    ],
+    "quimica-analitica-de-suelos-1": [
+      {
+        "id": "quimica-analitica-1",
+        "title": "Química Analítica",
+        "level": 4,
+        "score": 0.38,
+        "keywords": [
+          "analisis",
+          "analitica",
+          "formacion",
+          "metodos"
+        ]
+      },
+      {
+        "id": "metalurgia-extractiva-1",
+        "title": "I2 Metalurgia Extractiva",
+        "level": 9,
+        "score": 0.31,
+        "keywords": [
+          "basada",
+          "brindar",
+          "estudiante",
+          "formacion"
+        ]
+      },
+      {
+        "id": "calidad-y-tratamiento-de-suelos-1",
+        "title": "I3 Calidad y Tratamiento de Suelos",
+        "level": 9,
+        "score": 0.31,
+        "keywords": [
+          "analisis",
+          "formacion",
+          "misma",
+          "quimica"
+        ]
+      },
+      {
+        "id": "quimica-analitica-de-agua-y-alimentos-1",
+        "title": "Química Analítica de Agua y Alimentos",
+        "level": 7,
+        "score": 0.25,
+        "keywords": [
+          "analisis",
+          "analitica",
+          "pertenece",
+          "quimica"
         ]
       }
     ],
     "ingenieria-de-las-reacciones-ii-reactores-1": [
       {
-        "id": "ingenieria-de-las-reacciones-iii-catalisis-1",
-        "title": "Ingeniería de las Reacciones III (catálisis)",
-        "level": 7,
-        "score": 0.17,
+        "id": "quimica-analitica-1",
+        "title": "Química Analítica",
+        "level": 4,
+        "score": 0.14,
         "keywords": [
-          "ingeniería",
-          "reacciones"
-        ]
-      },
-      {
-        "id": "balances-de-materia-y-energia-1",
-        "title": "Balances de Materia y Energía",
-        "level": 3,
-        "score": 0.12,
-        "keywords": [
-          "ingeniería"
-        ]
-      },
-      {
-        "id": "economia-industrial-1",
-        "title": "Economía Industrial",
-        "level": 7,
-        "score": 0.1,
-        "keywords": [
-          "ingeniería"
+          "formacion",
+          "ingenieria"
         ]
       },
       {
         "id": "ingenieria-de-las-reacciones-i-cinetica-1",
-        "title": "Ingeniería de las Reacciones I (cinética)",
+        "title": "Ingeniería de las Reacciones I (Cinética)",
         "level": 5,
-        "score": 0.09,
+        "score": 0.14,
         "keywords": [
-          "ingeniería",
+          "ingenieria",
+          "reacciones"
+        ]
+      },
+      {
+        "id": "operaciones-unitarias-i-filtracion-y-fluidizacion-1",
+        "title": "Operaciones Unitarias I Filtración y Fluidización",
+        "level": 6,
+        "score": 0.14,
+        "keywords": [
+          "aborda",
+          "ingenieria"
+        ]
+      },
+      {
+        "id": "ingenieria-de-las-reacciones-iii-catalisis-1",
+        "title": "Ingeniería de las Reacciones III (Catálisis)",
+        "level": 7,
+        "score": 0.14,
+        "keywords": [
+          "ingenieria",
           "reacciones"
         ]
       }
     ],
     "balances-de-materia-y-energia-1": [
       {
-        "id": "quimica-general-2",
-        "title": "Química General",
-        "level": 1,
-        "score": 0.22,
+        "id": "operaciones-unitarias-ii-evaporacion-destilacion-y-cristalizacion-1",
+        "title": "Operaciones Unitarias II Evaporación, Destilación y Cristalización",
+        "level": 7,
+        "score": 0.19,
         "keywords": [
-          "introducción",
+          "balances",
+          "energia",
           "materia"
         ]
       },
       {
-        "id": "ingenieria-de-las-reacciones-iii-catalisis-1",
-        "title": "Ingeniería de las Reacciones III (catálisis)",
-        "level": 7,
-        "score": 0.13,
+        "id": "termodinamica-1",
+        "title": "Termodinámica",
+        "level": 3,
+        "score": 0.12,
         "keywords": [
-          "ingeniería",
-          "introducción"
+          "definir",
+          "energia"
         ]
       },
       {
-        "id": "ingenieria-de-las-reacciones-ii-reactores-1",
-        "title": "Ingeniería de las Reacciones II (reactores)",
+        "id": "termotecnia-1",
+        "title": "Termotecnia",
         "level": 6,
         "score": 0.12,
         "keywords": [
-          "ingeniería"
+          "calcular",
+          "procesos"
         ]
       },
       {
-        "id": "transferencia-de-fluidos-1",
-        "title": "Transferencia de Fluídos",
-        "level": 5,
+        "id": "polimeros-2",
+        "title": "I2 Polímeros",
+        "level": 9,
         "score": 0.12,
         "keywords": [
-          "introducción"
+          "procesos",
+          "tecnicas"
         ]
       }
     ],
     "produccion-ceramica-1": [
       {
-        "id": "sintesis-organica-en-la-industria-1",
-        "title": "Síntesis Orgánica en la Industria",
+        "id": "ciencia-e-ingenieria-de-los-materiales-1",
+        "title": "Ciencia e Ingeniería de los Materiales",
         "level": 4,
-        "score": 0.15,
+        "score": 0.12,
         "keywords": [
-          "introducción",
-          "materias",
-          "métodos",
-          "primas"
+          "materiales",
+          "practica"
         ]
       },
       {
-        "id": "operaciones-unitarias-iii-humidificacion-y-secado-1",
-        "title": "Operaciones Unitarias III Humidificación y Secado",
-        "level": 8,
-        "score": 0.08,
+        "id": "operaciones-unitarias-i-manipulacion-de-solidos-1",
+        "title": "Operaciones Unitarias I Manipulación de Sólidos",
+        "level": 6,
+        "score": 0.12,
         "keywords": [
-          "productos",
-          "secado"
+          "materiales",
+          "molienda"
+        ]
+      },
+      {
+        "id": "organizacion-y-direccion-de-empresas-1",
+        "title": "Organización y Dirección de Empresas",
+        "level": 8,
+        "score": 0.12,
+        "keywords": [
+          "practica",
+          "produccion"
+        ]
+      },
+      {
+        "id": "practicas-laborales-i-2",
+        "title": "Prácticas Laborales I",
+        "level": 9,
+        "score": 0.12,
+        "keywords": [
+          "practica",
+          "practicas"
+        ]
+      }
+    ],
+    "ingenieria-de-proyectos-1": [
+      {
+        "id": "quimica-general-2",
+        "title": "Química General",
+        "level": 1,
+        "score": 0.19,
+        "keywords": [
+          "general",
+          "ingenieria",
+          "pretende"
+        ]
+      },
+      {
+        "id": "fisico-quimica-1",
+        "title": "Físico Química",
+        "level": 4,
+        "score": 0.19,
+        "keywords": [
+          "aplicacion",
+          "comprension",
+          "estudio"
         ]
       },
       {
         "id": "diseno-y-desarrollo-de-productos-1",
         "title": "Diseño y Desarrollo de Productos",
         "level": 10,
-        "score": 0.07,
+        "score": 0.19,
         "keywords": [
-          "introducción",
-          "productos"
-        ]
-      },
-      {
-        "id": "cementos-y-nanomateriales-1",
-        "title": "Cementos y Nanomateriales",
-        "level": 10,
-        "score": 0.06,
-        "keywords": [
-          "materias",
-          "primas"
-        ]
-      }
-    ],
-    "ingenieria-de-proyectos-1": [
-      {
-        "id": "dibujo-asistido-por-computador-1",
-        "title": "Dibujo Asistido por Computador",
-        "level": 2,
-        "score": 0.18,
-        "keywords": [
-          "aprendizaje",
-          "asignatura",
-          "clase",
-          "estudio"
+          "estudiantes",
+          "gestion",
+          "proyectos"
         ]
       },
       {
         "id": "lenguajes-de-programacion-1",
         "title": "Lenguajes de Programación",
         "level": 2,
-        "score": 0.08,
+        "score": 0.12,
         "keywords": [
-          "aprendizaje",
-          "clase",
-          "horas"
-        ]
-      },
-      {
-        "id": "tecnologias-para-tratamiento-de-residuos-peligrosos-1",
-        "title": "Tecnologias para Tratamiento de Residuos Peligrosos",
-        "level": 10,
-        "score": 0.08,
-        "keywords": [
-          "aprendizaje",
-          "gestión",
-          "horas"
-        ]
-      },
-      {
-        "id": "diseno-y-calculo-de-plantas-industriales-1",
-        "title": "Diseño y Cálculo de Plantas Industriales",
-        "level": 9,
-        "score": 0.08,
-        "keywords": [
-          "aprendizaje",
-          "económico",
-          "horas",
-          "técnico"
+          "aplicacion",
+          "estudiantes"
         ]
       }
     ],
@@ -7617,215 +7631,220 @@ const syllabiContentData = {
         "id": "quimica-analitica-de-suelos-1",
         "title": "Química Analítica de Suelos",
         "level": 8,
-        "score": 0.22,
+        "score": 0.25,
         "keywords": [
           "analisis",
-          "analítica",
-          "fisicas",
-          "propiedades"
-        ]
-      },
-      {
-        "id": "bioquimica-de-alimentos-1",
-        "title": "Bioquímica de Alimentos",
-        "level": 6,
-        "score": 0.08,
-        "keywords": [
-          "agua",
-          "alimentos"
+          "analitica",
+          "pertenece",
+          "quimica"
         ]
       },
       {
         "id": "quimica-analitica-1",
         "title": "Química Analítica",
         "level": 4,
-        "score": 0.08,
+        "score": 0.19,
         "keywords": [
-          "analítica",
-          "química"
+          "analisis",
+          "analitica",
+          "quimica"
         ]
       },
       {
-        "id": "cementos-y-nanomateriales-1",
-        "title": "Cementos y Nanomateriales",
-        "level": 10,
-        "score": 0.06,
+        "id": "calidad-y-tratamiento-de-suelos-1",
+        "title": "I3 Calidad y Tratamiento de Suelos",
+        "level": 9,
+        "score": 0.19,
         "keywords": [
-          "propiedades",
-          "química"
+          "analisis",
+          "calidad",
+          "quimica"
+        ]
+      },
+      {
+        "id": "quimica-organica-ii-1",
+        "title": "Química Orgánica II",
+        "level": 3,
+        "score": 0.12,
+        "keywords": [
+          "principales",
+          "quimica"
         ]
       }
     ],
     "sintesis-organica-en-la-industria-1": [
       {
-        "id": "produccion-ceramica-1",
-        "title": "Producción Cerámica",
-        "level": 10,
-        "score": 0.15,
+        "id": "quimica-organica-ii-1",
+        "title": "Química Orgánica II",
+        "level": 3,
+        "score": 0.25,
         "keywords": [
-          "introducción",
-          "materias",
-          "métodos",
-          "primas"
+          "organica",
+          "principales",
+          "quimica",
+          "sintesis"
         ]
       },
       {
-        "id": "diseno-y-desarrollo-de-productos-1",
-        "title": "Diseño y Desarrollo de Productos",
-        "level": 10,
-        "score": 0.12,
+        "id": "microbiologia-industrial-1",
+        "title": "Microbiología Industrial",
+        "level": 5,
+        "score": 0.25,
         "keywords": [
-          "introducción",
+          "conocimientos",
+          "industrial",
+          "productos",
+          "quimica"
+        ]
+      },
+      {
+        "id": "procesamiento-industrial-de-frutas-y-verduras-1",
+        "title": "I1 Procesamiento Industrial de Frutas y Verduras",
+        "level": 10,
+        "score": 0.25,
+        "keywords": [
+          "aplicacion",
+          "industrial",
           "procesos",
           "productos"
         ]
       },
       {
-        "id": "transferencia-de-masa-1",
-        "title": "Transferencia de Masa",
-        "level": 5,
-        "score": 0.09,
+        "id": "economia-industrial-1",
+        "title": "Economía Industrial",
+        "level": 7,
+        "score": 0.19,
         "keywords": [
-          "introducción",
-          "principios",
-          "procesos"
-        ]
-      },
-      {
-        "id": "procesamiento-industrial-de-frutas-y-verduras-1",
-        "title": "Procesamiento Industrial de Frutas y Verduras",
-        "level": 10,
-        "score": 0.08,
-        "keywords": [
+          "industria",
           "industrial",
-          "procesos"
+          "principios"
         ]
       }
     ],
     "estadistica-1": [
       {
-        "id": "operaciones-unitarias-ii-evaporacion-destilacion-y-cristalizacion-1",
-        "title": "Operaciones Unitarias II Evaporación, Destilación y Cristalización",
-        "level": 7,
-        "score": 0.08,
-        "keywords": [
-          "generalidades",
-          "introducción"
-        ]
-      },
-      {
-        "id": "transferencia-de-fluidos-1",
-        "title": "Transferencia de Fluídos",
+        "id": "ingenieria-de-las-reacciones-i-cinetica-1",
+        "title": "Ingeniería de las Reacciones I (Cinética)",
         "level": 5,
-        "score": 0.06,
+        "score": 0.12,
         "keywords": [
-          "introducción"
+          "analisis",
+          "datos"
         ]
       },
       {
-        "id": "gestion-energetica-1",
-        "title": "Gestión Energética",
-        "level": 8,
+        "id": "termodinamica-1",
+        "title": "Termodinámica",
+        "level": 3,
         "score": 0.06,
         "keywords": [
-          "introducción"
+          "analisis"
         ]
       },
       {
-        "id": "investigacion-de-operaciones-1",
-        "title": "Investigación de Operaciones",
-        "level": 10,
+        "id": "analisis-numerico-1",
+        "title": "Análisis Numérico",
+        "level": 4,
         "score": 0.06,
         "keywords": [
-          "generalidades",
-          "introducción"
+          "analisis"
+        ]
+      },
+      {
+        "id": "diseno-experimental-1",
+        "title": "Diseño Experimental",
+        "level": 4,
+        "score": 0.06,
+        "keywords": [
+          "analisis"
         ]
       }
     ],
     "termotecnia-1": [
       {
-        "id": "termodinamica-1",
-        "title": "Termodinámica",
-        "level": 3,
-        "score": 0.12,
+        "id": "transferencia-de-calor-1",
+        "title": "Transferencia de Calor",
+        "level": 5,
+        "score": 0.19,
         "keywords": [
-          "aprendizaje",
-          "termodinámica"
-        ]
-      },
-      {
-        "id": "bioquimica-de-alimentos-1",
-        "title": "Bioquímica de Alimentos",
-        "level": 6,
-        "score": 0.09,
-        "keywords": [
-          "agua",
-          "aprendizaje"
-        ]
-      },
-      {
-        "id": "metalurgia-extractiva-1",
-        "title": "Metalurgia Extractiva",
-        "level": 9,
-        "score": 0.09,
-        "keywords": [
-          "aprendizaje",
-          "procesos",
-          "termodinámica"
-        ]
-      },
-      {
-        "id": "tecnologias-para-tratamiento-de-residuos-peligrosos-1",
-        "title": "Tecnologias para Tratamiento de Residuos Peligrosos",
-        "level": 10,
-        "score": 0.06,
-        "keywords": [
-          "aprendizaje",
-          "procesos"
-        ]
-      }
-    ],
-    "transferencia-de-calor-1": [
-      {
-        "id": "termodinamica-1",
-        "title": "Termodinámica",
-        "level": 3,
-        "score": 0.13,
-        "keywords": [
-          "aprendizaje",
-          "horas"
-        ]
-      },
-      {
-        "id": "comunicacion-efectiva-1",
-        "title": "Comunicación Efectiva",
-        "level": 1,
-        "score": 0.12,
-        "keywords": [
-          "aprendizaje",
-          "horas"
+          "basicos",
+          "calor",
+          "principios"
         ]
       },
       {
         "id": "transferencia-de-masa-1",
         "title": "Transferencia de Masa",
         "level": 5,
+        "score": 0.19,
+        "keywords": [
+          "mecanismos",
+          "procesos",
+          "transporte"
+        ]
+      },
+      {
+        "id": "balances-de-materia-y-energia-1",
+        "title": "Balances de Materia y Energía",
+        "level": 3,
         "score": 0.12,
         "keywords": [
-          "calor",
-          "principios",
+          "calcular",
+          "procesos"
+        ]
+      },
+      {
+        "id": "diseno-experimental-1",
+        "title": "Diseño Experimental",
+        "level": 4,
+        "score": 0.12,
+        "keywords": [
+          "basicos",
+          "principios"
+        ]
+      }
+    ],
+    "transferencia-de-calor-1": [
+      {
+        "id": "transferencia-de-fluidos-1",
+        "title": "Transferencia de Fluidos",
+        "level": 5,
+        "score": 0.19,
+        "keywords": [
+          "estudiante",
+          "estudio",
           "transferencia"
         ]
       },
       {
-        "id": "tecnologias-para-tratamiento-de-residuos-peligrosos-1",
-        "title": "Tecnologias para Tratamiento de Residuos Peligrosos",
-        "level": 10,
-        "score": 0.11,
+        "id": "termotecnia-1",
+        "title": "Termotecnia",
+        "level": 6,
+        "score": 0.19,
         "keywords": [
-          "aprendizaje",
-          "básicos",
-          "horas"
+          "basicos",
+          "calor",
+          "principios"
+        ]
+      },
+      {
+        "id": "diseno-experimental-1",
+        "title": "Diseño Experimental",
+        "level": 4,
+        "score": 0.12,
+        "keywords": [
+          "basicos",
+          "principios"
+        ]
+      },
+      {
+        "id": "economia-industrial-1",
+        "title": "Economía Industrial",
+        "level": 7,
+        "score": 0.12,
+        "keywords": [
+          "basicos",
+          "principios"
         ]
       }
     ],
@@ -7834,131 +7853,159 @@ const syllabiContentData = {
         "id": "quimica-organica-ii-1",
         "title": "Química Orgánica II",
         "level": 3,
-        "score": 0.07,
+        "score": 0.38,
         "keywords": [
-          "orgánica",
-          "química"
+          "compuestos",
+          "estructura",
+          "nomenclatura",
+          "organica"
         ]
       },
       {
-        "id": "quimica-general-2",
-        "title": "Química General",
-        "level": 1,
-        "score": 0.05,
+        "id": "quimica-inorganica-1",
+        "title": "Química Inorgánica",
+        "level": 2,
+        "score": 0.19,
         "keywords": [
-          "química"
+          "compuestos",
+          "propiedades",
+          "quimica"
         ]
       },
       {
-        "id": "fisico-quimica-1",
-        "title": "Físico Química",
+        "id": "sintesis-organica-en-la-industria-1",
+        "title": "Síntesis Orgánica en la Industria",
         "level": 4,
-        "score": 0.04,
+        "score": 0.12,
         "keywords": [
-          "química"
+          "organica",
+          "quimica"
         ]
       },
       {
-        "id": "quimica-analitica-de-suelos-1",
-        "title": "Química Analítica de Suelos",
-        "level": 8,
-        "score": 0.04,
+        "id": "bioquimica-de-alimentos-1",
+        "title": "Bioquímica de Alimentos",
+        "level": 6,
+        "score": 0.12,
         "keywords": [
-          "química"
+          "propiedades",
+          "quimica"
         ]
       }
     ],
     "emprendimiento-e-innovacion-1": [
       {
-        "id": "termodinamica-1",
-        "title": "Termodinámica",
-        "level": 3,
-        "score": 0.06,
+        "id": "diseno-y-desarrollo-de-productos-1",
+        "title": "Diseño y Desarrollo de Productos",
+        "level": 10,
+        "score": 0.12,
         "keywords": [
-          "aprendizaje"
-        ]
-      },
-      {
-        "id": "termotecnia-1",
-        "title": "Termotecnia",
-        "level": 6,
-        "score": 0.05,
-        "keywords": [
-          "aprendizaje"
-        ]
-      },
-      {
-        "id": "transferencia-de-calor-1",
-        "title": "Transferencia de Calor",
-        "level": 5,
-        "score": 0.05,
-        "keywords": [
-          "aprendizaje"
+          "desarrollo",
+          "estudiantes"
         ]
       },
       {
         "id": "comunicacion-efectiva-1",
         "title": "Comunicación Efectiva",
         "level": 1,
-        "score": 0.05,
+        "score": 0.06,
         "keywords": [
-          "aprendizaje"
+          "necesarias"
+        ]
+      },
+      {
+        "id": "herramientas-de-metodologia-de-investigacion-1",
+        "title": "Herramientas de Metodología de Investigación",
+        "level": 1,
+        "score": 0.06,
+        "keywords": [
+          "herramientas"
+        ]
+      },
+      {
+        "id": "calculo-integral-1",
+        "title": "Cálculo Integral",
+        "level": 2,
+        "score": 0.06,
+        "keywords": [
+          "estudiantes"
         ]
       }
     ],
     "bioquimica-de-alimentos-1": [
       {
-        "id": "tecnologias-para-tratamiento-de-residuos-peligrosos-1",
-        "title": "Tecnologias para Tratamiento de Residuos Peligrosos",
-        "level": 10,
-        "score": 0.13,
-        "keywords": [
-          "aprendizaje",
-          "exposición",
-          "horas",
-          "sobre"
-        ]
-      },
-      {
         "id": "procesamiento-termico-de-alimentos-2",
-        "title": "Procesamiento Térmico de Alimentos",
+        "title": "I1 Procesamiento Térmico de Alimentos",
         "level": 9,
-        "score": 0.13,
+        "score": 0.19,
         "keywords": [
           "alimentos",
-          "generalidades"
+          "generalidades",
+          "quimica"
         ]
       },
       {
-        "id": "termodinamica-1",
-        "title": "Termodinámica",
+        "id": "quimica-inorganica-1",
+        "title": "Química Inorgánica",
+        "level": 2,
+        "score": 0.12,
+        "keywords": [
+          "propiedades",
+          "quimica"
+        ]
+      },
+      {
+        "id": "quimica-organica-i-1",
+        "title": "Química Orgánica I",
+        "level": 2,
+        "score": 0.12,
+        "keywords": [
+          "propiedades",
+          "quimica"
+        ]
+      },
+      {
+        "id": "quimica-organica-ii-1",
+        "title": "Química Orgánica II",
         "level": 3,
-        "score": 0.11,
+        "score": 0.12,
         "keywords": [
-          "aprendizaje",
-          "horas"
-        ]
-      },
-      {
-        "id": "transferencia-de-calor-1",
-        "title": "Transferencia de Calor",
-        "level": 5,
-        "score": 0.1,
-        "keywords": [
-          "aprendizaje",
-          "horas"
+          "propiedades",
+          "quimica"
         ]
       }
     ],
     "operaciones-unitarias-iii-intercambio-ionico-1": [
       {
-        "id": "operaciones-unitarias-ii-extraccion-y-absorcion-1",
-        "title": "Operaciones Unitarias II Extracción y Absorción",
-        "level": 7,
-        "score": 0.13,
+        "id": "operaciones-unitarias-i-manipulacion-de-solidos-1",
+        "title": "Operaciones Unitarias I Manipulación de Sólidos",
+        "level": 6,
+        "score": 0.25,
         "keywords": [
-          "gases",
-          "introducción",
+          "diseno",
+          "operaciones",
+          "procesos",
+          "unitarias"
+        ]
+      },
+      {
+        "id": "transferencia-de-masa-1",
+        "title": "Transferencia de Masa",
+        "level": 5,
+        "score": 0.19,
+        "keywords": [
+          "operaciones",
+          "procesos",
+          "unitarias"
+        ]
+      },
+      {
+        "id": "operaciones-unitarias-i-filtracion-y-fluidizacion-1",
+        "title": "Operaciones Unitarias I Filtración y Fluidización",
+        "level": 6,
+        "score": 0.19,
+        "keywords": [
+          "lecho",
           "operaciones",
           "unitarias"
         ]
@@ -7967,31 +8014,9 @@ const syllabiContentData = {
         "id": "operaciones-unitarias-ii-evaporacion-destilacion-y-cristalizacion-1",
         "title": "Operaciones Unitarias II Evaporación, Destilación y Cristalización",
         "level": 7,
-        "score": 0.12,
+        "score": 0.19,
         "keywords": [
-          "introducción",
-          "operaciones",
-          "unitarias"
-        ]
-      },
-      {
-        "id": "trabajo-de-integracion-curricular-i-1",
-        "title": "Trabajo de Integración Curricular I",
-        "level": 9,
-        "score": 0.11,
-        "keywords": [
-          "diseño",
-          "integración",
-          "introducción"
-        ]
-      },
-      {
-        "id": "transferencia-de-masa-1",
-        "title": "Transferencia de Masa",
-        "level": 5,
-        "score": 0.09,
-        "keywords": [
-          "introducción",
+          "operacion",
           "operaciones",
           "unitarias"
         ]
@@ -7999,68 +8024,87 @@ const syllabiContentData = {
     ],
     "tecnologias-para-tratamiento-de-residuos-peligrosos-1": [
       {
-        "id": "bioquimica-de-alimentos-1",
-        "title": "Bioquímica de Alimentos",
-        "level": 6,
-        "score": 0.13,
-        "keywords": [
-          "aprendizaje",
-          "exposición",
-          "horas",
-          "sobre"
-        ]
-      },
-      {
-        "id": "transferencia-de-calor-1",
-        "title": "Transferencia de Calor",
-        "level": 5,
-        "score": 0.11,
-        "keywords": [
-          "aprendizaje",
-          "básicos",
-          "horas"
-        ]
-      },
-      {
-        "id": "polimeros-2",
-        "title": "Polimeros",
+        "id": "calidad-y-tratamiento-de-suelos-1",
+        "title": "I3 Calidad y Tratamiento de Suelos",
         "level": 9,
-        "score": 0.09,
+        "score": 0.19,
         "keywords": [
-          "conceptos",
-          "procesos",
-          "residuos"
+          "practica",
+          "teorica",
+          "tratamiento"
         ]
       },
       {
-        "id": "ingenieria-de-proyectos-1",
-        "title": "Ingeniería de Proyectos",
+        "id": "procesamiento-industrial-de-frutas-y-verduras-1",
+        "title": "I1 Procesamiento Industrial de Frutas y Verduras",
         "level": 10,
-        "score": 0.08,
+        "score": 0.19,
         "keywords": [
-          "aprendizaje",
-          "gestión",
-          "horas"
+          "practica",
+          "teorica",
+          "tratamiento"
+        ]
+      },
+      {
+        "id": "quimica-general-2",
+        "title": "Química General",
+        "level": 1,
+        "score": 0.12,
+        "keywords": [
+          "estudiante",
+          "general"
+        ]
+      },
+      {
+        "id": "lenguajes-de-programacion-1",
+        "title": "Lenguajes de Programación",
+        "level": 2,
+        "score": 0.12,
+        "keywords": [
+          "practica",
+          "teorica"
         ]
       }
     ],
     "fisica-i-1": [
       {
-        "id": "fisica-ii-1",
-        "title": "Física II",
-        "level": 2,
-        "score": 0.07,
+        "id": "ecuaciones-diferenciales-1",
+        "title": "Ecuaciones Diferenciales",
+        "level": 3,
+        "score": 0.12,
         "keywords": [
-          "física"
+          "problemas",
+          "soluciones"
         ]
       },
       {
-        "id": "fisica-ii-1-2",
-        "title": "Física II",
-        "level": 2,
-        "score": 0.07,
+        "id": "fisico-quimica-1",
+        "title": "Físico Química",
+        "level": 4,
+        "score": 0.12,
         "keywords": [
-          "física"
+          "estudio",
+          "fenomenos"
+        ]
+      },
+      {
+        "id": "transferencia-de-fluidos-1",
+        "title": "Transferencia de Fluidos",
+        "level": 5,
+        "score": 0.12,
+        "keywords": [
+          "estudio",
+          "permite"
+        ]
+      },
+      {
+        "id": "operaciones-unitarias-i-filtracion-y-fluidizacion-1",
+        "title": "Operaciones Unitarias I Filtración y Fluidización",
+        "level": 6,
+        "score": 0.12,
+        "keywords": [
+          "aborda",
+          "estudio"
         ]
       }
     ],
@@ -8069,94 +8113,102 @@ const syllabiContentData = {
         "id": "trabajo-de-integracion-curricular-i-1",
         "title": "Trabajo de Integración Curricular I",
         "level": 9,
-        "score": 0.15,
+        "score": 0.19,
         "keywords": [
           "curricular",
-          "integración",
+          "integracion",
           "trabajo"
         ]
       },
       {
-        "id": "practicas-de-servicio-comunitario-1",
-        "title": "Prácticas de Servicio Comunitario",
-        "level": 8,
-        "score": 0.07,
-        "keywords": [
-          "desarrollo",
-          "resultados"
-        ]
-      },
-      {
-        "id": "herramientas-de-metodologia-de-investigacion-1",
-        "title": "Herramientas de Metodología de Investigación",
-        "level": 1,
-        "score": 0.07,
-        "keywords": [
-          "metodología"
-        ]
-      },
-      {
-        "id": "gestion-de-calidad-1",
-        "title": "Gestión de Calidad",
-        "level": 8,
+        "id": "calculo-integral-1",
+        "title": "Cálculo Integral",
+        "level": 2,
         "score": 0.06,
         "keywords": [
-          "metodología"
+          "integracion"
+        ]
+      },
+      {
+        "id": "dibujo-asistido-por-computador-1",
+        "title": "Dibujo Asistido por Computador",
+        "level": 2,
+        "score": 0.06,
+        "keywords": [
+          "desarrollo"
+        ]
+      },
+      {
+        "id": "escritura-cientifica-y-metodologia-de-investigacion-1",
+        "title": "Escritura Científica y Metodología de Investigación",
+        "level": 3,
+        "score": 0.06,
+        "keywords": [
+          "desarrollo"
         ]
       }
     ],
     "gestion-y-tecnologia-del-medio-ambiente-1": [
       {
-        "id": "tecnologias-para-tratamiento-de-residuos-peligrosos-1",
-        "title": "Tecnologias para Tratamiento de Residuos Peligrosos",
-        "level": 10,
-        "score": 0.08,
-        "keywords": [
-          "gestión",
-          "residuos",
-          "tratamiento"
-        ]
-      },
-      {
-        "id": "calidad-y-tratamiento-de-suelos-1",
-        "title": "Calidad y Tratamiento de Suelos",
+        "id": "tecnologias-limpias-en-ingenieria-quimica-2",
+        "title": "I3 Tecnologías Limpias en Ingeniería Química",
         "level": 9,
-        "score": 0.08,
+        "score": 0.12,
         "keywords": [
-          "contaminación",
+          "ambiental",
+          "tecnologia"
+        ]
+      },
+      {
+        "id": "procesamiento-industrial-de-frutas-y-verduras-1",
+        "title": "I1 Procesamiento Industrial de Frutas y Verduras",
+        "level": 10,
+        "score": 0.12,
+        "keywords": [
+          "tecnologia",
           "tratamiento"
         ]
       },
       {
-        "id": "microbiologia-industrial-1",
-        "title": "Microbiología Industrial",
-        "level": 5,
-        "score": 0.07,
+        "id": "control-de-calidad-de-recursos-hidricos-1",
+        "title": "I3 Control de Calidad de Recursos Hídricos",
+        "level": 10,
+        "score": 0.12,
         "keywords": [
-          "contaminación",
-          "industrial",
-          "origen"
+          "control",
+          "gestion"
         ]
       },
       {
         "id": "sintesis-organica-en-la-industria-1",
         "title": "Síntesis Orgánica en la Industria",
         "level": 4,
-        "score": 0.05,
+        "score": 0.06,
         "keywords": [
-          "industrial",
           "industriales"
         ]
       }
     ],
     "ecuaciones-diferenciales-1": [
       {
+        "id": "quimica-general-2",
+        "title": "Química General",
+        "level": 1,
+        "score": 0.19,
+        "keywords": [
+          "conocimientos",
+          "ingenieria",
+          "primer"
+        ]
+      },
+      {
         "id": "algebra-lineal-2",
         "title": "Álgebra Lineal",
         "level": 1,
-        "score": 0.12,
+        "score": 0.19,
         "keywords": [
           "ecuaciones",
+          "ingenieria",
           "lineales"
         ]
       },
@@ -8164,9 +8216,10 @@ const syllabiContentData = {
         "id": "algebra-lineal-1",
         "title": "Álgebra Lineal",
         "level": 1,
-        "score": 0.12,
+        "score": 0.19,
         "keywords": [
           "ecuaciones",
+          "ingenieria",
           "lineales"
         ]
       },
@@ -8174,105 +8227,95 @@ const syllabiContentData = {
         "id": "algebra-lineal-2-2",
         "title": "Álgebra Lineal",
         "level": 1,
-        "score": 0.12,
+        "score": 0.19,
         "keywords": [
           "ecuaciones",
+          "ingenieria",
           "lineales"
-        ]
-      },
-      {
-        "id": "ingenieria-de-las-reacciones-i-cinetica-1",
-        "title": "Ingeniería de las Reacciones I (cinética)",
-        "level": 5,
-        "score": 0.04,
-        "keywords": [
-          "diferenciales"
         ]
       }
     ],
     "transferencia-de-fluidos-1": [
       {
-        "id": "gestion-energetica-1",
-        "title": "Gestión Energética",
-        "level": 8,
-        "score": 0.2,
+        "id": "transferencia-de-calor-1",
+        "title": "Transferencia de Calor",
+        "level": 5,
+        "score": 0.19,
         "keywords": [
-          "introducción"
+          "estudiante",
+          "estudio",
+          "transferencia"
         ]
       },
       {
-        "id": "herramientas-de-metodologia-de-investigacion-1",
-        "title": "Herramientas de Metodología de Investigación",
+        "id": "fisica-i-1",
+        "title": "Física I",
         "level": 1,
-        "score": 0.17,
+        "score": 0.12,
         "keywords": [
-          "introducción"
+          "estudio",
+          "permite"
         ]
       },
       {
-        "id": "quimica-general-2",
-        "title": "Química General",
-        "level": 1,
-        "score": 0.14,
+        "id": "quimica-inorganica-1",
+        "title": "Química Inorgánica",
+        "level": 2,
+        "score": 0.12,
         "keywords": [
-          "introducción"
+          "estudiante",
+          "propiedades"
         ]
       },
       {
-        "id": "balances-de-materia-y-energia-1",
-        "title": "Balances de Materia y Energía",
+        "id": "quimica-organica-ii-1",
+        "title": "Química Orgánica II",
         "level": 3,
         "score": 0.12,
         "keywords": [
-          "introducción"
+          "estudio",
+          "propiedades"
         ]
       }
     ],
     "diseno-y-calculo-de-plantas-industriales-1": [
       {
-        "id": "ingenieria-de-proyectos-1",
-        "title": "Ingeniería de Proyectos",
-        "level": 10,
-        "score": 0.08,
+        "id": "operaciones-unitarias-i-manipulacion-de-solidos-1",
+        "title": "Operaciones Unitarias I Manipulación de Sólidos",
+        "level": 6,
+        "score": 0.19,
         "keywords": [
-          "aprendizaje",
-          "económico",
-          "horas",
-          "técnico"
+          "diseno",
+          "equipos",
+          "industriales"
         ]
       },
       {
-        "id": "termodinamica-1",
-        "title": "Termodinámica",
-        "level": 3,
-        "score": 0.07,
+        "id": "transferencia-de-calor-1",
+        "title": "Transferencia de Calor",
+        "level": 5,
+        "score": 0.12,
         "keywords": [
-          "análisis",
-          "aprendizaje",
-          "horas"
+          "equipos",
+          "transferencia"
         ]
       },
       {
-        "id": "diseno-experimental-1",
-        "title": "Diseño Experimental",
-        "level": 4,
-        "score": 0.07,
-        "keywords": [
-          "análisis",
-          "conceptos",
-          "diseño",
-          "fundamentales"
-        ]
-      },
-      {
-        "id": "sintesis-organica-en-la-industria-1",
-        "title": "Síntesis Orgánica en la Industria",
-        "level": 4,
+        "id": "calculo-diferencial-1",
+        "title": "Cálculo Diferencial",
+        "level": 1,
         "score": 0.06,
         "keywords": [
-          "industria",
-          "industriales",
-          "plantas"
+          "calculo"
+        ]
+      },
+      {
+        "id": "calculo-diferencial-2",
+        "title": "Cálculo Diferencial",
+        "level": 1,
+        "score": 0.06,
+        "keywords": [
+          "calculo"
         ]
       }
     ],
@@ -8281,41 +8324,42 @@ const syllabiContentData = {
         "id": "practicas-laborales-ii-2",
         "title": "Prácticas Laborales II",
         "level": 10,
-        "score": 1,
+        "score": 1.0,
         "keywords": [
           "actividades",
-          "ejecución",
-          "fase",
-          "finalización"
+          "aplicacion",
+          "carreras",
+          "competencias"
         ]
       },
       {
-        "id": "practicas-de-servicio-comunitario-1",
-        "title": "Prácticas de Servicio Comunitario",
-        "level": 8,
+        "id": "comunicacion-efectiva-1",
+        "title": "Comunicación Efectiva",
+        "level": 1,
         "score": 0.12,
         "keywords": [
-          "actividades",
-          "planificación",
-          "prácticas"
+          "competencias",
+          "entornos"
         ]
       },
       {
-        "id": "ingenieria-de-las-reacciones-iii-catalisis-1",
-        "title": "Ingeniería de las Reacciones III (catálisis)",
-        "level": 7,
-        "score": 0.05,
+        "id": "lenguajes-de-programacion-1",
+        "title": "Lenguajes de Programación",
+        "level": 2,
+        "score": 0.12,
         "keywords": [
-          "ejecución"
+          "aplicacion",
+          "practica"
         ]
       },
       {
-        "id": "ingenieria-de-proyectos-1",
-        "title": "Ingeniería de Proyectos",
-        "level": 10,
-        "score": 0.04,
+        "id": "ciencia-e-ingenieria-de-los-materiales-1",
+        "title": "Ciencia e Ingeniería de los Materiales",
+        "level": 4,
+        "score": 0.12,
         "keywords": [
-          "planificación"
+          "conocimientos",
+          "practica"
         ]
       }
     ],
@@ -8324,82 +8368,95 @@ const syllabiContentData = {
         "id": "quimica-organica-i-1",
         "title": "Química Orgánica I",
         "level": 2,
-        "score": 0.07,
+        "score": 0.38,
         "keywords": [
-          "orgánica",
-          "química"
+          "compuestos",
+          "estructura",
+          "nomenclatura",
+          "organica"
         ]
       },
       {
-        "id": "quimica-general-2",
-        "title": "Química General",
-        "level": 1,
-        "score": 0.05,
-        "keywords": [
-          "química"
-        ]
-      },
-      {
-        "id": "fisico-quimica-1",
-        "title": "Físico Química",
+        "id": "sintesis-organica-en-la-industria-1",
+        "title": "Síntesis Orgánica en la Industria",
         "level": 4,
-        "score": 0.04,
+        "score": 0.25,
         "keywords": [
-          "química"
+          "organica",
+          "principales",
+          "quimica",
+          "sintesis"
         ]
       },
       {
-        "id": "quimica-analitica-de-suelos-1",
-        "title": "Química Analítica de Suelos",
-        "level": 8,
-        "score": 0.04,
+        "id": "quimica-inorganica-1",
+        "title": "Química Inorgánica",
+        "level": 2,
+        "score": 0.19,
         "keywords": [
-          "química"
+          "compuestos",
+          "propiedades",
+          "quimica"
+        ]
+      },
+      {
+        "id": "ingenieria-de-las-reacciones-i-cinetica-1",
+        "title": "Ingeniería de las Reacciones I (Cinética)",
+        "level": 5,
+        "score": 0.19,
+        "keywords": [
+          "estudio",
+          "quimica",
+          "reacciones"
         ]
       }
     ],
     "ingenieria-de-las-reacciones-i-cinetica-1": [
       {
         "id": "ingenieria-de-las-reacciones-iii-catalisis-1",
-        "title": "Ingeniería de las Reacciones III (catálisis)",
+        "title": "Ingeniería de las Reacciones III (Catálisis)",
         "level": 7,
-        "score": 0.23,
+        "score": 0.31,
         "keywords": [
-          "catálisis",
-          "enzimática",
-          "heterogénea",
-          "homogénea"
+          "catalisis",
+          "conocimientos",
+          "estudio",
+          "ingenieria"
         ]
       },
       {
-        "id": "ingenieria-de-las-reacciones-ii-reactores-1",
-        "title": "Ingeniería de las Reacciones II (reactores)",
-        "level": 6,
-        "score": 0.09,
+        "id": "quimica-analitica-1",
+        "title": "Química Analítica",
+        "level": 4,
+        "score": 0.25,
         "keywords": [
-          "ingeniería",
-          "reacciones"
+          "analisis",
+          "ingenieria",
+          "metodos",
+          "quimica"
         ]
       },
       {
-        "id": "analisis-instrumental-1",
-        "title": "Análisis Instrumental",
-        "level": 5,
-        "score": 0.08,
-        "keywords": [
-          "análisis",
-          "datos",
-          "líquida"
-        ]
-      },
-      {
-        "id": "tecnologias-limpias-en-ingenieria-quimica-2",
-        "title": "Tecnologias Limpias en Ingeniería Química",
+        "id": "procesamiento-termico-de-alimentos-2",
+        "title": "I1 Procesamiento Térmico de Alimentos",
         "level": 9,
-        "score": 0.06,
+        "score": 0.25,
         "keywords": [
-          "ingeniería",
-          "química"
+          "conocimientos",
+          "ingenieria",
+          "metodos",
+          "quimica"
+        ]
+      },
+      {
+        "id": "quimica-general-2",
+        "title": "Química General",
+        "level": 1,
+        "score": 0.19,
+        "keywords": [
+          "conocimientos",
+          "ingenieria",
+          "quimica"
         ]
       }
     ],
@@ -8408,160 +8465,270 @@ const syllabiContentData = {
         "id": "calculo-diferencial-1",
         "title": "Cálculo Diferencial",
         "level": 1,
-        "score": 0.29,
+        "score": 0.25,
         "keywords": [
-          "aplicaciones",
-          "cálculo",
+          "calculo",
           "derivadas",
-          "parciales"
+          "diferencial",
+          "funciones"
         ]
       },
       {
         "id": "calculo-diferencial-2",
         "title": "Cálculo Diferencial",
         "level": 1,
-        "score": 0.29,
+        "score": 0.25,
         "keywords": [
-          "aplicaciones",
-          "cálculo",
+          "calculo",
           "derivadas",
-          "parciales"
+          "diferencial",
+          "funciones"
         ]
       },
       {
         "id": "calculo-diferencial-1-2",
         "title": "Cálculo Diferencial",
         "level": 1,
-        "score": 0.29,
+        "score": 0.25,
         "keywords": [
-          "aplicaciones",
-          "cálculo",
+          "calculo",
           "derivadas",
-          "parciales"
+          "diferencial",
+          "funciones"
         ]
       },
       {
-        "id": "operaciones-unitarias-iii-intercambio-ionico-1",
-        "title": "Operaciones Unitarias III Intercambio Ionico",
-        "level": 8,
-        "score": 0.04,
+        "id": "ingenieria-de-las-reacciones-ii-reactores-1",
+        "title": "Ingeniería de las Reacciones II (Reactores)",
+        "level": 6,
+        "score": 0.07,
         "keywords": [
-          "cálculo"
+          "desarrolla"
         ]
       }
     ],
     "termodinamica-1": [
       {
-        "id": "analisis-instrumental-1",
-        "title": "Análisis Instrumental",
-        "level": 5,
-        "score": 0.17,
+        "id": "quimica-analitica-1",
+        "title": "Química Analítica",
+        "level": 4,
+        "score": 0.25,
         "keywords": [
-          "análisis",
-          "aprendizaje",
-          "horas",
-          "revisión"
+          "analisis",
+          "ciencia",
+          "formacion",
+          "puede"
         ]
       },
       {
-        "id": "comunicacion-efectiva-1",
-        "title": "Comunicación Efectiva",
-        "level": 1,
-        "score": 0.14,
+        "id": "calidad-y-tratamiento-de-suelos-1",
+        "title": "I3 Calidad y Tratamiento de Suelos",
+        "level": 9,
+        "score": 0.19,
         "keywords": [
-          "aprendizaje",
-          "horas"
+          "analisis",
+          "formacion",
+          "quimico"
         ]
       },
       {
-        "id": "transferencia-de-calor-1",
-        "title": "Transferencia de Calor",
-        "level": 5,
-        "score": 0.13,
-        "keywords": [
-          "aprendizaje",
-          "horas"
-        ]
-      },
-      {
-        "id": "termotecnia-1",
-        "title": "Termotecnia",
-        "level": 6,
+        "id": "balances-de-materia-y-energia-1",
+        "title": "Balances de Materia y Energía",
+        "level": 3,
         "score": 0.12,
         "keywords": [
-          "aprendizaje",
-          "termodinámica"
+          "definir",
+          "energia"
+        ]
+      },
+      {
+        "id": "diseno-experimental-1",
+        "title": "Diseño Experimental",
+        "level": 4,
+        "score": 0.12,
+        "keywords": [
+          "analisis",
+          "principios"
         ]
       }
     ],
     "herramientas-de-metodologia-de-investigacion-1": [
       {
-        "id": "gestion-de-calidad-1",
-        "title": "Gestión de Calidad",
-        "level": 8,
-        "score": 0.22,
-        "keywords": [
-          "introducción",
-          "metodología"
-        ]
-      },
-      {
         "id": "escritura-cientifica-y-metodologia-de-investigacion-1",
         "title": "Escritura Científica y Metodología de Investigación",
         "level": 3,
-        "score": 0.18,
+        "score": 0.12,
         "keywords": [
-          "investigación",
-          "metodología"
+          "investigacion",
+          "metodologia"
         ]
       },
       {
-        "id": "transferencia-de-fluidos-1",
-        "title": "Transferencia de Fluídos",
-        "level": 5,
-        "score": 0.17,
+        "id": "investigacion-de-operaciones-1",
+        "title": "Investigación de Operaciones",
+        "level": 10,
+        "score": 0.12,
         "keywords": [
-          "introducción"
+          "cientifico",
+          "investigacion"
         ]
       },
       {
-        "id": "gestion-energetica-1",
-        "title": "Gestión Energética",
-        "level": 8,
-        "score": 0.17,
+        "id": "diseno-experimental-1",
+        "title": "Diseño Experimental",
+        "level": 4,
+        "score": 0.06,
         "keywords": [
-          "introducción"
+          "cientifico"
+        ]
+      },
+      {
+        "id": "emprendimiento-e-innovacion-1",
+        "title": "Emprendimiento e Innovación",
+        "level": 6,
+        "score": 0.06,
+        "keywords": [
+          "herramientas"
         ]
       }
     ],
     "operaciones-unitarias-iii-humidificacion-y-secado-1": [
       {
-        "id": "operaciones-unitarias-ii-evaporacion-destilacion-y-cristalizacion-1",
-        "title": "Operaciones Unitarias II Evaporación, Destilación y Cristalización",
+        "id": "transferencia-de-masa-1",
+        "title": "Transferencia de Masa",
+        "level": 5,
+        "score": 0.25,
+        "keywords": [
+          "mecanismos",
+          "operaciones",
+          "transferencia",
+          "unitarias"
+        ]
+      },
+      {
+        "id": "termodinamica-1",
+        "title": "Termodinámica",
+        "level": 3,
+        "score": 0.12,
+        "keywords": [
+          "formacion",
+          "principios"
+        ]
+      },
+      {
+        "id": "quimica-analitica-1",
+        "title": "Química Analítica",
+        "level": 4,
+        "score": 0.12,
+        "keywords": [
+          "formacion",
+          "profesional"
+        ]
+      },
+      {
+        "id": "sintesis-organica-en-la-industria-1",
+        "title": "Síntesis Orgánica en la Industria",
+        "level": 4,
+        "score": 0.12,
+        "keywords": [
+          "principios",
+          "productos"
+        ]
+      }
+    ],
+    "tecnologias-limpias-en-ingenieria-quimica-2": [
+      {
+        "id": "sintesis-organica-en-la-industria-1",
+        "title": "Síntesis Orgánica en la Industria",
+        "level": 4,
+        "score": 0.19,
+        "keywords": [
+          "industria",
+          "proceso",
+          "quimica"
+        ]
+      },
+      {
+        "id": "quimica-general-2",
+        "title": "Química General",
+        "level": 1,
+        "score": 0.12,
+        "keywords": [
+          "ingenieria",
+          "quimica"
+        ]
+      },
+      {
+        "id": "quimica-analitica-1",
+        "title": "Química Analítica",
+        "level": 4,
+        "score": 0.12,
+        "keywords": [
+          "ingenieria",
+          "quimica"
+        ]
+      },
+      {
+        "id": "ingenieria-de-las-reacciones-i-cinetica-1",
+        "title": "Ingeniería de las Reacciones I (Cinética)",
+        "level": 5,
+        "score": 0.12,
+        "keywords": [
+          "ingenieria",
+          "quimica"
+        ]
+      }
+    ],
+    "control-de-calidad-de-recursos-hidricos-1": [
+      {
+        "id": "gestion-y-tecnologia-del-medio-ambiente-1",
+        "title": "Gestión y Tecnología del Medio Ambiente",
         "level": 7,
         "score": 0.12,
         "keywords": [
-          "operaciones",
-          "unitarias"
+          "control",
+          "gestion"
         ]
       },
       {
-        "id": "operaciones-unitarias-ii-extraccion-y-absorcion-1",
-        "title": "Operaciones Unitarias II Extracción y Absorción",
-        "level": 7,
-        "score": 0.09,
+        "id": "gestion-de-calidad-1",
+        "title": "Gestión de Calidad",
+        "level": 8,
+        "score": 0.12,
         "keywords": [
-          "operaciones",
-          "unitarias"
+          "calidad",
+          "gestion"
         ]
       },
       {
-        "id": "operaciones-unitarias-i-manipulacion-de-solidos-1",
-        "title": "Operaciones Unitarias I Manipulación de Sólidos",
-        "level": 6,
-        "score": 0.09,
+        "id": "calculo-integral-1",
+        "title": "Cálculo Integral",
+        "level": 2,
+        "score": 0.06,
         "keywords": [
+          "variables"
+        ]
+      },
+      {
+        "id": "quimica-organica-i-1",
+        "title": "Química Orgánica I",
+        "level": 2,
+        "score": 0.06,
+        "keywords": [
+          "fuentes"
+        ]
+      }
+    ],
+    "operaciones-unitarias-i-manipulacion-de-solidos-1": [
+      {
+        "id": "operaciones-unitarias-iii-intercambio-ionico-1",
+        "title": "Operaciones Unitarias III Intercambio Iónico",
+        "level": 8,
+        "score": 0.25,
+        "keywords": [
+          "diseno",
           "operaciones",
+          "procesos",
           "unitarias"
         ]
       },
@@ -8569,99 +8736,20 @@ const syllabiContentData = {
         "id": "transferencia-de-masa-1",
         "title": "Transferencia de Masa",
         "level": 5,
-        "score": 0.09,
+        "score": 0.19,
         "keywords": [
           "operaciones",
+          "procesos",
           "unitarias"
         ]
-      }
-    ],
-    "tecnologias-limpias-en-ingenieria-quimica-2": [
+      },
       {
-        "id": "ingenieria-de-las-reacciones-ii-reactores-1",
-        "title": "Ingeniería de las Reacciones II (reactores)",
+        "id": "operaciones-unitarias-i-filtracion-y-fluidizacion-1",
+        "title": "Operaciones Unitarias I Filtración y Fluidización",
         "level": 6,
-        "score": 0.07,
+        "score": 0.19,
         "keywords": [
-          "ingeniería"
-        ]
-      },
-      {
-        "id": "balances-de-materia-y-energia-1",
-        "title": "Balances de Materia y Energía",
-        "level": 3,
-        "score": 0.06,
-        "keywords": [
-          "ingeniería"
-        ]
-      },
-      {
-        "id": "tecnologias-para-tratamiento-de-residuos-peligrosos-1",
-        "title": "Tecnologias para Tratamiento de Residuos Peligrosos",
-        "level": 10,
-        "score": 0.06,
-        "keywords": [
-          "tecnologias",
-          "tecnologías"
-        ]
-      },
-      {
-        "id": "ingenieria-de-las-reacciones-i-cinetica-1",
-        "title": "Ingeniería de las Reacciones I (cinética)",
-        "level": 5,
-        "score": 0.06,
-        "keywords": [
-          "ingeniería",
-          "química"
-        ]
-      }
-    ],
-    "control-de-calidad-de-recursos-hidricos-1": [
-      {
-        "id": "calidad-y-tratamiento-de-suelos-1",
-        "title": "Calidad y Tratamiento de Suelos",
-        "level": 9,
-        "score": 0.09,
-        "keywords": [
-          "calidad"
-        ]
-      },
-      {
-        "id": "gestion-de-calidad-1",
-        "title": "Gestión de Calidad",
-        "level": 8,
-        "score": 0.08,
-        "keywords": [
-          "calidad"
-        ]
-      },
-      {
-        "id": "organizacion-y-direccion-de-empresas-1",
-        "title": "Organización y Dirección de Empresas",
-        "level": 8,
-        "score": 0.08,
-        "keywords": [
-          "control",
-          "recursos"
-        ]
-      },
-      {
-        "id": "escritura-cientifica-y-metodologia-de-investigacion-1",
-        "title": "Escritura Científica y Metodología de Investigación",
-        "level": 3,
-        "score": 0.07,
-        "keywords": [
-          "recursos"
-        ]
-      }
-    ],
-    "operaciones-unitarias-i-manipulacion-de-solidos-1": [
-      {
-        "id": "operaciones-unitarias-iii-humidificacion-y-secado-1",
-        "title": "Operaciones Unitarias III Humidificación y Secado",
-        "level": 8,
-        "score": 0.09,
-        "keywords": [
+          "manejo",
           "operaciones",
           "unitarias"
         ]
@@ -8670,28 +8758,9 @@ const syllabiContentData = {
         "id": "operaciones-unitarias-ii-evaporacion-destilacion-y-cristalizacion-1",
         "title": "Operaciones Unitarias II Evaporación, Destilación y Cristalización",
         "level": 7,
-        "score": 0.08,
+        "score": 0.19,
         "keywords": [
-          "operaciones",
-          "unitarias"
-        ]
-      },
-      {
-        "id": "operaciones-unitarias-ii-extraccion-y-absorcion-1",
-        "title": "Operaciones Unitarias II Extracción y Absorción",
-        "level": 7,
-        "score": 0.07,
-        "keywords": [
-          "operaciones",
-          "unitarias"
-        ]
-      },
-      {
-        "id": "operaciones-unitarias-iii-intercambio-ionico-1",
-        "title": "Operaciones Unitarias III Intercambio Ionico",
-        "level": 8,
-        "score": 0.06,
-        "keywords": [
+          "equipos",
           "operaciones",
           "unitarias"
         ]
@@ -8702,657 +8771,423 @@ const syllabiContentData = {
         "id": "quimica-analitica-de-suelos-1",
         "title": "Química Analítica de Suelos",
         "level": 8,
-        "score": 0.06,
+        "score": 0.12,
         "keywords": [
           "minerales",
           "propiedades"
         ]
       },
       {
-        "id": "operaciones-unitarias-iii-intercambio-ionico-1",
-        "title": "Operaciones Unitarias III Intercambio Ionico",
-        "level": 8,
-        "score": 0.05,
-        "keywords": [
-          "introducción",
-          "sistemas"
-        ]
-      },
-      {
-        "id": "organizacion-y-direccion-de-empresas-1",
-        "title": "Organización y Dirección de Empresas",
-        "level": 8,
-        "score": 0.05,
-        "keywords": [
-          "introducción",
-          "sistemas"
-        ]
-      },
-      {
-        "id": "ciencia-e-ingenieria-de-los-materiales-1",
-        "title": "Ciencia e Ingeniería de los Materiales",
-        "level": 4,
-        "score": 0.05,
-        "keywords": [
-          "introducción",
-          "propiedades"
-        ]
-      }
-    ],
-    "salud-y-seguridad-industrial-1": [
-      {
-        "id": "procesamiento-industrial-de-frutas-y-verduras-1",
-        "title": "Procesamiento Industrial de Frutas y Verduras",
-        "level": 10,
-        "score": 0.12,
-        "keywords": [
-          "generales",
-          "industrial"
-        ]
-      },
-      {
-        "id": "trabajo-de-integracion-curricular-i-1",
-        "title": "Trabajo de Integración Curricular I",
-        "level": 9,
-        "score": 0.1,
-        "keywords": [
-          "investigación",
-          "trabajo"
-        ]
-      },
-      {
-        "id": "herramientas-de-metodologia-de-investigacion-1",
-        "title": "Herramientas de Metodología de Investigación",
+        "id": "algebra-lineal-2",
+        "title": "Álgebra Lineal",
         "level": 1,
-        "score": 0.08,
-        "keywords": [
-          "investigación"
-        ]
-      },
-      {
-        "id": "procesamiento-industrial-de-lacteos-y-carnicos-1",
-        "title": "Procesamiento Industrial de Lácteos y Cárnicos",
-        "level": 9,
-        "score": 0.08,
-        "keywords": [
-          "industrial"
-        ]
-      }
-    ],
-    "polimeros-2": [
-      {
-        "id": "tecnologias-para-tratamiento-de-residuos-peligrosos-1",
-        "title": "Tecnologias para Tratamiento de Residuos Peligrosos",
-        "level": 10,
-        "score": 0.09,
-        "keywords": [
-          "conceptos",
-          "procesos",
-          "residuos"
-        ]
-      },
-      {
-        "id": "procesamiento-industrial-de-frutas-y-verduras-1",
-        "title": "Procesamiento Industrial de Frutas y Verduras",
-        "level": 10,
-        "score": 0.05,
-        "keywords": [
-          "procesos"
-        ]
-      },
-      {
-        "id": "diseno-y-desarrollo-de-productos-1",
-        "title": "Diseño y Desarrollo de Productos",
-        "level": 10,
-        "score": 0.04,
-        "keywords": [
-          "procesos"
-        ]
-      },
-      {
-        "id": "quimica-analitica-de-suelos-1",
-        "title": "Química Analítica de Suelos",
-        "level": 8,
-        "score": 0.04,
-        "keywords": [
-          "propiedades"
-        ]
-      }
-    ],
-    "organizacion-y-direccion-de-empresas-1": [
-      {
-        "id": "operaciones-unitarias-iii-intercambio-ionico-1",
-        "title": "Operaciones Unitarias III Intercambio Ionico",
-        "level": 8,
-        "score": 0.08,
-        "keywords": [
-          "introducción",
-          "operaciones",
-          "sistemas"
-        ]
-      },
-      {
-        "id": "control-de-calidad-de-recursos-hidricos-1",
-        "title": "Control de Calidad de Recursos Hidricos",
-        "level": 10,
-        "score": 0.08,
-        "keywords": [
-          "control",
-          "recursos"
-        ]
-      },
-      {
-        "id": "investigacion-de-operaciones-1",
-        "title": "Investigación de Operaciones",
-        "level": 10,
-        "score": 0.08,
-        "keywords": [
-          "empresas",
-          "introducción",
-          "operaciones"
-        ]
-      },
-      {
-        "id": "operaciones-unitarias-ii-evaporacion-destilacion-y-cristalizacion-1",
-        "title": "Operaciones Unitarias II Evaporación, Destilación y Cristalización",
-        "level": 7,
-        "score": 0.07,
-        "keywords": [
-          "introducción",
-          "operaciones"
-        ]
-      }
-    ],
-    "gestion-energetica-1": [
-      {
-        "id": "gestion-de-calidad-1",
-        "title": "Gestión de Calidad",
-        "level": 8,
-        "score": 0.25,
-        "keywords": [
-          "gestión",
-          "introducción"
-        ]
-      },
-      {
-        "id": "transferencia-de-fluidos-1",
-        "title": "Transferencia de Fluídos",
-        "level": 5,
-        "score": 0.2,
-        "keywords": [
-          "introducción"
-        ]
-      },
-      {
-        "id": "diseno-y-desarrollo-de-productos-1",
-        "title": "Diseño y Desarrollo de Productos",
-        "level": 10,
-        "score": 0.18,
-        "keywords": [
-          "gestión",
-          "introducción"
-        ]
-      },
-      {
-        "id": "herramientas-de-metodologia-de-investigacion-1",
-        "title": "Herramientas de Metodología de Investigación",
-        "level": 1,
-        "score": 0.17,
-        "keywords": [
-          "introducción"
-        ]
-      }
-    ],
-    "procesamiento-industrial-de-lacteos-y-carnicos-1": [
-      {
-        "id": "procesamiento-industrial-de-cereales-y-fermentaciones-1",
-        "title": "Procesamiento Industrial de Cereales y Fermentaciones",
-        "level": 10,
-        "score": 0.29,
-        "keywords": [
-          "industrial",
-          "procesamiento"
-        ]
-      },
-      {
-        "id": "procesamiento-industrial-de-frutas-y-verduras-1",
-        "title": "Procesamiento Industrial de Frutas y Verduras",
-        "level": 10,
-        "score": 0.18,
-        "keywords": [
-          "industrial",
-          "procesamiento"
-        ]
-      },
-      {
-        "id": "procesamiento-termico-de-alimentos-2",
-        "title": "Procesamiento Térmico de Alimentos",
-        "level": 9,
-        "score": 0.14,
-        "keywords": [
-          "procesamiento"
-        ]
-      },
-      {
-        "id": "microbiologia-industrial-1",
-        "title": "Microbiología Industrial",
-        "level": 5,
-        "score": 0.11,
-        "keywords": [
-          "cárnicos",
-          "industrial",
-          "lácteos"
-        ]
-      }
-    ],
-    "investigacion-de-operaciones-1": [
-      {
-        "id": "herramientas-de-metodologia-de-investigacion-1",
-        "title": "Herramientas de Metodología de Investigación",
-        "level": 1,
-        "score": 0.13,
-        "keywords": [
-          "herramientas",
-          "introducción",
-          "investigación"
-        ]
-      },
-      {
-        "id": "operaciones-unitarias-ii-evaporacion-destilacion-y-cristalizacion-1",
-        "title": "Operaciones Unitarias II Evaporación, Destilación y Cristalización",
-        "level": 7,
-        "score": 0.1,
-        "keywords": [
-          "generalidades",
-          "introducción",
-          "operaciones"
-        ]
-      },
-      {
-        "id": "organizacion-y-direccion-de-empresas-1",
-        "title": "Organización y Dirección de Empresas",
-        "level": 8,
-        "score": 0.08,
-        "keywords": [
-          "empresas",
-          "introducción",
-          "operaciones"
-        ]
-      },
-      {
-        "id": "lenguajes-de-programacion-1",
-        "title": "Lenguajes de Programación",
-        "level": 2,
-        "score": 0.07,
-        "keywords": [
-          "algoritmos",
-          "aplicación",
-          "introducción"
-        ]
-      }
-    ],
-    "trabajo-de-integracion-curricular-i-1": [
-      {
-        "id": "diseno-y-desarrollo-de-productos-1",
-        "title": "Diseño y Desarrollo de Productos",
-        "level": 10,
-        "score": 0.16,
-        "keywords": [
-          "diseño",
-          "introducción",
-          "proceso"
-        ]
-      },
-      {
-        "id": "trabajo-de-integracion-curricular-ii-2",
-        "title": "Trabajo de Integración Curricular II",
-        "level": 10,
-        "score": 0.15,
-        "keywords": [
-          "curricular",
-          "integración",
-          "trabajo"
-        ]
-      },
-      {
-        "id": "herramientas-de-metodologia-de-investigacion-1",
-        "title": "Herramientas de Metodología de Investigación",
-        "level": 1,
-        "score": 0.14,
-        "keywords": [
-          "introducción",
-          "investigación"
-        ]
-      },
-      {
-        "id": "operaciones-unitarias-iii-intercambio-ionico-1",
-        "title": "Operaciones Unitarias III Intercambio Ionico",
-        "level": 8,
-        "score": 0.11,
-        "keywords": [
-          "diseño",
-          "integración",
-          "introducción"
-        ]
-      }
-    ],
-    "comunicacion-efectiva-1": [
-      {
-        "id": "termodinamica-1",
-        "title": "Termodinámica",
-        "level": 3,
-        "score": 0.14,
-        "keywords": [
-          "aprendizaje",
-          "horas"
-        ]
-      },
-      {
-        "id": "transferencia-de-calor-1",
-        "title": "Transferencia de Calor",
-        "level": 5,
-        "score": 0.12,
-        "keywords": [
-          "aprendizaje",
-          "horas"
-        ]
-      },
-      {
-        "id": "bioquimica-de-alimentos-1",
-        "title": "Bioquímica de Alimentos",
-        "level": 6,
-        "score": 0.1,
-        "keywords": [
-          "aprendizaje",
-          "horas"
-        ]
-      },
-      {
-        "id": "ingenieria-de-proyectos-1",
-        "title": "Ingeniería de Proyectos",
-        "level": 10,
-        "score": 0.08,
-        "keywords": [
-          "aprendizaje",
-          "horas"
-        ]
-      }
-    ],
-    "diseno-experimental-1": [
-      {
-        "id": "trabajo-de-integracion-curricular-i-1",
-        "title": "Trabajo de Integración Curricular I",
-        "level": 9,
-        "score": 0.1,
-        "keywords": [
-          "científico",
-          "diseño",
-          "método"
-        ]
-      },
-      {
-        "id": "diseno-y-calculo-de-plantas-industriales-1",
-        "title": "Diseño y Cálculo de Plantas Industriales",
-        "level": 9,
-        "score": 0.07,
-        "keywords": [
-          "análisis",
-          "conceptos",
-          "diseño",
-          "fundamentales"
-        ]
-      },
-      {
-        "id": "salud-y-seguridad-industrial-1",
-        "title": "Salud y Seguridad Industrial",
-        "level": 6,
-        "score": 0.07,
-        "keywords": [
-          "conceptos",
-          "generales"
-        ]
-      },
-      {
-        "id": "procesamiento-industrial-de-frutas-y-verduras-1",
-        "title": "Procesamiento Industrial de Frutas y Verduras",
-        "level": 10,
-        "score": 0.07,
-        "keywords": [
-          "generales",
-          "método"
-        ]
-      }
-    ],
-    "ingenieria-de-las-reacciones-iii-catalisis-1": [
-      {
-        "id": "ingenieria-de-las-reacciones-i-cinetica-1",
-        "title": "Ingeniería de las Reacciones I (cinética)",
-        "level": 5,
-        "score": 0.23,
-        "keywords": [
-          "catálisis",
-          "enzimática",
-          "heterogénea",
-          "homogénea"
-        ]
-      },
-      {
-        "id": "ingenieria-de-las-reacciones-ii-reactores-1",
-        "title": "Ingeniería de las Reacciones II (reactores)",
-        "level": 6,
-        "score": 0.17,
-        "keywords": [
-          "ingeniería",
-          "reacciones"
-        ]
-      },
-      {
-        "id": "balances-de-materia-y-energia-1",
-        "title": "Balances de Materia y Energía",
-        "level": 3,
-        "score": 0.13,
-        "keywords": [
-          "ingeniería",
-          "introducción"
-        ]
-      },
-      {
-        "id": "diseno-y-desarrollo-de-productos-1",
-        "title": "Diseño y Desarrollo de Productos",
-        "level": 10,
-        "score": 0.11,
-        "keywords": [
-          "diseño",
-          "introducción"
-        ]
-      }
-    ],
-    "cementos-y-nanomateriales-1": [
-      {
-        "id": "quimica-analitica-de-suelos-1",
-        "title": "Química Analítica de Suelos",
-        "level": 8,
-        "score": 0.07,
-        "keywords": [
-          "propiedades",
-          "química"
-        ]
-      },
-      {
-        "id": "quimica-analitica-1",
-        "title": "Química Analítica",
-        "level": 4,
-        "score": 0.07,
-        "keywords": [
-          "introduccion",
-          "química"
-        ]
-      },
-      {
-        "id": "produccion-ceramica-1",
-        "title": "Producción Cerámica",
-        "level": 10,
         "score": 0.06,
         "keywords": [
-          "materias",
-          "primas"
+          "sistemas"
         ]
       },
-      {
-        "id": "quimica-analitica-de-agua-y-alimentos-1",
-        "title": "Química Analítica de Agua y Alimentos",
-        "level": 7,
-        "score": 0.06,
-        "keywords": [
-          "propiedades",
-          "química"
-        ]
-      }
-    ],
-    "quimica-inorganica-1": [
-      {
-        "id": "quimica-general-2",
-        "title": "Química General",
-        "level": 1,
-        "score": 0.15,
-        "keywords": [
-          "introducción",
-          "química"
-        ]
-      },
-      {
-        "id": "transferencia-de-fluidos-1",
-        "title": "Transferencia de Fluídos",
-        "level": 5,
-        "score": 0.08,
-        "keywords": [
-          "introducción"
-        ]
-      },
-      {
-        "id": "herramientas-de-metodologia-de-investigacion-1",
-        "title": "Herramientas de Metodología de Investigación",
-        "level": 1,
-        "score": 0.08,
-        "keywords": [
-          "introducción"
-        ]
-      },
-      {
-        "id": "gestion-energetica-1",
-        "title": "Gestión Energética",
-        "level": 8,
-        "score": 0.08,
-        "keywords": [
-          "introducción"
-        ]
-      }
-    ],
-    "quimica-general-2": [
-      {
-        "id": "balances-de-materia-y-energia-1",
-        "title": "Balances de Materia y Energía",
-        "level": 3,
-        "score": 0.22,
-        "keywords": [
-          "introducción",
-          "materia"
-        ]
-      },
-      {
-        "id": "quimica-inorganica-1",
-        "title": "Química Inorgánica",
-        "level": 2,
-        "score": 0.15,
-        "keywords": [
-          "introducción",
-          "química"
-        ]
-      },
-      {
-        "id": "transferencia-de-fluidos-1",
-        "title": "Transferencia de Fluídos",
-        "level": 5,
-        "score": 0.14,
-        "keywords": [
-          "introducción"
-        ]
-      },
-      {
-        "id": "gestion-energetica-1",
-        "title": "Gestión Energética",
-        "level": 8,
-        "score": 0.14,
-        "keywords": [
-          "introducción"
-        ]
-      }
-    ],
-    "procesamiento-industrial-de-frutas-y-verduras-1": [
-      {
-        "id": "procesamiento-industrial-de-lacteos-y-carnicos-1",
-        "title": "Procesamiento Industrial de Lácteos y Cárnicos",
-        "level": 9,
-        "score": 0.18,
-        "keywords": [
-          "industrial",
-          "procesamiento"
-        ]
-      },
-      {
-        "id": "procesamiento-industrial-de-cereales-y-fermentaciones-1",
-        "title": "Procesamiento Industrial de Cereales y Fermentaciones",
-        "level": 10,
-        "score": 0.17,
-        "keywords": [
-          "industrial",
-          "procesamiento"
-        ]
-      },
-      {
-        "id": "salud-y-seguridad-industrial-1",
-        "title": "Salud y Seguridad Industrial",
-        "level": 6,
-        "score": 0.12,
-        "keywords": [
-          "generales",
-          "industrial"
-        ]
-      },
-      {
-        "id": "sintesis-organica-en-la-industria-1",
-        "title": "Síntesis Orgánica en la Industria",
-        "level": 4,
-        "score": 0.08,
-        "keywords": [
-          "industrial",
-          "procesos"
-        ]
-      }
-    ],
-    "algebra-lineal-2": [
       {
         "id": "algebra-lineal-1",
         "title": "Álgebra Lineal",
         "level": 1,
-        "score": 1,
+        "score": 0.06,
         "keywords": [
-          "determinantes",
-          "ecuaciones",
-          "eigenvalores",
-          "eigenvectores"
+          "sistemas"
         ]
       },
       {
         "id": "algebra-lineal-2-2",
         "title": "Álgebra Lineal",
         "level": 1,
-        "score": 1,
+        "score": 0.06,
         "keywords": [
-          "determinantes",
-          "ecuaciones",
-          "eigenvalores",
-          "eigenvectores"
+          "sistemas"
+        ]
+      }
+    ],
+    "salud-y-seguridad-industrial-1": [
+      {
+        "id": "organizacion-y-direccion-de-empresas-1",
+        "title": "Organización y Dirección de Empresas",
+        "level": 8,
+        "score": 0.12,
+        "keywords": [
+          "gestion",
+          "tecnicas"
+        ]
+      },
+      {
+        "id": "polimeros-2",
+        "title": "I2 Polímeros",
+        "level": 9,
+        "score": 0.12,
+        "keywords": [
+          "gestion",
+          "tecnicas"
+        ]
+      },
+      {
+        "id": "ingenieria-de-las-reacciones-ii-reactores-1",
+        "title": "Ingeniería de las Reacciones II (Reactores)",
+        "level": 6,
+        "score": 0.07,
+        "keywords": [
+          "desarrolla"
+        ]
+      },
+      {
+        "id": "fisica-i-1",
+        "title": "Física I",
+        "level": 1,
+        "score": 0.06,
+        "keywords": [
+          "fisica"
+        ]
+      }
+    ],
+    "polimeros-2": [
+      {
+        "id": "operaciones-unitarias-i-manipulacion-de-solidos-1",
+        "title": "Operaciones Unitarias I Manipulación de Sólidos",
+        "level": 6,
+        "score": 0.19,
+        "keywords": [
+          "caracterizacion",
+          "materiales",
+          "procesos"
+        ]
+      },
+      {
+        "id": "balances-de-materia-y-energia-1",
+        "title": "Balances de Materia y Energía",
+        "level": 3,
+        "score": 0.12,
+        "keywords": [
+          "procesos",
+          "tecnicas"
+        ]
+      },
+      {
+        "id": "transferencia-de-masa-1",
+        "title": "Transferencia de Masa",
+        "level": 5,
+        "score": 0.12,
+        "keywords": [
+          "mecanismos",
+          "procesos"
+        ]
+      },
+      {
+        "id": "salud-y-seguridad-industrial-1",
+        "title": "Salud y Seguridad Industrial",
+        "level": 6,
+        "score": 0.12,
+        "keywords": [
+          "gestion",
+          "tecnicas"
+        ]
+      }
+    ],
+    "organizacion-y-direccion-de-empresas-1": [
+      {
+        "id": "lenguajes-de-programacion-1",
+        "title": "Lenguajes de Programación",
+        "level": 2,
+        "score": 0.19,
+        "keywords": [
+          "introduccion",
+          "practica",
+          "teorica"
+        ]
+      },
+      {
+        "id": "ciencia-e-ingenieria-de-los-materiales-1",
+        "title": "Ciencia e Ingeniería de los Materiales",
+        "level": 4,
+        "score": 0.19,
+        "keywords": [
+          "introduccion",
+          "practica",
+          "teorica"
+        ]
+      },
+      {
+        "id": "quimica-analitica-1",
+        "title": "Química Analítica",
+        "level": 4,
+        "score": 0.19,
+        "keywords": [
+          "naturaleza",
+          "practica",
+          "teorica"
+        ]
+      },
+      {
+        "id": "calidad-y-tratamiento-de-suelos-1",
+        "title": "I3 Calidad y Tratamiento de Suelos",
+        "level": 9,
+        "score": 0.19,
+        "keywords": [
+          "naturaleza",
+          "practica",
+          "teorica"
+        ]
+      }
+    ],
+    "gestion-energetica-1": [
+      {
+        "id": "analisis-numerico-1",
+        "title": "Análisis Numérico",
+        "level": 4,
+        "score": 0.12,
+        "keywords": [
+          "estudiante",
+          "procesos"
+        ]
+      },
+      {
+        "id": "gestion-de-calidad-1",
+        "title": "Gestión de Calidad",
+        "level": 8,
+        "score": 0.12,
+        "keywords": [
+          "gestion",
+          "procesos"
+        ]
+      },
+      {
+        "id": "metalurgia-extractiva-1",
+        "title": "I2 Metalurgia Extractiva",
+        "level": 9,
+        "score": 0.12,
+        "keywords": [
+          "estudiante",
+          "procesos"
+        ]
+      },
+      {
+        "id": "polimeros-2",
+        "title": "I2 Polímeros",
+        "level": 9,
+        "score": 0.12,
+        "keywords": [
+          "gestion",
+          "procesos"
+        ]
+      }
+    ],
+    "procesamiento-industrial-de-lacteos-y-carnicos-1": [
+      {
+        "id": "procesamiento-industrial-de-cereales-y-fermentaciones-1",
+        "title": "I1 Procesamiento Industrial de Cereales y Fermentaciones",
+        "level": 10,
+        "score": 0.25,
+        "keywords": [
+          "busca",
+          "industrial",
+          "procesamiento",
+          "teorico"
+        ]
+      },
+      {
+        "id": "procesamiento-industrial-de-frutas-y-verduras-1",
+        "title": "I1 Procesamiento Industrial de Frutas y Verduras",
+        "level": 10,
+        "score": 0.25,
+        "keywords": [
+          "ciencia",
+          "industrial",
+          "procesamiento",
+          "tecnologia"
+        ]
+      },
+      {
+        "id": "procesamiento-termico-de-alimentos-2",
+        "title": "I1 Procesamiento Térmico de Alimentos",
+        "level": 9,
+        "score": 0.19,
+        "keywords": [
+          "busca",
+          "procesamiento",
+          "teorico"
+        ]
+      },
+      {
+        "id": "comunicacion-efectiva-1",
+        "title": "Comunicación Efectiva",
+        "level": 1,
+        "score": 0.12,
+        "keywords": [
+          "busca",
+          "estudiante"
+        ]
+      }
+    ],
+    "investigacion-de-operaciones-1": [
+      {
+        "id": "diseno-experimental-1",
+        "title": "Diseño Experimental",
+        "level": 4,
+        "score": 0.25,
+        "keywords": [
+          "aplicacion",
+          "cientifico",
+          "metodo",
+          "problemas"
+        ]
+      },
+      {
+        "id": "fisica-i-1",
+        "title": "Física I",
+        "level": 1,
+        "score": 0.12,
+        "keywords": [
+          "permite",
+          "problemas"
+        ]
+      },
+      {
+        "id": "herramientas-de-metodologia-de-investigacion-1",
+        "title": "Herramientas de Metodología de Investigación",
+        "level": 1,
+        "score": 0.12,
+        "keywords": [
+          "cientifico",
+          "investigacion"
+        ]
+      },
+      {
+        "id": "organizacion-y-direccion-de-empresas-1",
+        "title": "Organización y Dirección de Empresas",
+        "level": 8,
+        "score": 0.12,
+        "keywords": [
+          "operaciones",
+          "organizacion"
+        ]
+      }
+    ],
+    "trabajo-de-integracion-curricular-i-1": [
+      {
+        "id": "quimica-general-2",
+        "title": "Química General",
+        "level": 1,
+        "score": 0.19,
+        "keywords": [
+          "estudiante",
+          "ingenieria",
+          "quimica"
+        ]
+      },
+      {
+        "id": "quimica-inorganica-1",
+        "title": "Química Inorgánica",
+        "level": 2,
+        "score": 0.19,
+        "keywords": [
+          "elementos",
+          "estudiante",
+          "quimica"
+        ]
+      },
+      {
+        "id": "procesamiento-termico-de-alimentos-2",
+        "title": "I1 Procesamiento Térmico de Alimentos",
+        "level": 9,
+        "score": 0.19,
+        "keywords": [
+          "busca",
+          "ingenieria",
+          "quimica"
+        ]
+      },
+      {
+        "id": "procesamiento-industrial-de-cereales-y-fermentaciones-1",
+        "title": "I1 Procesamiento Industrial de Cereales y Fermentaciones",
+        "level": 10,
+        "score": 0.19,
+        "keywords": [
+          "busca",
+          "ingenieria",
+          "quimica"
+        ]
+      }
+    ],
+    "comunicacion-efectiva-1": [
+      {
+        "id": "procesamiento-industrial-de-lacteos-y-carnicos-1",
+        "title": "I1 Procesamiento Industrial de Lácteos y Cárnicos",
+        "level": 9,
+        "score": 0.12,
+        "keywords": [
+          "busca",
+          "estudiante"
+        ]
+      },
+      {
+        "id": "practicas-laborales-i-2",
+        "title": "Prácticas Laborales I",
+        "level": 9,
+        "score": 0.12,
+        "keywords": [
+          "competencias",
+          "entornos"
+        ]
+      },
+      {
+        "id": "trabajo-de-integracion-curricular-i-1",
+        "title": "Trabajo de Integración Curricular I",
+        "level": 9,
+        "score": 0.12,
+        "keywords": [
+          "busca",
+          "estudiante"
+        ]
+      },
+      {
+        "id": "practicas-laborales-ii-2",
+        "title": "Prácticas Laborales II",
+        "level": 10,
+        "score": 0.12,
+        "keywords": [
+          "competencias",
+          "entornos"
+        ]
+      }
+    ],
+    "diseno-experimental-1": [
+      {
+        "id": "economia-industrial-1",
+        "title": "Economía Industrial",
+        "level": 7,
+        "score": 0.25,
+        "keywords": [
+          "analisis",
+          "basicos",
+          "conceptos",
+          "principios"
+        ]
+      },
+      {
+        "id": "investigacion-de-operaciones-1",
+        "title": "Investigación de Operaciones",
+        "level": 10,
+        "score": 0.25,
+        "keywords": [
+          "aplicacion",
+          "cientifico",
+          "metodo",
+          "problemas"
+        ]
+      },
+      {
+        "id": "lenguajes-de-programacion-1",
+        "title": "Lenguajes de Programación",
+        "level": 2,
+        "score": 0.12,
+        "keywords": [
+          "aplicacion",
+          "disenos"
         ]
       },
       {
@@ -9361,61 +9196,331 @@ const syllabiContentData = {
         "level": 3,
         "score": 0.12,
         "keywords": [
+          "basicos",
+          "problemas"
+        ]
+      }
+    ],
+    "ingenieria-de-las-reacciones-iii-catalisis-1": [
+      {
+        "id": "ingenieria-de-las-reacciones-i-cinetica-1",
+        "title": "Ingeniería de las Reacciones I (Cinética)",
+        "level": 5,
+        "score": 0.31,
+        "keywords": [
+          "catalisis",
+          "conocimientos",
+          "estudio",
+          "ingenieria"
+        ]
+      },
+      {
+        "id": "quimica-general-2",
+        "title": "Química General",
+        "level": 1,
+        "score": 0.19,
+        "keywords": [
+          "adquiridos",
+          "conocimientos",
+          "ingenieria"
+        ]
+      },
+      {
+        "id": "ciencia-e-ingenieria-de-los-materiales-1",
+        "title": "Ciencia e Ingeniería de los Materiales",
+        "level": 4,
+        "score": 0.19,
+        "keywords": [
+          "conocimientos",
+          "estudio",
+          "ingenieria"
+        ]
+      },
+      {
+        "id": "ingenieria-de-las-reacciones-ii-reactores-1",
+        "title": "Ingeniería de las Reacciones II (Reactores)",
+        "level": 6,
+        "score": 0.14,
+        "keywords": [
+          "ingenieria",
+          "reacciones"
+        ]
+      }
+    ],
+    "cementos-y-nanomateriales-1": [
+      {
+        "id": "sintesis-organica-en-la-industria-1",
+        "title": "Síntesis Orgánica en la Industria",
+        "level": 4,
+        "score": 0.19,
+        "keywords": [
+          "aplicaciones",
+          "proceso",
+          "procesos"
+        ]
+      },
+      {
+        "id": "analisis-numerico-1",
+        "title": "Análisis Numérico",
+        "level": 4,
+        "score": 0.12,
+        "keywords": [
+          "analisis",
+          "procesos"
+        ]
+      },
+      {
+        "id": "produccion-ceramica-1",
+        "title": "I2 Producción Cerámica",
+        "level": 10,
+        "score": 0.12,
+        "keywords": [
+          "materias",
+          "primas"
+        ]
+      },
+      {
+        "id": "algebra-lineal-2",
+        "title": "Álgebra Lineal",
+        "level": 1,
+        "score": 0.06,
+        "keywords": [
+          "aplicaciones"
+        ]
+      }
+    ],
+    "quimica-inorganica-1": [
+      {
+        "id": "quimica-general-2",
+        "title": "Química General",
+        "level": 1,
+        "score": 0.19,
+        "keywords": [
+          "estudiante",
+          "inorganica",
+          "quimica"
+        ]
+      },
+      {
+        "id": "quimica-organica-i-1",
+        "title": "Química Orgánica I",
+        "level": 2,
+        "score": 0.19,
+        "keywords": [
+          "compuestos",
+          "propiedades",
+          "quimica"
+        ]
+      },
+      {
+        "id": "quimica-organica-ii-1",
+        "title": "Química Orgánica II",
+        "level": 3,
+        "score": 0.19,
+        "keywords": [
+          "compuestos",
+          "propiedades",
+          "quimica"
+        ]
+      },
+      {
+        "id": "quimica-analitica-de-suelos-1",
+        "title": "Química Analítica de Suelos",
+        "level": 8,
+        "score": 0.19,
+        "keywords": [
+          "estudiante",
+          "propiedades",
+          "quimica"
+        ]
+      }
+    ],
+    "quimica-general-2": [
+      {
+        "id": "procesamiento-termico-de-alimentos-2",
+        "title": "I1 Procesamiento Térmico de Alimentos",
+        "level": 9,
+        "score": 0.25,
+        "keywords": [
+          "carrera",
+          "conocimientos",
+          "ingenieria",
+          "quimica"
+        ]
+      },
+      {
+        "id": "procesamiento-industrial-de-cereales-y-fermentaciones-1",
+        "title": "I1 Procesamiento Industrial de Cereales y Fermentaciones",
+        "level": 10,
+        "score": 0.25,
+        "keywords": [
+          "carrera",
+          "conocimientos",
+          "ingenieria",
+          "quimica"
+        ]
+      },
+      {
+        "id": "quimica-inorganica-1",
+        "title": "Química Inorgánica",
+        "level": 2,
+        "score": 0.19,
+        "keywords": [
+          "estudiante",
+          "inorganica",
+          "quimica"
+        ]
+      },
+      {
+        "id": "ecuaciones-diferenciales-1",
+        "title": "Ecuaciones Diferenciales",
+        "level": 3,
+        "score": 0.19,
+        "keywords": [
+          "conocimientos",
+          "ingenieria",
+          "primer"
+        ]
+      }
+    ],
+    "procesamiento-industrial-de-frutas-y-verduras-1": [
+      {
+        "id": "sintesis-organica-en-la-industria-1",
+        "title": "Síntesis Orgánica en la Industria",
+        "level": 4,
+        "score": 0.25,
+        "keywords": [
+          "aplicacion",
+          "industrial",
+          "procesos",
+          "productos"
+        ]
+      },
+      {
+        "id": "procesamiento-industrial-de-lacteos-y-carnicos-1",
+        "title": "I1 Procesamiento Industrial de Lácteos y Cárnicos",
+        "level": 9,
+        "score": 0.25,
+        "keywords": [
+          "ciencia",
+          "industrial",
+          "procesamiento",
+          "tecnologia"
+        ]
+      },
+      {
+        "id": "lenguajes-de-programacion-1",
+        "title": "Lenguajes de Programación",
+        "level": 2,
+        "score": 0.19,
+        "keywords": [
+          "aplicacion",
+          "practica",
+          "teorica"
+        ]
+      },
+      {
+        "id": "ciencia-e-ingenieria-de-los-materiales-1",
+        "title": "Ciencia e Ingeniería de los Materiales",
+        "level": 4,
+        "score": 0.19,
+        "keywords": [
+          "ciencia",
+          "practica",
+          "teorica"
+        ]
+      }
+    ],
+    "algebra-lineal-2": [
+      {
+        "id": "algebra-lineal-1",
+        "title": "Álgebra Lineal",
+        "level": 1,
+        "score": 1.0,
+        "keywords": [
+          "algebra",
+          "aplicaciones",
+          "determinantes",
+          "ecuaciones"
+        ]
+      },
+      {
+        "id": "algebra-lineal-2-2",
+        "title": "Álgebra Lineal",
+        "level": 1,
+        "score": 1.0,
+        "keywords": [
+          "algebra",
+          "aplicaciones",
+          "determinantes",
+          "ecuaciones"
+        ]
+      },
+      {
+        "id": "ecuaciones-diferenciales-1",
+        "title": "Ecuaciones Diferenciales",
+        "level": 3,
+        "score": 0.19,
+        "keywords": [
           "ecuaciones",
+          "ingenieria",
           "lineales"
         ]
       },
       {
-        "id": "fisico-quimica-1",
-        "title": "Físico Química",
-        "level": 4,
-        "score": 0.04,
+        "id": "operaciones-unitarias-i-filtracion-y-fluidizacion-1",
+        "title": "Operaciones Unitarias I Filtración y Fluidización",
+        "level": 6,
+        "score": 0.12,
         "keywords": [
-          "producto"
+          "ingenieria",
+          "operaciones"
         ]
       }
     ],
     "transferencia-de-masa-1": [
       {
-        "id": "operaciones-unitarias-ii-evaporacion-destilacion-y-cristalizacion-1",
-        "title": "Operaciones Unitarias II Evaporación, Destilación y Cristalización",
-        "level": 7,
-        "score": 0.12,
+        "id": "operaciones-unitarias-iii-humidificacion-y-secado-1",
+        "title": "Operaciones Unitarias III Humidificación y Secado",
+        "level": 8,
+        "score": 0.25,
         "keywords": [
-          "introducción",
+          "mecanismos",
           "operaciones",
+          "transferencia",
           "unitarias"
         ]
       },
       {
-        "id": "transferencia-de-calor-1",
-        "title": "Transferencia de Calor",
-        "level": 5,
-        "score": 0.12,
+        "id": "operaciones-unitarias-i-manipulacion-de-solidos-1",
+        "title": "Operaciones Unitarias I Manipulación de Sólidos",
+        "level": 6,
+        "score": 0.19,
         "keywords": [
-          "calor",
-          "principios",
-          "transferencia"
-        ]
-      },
-      {
-        "id": "transferencia-de-fluidos-1",
-        "title": "Transferencia de Fluídos",
-        "level": 5,
-        "score": 0.11,
-        "keywords": [
-          "introducción",
-          "transferencia"
-        ]
-      },
-      {
-        "id": "operaciones-unitarias-ii-extraccion-y-absorcion-1",
-        "title": "Operaciones Unitarias II Extracción y Absorción",
-        "level": 7,
-        "score": 0.1,
-        "keywords": [
-          "introducción",
           "operaciones",
+          "procesos",
+          "unitarias"
+        ]
+      },
+      {
+        "id": "termotecnia-1",
+        "title": "Termotecnia",
+        "level": 6,
+        "score": 0.19,
+        "keywords": [
+          "mecanismos",
+          "procesos",
+          "transporte"
+        ]
+      },
+      {
+        "id": "operaciones-unitarias-iii-intercambio-ionico-1",
+        "title": "Operaciones Unitarias III Intercambio Iónico",
+        "level": 8,
+        "score": 0.19,
+        "keywords": [
+          "operaciones",
+          "procesos",
           "unitarias"
         ]
       }
@@ -9425,45 +9530,45 @@ const syllabiContentData = {
         "id": "calculo-diferencial-1",
         "title": "Cálculo Diferencial",
         "level": 1,
-        "score": 1,
+        "score": 1.0,
         "keywords": [
-          "aplicaciones",
-          "continuidad",
-          "cálculo",
-          "derivada"
+          "algebraicas",
+          "calculo",
+          "comportamiento",
+          "continuidad"
         ]
       },
       {
         "id": "calculo-diferencial-2",
         "title": "Cálculo Diferencial",
         "level": 1,
-        "score": 1,
+        "score": 1.0,
         "keywords": [
-          "aplicaciones",
-          "continuidad",
-          "cálculo",
-          "derivada"
+          "algebraicas",
+          "calculo",
+          "comportamiento",
+          "continuidad"
         ]
       },
       {
         "id": "calculo-integral-1",
         "title": "Cálculo Integral",
         "level": 2,
-        "score": 0.29,
+        "score": 0.25,
         "keywords": [
-          "aplicaciones",
-          "cálculo",
+          "calculo",
           "derivadas",
-          "parciales"
+          "diferencial",
+          "funciones"
         ]
       },
       {
-        "id": "operaciones-unitarias-iii-intercambio-ionico-1",
-        "title": "Operaciones Unitarias III Intercambio Ionico",
-        "level": 8,
-        "score": 0.04,
+        "id": "algebra-lineal-2",
+        "title": "Álgebra Lineal",
+        "level": 1,
+        "score": 0.06,
         "keywords": [
-          "cálculo"
+          "ejercicios"
         ]
       }
     ],
@@ -9472,83 +9577,89 @@ const syllabiContentData = {
         "id": "practicas-laborales-i-2",
         "title": "Prácticas Laborales I",
         "level": 9,
-        "score": 1,
+        "score": 1.0,
         "keywords": [
           "actividades",
-          "ejecución",
-          "fase",
-          "finalización"
+          "aplicacion",
+          "carreras",
+          "competencias"
         ]
       },
       {
-        "id": "practicas-de-servicio-comunitario-1",
-        "title": "Prácticas de Servicio Comunitario",
-        "level": 8,
+        "id": "comunicacion-efectiva-1",
+        "title": "Comunicación Efectiva",
+        "level": 1,
         "score": 0.12,
         "keywords": [
-          "actividades",
-          "planificación",
-          "prácticas"
+          "competencias",
+          "entornos"
         ]
       },
       {
-        "id": "ingenieria-de-las-reacciones-iii-catalisis-1",
-        "title": "Ingeniería de las Reacciones III (catálisis)",
-        "level": 7,
-        "score": 0.05,
+        "id": "lenguajes-de-programacion-1",
+        "title": "Lenguajes de Programación",
+        "level": 2,
+        "score": 0.12,
         "keywords": [
-          "ejecución"
+          "aplicacion",
+          "practica"
         ]
       },
       {
-        "id": "ingenieria-de-proyectos-1",
-        "title": "Ingeniería de Proyectos",
-        "level": 10,
-        "score": 0.04,
+        "id": "ciencia-e-ingenieria-de-los-materiales-1",
+        "title": "Ciencia e Ingeniería de los Materiales",
+        "level": 4,
+        "score": 0.12,
         "keywords": [
-          "planificación"
+          "conocimientos",
+          "practica"
         ]
       }
     ],
     "ciencia-e-ingenieria-de-los-materiales-1": [
       {
-        "id": "balances-de-materia-y-energia-1",
-        "title": "Balances de Materia y Energía",
-        "level": 3,
-        "score": 0.09,
+        "id": "quimica-analitica-1",
+        "title": "Química Analítica",
+        "level": 4,
+        "score": 0.25,
         "keywords": [
-          "ingeniería",
-          "introducción"
+          "ciencia",
+          "ingenieria",
+          "practica",
+          "teorica"
         ]
       },
       {
-        "id": "fisico-quimica-1",
-        "title": "Físico Química",
-        "level": 4,
-        "score": 0.07,
+        "id": "lenguajes-de-programacion-1",
+        "title": "Lenguajes de Programación",
+        "level": 2,
+        "score": 0.19,
         "keywords": [
-          "diagramas",
-          "fases"
+          "introduccion",
+          "practica",
+          "teorica"
+        ]
+      },
+      {
+        "id": "ingenieria-de-las-reacciones-i-cinetica-1",
+        "title": "Ingeniería de las Reacciones I (Cinética)",
+        "level": 5,
+        "score": 0.19,
+        "keywords": [
+          "conocimientos",
+          "estudio",
+          "ingenieria"
         ]
       },
       {
         "id": "ingenieria-de-las-reacciones-iii-catalisis-1",
-        "title": "Ingeniería de las Reacciones III (catálisis)",
+        "title": "Ingeniería de las Reacciones III (Catálisis)",
         "level": 7,
-        "score": 0.07,
+        "score": 0.19,
         "keywords": [
-          "ingeniería",
-          "introducción"
-        ]
-      },
-      {
-        "id": "operaciones-unitarias-ii-extraccion-y-absorcion-1",
-        "title": "Operaciones Unitarias II Extracción y Absorción",
-        "level": 7,
-        "score": 0.06,
-        "keywords": [
-          "diagramas",
-          "introducción"
+          "conocimientos",
+          "estudio",
+          "ingenieria"
         ]
       }
     ],
@@ -9557,429 +9668,455 @@ const syllabiContentData = {
         "id": "herramientas-de-metodologia-de-investigacion-1",
         "title": "Herramientas de Metodología de Investigación",
         "level": 1,
-        "score": 0.18,
+        "score": 0.12,
         "keywords": [
-          "investigación",
-          "metodología"
-        ]
-      },
-      {
-        "id": "gestion-de-calidad-1",
-        "title": "Gestión de Calidad",
-        "level": 8,
-        "score": 0.07,
-        "keywords": [
-          "metodología"
-        ]
-      },
-      {
-        "id": "termodinamica-1",
-        "title": "Termodinámica",
-        "level": 3,
-        "score": 0.07,
-        "keywords": [
-          "revisión"
-        ]
-      },
-      {
-        "id": "control-de-calidad-de-recursos-hidricos-1",
-        "title": "Control de Calidad de Recursos Hidricos",
-        "level": 10,
-        "score": 0.07,
-        "keywords": [
-          "recursos"
-        ]
-      }
-    ],
-    "procesamiento-industrial-de-cereales-y-fermentaciones-1": [
-      {
-        "id": "procesamiento-industrial-de-lacteos-y-carnicos-1",
-        "title": "Procesamiento Industrial de Lácteos y Cárnicos",
-        "level": 9,
-        "score": 0.29,
-        "keywords": [
-          "industrial",
-          "procesamiento"
-        ]
-      },
-      {
-        "id": "procesamiento-termico-de-alimentos-2",
-        "title": "Procesamiento Térmico de Alimentos",
-        "level": 9,
-        "score": 0.29,
-        "keywords": [
-          "generalidades",
-          "procesamiento"
-        ]
-      },
-      {
-        "id": "procesamiento-industrial-de-frutas-y-verduras-1",
-        "title": "Procesamiento Industrial de Frutas y Verduras",
-        "level": 10,
-        "score": 0.17,
-        "keywords": [
-          "industrial",
-          "procesamiento"
-        ]
-      },
-      {
-        "id": "economia-industrial-1",
-        "title": "Economía Industrial",
-        "level": 7,
-        "score": 0.08,
-        "keywords": [
-          "industrial"
-        ]
-      }
-    ],
-    "analisis-numerico-1": [
-      {
-        "id": "trabajo-de-integracion-curricular-ii-2",
-        "title": "Trabajo de Integración Curricular II",
-        "level": 10,
-        "score": 0.06,
-        "keywords": [
-          "análisis",
-          "desarrollo"
-        ]
-      },
-      {
-        "id": "ingenieria-de-proyectos-1",
-        "title": "Ingeniería de Proyectos",
-        "level": 10,
-        "score": 0.05,
-        "keywords": [
-          "asignatura",
-          "práctico"
-        ]
-      },
-      {
-        "id": "investigacion-de-operaciones-1",
-        "title": "Investigación de Operaciones",
-        "level": 10,
-        "score": 0.05,
-        "keywords": [
-          "algoritmo",
-          "práctico"
-        ]
-      },
-      {
-        "id": "termodinamica-1",
-        "title": "Termodinámica",
-        "level": 3,
-        "score": 0.04,
-        "keywords": [
-          "análisis"
-        ]
-      }
-    ],
-    "dibujo-asistido-por-computador-1": [
-      {
-        "id": "ingenieria-de-proyectos-1",
-        "title": "Ingeniería de Proyectos",
-        "level": 10,
-        "score": 0.18,
-        "keywords": [
-          "aprendizaje",
-          "asignatura",
-          "clase",
-          "estudio"
-        ]
-      },
-      {
-        "id": "lenguajes-de-programacion-1",
-        "title": "Lenguajes de Programación",
-        "level": 2,
-        "score": 0.11,
-        "keywords": [
-          "aprendizaje",
-          "clase",
-          "horas",
-          "introducción"
-        ]
-      },
-      {
-        "id": "metalurgia-extractiva-1",
-        "title": "Metalurgia Extractiva",
-        "level": 9,
-        "score": 0.08,
-        "keywords": [
-          "aprendizaje",
-          "clase",
-          "horas",
-          "magistral"
-        ]
-      },
-      {
-        "id": "tecnologias-para-tratamiento-de-residuos-peligrosos-1",
-        "title": "Tecnologias para Tratamiento de Residuos Peligrosos",
-        "level": 10,
-        "score": 0.07,
-        "keywords": [
-          "aprendizaje",
-          "horas",
-          "sistemas"
-        ]
-      }
-    ],
-    "analisis-instrumental-1": [
-      {
-        "id": "termodinamica-1",
-        "title": "Termodinámica",
-        "level": 3,
-        "score": 0.17,
-        "keywords": [
-          "análisis",
-          "aprendizaje",
-          "horas",
-          "revisión"
-        ]
-      },
-      {
-        "id": "ingenieria-de-las-reacciones-i-cinetica-1",
-        "title": "Ingeniería de las Reacciones I (cinética)",
-        "level": 5,
-        "score": 0.08,
-        "keywords": [
-          "análisis",
-          "datos",
-          "líquida"
-        ]
-      },
-      {
-        "id": "transferencia-de-calor-1",
-        "title": "Transferencia de Calor",
-        "level": 5,
-        "score": 0.07,
-        "keywords": [
-          "aprendizaje",
-          "horas"
-        ]
-      },
-      {
-        "id": "comunicacion-efectiva-1",
-        "title": "Comunicación Efectiva",
-        "level": 1,
-        "score": 0.07,
-        "keywords": [
-          "aprendizaje",
-          "horas"
-        ]
-      }
-    ],
-    "operaciones-unitarias-i-filtracion-y-fluidizacion-1": [
-      {
-        "id": "operaciones-unitarias-ii-evaporacion-destilacion-y-cristalizacion-1",
-        "title": "Operaciones Unitarias II Evaporación, Destilación y Cristalización",
-        "level": 7,
-        "score": 0.1,
-        "keywords": [
-          "introducción",
-          "operaciones",
-          "unitarias"
-        ]
-      },
-      {
-        "id": "operaciones-unitarias-ii-extraccion-y-absorcion-1",
-        "title": "Operaciones Unitarias II Extracción y Absorción",
-        "level": 7,
-        "score": 0.09,
-        "keywords": [
-          "introducción",
-          "operaciones",
-          "unitarias"
-        ]
-      },
-      {
-        "id": "operaciones-unitarias-iii-intercambio-ionico-1",
-        "title": "Operaciones Unitarias III Intercambio Ionico",
-        "level": 8,
-        "score": 0.08,
-        "keywords": [
-          "introducción",
-          "operaciones",
-          "unitarias"
-        ]
-      },
-      {
-        "id": "transferencia-de-masa-1",
-        "title": "Transferencia de Masa",
-        "level": 5,
-        "score": 0.08,
-        "keywords": [
-          "introducción",
-          "operaciones",
-          "unitarias"
-        ]
-      }
-    ],
-    "calidad-y-tratamiento-de-suelos-1": [
-      {
-        "id": "gestion-de-calidad-1",
-        "title": "Gestión de Calidad",
-        "level": 8,
-        "score": 0.09,
-        "keywords": [
-          "calidad"
-        ]
-      },
-      {
-        "id": "control-de-calidad-de-recursos-hidricos-1",
-        "title": "Control de Calidad de Recursos Hidricos",
-        "level": 10,
-        "score": 0.09,
-        "keywords": [
-          "calidad"
-        ]
-      },
-      {
-        "id": "tecnologias-para-tratamiento-de-residuos-peligrosos-1",
-        "title": "Tecnologias para Tratamiento de Residuos Peligrosos",
-        "level": 10,
-        "score": 0.08,
-        "keywords": [
-          "tecnologias",
-          "tratamiento"
-        ]
-      },
-      {
-        "id": "gestion-y-tecnologia-del-medio-ambiente-1",
-        "title": "Gestión y Tecnología del Medio Ambiente",
-        "level": 7,
-        "score": 0.08,
-        "keywords": [
-          "contaminación",
-          "tratamiento"
-        ]
-      }
-    ],
-    "procesamiento-termico-de-alimentos-2": [
-      {
-        "id": "procesamiento-industrial-de-cereales-y-fermentaciones-1",
-        "title": "Procesamiento Industrial de Cereales y Fermentaciones",
-        "level": 10,
-        "score": 0.29,
-        "keywords": [
-          "generalidades",
-          "procesamiento"
-        ]
-      },
-      {
-        "id": "procesamiento-industrial-de-lacteos-y-carnicos-1",
-        "title": "Procesamiento Industrial de Lácteos y Cárnicos",
-        "level": 9,
-        "score": 0.14,
-        "keywords": [
-          "procesamiento"
-        ]
-      },
-      {
-        "id": "bioquimica-de-alimentos-1",
-        "title": "Bioquímica de Alimentos",
-        "level": 6,
-        "score": 0.13,
-        "keywords": [
-          "alimentos",
-          "generalidades"
-        ]
-      },
-      {
-        "id": "operaciones-unitarias-ii-evaporacion-destilacion-y-cristalizacion-1",
-        "title": "Operaciones Unitarias II Evaporación, Destilación y Cristalización",
-        "level": 7,
-        "score": 0.08,
-        "keywords": [
-          "generalidades"
-        ]
-      }
-    ],
-    "metalurgia-extractiva-1": [
-      {
-        "id": "termodinamica-1",
-        "title": "Termodinámica",
-        "level": 3,
-        "score": 0.1,
-        "keywords": [
-          "aprendizaje",
-          "horas",
-          "termodinámica"
-        ]
-      },
-      {
-        "id": "lenguajes-de-programacion-1",
-        "title": "Lenguajes de Programación",
-        "level": 2,
-        "score": 0.09,
-        "keywords": [
-          "aprendizaje",
-          "clase",
-          "horas",
-          "magistral"
-        ]
-      },
-      {
-        "id": "termotecnia-1",
-        "title": "Termotecnia",
-        "level": 6,
-        "score": 0.09,
-        "keywords": [
-          "aprendizaje",
-          "procesos",
-          "termodinámica"
+          "investigacion",
+          "metodologia"
         ]
       },
       {
         "id": "dibujo-asistido-por-computador-1",
         "title": "Dibujo Asistido por Computador",
         "level": 2,
-        "score": 0.08,
+        "score": 0.12,
         "keywords": [
-          "aprendizaje",
-          "clase",
-          "horas",
-          "magistral"
+          "desarrollo",
+          "revision"
+        ]
+      },
+      {
+        "id": "lenguajes-de-programacion-1",
+        "title": "Lenguajes de Programación",
+        "level": 2,
+        "score": 0.06,
+        "keywords": [
+          "caracter"
+        ]
+      },
+      {
+        "id": "fisico-quimica-1",
+        "title": "Físico Química",
+        "level": 4,
+        "score": 0.06,
+        "keywords": [
+          "comprension"
         ]
       }
     ],
-    "quimica-analitica-1": [
+    "procesamiento-industrial-de-cereales-y-fermentaciones-1": [
       {
-        "id": "quimica-analitica-de-suelos-1",
-        "title": "Química Analítica de Suelos",
-        "level": 8,
-        "score": 0.13,
+        "id": "procesamiento-termico-de-alimentos-2",
+        "title": "I1 Procesamiento Térmico de Alimentos",
+        "level": 9,
+        "score": 0.75,
         "keywords": [
-          "analítica",
-          "muestreo",
-          "química"
+          "adquieran",
+          "busca",
+          "carrera",
+          "conocimientos"
         ]
       },
       {
-        "id": "quimica-analitica-de-agua-y-alimentos-1",
-        "title": "Química Analítica de Agua y Alimentos",
-        "level": 7,
-        "score": 0.08,
+        "id": "microbiologia-industrial-1",
+        "title": "Microbiología Industrial",
+        "level": 5,
+        "score": 0.38,
         "keywords": [
-          "analítica",
-          "química"
-        ]
-      },
-      {
-        "id": "cementos-y-nanomateriales-1",
-        "title": "Cementos y Nanomateriales",
-        "level": 10,
-        "score": 0.07,
-        "keywords": [
-          "introduccion",
-          "química"
+          "carrera",
+          "conocimientos",
+          "dentro",
+          "dicta"
         ]
       },
       {
         "id": "quimica-general-2",
         "title": "Química General",
         "level": 1,
+        "score": 0.25,
+        "keywords": [
+          "carrera",
+          "conocimientos",
+          "ingenieria",
+          "quimica"
+        ]
+      },
+      {
+        "id": "procesamiento-industrial-de-lacteos-y-carnicos-1",
+        "title": "I1 Procesamiento Industrial de Lácteos y Cárnicos",
+        "level": 9,
+        "score": 0.25,
+        "keywords": [
+          "busca",
+          "industrial",
+          "procesamiento",
+          "teorico"
+        ]
+      }
+    ],
+    "analisis-numerico-1": [
+      {
+        "id": "quimica-analitica-de-suelos-1",
+        "title": "Química Analítica de Suelos",
+        "level": 8,
+        "score": 0.19,
+        "keywords": [
+          "analisis",
+          "estudiante",
+          "metodos"
+        ]
+      },
+      {
+        "id": "quimica-analitica-1",
+        "title": "Química Analítica",
+        "level": 4,
+        "score": 0.12,
+        "keywords": [
+          "analisis",
+          "metodos"
+        ]
+      },
+      {
+        "id": "analisis-instrumental-1",
+        "title": "Análisis Instrumental",
+        "level": 5,
+        "score": 0.12,
+        "keywords": [
+          "analisis",
+          "metodos"
+        ]
+      },
+      {
+        "id": "ingenieria-de-las-reacciones-i-cinetica-1",
+        "title": "Ingeniería de las Reacciones I (Cinética)",
+        "level": 5,
+        "score": 0.12,
+        "keywords": [
+          "analisis",
+          "metodos"
+        ]
+      }
+    ],
+    "dibujo-asistido-por-computador-1": [
+      {
+        "id": "escritura-cientifica-y-metodologia-de-investigacion-1",
+        "title": "Escritura Científica y Metodología de Investigación",
+        "level": 3,
+        "score": 0.12,
+        "keywords": [
+          "desarrollo",
+          "revision"
+        ]
+      },
+      {
+        "id": "diseno-y-desarrollo-de-productos-1",
+        "title": "Diseño y Desarrollo de Productos",
+        "level": 10,
+        "score": 0.12,
+        "keywords": [
+          "desarrollo",
+          "diseno"
+        ]
+      },
+      {
+        "id": "diseno-experimental-1",
+        "title": "Diseño Experimental",
+        "level": 4,
         "score": 0.06,
         "keywords": [
-          "química"
+          "diseno"
+        ]
+      },
+      {
+        "id": "emprendimiento-e-innovacion-1",
+        "title": "Emprendimiento e Innovación",
+        "level": 6,
+        "score": 0.06,
+        "keywords": [
+          "desarrollo"
+        ]
+      }
+    ],
+    "analisis-instrumental-1": [
+      {
+        "id": "analisis-numerico-1",
+        "title": "Análisis Numérico",
+        "level": 4,
+        "score": 0.12,
+        "keywords": [
+          "analisis",
+          "metodos"
+        ]
+      },
+      {
+        "id": "quimica-analitica-1",
+        "title": "Química Analítica",
+        "level": 4,
+        "score": 0.12,
+        "keywords": [
+          "analisis",
+          "metodos"
+        ]
+      },
+      {
+        "id": "ingenieria-de-las-reacciones-i-cinetica-1",
+        "title": "Ingeniería de las Reacciones I (Cinética)",
+        "level": 5,
+        "score": 0.12,
+        "keywords": [
+          "analisis",
+          "metodos"
+        ]
+      },
+      {
+        "id": "economia-industrial-1",
+        "title": "Economía Industrial",
+        "level": 7,
+        "score": 0.12,
+        "keywords": [
+          "analisis",
+          "metodos"
+        ]
+      }
+    ],
+    "operaciones-unitarias-i-filtracion-y-fluidizacion-1": [
+      {
+        "id": "ingenieria-de-las-reacciones-i-cinetica-1",
+        "title": "Ingeniería de las Reacciones I (Cinética)",
+        "level": 5,
+        "score": 0.19,
+        "keywords": [
+          "estudio",
+          "ingenieria",
+          "quimica"
+        ]
+      },
+      {
+        "id": "operaciones-unitarias-i-manipulacion-de-solidos-1",
+        "title": "Operaciones Unitarias I Manipulación de Sólidos",
+        "level": 6,
+        "score": 0.19,
+        "keywords": [
+          "manejo",
+          "operaciones",
+          "unitarias"
+        ]
+      },
+      {
+        "id": "operaciones-unitarias-iii-intercambio-ionico-1",
+        "title": "Operaciones Unitarias III Intercambio Iónico",
+        "level": 8,
+        "score": 0.19,
+        "keywords": [
+          "lecho",
+          "operaciones",
+          "unitarias"
+        ]
+      },
+      {
+        "id": "ingenieria-de-las-reacciones-ii-reactores-1",
+        "title": "Ingeniería de las Reacciones II (Reactores)",
+        "level": 6,
+        "score": 0.14,
+        "keywords": [
+          "aborda",
+          "ingenieria"
+        ]
+      }
+    ],
+    "calidad-y-tratamiento-de-suelos-1": [
+      {
+        "id": "quimica-analitica-1",
+        "title": "Química Analítica",
+        "level": 4,
+        "score": 0.69,
+        "keywords": [
+          "analisis",
+          "carrera",
+          "corresponde",
+          "formacion"
+        ]
+      },
+      {
+        "id": "quimica-analitica-de-suelos-1",
+        "title": "Química Analítica de Suelos",
+        "level": 8,
+        "score": 0.31,
+        "keywords": [
+          "analisis",
+          "formacion",
+          "misma",
+          "quimica"
+        ]
+      },
+      {
+        "id": "metalurgia-extractiva-1",
+        "title": "I2 Metalurgia Extractiva",
+        "level": 9,
+        "score": 0.25,
+        "keywords": [
+          "corresponde",
+          "formacion",
+          "misma",
+          "profesional"
+        ]
+      },
+      {
+        "id": "quimica-general-2",
+        "title": "Química General",
+        "level": 1,
+        "score": 0.19,
+        "keywords": [
+          "carrera",
+          "ingenieria",
+          "quimica"
+        ]
+      }
+    ],
+    "procesamiento-termico-de-alimentos-2": [
+      {
+        "id": "procesamiento-industrial-de-cereales-y-fermentaciones-1",
+        "title": "I1 Procesamiento Industrial de Cereales y Fermentaciones",
+        "level": 10,
+        "score": 0.75,
+        "keywords": [
+          "adquieran",
+          "busca",
+          "carrera",
+          "conocimientos"
+        ]
+      },
+      {
+        "id": "microbiologia-industrial-1",
+        "title": "Microbiología Industrial",
+        "level": 5,
+        "score": 0.38,
+        "keywords": [
+          "alimentos",
+          "carrera",
+          "conocimientos",
+          "dentro"
+        ]
+      },
+      {
+        "id": "quimica-general-2",
+        "title": "Química General",
+        "level": 1,
+        "score": 0.25,
+        "keywords": [
+          "carrera",
+          "conocimientos",
+          "ingenieria",
+          "quimica"
+        ]
+      },
+      {
+        "id": "quimica-analitica-1",
+        "title": "Química Analítica",
+        "level": 4,
+        "score": 0.25,
+        "keywords": [
+          "carrera",
+          "ingenieria",
+          "metodos",
+          "quimica"
+        ]
+      }
+    ],
+    "metalurgia-extractiva-1": [
+      {
+        "id": "quimica-analitica-de-suelos-1",
+        "title": "Química Analítica de Suelos",
+        "level": 8,
+        "score": 0.31,
+        "keywords": [
+          "basada",
+          "brindar",
+          "estudiante",
+          "formacion"
+        ]
+      },
+      {
+        "id": "quimica-analitica-1",
+        "title": "Química Analítica",
+        "level": 4,
+        "score": 0.25,
+        "keywords": [
+          "corresponde",
+          "formacion",
+          "misma",
+          "profesional"
+        ]
+      },
+      {
+        "id": "calidad-y-tratamiento-de-suelos-1",
+        "title": "I3 Calidad y Tratamiento de Suelos",
+        "level": 9,
+        "score": 0.25,
+        "keywords": [
+          "corresponde",
+          "formacion",
+          "misma",
+          "profesional"
+        ]
+      },
+      {
+        "id": "quimica-general-2",
+        "title": "Química General",
+        "level": 1,
+        "score": 0.12,
+        "keywords": [
+          "conocimientos",
+          "estudiante"
+        ]
+      }
+    ],
+    "quimica-analitica-1": [
+      {
+        "id": "calidad-y-tratamiento-de-suelos-1",
+        "title": "I3 Calidad y Tratamiento de Suelos",
+        "level": 9,
+        "score": 0.69,
+        "keywords": [
+          "analisis",
+          "carrera",
+          "corresponde",
+          "formacion"
+        ]
+      },
+      {
+        "id": "quimica-analitica-de-suelos-1",
+        "title": "Química Analítica de Suelos",
+        "level": 8,
+        "score": 0.38,
+        "keywords": [
+          "analisis",
+          "analitica",
+          "formacion",
+          "metodos"
+        ]
+      },
+      {
+        "id": "termodinamica-1",
+        "title": "Termodinámica",
+        "level": 3,
+        "score": 0.25,
+        "keywords": [
+          "analisis",
+          "ciencia",
+          "formacion",
+          "puede"
+        ]
+      },
+      {
+        "id": "ciencia-e-ingenieria-de-los-materiales-1",
+        "title": "Ciencia e Ingeniería de los Materiales",
+        "level": 4,
+        "score": 0.25,
+        "keywords": [
+          "ciencia",
+          "ingenieria",
+          "practica",
+          "teorica"
         ]
       }
     ],
@@ -9988,43 +10125,45 @@ const syllabiContentData = {
         "id": "algebra-lineal-2",
         "title": "Álgebra Lineal",
         "level": 1,
-        "score": 1,
+        "score": 1.0,
         "keywords": [
+          "algebra",
+          "aplicaciones",
           "determinantes",
-          "ecuaciones",
-          "eigenvalores",
-          "eigenvectores"
+          "ecuaciones"
         ]
       },
       {
         "id": "algebra-lineal-2-2",
         "title": "Álgebra Lineal",
         "level": 1,
-        "score": 1,
+        "score": 1.0,
         "keywords": [
+          "algebra",
+          "aplicaciones",
           "determinantes",
-          "ecuaciones",
-          "eigenvalores",
-          "eigenvectores"
+          "ecuaciones"
         ]
       },
       {
         "id": "ecuaciones-diferenciales-1",
         "title": "Ecuaciones Diferenciales",
         "level": 3,
-        "score": 0.12,
+        "score": 0.19,
         "keywords": [
           "ecuaciones",
+          "ingenieria",
           "lineales"
         ]
       },
       {
-        "id": "fisico-quimica-1",
-        "title": "Físico Química",
-        "level": 4,
-        "score": 0.04,
+        "id": "operaciones-unitarias-i-filtracion-y-fluidizacion-1",
+        "title": "Operaciones Unitarias I Filtración y Fluidización",
+        "level": 6,
+        "score": 0.12,
         "keywords": [
-          "producto"
+          "ingenieria",
+          "operaciones"
         ]
       }
     ],
@@ -10033,43 +10172,45 @@ const syllabiContentData = {
         "id": "algebra-lineal-2",
         "title": "Álgebra Lineal",
         "level": 1,
-        "score": 1,
+        "score": 1.0,
         "keywords": [
+          "algebra",
+          "aplicaciones",
           "determinantes",
-          "ecuaciones",
-          "eigenvalores",
-          "eigenvectores"
+          "ecuaciones"
         ]
       },
       {
         "id": "algebra-lineal-1",
         "title": "Álgebra Lineal",
         "level": 1,
-        "score": 1,
+        "score": 1.0,
         "keywords": [
+          "algebra",
+          "aplicaciones",
           "determinantes",
-          "ecuaciones",
-          "eigenvalores",
-          "eigenvectores"
+          "ecuaciones"
         ]
       },
       {
         "id": "ecuaciones-diferenciales-1",
         "title": "Ecuaciones Diferenciales",
         "level": 3,
-        "score": 0.12,
+        "score": 0.19,
         "keywords": [
           "ecuaciones",
+          "ingenieria",
           "lineales"
         ]
       },
       {
-        "id": "fisico-quimica-1",
-        "title": "Físico Química",
-        "level": 4,
-        "score": 0.04,
+        "id": "operaciones-unitarias-i-filtracion-y-fluidizacion-1",
+        "title": "Operaciones Unitarias I Filtración y Fluidización",
+        "level": 6,
+        "score": 0.12,
         "keywords": [
-          "producto"
+          "ingenieria",
+          "operaciones"
         ]
       }
     ]
