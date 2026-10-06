@@ -1,8 +1,8 @@
 const syllabiContentData = {
   "summary": {
     "count": 76,
-    "units": 364,
-    "subunits": 704
+    "units": 449,
+    "subunits": 1744
   },
   "items": [
     {
@@ -28,201 +28,257 @@ const syllabiContentData = {
       "units": [
         {
           "code": "U1",
-          "title": "Funciones",
+          "title": "FUNCIONES",
           "subunits": [
             {
               "code": "U1.1",
-              "title": "Operación con Funciones: Desplazamientos y Práctico"
+              "title": "Funciones: Dominio, rango, gráfica y clases"
             },
             {
               "code": "U1.2",
-              "title": "Funciones Algebraicas: Lineal, Cuadrática y Cúbica (ape/a)"
+              "title": "Combinación de funciones: Composición y relaciones algebraicas"
             },
             {
               "code": "U1.3",
-              "title": "Funciones Especiales: Valor Absoluto y Escalón Autónomo (aa) Ejercicios)"
+              "title": "Operación con funciones: Desplazamientos y escalamientos"
             },
             {
               "code": "U1.4",
-              "title": "Funciones Trigonométricas"
+              "title": "Funciones algebraicas: Lineal, cuadrática y cúbica"
             },
             {
               "code": "U1.5",
-              "title": "Funciones Inversas"
+              "title": "Funciones especiales: Valor absoluto y escalón"
             },
             {
               "code": "U1.6",
-              "title": "Funciones Exponenciales y Logarítmicas Práctico"
+              "title": "Funciones trigonométricas"
             },
             {
               "code": "U1.7",
-              "title": "Funciones Como Modelos Matemáticos Asignatura"
+              "title": "Funciones inversas"
+            },
+            {
+              "code": "U1.8",
+              "title": "Funciones exponenciales y logarítmicas"
+            },
+            {
+              "code": "U1.9",
+              "title": "Funciones como modelos matemáticos"
             }
           ]
         },
         {
           "code": "U2",
-          "title": "Límites y Continuidad",
+          "title": "LÍMITES Y CONTINUIDAD",
           "subunits": [
             {
               "code": "U2.1",
-              "title": "Límites Laterales"
+              "title": "Límite de una función"
             },
             {
               "code": "U2.2",
-              "title": "Teoremas Sobre Límite de Funciones Práctico"
+              "title": "Límites laterales"
             },
             {
               "code": "U2.3",
-              "title": "Continuidad de Una Función en Un Número y en El Asignatura"
+              "title": "Teoremas sobre límite de funciones"
             },
             {
               "code": "U2.4",
-              "title": "Continuidad de las Funciones Algebraicas"
+              "title": "Continuidad de una función en un número y en el intervalo"
             },
             {
               "code": "U2.5",
-              "title": "Continuidad de la Función Composición"
+              "title": "Continuidad de las operaciones con funciones"
             },
             {
               "code": "U2.6",
-              "title": "Límites de las Funciones Trigonométricas Directas Experimental -"
+              "title": "Continuidad de las funciones algebraicas"
             },
             {
               "code": "U2.7",
-              "title": "Límites Al Infinito"
+              "title": "Continuidad de la función composición"
             },
             {
               "code": "U2.8",
-              "title": "Límites Infinitos"
+              "title": "Continuidad de las funciones trascendentes"
             },
             {
               "code": "U2.9",
-              "title": "Asíntotas: Vertical, Horizontal y Oblicua Contacto con El Magistral."
+              "title": "Límites de las funciones trigonométricas directas"
             },
             {
               "code": "U2.10",
-              "title": "Gráfica de las Funciones: Dominio, Rango, Cortes,"
+              "title": "Límites al infinito"
             },
             {
               "code": "U2.11",
-              "title": "Definición Formal de Límite Experimental -"
+              "title": "Límites infinitos"
+            },
+            {
+              "code": "U2.12",
+              "title": "Asíntotas: Vertical, horizontal y oblicua"
+            },
+            {
+              "code": "U2.13",
+              "title": "Gráfica de las funciones: Dominio, rango, cortes, simetría, signo, asíntotas y continuidad"
+            },
+            {
+              "code": "U2.14",
+              "title": "Definición formal de límite"
             }
           ]
         },
         {
           "code": "U3",
-          "title": "La Derivada",
+          "title": "LA DERIVADA",
           "subunits": [
             {
               "code": "U3.1",
-              "title": "Recta Tangente y Velocidad Instantánea"
+              "title": "Incrementos y deferenciales"
             },
             {
               "code": "U3.2",
-              "title": "La Derivada: Definición e Interpretación Geométrica"
+              "title": "Recta tangente y velocidad instantánea"
             },
             {
               "code": "U3.3",
-              "title": "Diferenciabilidad y Continuidad (ape/a)"
+              "title": "La derivada: Definición e interpretación geométrica"
             },
             {
               "code": "U3.4",
-              "title": "Derivada de Funciones Trigonométricas"
+              "title": "Diferenciabilidad y continuidad"
             },
             {
               "code": "U3.5",
-              "title": "Derivada de Funciones Compuestas: Regla de la"
+              "title": "Teoremas de derivación de funciones algebraicas"
             },
             {
               "code": "U3.6",
-              "title": "Diferenciación Implícita"
+              "title": "Derivada de una función potencia para exponente racional"
             },
             {
               "code": "U3.7",
-              "title": "Derivada de Una Función Exponencial y Derivada (investigación)."
+              "title": "Derivada de funciones trigonométricas"
             },
             {
               "code": "U3.8",
-              "title": "Derivadas de Orden Superior y de Orden N-ésima Contacto con El Magistral."
+              "title": "Derivada de funciones compuestas: Regla de la cadena"
+            },
+            {
+              "code": "U3.9",
+              "title": "Diferenciación implícita"
+            },
+            {
+              "code": "U3.10",
+              "title": "Derivada de la función inversa"
+            },
+            {
+              "code": "U3.11",
+              "title": "Derivada de una función exponencial y logarítmica"
+            },
+            {
+              "code": "U3.12",
+              "title": "Derivadas de orden superior y de orden n-ésima"
             }
           ]
         },
         {
           "code": "U4",
-          "title": "Aplicaciones de la Derivada",
+          "title": "APLICACIONES DE LA DERIVADA",
           "subunits": [
             {
               "code": "U4.1",
-              "title": "Rapidez de Variación Relacionada"
+              "title": "Razón de cambio: Aplicaciones"
             },
             {
               "code": "U4.2",
-              "title": "Extremos de Una Función: Relativos y Absolutos"
+              "title": "Rapidez de variación relacionada"
             },
             {
               "code": "U4.3",
-              "title": "Teorema de Rolle, Valor Medio y de Cauchy (ape/a)"
+              "title": "Extremos de una función: Relativos y absolutos"
             },
             {
               "code": "U4.4",
-              "title": "Números Críticos"
+              "title": "Teorema de Rolle, valor medio y de Cauchy"
             },
             {
               "code": "U4.5",
-              "title": "Comportamiento de las Funciones"
+              "title": "Teorema de L’Hpital: Indeterminaciones"
             },
             {
               "code": "U4.6",
-              "title": "Criterios de la Segunda Derivada para Extremos Experimental -"
+              "title": "Números críticos"
             },
             {
               "code": "U4.7",
-              "title": "Gráfica de Una Función: Números Críticos,"
+              "title": "Comportamiento de las funciones"
             },
             {
               "code": "U4.8",
-              "title": "Aproximaciones Lineales y Diferenciales"
+              "title": "Concavidad y puntos de inflexión"
+            },
+            {
+              "code": "U4.9",
+              "title": "Criterios de la segunda derivada para extremos relativos"
+            },
+            {
+              "code": "U4.10",
+              "title": "Gráfica de una función: Números críticos, extremos relativos, comportamiento, concavidad y puntos de inflexión"
+            },
+            {
+              "code": "U4.11",
+              "title": "Optimización"
+            },
+            {
+              "code": "U4.12",
+              "title": "Aproximaciones lineales y diferenciales"
             }
           ]
         },
         {
           "code": "U5",
-          "title": "Derivadas Parciales",
+          "title": "DERIVADAS PARCIALES",
           "subunits": [
             {
               "code": "U5.1",
-              "title": "Límites y Continuidad"
+              "title": "Funciones de varias variables"
             },
             {
               "code": "U5.2",
-              "title": "Derivadas Parciales Práctico"
+              "title": "Límites y continuidad"
             },
             {
               "code": "U5.3",
-              "title": "Linealización y Diferenciales Asignatura"
+              "title": "Derivadas parciales"
             },
             {
               "code": "U5.4",
-              "title": "Regla de la Cadena"
+              "title": "Linealización y diferenciales"
             },
             {
               "code": "U5.5",
-              "title": "Derivadas Direccionales y Sus Vectores Gradientes Autónomo (aa) Ejercicios)."
+              "title": "Regla de la cadena"
             },
             {
               "code": "U5.6",
-              "title": "Máximos y Mínimos de Funciones de Varias"
+              "title": "Derivadas direccionales y sus vectores gradientes"
             },
             {
               "code": "U5.7",
-              "title": "Multiplicadores de Lagrange Práctico Individual."
+              "title": "Máximos y mínimos de funciones de varias variables"
+            },
+            {
+              "code": "U5.8",
+              "title": "Multiplicadores de Lagrange"
             }
           ]
         }
       ],
       "unitCount": 5,
-      "subunitCount": 41
+      "subunitCount": 55
     },
     {
       "id": "calculo-diferencial-2",
@@ -247,201 +303,257 @@ const syllabiContentData = {
       "units": [
         {
           "code": "U1",
-          "title": "Funciones",
+          "title": "FUNCIONES",
           "subunits": [
             {
               "code": "U1.1",
-              "title": "Operación con Funciones: Desplazamientos y Práctico"
+              "title": "Funciones: Dominio, rango, gráfica y clases"
             },
             {
               "code": "U1.2",
-              "title": "Funciones Algebraicas: Lineal, Cuadrática y Cúbica (ape/a)"
+              "title": "Combinación de funciones: Composición y relaciones algebraicas"
             },
             {
               "code": "U1.3",
-              "title": "Funciones Especiales: Valor Absoluto y Escalón Autónomo (aa) Ejercicios)"
+              "title": "Operación con funciones: Desplazamientos y escalamientos"
             },
             {
               "code": "U1.4",
-              "title": "Funciones Trigonométricas"
+              "title": "Funciones algebraicas: Lineal, cuadrática y cúbica"
             },
             {
               "code": "U1.5",
-              "title": "Funciones Inversas"
+              "title": "Funciones especiales: Valor absoluto y escalón"
             },
             {
               "code": "U1.6",
-              "title": "Funciones Exponenciales y Logarítmicas Práctico"
+              "title": "Funciones trigonométricas"
             },
             {
               "code": "U1.7",
-              "title": "Funciones Como Modelos Matemáticos Asignatura"
+              "title": "Funciones inversas"
+            },
+            {
+              "code": "U1.8",
+              "title": "Funciones exponenciales y logarítmicas"
+            },
+            {
+              "code": "U1.9",
+              "title": "Funciones como modelos matemáticos"
             }
           ]
         },
         {
           "code": "U2",
-          "title": "Límites y Continuidad",
+          "title": "LÍMITES Y CONTINUIDAD",
           "subunits": [
             {
               "code": "U2.1",
-              "title": "Límites Laterales"
+              "title": "Límite de una función"
             },
             {
               "code": "U2.2",
-              "title": "Teoremas Sobre Límite de Funciones Práctico"
+              "title": "Límites laterales"
             },
             {
               "code": "U2.3",
-              "title": "Continuidad de Una Función en Un Número y en El Asignatura"
+              "title": "Teoremas sobre límite de funciones"
             },
             {
               "code": "U2.4",
-              "title": "Continuidad de las Funciones Algebraicas"
+              "title": "Continuidad de una función en un número y en el intervalo"
             },
             {
               "code": "U2.5",
-              "title": "Continuidad de la Función Composición"
+              "title": "Continuidad de las operaciones con funciones"
             },
             {
               "code": "U2.6",
-              "title": "Límites de las Funciones Trigonométricas Directas Experimental -"
+              "title": "Continuidad de las funciones algebraicas"
             },
             {
               "code": "U2.7",
-              "title": "Límites Al Infinito"
+              "title": "Continuidad de la función composición"
             },
             {
               "code": "U2.8",
-              "title": "Límites Infinitos"
+              "title": "Continuidad de las funciones trascendentes"
             },
             {
               "code": "U2.9",
-              "title": "Asíntotas: Vertical, Horizontal y Oblicua Contacto con El Magistral."
+              "title": "Límites de las funciones trigonométricas directas"
             },
             {
               "code": "U2.10",
-              "title": "Gráfica de las Funciones: Dominio, Rango, Cortes,"
+              "title": "Límites al infinito"
             },
             {
               "code": "U2.11",
-              "title": "Definición Formal de Límite Experimental -"
+              "title": "Límites infinitos"
+            },
+            {
+              "code": "U2.12",
+              "title": "Asíntotas: Vertical, horizontal y oblicua"
+            },
+            {
+              "code": "U2.13",
+              "title": "Gráfica de las funciones: Dominio, rango, cortes, simetría, signo, asíntotas y continuidad"
+            },
+            {
+              "code": "U2.14",
+              "title": "Definición formal de límite"
             }
           ]
         },
         {
           "code": "U3",
-          "title": "La Derivada",
+          "title": "LA DERIVADA",
           "subunits": [
             {
               "code": "U3.1",
-              "title": "Recta Tangente y Velocidad Instantánea"
+              "title": "Incrementos y deferenciales"
             },
             {
               "code": "U3.2",
-              "title": "La Derivada: Definición e Interpretación Geométrica"
+              "title": "Recta tangente y velocidad instantánea"
             },
             {
               "code": "U3.3",
-              "title": "Diferenciabilidad y Continuidad (ape/a)"
+              "title": "La derivada: Definición e interpretación geométrica"
             },
             {
               "code": "U3.4",
-              "title": "Derivada de Funciones Trigonométricas"
+              "title": "Diferenciabilidad y continuidad"
             },
             {
               "code": "U3.5",
-              "title": "Derivada de Funciones Compuestas: Regla de la"
+              "title": "Teoremas de derivación de funciones algebraicas"
             },
             {
               "code": "U3.6",
-              "title": "Diferenciación Implícita"
+              "title": "Derivada de una función potencia para exponente racional"
             },
             {
               "code": "U3.7",
-              "title": "Derivada de Una Función Exponencial y Derivada (investigación)."
+              "title": "Derivada de funciones trigonométricas"
             },
             {
               "code": "U3.8",
-              "title": "Derivadas de Orden Superior y de Orden N-ésima Contacto con El Magistral."
+              "title": "Derivada de funciones compuestas: Regla de la cadena"
+            },
+            {
+              "code": "U3.9",
+              "title": "Diferenciación implícita"
+            },
+            {
+              "code": "U3.10",
+              "title": "Derivada de la función inversa"
+            },
+            {
+              "code": "U3.11",
+              "title": "Derivada de una función exponencial y logarítmica"
+            },
+            {
+              "code": "U3.12",
+              "title": "Derivadas de orden superior y de orden n-ésima"
             }
           ]
         },
         {
           "code": "U4",
-          "title": "Aplicaciones de la Derivada",
+          "title": "APLICACIONES DE LA DERIVADA",
           "subunits": [
             {
               "code": "U4.1",
-              "title": "Rapidez de Variación Relacionada"
+              "title": "Razón de cambio: Aplicaciones"
             },
             {
               "code": "U4.2",
-              "title": "Extremos de Una Función: Relativos y Absolutos"
+              "title": "Rapidez de variación relacionada"
             },
             {
               "code": "U4.3",
-              "title": "Teorema de Rolle, Valor Medio y de Cauchy (ape/a)"
+              "title": "Extremos de una función: Relativos y absolutos"
             },
             {
               "code": "U4.4",
-              "title": "Números Críticos"
+              "title": "Teorema de Rolle, valor medio y de Cauchy"
             },
             {
               "code": "U4.5",
-              "title": "Comportamiento de las Funciones"
+              "title": "Teorema de L’Hpital: Indeterminaciones"
             },
             {
               "code": "U4.6",
-              "title": "Criterios de la Segunda Derivada para Extremos Experimental -"
+              "title": "Números críticos"
             },
             {
               "code": "U4.7",
-              "title": "Gráfica de Una Función: Números Críticos,"
+              "title": "Comportamiento de las funciones"
             },
             {
               "code": "U4.8",
-              "title": "Aproximaciones Lineales y Diferenciales"
+              "title": "Concavidad y puntos de inflexión"
+            },
+            {
+              "code": "U4.9",
+              "title": "Criterios de la segunda derivada para extremos relativos"
+            },
+            {
+              "code": "U4.10",
+              "title": "Gráfica de una función: Números críticos, extremos relativos, comportamiento, concavidad y puntos de inflexión"
+            },
+            {
+              "code": "U4.11",
+              "title": "Optimización"
+            },
+            {
+              "code": "U4.12",
+              "title": "Aproximaciones lineales y diferenciales"
             }
           ]
         },
         {
           "code": "U5",
-          "title": "Derivadas Parciales",
+          "title": "DERIVADAS PARCIALES",
           "subunits": [
             {
               "code": "U5.1",
-              "title": "Límites y Continuidad"
+              "title": "Funciones de varias variables"
             },
             {
               "code": "U5.2",
-              "title": "Derivadas Parciales Práctico"
+              "title": "Límites y continuidad"
             },
             {
               "code": "U5.3",
-              "title": "Linealización y Diferenciales Asignatura"
+              "title": "Derivadas parciales"
             },
             {
               "code": "U5.4",
-              "title": "Regla de la Cadena"
+              "title": "Linealización y diferenciales"
             },
             {
               "code": "U5.5",
-              "title": "Derivadas Direccionales y Sus Vectores Gradientes Autónomo (aa) Ejercicios)."
+              "title": "Regla de la cadena"
             },
             {
               "code": "U5.6",
-              "title": "Máximos y Mínimos de Funciones de Varias"
+              "title": "Derivadas direccionales y sus vectores gradientes"
             },
             {
               "code": "U5.7",
-              "title": "Multiplicadores de Lagrange Práctico Individual."
+              "title": "Máximos y mínimos de funciones de varias variables"
+            },
+            {
+              "code": "U5.8",
+              "title": "Multiplicadores de Lagrange"
             }
           ]
         }
       ],
       "unitCount": 5,
-      "subunitCount": 41
+      "subunitCount": 55
     },
     {
       "id": "fisica-ii-1",
@@ -466,209 +578,85 @@ const syllabiContentData = {
       "units": [
         {
           "code": "U1",
-          "title": "Movimiento Armónico Simple",
+          "title": "MOVIMIENTO ARMÓNICO SIMPLE",
           "subunits": [
             {
               "code": "U1.1",
-              "title": "2 Energía en El M.a.s Contacto con El Docente, Retroalimentación Técnica:"
-            },
-            {
-              "code": "U1.2",
-              "title": "3 Péndulos Docente (acd) Pregunta-respuesta."
-            },
-            {
-              "code": "U1.3",
-              "title": "4 Combinación de M.a.s"
+              "title": "1.1 Cinemática y dinámica del M.A.S 1.2 Energía en el M.A.S 1.3 Péndulos 1.4 Combinación de M.A.S 1.5 Resolución de Problemas"
             }
           ]
         },
         {
           "code": "U2",
-          "title": "Electrostática",
+          "title": "ELECTROSTÁTICA",
           "subunits": [
             {
               "code": "U2.1",
-              "title": "1.1 Estructura de la Materia Contacto con El Docente, Retroalimentación Técnica:"
+              "title": "2.1 Carga Eléctrica y Campo Eléctrico 2.1.1 Estructura de la materia 2.1.2 Cargas positivas y negativas 2.1.3 Aislantes y conductores 2.1.4 Ley de Coulomb 2.1.5 Formas de electrización 2.1.6 El campo eléctrico y las fuerzas eléctricas 2.1.7 Líneas de campo eléctrico 2.1.8 Cálculos de campos eléctricos"
             },
             {
               "code": "U2.2",
-              "title": "1.2 Cargas Positivas y Negativas Docente (acd) Pregunta-respuesta"
+              "title": "2.2 Ley de Gauss 2.2.1 Carga y flujo eléctrico 2.2.2 Cálculo del flujo eléctrico 2.2.3 Aplicaciones de la ley de Gauss 2.2.4 Cargas en conductores"
             },
             {
               "code": "U2.3",
-              "title": "1.3 Aislantes y Conductores"
-            },
-            {
-              "code": "U2.4",
-              "title": "1.5 Formas de Electrización Práctico Experimentales en Laboratorio."
-            },
-            {
-              "code": "U2.5",
-              "title": "1.6 El Campo Eléctrico y las Fuerzas Eléctricas Experimental - Resolución Guiada de Ejercicios en"
-            },
-            {
-              "code": "U2.6",
-              "title": "1.7 Líneas de Campo Eléctrico Asignatura Grupos de Trabajo."
-            },
-            {
-              "code": "U2.7",
-              "title": "1.8 Cálculos de Campos Eléctricos"
-            },
-            {
-              "code": "U2.8",
-              "title": "2.1 Carga y Flujo Eléctrico Autónomo (aa)"
-            },
-            {
-              "code": "U2.9",
-              "title": "2.2 Cálculo del Flujo Eléctrico"
-            },
-            {
-              "code": "U2.10",
-              "title": "2.3 Aplicaciones de la Ley de Gauss"
-            },
-            {
-              "code": "U2.11",
-              "title": "2.4 Cargas en Conductores"
-            },
-            {
-              "code": "U2.12",
-              "title": "2.3 Potencial Eléctrico"
+              "title": "2.3 Potencial Eléctrico 2.3.1 Energía potencial Eléctrica 2.3.2 Diferencia de potencial. 2.3.3 Potencial y distribución de carga 2.3.4 Relación entre potencial eléctrico y campo eléctrico 2.3.5 Potencial de una esfera 2.3.6 Superficies equipotenciales 2.3.7 Electrón -Volt"
             }
           ]
         },
         {
           "code": "U3",
-          "title": "Capacidad y Capacitores",
+          "title": "CAPACIDAD Y CAPACITORES",
           "subunits": [
             {
               "code": "U3.1",
-              "title": "2 Energía de Un Capacitor Contacto con El Docente, Retroalimentación Técnica:"
-            },
-            {
-              "code": "U3.2",
-              "title": "3 Capacitores en Serie y en Paralelo Docente (acd) Pregunta-respuesta."
-            },
-            {
-              "code": "U3.3",
-              "title": "4 Almacenamiento de Energía en Capacitores y"
-            },
-            {
-              "code": "U3.4",
-              "title": "5 Capacitor de Láminas"
-            },
-            {
-              "code": "U3.5",
-              "title": "6 Otros Capacitores"
+              "title": "3.1 Capacidad de un conductor 3.2 Energía de un capacitor 3.3 Capacitores en serie y en paralelo 3.4 Almacenamiento de energía en capacitores y energía de campo eléctrico 3.5 Capacitor de láminas 3.6 Otros capacitores"
             }
           ]
         },
         {
           "code": "U4",
-          "title": "Electrocinética",
+          "title": "ELECTROCINÉTICA",
           "subunits": [
             {
               "code": "U4.1",
-              "title": "2 Densidad de Corriente Contacto con El Docente, Retroalimentación Técnica:"
-            },
-            {
-              "code": "U4.2",
-              "title": "3 Conductibilidad Docente (acd) Pregunta-respuesta."
-            },
-            {
-              "code": "U4.3",
-              "title": "4 Ley de Ohm: Resistencia y Resistores"
-            },
-            {
-              "code": "U4.4",
-              "title": "6 Variación de la Resistencia con la Temperatura"
-            },
-            {
-              "code": "U4.5",
-              "title": "7 Ley de Joule"
+              "title": "4.1 Intensidad de corriente 4.2 Densidad de corriente 4.3 Conductibilidad 4.4 Ley de Ohm: Resistencia y resistores 4.5 Resistividad 4.6 Variación de la resistencia con la temperatura 4.7 Ley de Joule"
             }
           ]
         },
         {
           "code": "U5",
-          "title": "Circuitos Eléctricos",
+          "title": "CIRCUITOS ELÉCTRICOS",
           "subunits": [
             {
               "code": "U5.1",
-              "title": "2 Energía y Potencia en Circuitos Eléctricos Contacto con El Docente, Retroalimentación Técnica:"
-            },
-            {
-              "code": "U5.2",
-              "title": "3 Corriente Alterna Docente (acd) Pregunta-respuesta."
-            },
-            {
-              "code": "U5.3",
-              "title": "4 Circuitos de Corriente Directa"
-            },
-            {
-              "code": "U5.4",
-              "title": "6 Reglas de Kirchhoff"
-            },
-            {
-              "code": "U5.5",
-              "title": "7 Medición de Corriente y Voltaje."
-            },
-            {
-              "code": "U5.6",
-              "title": "8 Circuitos R-c"
+              "title": "5.1 Fuerza electromotriz y circuitos 5.2 Energía y potencia en circuitos eléctricos 5.3 Corriente Alterna 5.4 Circuitos de Corriente directa 5.5 Resistencia en serie y paralelo 5.6 Reglas de Kirchhoff 5.7 Medición de corriente y voltaje. 5.8 Circuitos R-C"
             }
           ]
         },
         {
           "code": "U6",
-          "title": "Magnetismo",
+          "title": "MAGNETISMO",
           "subunits": [
             {
               "code": "U6.1",
-              "title": "2 Líneas de Campo Magnético Contacto con El Docente, Retroalimentación Técnica:"
-            },
-            {
-              "code": "U6.2",
-              "title": "3 Flujo Magnético Docente (acd) Pregunta-respuesta"
-            },
-            {
-              "code": "U6.3",
-              "title": "4 Movimiento de Partículas Cargadas en Un Campos"
-            },
-            {
-              "code": "U6.4",
-              "title": "5 Fuerzas Magnéticas"
-            },
-            {
-              "code": "U6.5",
-              "title": "6 El Efecto Hall"
+              "title": "6.1 Campo magnético 6.2 Líneas de campo magnético 6.3 Flujo magnético 6.4 Movimiento de partículas cargadas en un campos magnético 6.5 Fuerzas magnéticas 6.6 El efecto Hall"
             }
           ]
         },
         {
           "code": "U7",
-          "title": "Electromagnetismo",
+          "title": "ELECTROMAGNETISMO",
           "subunits": [
             {
               "code": "U7.1",
-              "title": "2 Ley de Ampere Contacto con El Docente, Retroalimentación Técnica:"
-            },
-            {
-              "code": "U7.2",
-              "title": "3 Aplicaciones: Campo Magnético Creado por Un Docente (acd) Pregunta-respuesta."
-            },
-            {
-              "code": "U7.3",
-              "title": "5 Campo Creado por Una Espira"
-            },
-            {
-              "code": "U7.4",
-              "title": "6 Campo de Un Solenoide"
+              "title": "7.1 Electromagnetismo 7.2 Ley de Ampere 7.3 Aplicaciones: Campo magnético creado por un conductor rectilíneo 7.4 Materiales magnéticos 7.5 Campo creado por una espira 7.6 Campo de un solenoide"
             }
           ]
         }
       ],
       "unitCount": 7,
-      "subunitCount": 40
+      "subunitCount": 9
     },
     {
       "id": "fisico-quimica-1",
@@ -693,46 +681,77 @@ const syllabiContentData = {
       "units": [
         {
           "code": "U1",
-          "title": "Disoluciones",
+          "title": "DISOLUCIONES",
           "subunits": [
             {
               "code": "U1.1",
-              "title": "Presión de Vapor de las Disoluciones Ideales y (ape/a)"
+              "title": "Disoluciones reales e ideales. Generalidades, Propiedades Termodinámicas de las soluciones reales e ideales, semejanzas y diferencias"
+            },
+            {
+              "code": "U1.2",
+              "title": "Presión de vapor de las disoluciones ideales y reales. Ley de Roult . Desviaciones de la ley de Roult. Problemas de aplicación"
             }
           ]
         },
         {
           "code": "U2",
-          "title": "Solubilidad y Producto de Solubilidad",
-          "subunits": []
+          "title": "SOLUBILIDAD Y PRODUCTO DE SOLUBILIDAD",
+          "subunits": [
+            {
+              "code": "U2.1",
+              "title": "Generalidades. Solubilidad de gases en líquidos. Ley de Henry. Solubilidad de sales poco solubles. Kps. Factores que influyen en la solubilidad. Problemas de aplicación"
+            }
+          ]
         },
         {
           "code": "U3",
-          "title": "Equilibrio y Diagramas de Fases",
-          "subunits": []
+          "title": "EQUILIBRIO Y DIAGRAMAS DE FASES",
+          "subunits": [
+            {
+              "code": "U3.1",
+              "title": "Generalidades. La regla de las fases de Gibbs. Equilibrios de fases en sistemas de dos componentes: Diagramas presión composición, Diagramas temperatura composición. Equilibrio líquido-vapor y sus diagramas. Problemas de aplicación a la destilación. Equilibrio líquido-líquido y sus diagramas. Cambios en la energía libre de Gibbs. La regla de la palanca. Problemas de aplicación. Equilibrio sólido-líquido y sus diagramas. Problemas de aplicación"
+            },
+            {
+              "code": "U3.2",
+              "title": "Sistemas de tres componentes: Representación de sistemas de tres componentes. Equilibrio líquido- líquido en sistemas ternarios. Coeficiente de reparto. Equilibrios en soluciones acuosas de sales, Sales dobles e hidratos. Problemas de aplicación"
+            }
+          ]
         },
         {
           "code": "U4",
-          "title": "Electroquímica",
+          "title": "ELECTROQUÍMICA",
           "subunits": [
             {
               "code": "U4.1",
-              "title": "Celdas Galvánicas. Características Principales,"
+              "title": "Generalidades. Celdas electroquímicas tipos y constituyentes. Transformaciones en los electrodos. La electrólisis, leyes de Faraday para la electrólisis. Problemas de aplicación"
             },
             {
               "code": "U4.2",
-              "title": "Propiedades de los Electrolitos, Conductividad,"
+              "title": "Celdas Galvánicas. Características principales, tipos de electrodos. Potencial normal de electrodo. Potencial estándar de celda. Problemas de aplicación. Termodinámica de pilas y baterías, energía libre de Gibbs, entalpía, entropía, coeficiente térmico de la FEM. Problemas de aplicación. Variación de la fuerza electromotriz con la concentración, ecuación de Nernst. Problemas de aplicación. Aplicación de las medidas de la FEM: determinación de constantes de equilibrio iónico. Determinación del pH. Titulaciones potenciométricas. Problemas de aplicación"
+            },
+            {
+              "code": "U4.3",
+              "title": "Propiedades de los electrolitos, conductividad, conductividad específica, conductividad molar y equivalente. Influencia de la concentración y temperatura en el valor de la conductividad. Ley de Kohlrausch de la conductividad iónica. Conductividad a dilución infinita de electrolitos fuertes y débiles. Movilidad Iónica. Titulaciones conductimétricas. Problemas de aplicación"
             }
           ]
         },
         {
           "code": "U5",
-          "title": "Fenómenos de Superficie",
-          "subunits": []
+          "title": "FENÓMENOS DE SUPERFICIE",
+          "subunits": [
+            {
+              "code": "U5.1",
+              "title": "Generalidades. Tensión superficial. Variación de la tensión superficial con la temperatura. Problemas de aplicación. Tensión superficial en soluciones. Sustancias tenso activas"
+            },
+            {
+              "code": "U5.2",
+              "title": "Generalidades. Mecanismos de adsorción: adsorción física y química. Isotermas de adsorción. Ecuaciones de adsorción de Freundlich y Langmuir. Problemas de aplicación"
+            }
+          ]
         }
       ],
       "unitCount": 5,
-      "subunitCount": 3
+      "subunitCount": 10
     },
     {
       "id": "operaciones-unitarias-ii-evaporacion-destilacion-y-cristalizacion-1",
@@ -757,115 +776,139 @@ const syllabiContentData = {
       "units": [
         {
           "code": "U1",
-          "title": "Tema 1: Introducción y Generalidades",
+          "title": "TEMA 1: INTRODUCCIÓN Y GENERALIDADES",
           "subunits": [
             {
               "code": "U1.1",
-              "title": "Balances de Masa y Energía"
+              "title": "Conversión de Unidades y Manejo de Tablas"
+            },
+            {
+              "code": "U1.2",
+              "title": "Balances de masa y energía"
             }
           ]
         },
         {
           "code": "U2",
-          "title": "Tema 2: Operación Unitaria Evaporación",
+          "title": "TEMA 2: OPERACIÓN UNITARIA EVAPORACIÓN",
           "subunits": [
             {
               "code": "U2.1",
-              "title": "Coeficiente de Transmisión de Calor, Diferencia de"
+              "title": "Generalidades: Vaporización, Punto de Ebullición, Presión de Vapor, Energía necesaria para la Vaporización"
             },
             {
               "code": "U2.2",
-              "title": "Tipos de Evaporadores Experimental - Equipos Complementarios."
+              "title": "Coeficiente de Transmisión de Calor, Diferencia de temperatura"
             },
             {
               "code": "U2.3",
-              "title": "Balance de Materia de Un Evaporador Simple"
+              "title": "Tipos de Evaporadores"
             },
             {
               "code": "U2.4",
-              "title": "Diagrama de Diuring Complementarios y El Desarrollo de"
+              "title": "Balance de Materia de un Evaporador Simple"
             },
             {
               "code": "U2.5",
-              "title": "Balance de Energía de Un Evaporador Simple"
+              "title": "Diagrama de Diuring"
             },
             {
               "code": "U2.6",
-              "title": "Evaporación en Múltiple Efecto"
+              "title": "Balance de Energía de un Evaporador Simple"
             },
             {
               "code": "U2.7",
-              "title": "Tipos de Alimentación y Cálculo de Un Múltiple"
+              "title": "Evaporación en Múltiple efecto"
             },
             {
               "code": "U2.8",
-              "title": "Compresión Mecánica y Térmica"
+              "title": "Tipos de alimentación y cálculo de un múltiple efecto"
             },
             {
               "code": "U2.9",
+              "title": "Compresión Mecánica y Térmica"
+            },
+            {
+              "code": "U2.10",
               "title": "Condensador"
             }
           ]
         },
         {
           "code": "U3",
-          "title": "Tema 3: Operación Unitaria Destilación",
+          "title": "TEMA 3: OPERACIÓN UNITARIA DESTILACIÓN",
           "subunits": [
             {
               "code": "U3.1",
-              "title": "Diagramas Isobáricos e Isotérmicos Contacto con El"
+              "title": "Métodos para determinar datos de equilibrio"
             },
             {
               "code": "U3.2",
-              "title": "Mezclas Azeotrópicas"
+              "title": "Diagramas Isobáricos e Isotérmicos"
             },
             {
               "code": "U3.3",
-              "title": "Destilación Flash Experimental -"
+              "title": "Mezclas azeotrópicas"
             },
             {
               "code": "U3.4",
-              "title": "Punto de Burbuja y Punto de Rocío (ape/a)"
+              "title": "Tipos de Destilación"
             },
             {
               "code": "U3.5",
-              "title": "Destilación Diferencial"
+              "title": "Destilación Flash"
             },
             {
               "code": "U3.6",
-              "title": "Condensación Abierta y Parcial"
+              "title": "Punto de Burbuja y punto de Rocío"
             },
             {
               "code": "U3.7",
+              "title": "Calor necesario para la destilación"
+            },
+            {
+              "code": "U3.8",
+              "title": "Destilación Diferencial"
+            },
+            {
+              "code": "U3.9",
+              "title": "Condensación abierta y parcial"
+            },
+            {
+              "code": "U3.10",
               "title": "Rectificación y Agotamiento"
             }
           ]
         },
         {
           "code": "U4",
-          "title": "Tema 4: Operación Unitaria Cristalización",
+          "title": "TEMA 4: OPERACIÓN UNITARIA CRISTALIZACIÓN",
           "subunits": [
             {
               "code": "U4.1",
-              "title": "Balance de Masa y Energía Docente (acd) Nucleación. Equipos Utilizados"
+              "title": "Geometría de los cristales"
             },
             {
               "code": "U4.2",
-              "title": "Sobresaturación y Unidades de Sobresaturación"
+              "title": "Balance de masa y energía"
             },
             {
               "code": "U4.3",
-              "title": "Nucleación y Tipos de Nucleación"
+              "title": "Sobresaturación y Unidades de Sobresaturación"
             },
             {
               "code": "U4.4",
+              "title": "Nucleación y tipos de Nucleación"
+            },
+            {
+              "code": "U4.5",
               "title": "Equipos de Cristalización"
             }
           ]
         }
       ],
       "unitCount": 4,
-      "subunitCount": 21
+      "subunitCount": 27
     },
     {
       "id": "microbiologia-industrial-1",
@@ -894,57 +937,131 @@ const syllabiContentData = {
       "units": [
         {
           "code": "U1",
-          "title": "Características Morfológicas y Fisiológicas de los Microorganismos",
-          "subunits": []
+          "title": "CARACTERÍSTICAS MORFOLÓGICAS Y FISIOLÓGICAS DE LOS MICROORGANISMOS",
+          "subunits": [
+            {
+              "code": "U1.1",
+              "title": "Microorganismos: conceptos generales. Características de las bacterias, reproducción de las bacterias. Características de las levaduras, reproducción de las levaduras. Características de los hongos filamentosos, reproducción de los hongos filamentosos"
+            }
+          ]
         },
         {
           "code": "U2",
-          "title": "Factores Que Influyen en El Crecimiento de los Microorganismos",
-          "subunits": []
+          "title": "FACTORES QUE INFLUYEN EN EL CRECIMIENTO DE LOS MICROORGANISMOS",
+          "subunits": [
+            {
+              "code": "U2.1",
+              "title": "Factores ambientales: temperatura, pH, disponibilidad de oxígeno, actividad acuosa, disponibilidad de nutrientes"
+            }
+          ]
         },
         {
           "code": "U3",
-          "title": "Origen de la Contaminación de los Alimentos. Contaminación Química y Biológica. los Factores",
+          "title": "ORIGEN DE LA CONTAMINACIÓN DE LOS ALIMENTOS. CONTAMINACIÓN QUÍMICA Y BIOLÓGICA. LOS FACTORES AMBIENTALES QUE ORIGINAN CONTAMINACIÓN",
           "subunits": [
             {
               "code": "U3.1",
-              "title": "Contaminación A Través de Cuerpos de Agua."
+              "title": "1"
+            },
+            {
+              "code": "U3.2",
+              "title": "Contaminación química y biológica. infecciones e intoxicaciones: causas, tratamiento"
+            },
+            {
+              "code": "U3.3",
+              "title": "Contaminación a través de cuerpos de agua. Contaminación a través del suelo. Contaminación a través del aire"
             }
           ]
         },
         {
           "code": "U4",
-          "title": "Contaminación por Intervención Humana: Contaminación de Personas Infectadas. Contaminación",
-          "subunits": []
+          "title": "CONTAMINACIÓN POR INTERVENCIÓN HUMANA: CONTAMINACIÓN DE PERSONAS INFECTADAS. CONTAMINACIÓN CRUZADA, ETC",
+          "subunits": [
+            {
+              "code": "U4.1",
+              "title": "Enfermedades transmitidas por alimentos. Contaminación antropogénica. Presencia de vectores"
+            }
+          ]
         },
         {
           "code": "U5",
-          "title": "Métodos de Conservación de los Alimentos",
-          "subunits": []
+          "title": "MÉTODOS DE CONSERVACIÓN DE LOS ALIMENTOS",
+          "subunits": [
+            {
+              "code": "U5.1",
+              "title": "Fundamento de los métodos de conservación de alimentos. La conservación basada en la manipulación de la temperatura. Conservación basada en la manipulación de la actividad acuosa. Métodos basados en la manipulación de la disponibilidad de oxígeno. Métodos basados en la manipulación de pH"
+            }
+          ]
         },
         {
           "code": "U6",
-          "title": "Microorganismos Que Actúan en Leche y Productos Lácteos",
+          "title": "MICROORGANISMOS QUE ACTÚAN EN LECHE Y PRODUCTOS LÁCTEOS",
           "subunits": [
             {
               "code": "U6.1",
-              "title": "Cultivos Lácticos"
+              "title": "1"
+            },
+            {
+              "code": "U6.2",
+              "title": "Leche y productos lácteos. Microorganismos beneficiosos y contaminantes"
+            },
+            {
+              "code": "U6.3",
+              "title": "Cultivos lácticos"
             }
           ]
         },
         {
           "code": "U7",
-          "title": "Microorganismos Que Actúan en Productos Cárnicos",
-          "subunits": []
+          "title": "MICROORGANISMOS QUE ACTÚAN EN PRODUCTOS CÁRNICOS",
+          "subunits": [
+            {
+              "code": "U7.1",
+              "title": "Carnes y productos procesados. Microorganismos beneficiosos y perjudiciales"
+            }
+          ]
         },
         {
           "code": "U8",
-          "title": "Microorganismos Que Actúan en Productos Marinos",
-          "subunits": []
+          "title": "MICROORGANISMOS QUE ACTÚAN EN PRODUCTOS MARINOS",
+          "subunits": [
+            {
+              "code": "U8.1",
+              "title": "Productos marinos: peces y mariscos. Microorganismos perjudiciales. Enfermedades y tratamientos"
+            }
+          ]
+        },
+        {
+          "code": "U9",
+          "title": "MICROORGANISMOS INDUSTRIALES: CONCEPTOS GENERALES. IDENTIFICACIÓN Y AISLAMIENTO DE MICROORGANISMOS INDUSTRIALES",
+          "subunits": [
+            {
+              "code": "U9.1",
+              "title": "1"
+            },
+            {
+              "code": "U9.2",
+              "title": "Los microorganismos industriales. Concepto. Microorganismos modificados genéticamente. Pasos para el aislamiento y caracterización de las cepas industriales: identificación del habitad, aislamiento primario, aislamiento secundario, caracterización microbiológica"
+            },
+            {
+              "code": "U9.3",
+              "title": "Biorremediación"
+            }
+          ]
+        },
+        {
+          "code": "U10",
+          "title": "FASES DE CRECIMIENTO DE LOS MICROORGANISMOS",
+          "subunits": [
+            {
+              "code": "U10.1",
+              "title": "Fases de crecimiento de los microorganismos: fase de latencia, fase de aceleración del crecimiento, fase exponencial, fase de desaceleración del crecimiento, fase estacionaria"
+            }
+          ]
         }
       ],
-      "unitCount": 8,
-      "subunitCount": 2
+      "unitCount": 10,
+      "subunitCount": 16
     },
     {
       "id": "diseno-y-desarrollo-de-productos-1",
@@ -969,79 +1086,87 @@ const syllabiContentData = {
       "units": [
         {
           "code": "U1",
-          "title": "Introducción",
+          "title": "INTRODUCCIÓN",
           "subunits": [
             {
               "code": "U1.1",
-              "title": "Importancia de la Investigación Como Fuente de"
+              "title": "Importancia de la Investigación como fuente de ventaja competitiva"
             },
             {
               "code": "U1.2",
-              "title": "Principales Desafíos para El Desarrollo de"
+              "title": "Principales desafíos para el desarrollo de productos y servicios"
             },
             {
               "code": "U1.3",
-              "title": "Factores Críticos de Éxito para El Lanzamiento de"
+              "title": "Factores críticos de éxito para el lanzamiento de nuevos productos/servicios"
             }
           ]
         },
         {
           "code": "U2",
-          "title": "Planeación del Desarrollo de Nuevos Productos / Servicios",
+          "title": "PLANEACIÓN DEL DESARROLLO DE NUEVOS PRODUCTOS / SERVICIOS",
           "subunits": [
             {
               "code": "U2.1",
-              "title": "2 Vigilancia Tecnológica"
+              "title": "Análisis de Tendencias 1.1. Herramientas para recolección de información en el mercado 1.2 Vigilancia tecnológica"
             },
             {
               "code": "U2.2",
-              "title": "Identificación de Oportunidades: Análisis de"
+              "title": "Identificación de oportunidades: Análisis de necesidades problemas y necesidades del cliente"
             },
             {
               "code": "U2.3",
-              "title": "Proceso de Generación de Ideas – Creatividad e"
+              "title": "Proceso de generación de Ideas – Creatividad e innovación"
             },
             {
               "code": "U2.4",
-              "title": "Propuesta de Valor: Diseño del Concepto del"
+              "title": "Propuesta de Valor: Diseño del concepto del producto/ servicio – Design Thinking"
             },
             {
               "code": "U2.5",
-              "title": "Generación, Selección de Ideas y Prueba de"
+              "title": "Generación, selección de ideas y prueba de conceptos a partir de herramientas como la termodinámica y la cinético química"
             },
             {
               "code": "U2.6",
-              "title": "Priorización de Proyectos"
+              "title": "Priorización de proyectos"
             }
           ]
         },
         {
           "code": "U3",
-          "title": "Proceso de Desarrollo de Nuevos Productos Y/o Servicios",
+          "title": "PROCESO DE DESARROLLO DE NUEVOS PRODUCTOS Y/O SERVICIOS",
           "subunits": [
             {
               "code": "U3.1",
-              "title": "Definición del Producto / Servicio Incluyendo Asignatura"
+              "title": "Modelos para el proceso de desarrollo de nuevos productos/servicios • Proceso lineal (stage gate) de desarrollo de nuevos productos • Metodologías ágiles – iterativas para el desarrollo de nuevos productos"
             },
             {
               "code": "U3.2",
-              "title": "Definición del Modelo de Negocio - Canvas"
+              "title": "Definición del producto / servicio incluyendo productos químicos especiales • Componentes/especificaciones del producto • Diseño, construcción y validación del prototipo • Diseño Industrial • Diseño para Manufactura • Economía del producto /servicio"
+            },
+            {
+              "code": "U3.3",
+              "title": "Definición del modelo de negocio - CANVAS"
             }
           ]
         },
         {
           "code": "U4",
-          "title": "Gestión de Procesos de Desarrollo de Nuevos Productos / Servicios",
+          "title": "GESTIÓN DE PROCESOS DE DESARROLLO DE NUEVOS PRODUCTOS / SERVICIOS",
           "subunits": [
             {
               "code": "U4.1",
-              "title": "Gestión de la Propiedad Intelectual en Proyectos"
+              "title": "Gestión de Portafolios – Planeación estratégica de nuevos productos y servicios"
+            },
+            {
+              "code": "U4.2",
+              "title": "Gestión de la Propiedad Intelectual en proyectos de nuevos productos/servicios"
             }
           ]
         }
       ],
       "unitCount": 4,
-      "subunitCount": 12
+      "subunitCount": 14
     },
     {
       "id": "fisica-ii-1-2",
@@ -1066,209 +1191,85 @@ const syllabiContentData = {
       "units": [
         {
           "code": "U1",
-          "title": "Movimiento Armónico Simple",
+          "title": "MOVIMIENTO ARMÓNICO SIMPLE",
           "subunits": [
             {
               "code": "U1.1",
-              "title": "2 Energía en El M.a.s Contacto con El Docente, Retroalimentación Técnica:"
-            },
-            {
-              "code": "U1.2",
-              "title": "3 Péndulos Docente (acd) Pregunta-respuesta."
-            },
-            {
-              "code": "U1.3",
-              "title": "4 Combinación de M.a.s"
+              "title": "1.1 Cinemática y dinámica del M.A.S 1.2 Energía en el M.A.S 1.3 Péndulos 1.4 Combinación de M.A.S 1.5 Resolución de Problemas"
             }
           ]
         },
         {
           "code": "U2",
-          "title": "Electrostática",
+          "title": "ELECTROSTÁTICA",
           "subunits": [
             {
               "code": "U2.1",
-              "title": "1.1 Estructura de la Materia Contacto con El Docente, Retroalimentación Técnica:"
+              "title": "2.1 Carga Eléctrica y Campo Eléctrico 2.1.1 Estructura de la materia 2.1.2 Cargas positivas y negativas 2.1.3 Aislantes y conductores 2.1.4 Ley de Coulomb 2.1.5 Formas de electrización 2.1.6 El campo eléctrico y las fuerzas eléctricas 2.1.7 Líneas de campo eléctrico 2.1.8 Cálculos de campos eléctricos"
             },
             {
               "code": "U2.2",
-              "title": "1.2 Cargas Positivas y Negativas Docente (acd) Pregunta-respuesta"
+              "title": "2.2 Ley de Gauss 2.2.1 Carga y flujo eléctrico 2.2.2 Cálculo del flujo eléctrico 2.2.3 Aplicaciones de la ley de Gauss 2.2.4 Cargas en conductores"
             },
             {
               "code": "U2.3",
-              "title": "1.3 Aislantes y Conductores"
-            },
-            {
-              "code": "U2.4",
-              "title": "1.5 Formas de Electrización Práctico Experimentales en Laboratorio."
-            },
-            {
-              "code": "U2.5",
-              "title": "1.6 El Campo Eléctrico y las Fuerzas Eléctricas Experimental - Resolución Guiada de Ejercicios en"
-            },
-            {
-              "code": "U2.6",
-              "title": "1.7 Líneas de Campo Eléctrico Asignatura Grupos de Trabajo."
-            },
-            {
-              "code": "U2.7",
-              "title": "1.8 Cálculos de Campos Eléctricos"
-            },
-            {
-              "code": "U2.8",
-              "title": "2.1 Carga y Flujo Eléctrico Autónomo (aa)"
-            },
-            {
-              "code": "U2.9",
-              "title": "2.2 Cálculo del Flujo Eléctrico"
-            },
-            {
-              "code": "U2.10",
-              "title": "2.3 Aplicaciones de la Ley de Gauss"
-            },
-            {
-              "code": "U2.11",
-              "title": "2.4 Cargas en Conductores"
-            },
-            {
-              "code": "U2.12",
-              "title": "2.3 Potencial Eléctrico"
+              "title": "2.3 Potencial Eléctrico 2.3.1 Energía potencial Eléctrica 2.3.2 Diferencia de potencial. 2.3.3 Potencial y distribución de carga 2.3.4 Relación entre potencial eléctrico y campo eléctrico 2.3.5 Potencial de una esfera 2.3.6 Superficies equipotenciales 2.3.7 Electrón -Volt"
             }
           ]
         },
         {
           "code": "U3",
-          "title": "Capacidad y Capacitores",
+          "title": "CAPACIDAD Y CAPACITORES",
           "subunits": [
             {
               "code": "U3.1",
-              "title": "2 Energía de Un Capacitor Contacto con El Docente, Retroalimentación Técnica:"
-            },
-            {
-              "code": "U3.2",
-              "title": "3 Capacitores en Serie y en Paralelo Docente (acd) Pregunta-respuesta."
-            },
-            {
-              "code": "U3.3",
-              "title": "4 Almacenamiento de Energía en Capacitores y"
-            },
-            {
-              "code": "U3.4",
-              "title": "5 Capacitor de Láminas"
-            },
-            {
-              "code": "U3.5",
-              "title": "6 Otros Capacitores"
+              "title": "3.1 Capacidad de un conductor 3.2 Energía de un capacitor 3.3 Capacitores en serie y en paralelo 3.4 Almacenamiento de energía en capacitores y energía de campo eléctrico 3.5 Capacitor de láminas 3.6 Otros capacitores"
             }
           ]
         },
         {
           "code": "U4",
-          "title": "Electrocinética",
+          "title": "ELECTROCINÉTICA",
           "subunits": [
             {
               "code": "U4.1",
-              "title": "2 Densidad de Corriente Contacto con El Docente, Retroalimentación Técnica:"
-            },
-            {
-              "code": "U4.2",
-              "title": "3 Conductibilidad Docente (acd) Pregunta-respuesta."
-            },
-            {
-              "code": "U4.3",
-              "title": "4 Ley de Ohm: Resistencia y Resistores"
-            },
-            {
-              "code": "U4.4",
-              "title": "6 Variación de la Resistencia con la Temperatura"
-            },
-            {
-              "code": "U4.5",
-              "title": "7 Ley de Joule"
+              "title": "4.1 Intensidad de corriente 4.2 Densidad de corriente 4.3 Conductibilidad 4.4 Ley de Ohm: Resistencia y resistores 4.5 Resistividad 4.6 Variación de la resistencia con la temperatura 4.7 Ley de Joule"
             }
           ]
         },
         {
           "code": "U5",
-          "title": "Circuitos Eléctricos",
+          "title": "CIRCUITOS ELÉCTRICOS",
           "subunits": [
             {
               "code": "U5.1",
-              "title": "2 Energía y Potencia en Circuitos Eléctricos Contacto con El Docente, Retroalimentación Técnica:"
-            },
-            {
-              "code": "U5.2",
-              "title": "3 Corriente Alterna Docente (acd) Pregunta-respuesta."
-            },
-            {
-              "code": "U5.3",
-              "title": "4 Circuitos de Corriente Directa"
-            },
-            {
-              "code": "U5.4",
-              "title": "6 Reglas de Kirchhoff"
-            },
-            {
-              "code": "U5.5",
-              "title": "7 Medición de Corriente y Voltaje."
-            },
-            {
-              "code": "U5.6",
-              "title": "8 Circuitos R-c"
+              "title": "5.1 Fuerza electromotriz y circuitos 5.2 Energía y potencia en circuitos eléctricos 5.3 Corriente Alterna 5.4 Circuitos de Corriente directa 5.5 Resistencia en serie y paralelo 5.6 Reglas de Kirchhoff 5.7 Medición de corriente y voltaje. 5.8 Circuitos R-C"
             }
           ]
         },
         {
           "code": "U6",
-          "title": "Magnetismo",
+          "title": "MAGNETISMO",
           "subunits": [
             {
               "code": "U6.1",
-              "title": "2 Líneas de Campo Magnético Contacto con El Docente, Retroalimentación Técnica:"
-            },
-            {
-              "code": "U6.2",
-              "title": "3 Flujo Magnético Docente (acd) Pregunta-respuesta"
-            },
-            {
-              "code": "U6.3",
-              "title": "4 Movimiento de Partículas Cargadas en Un Campos"
-            },
-            {
-              "code": "U6.4",
-              "title": "5 Fuerzas Magnéticas"
-            },
-            {
-              "code": "U6.5",
-              "title": "6 El Efecto Hall"
+              "title": "6.1 Campo magnético 6.2 Líneas de campo magnético 6.3 Flujo magnético 6.4 Movimiento de partículas cargadas en un campos magnético 6.5 Fuerzas magnéticas 6.6 El efecto Hall"
             }
           ]
         },
         {
           "code": "U7",
-          "title": "Electromagnetismo",
+          "title": "ELECTROMAGNETISMO",
           "subunits": [
             {
               "code": "U7.1",
-              "title": "2 Ley de Ampere Contacto con El Docente, Retroalimentación Técnica:"
-            },
-            {
-              "code": "U7.2",
-              "title": "3 Aplicaciones: Campo Magnético Creado por Un Docente (acd) Pregunta-respuesta."
-            },
-            {
-              "code": "U7.3",
-              "title": "5 Campo Creado por Una Espira"
-            },
-            {
-              "code": "U7.4",
-              "title": "6 Campo de Un Solenoide"
+              "title": "7.1 Electromagnetismo 7.2 Ley de Ampere 7.3 Aplicaciones: Campo magnético creado por un conductor rectilíneo 7.4 Materiales magnéticos 7.5 Campo creado por una espira 7.6 Campo de un solenoide"
             }
           ]
         }
       ],
       "unitCount": 7,
-      "subunitCount": 40
+      "subunitCount": 9
     },
     {
       "id": "practicas-de-servicio-comunitario-1",
@@ -1293,46 +1294,63 @@ const syllabiContentData = {
       "units": [
         {
           "code": "U1",
-          "title": "Diagnosticar Problemática A Intervenir en la Comunidad Beneficiaria",
+          "title": "DIAGNOSTICAR PROBLEMÁTICA A INTERVENIR EN LA COMUNIDAD BENEFICIARIA",
           "subunits": [
             {
               "code": "U1.1",
-              "title": "Identificación de Oportunidades de Mejora."
+              "title": "Levantamiento de información"
             },
             {
               "code": "U1.2",
-              "title": "Diagnóstico de la Información de la Población A"
+              "title": "Identificación de oportunidades de mejora"
+            },
+            {
+              "code": "U1.3",
+              "title": "Diagnóstico de la información de la población a intervenir"
             }
           ]
         },
         {
           "code": "U2",
-          "title": "Planificación de la Intervención",
+          "title": "PLANIFICACIÓN DE LA INTERVENCIÓN",
           "subunits": [
             {
               "code": "U2.1",
-              "title": "Desarrollo de Propuestas Planificadas para la Experimental - Revisión de las Propuestas"
+              "title": "Elaboración de propuestas de acciones de intervención"
+            },
+            {
+              "code": "U2.2",
+              "title": "Desarrollo de propuestas planificadas para la población beneficiaria"
             }
           ]
         },
         {
           "code": "U3",
-          "title": "Desarrollo de Actividades y Estrategias para Solución de Problemática Identificada",
+          "title": "DESARROLLO DE ACTIVIDADES Y ESTRATEGIAS PARA SOLUCIÓN DE PROBLEMÁTICA IDENTIFICADA",
           "subunits": [
             {
               "code": "U3.1",
-              "title": "Elaborar Registros, Matrices y Formatos en General (ape/a) Estudiante."
+              "title": "Implementación de propuestas y actividades planificadas según el diagnóstico realizado la población a intervenir"
+            },
+            {
+              "code": "U3.2",
+              "title": "Elaborar registros, matrices y formatos en general requeridos por el proyecto"
             }
           ]
         },
         {
           "code": "U4",
-          "title": "Entrega de los Resultados del Proyecto de Intervención",
-          "subunits": []
+          "title": "ENTREGA DE LOS RESULTADOS DEL PROYECTO DE INTERVENCIÓN",
+          "subunits": [
+            {
+              "code": "U4.1",
+              "title": "Presentación de los resultados a la población beneficiaria, institución de contraparte, docentes y estudiantes participantes del proyecto"
+            }
+          ]
         }
       ],
       "unitCount": 4,
-      "subunitCount": 4
+      "subunitCount": 8
     },
     {
       "id": "gestion-de-calidad-1",
@@ -1357,27 +1375,91 @@ const syllabiContentData = {
       "units": [
         {
           "code": "U1",
-          "title": "Introducción A la Gestión de Calidad",
-          "subunits": []
+          "title": "INTRODUCCIÓN A LA GESTIÓN DE CALIDAD",
+          "subunits": [
+            {
+              "code": "U1.1",
+              "title": "CONCEPTOS DE CALIDAD Y GESTIÓN DE CALIDAD"
+            },
+            {
+              "code": "U1.2",
+              "title": "ENFOQUES DE LA GESTIÓN DE CALIDAD"
+            }
+          ]
         },
         {
           "code": "U2",
-          "title": "Enfoques de la Gestión de Calidad",
-          "subunits": []
+          "title": "MEJORA CONTINUA",
+          "subunits": [
+            {
+              "code": "U2.1",
+              "title": "CICLO PHVA: Planificar, Hacer, Verificar, Actuar"
+            },
+            {
+              "code": "U2.2",
+              "title": "METODOLOGÍA DE MEJORA CONTINUA"
+            }
+          ]
         },
         {
           "code": "U3",
-          "title": "Mejora Continua",
-          "subunits": []
+          "title": "HERRAMIENTAS BÁSICAS DE CALIDAD",
+          "subunits": [
+            {
+              "code": "U3.1",
+              "title": "HERRAMIENTAS PARA SOLUCIÓN DE PROBLEMAS/OPORTUNIDADES DE MEJORA"
+            }
+          ]
         },
         {
           "code": "U4",
-          "title": "Metodología de Mejora Continua",
-          "subunits": []
+          "title": "GESTIÓN DE CALIDAD",
+          "subunits": [
+            {
+              "code": "U4.1",
+              "title": "GENERALIDADES DE ENFOQUE BASADO EN PROCESOS"
+            },
+            {
+              "code": "U4.2",
+              "title": "CONTROL DE CALIDAD EN PROCESOS"
+            },
+            {
+              "code": "U4.3",
+              "title": "ESTANDARIZACIÓN"
+            }
+          ]
+        },
+        {
+          "code": "U5",
+          "title": "NORMALIZACIÓN Y SISTEMA DE GESTIÓN DE CALIDAD EN BASE A LA NORMA ISO 9001",
+          "subunits": [
+            {
+              "code": "U5.1",
+              "title": "NORMAS DE CALIDAD ECUATORIANAS"
+            },
+            {
+              "code": "U5.2",
+              "title": "SISTEMAS DE GESTIÓN DE CALIDAD: ISO 9001 Y SU APLICACIÓN"
+            },
+            {
+              "code": "U5.3",
+              "title": "GENERALIDADES DE SISTEMAS DE GESTIÓN INTEGRADO - SGI"
+            }
+          ]
+        },
+        {
+          "code": "U6",
+          "title": "PROYECTO",
+          "subunits": [
+            {
+              "code": "U6.1",
+              "title": "PRESENTACIÓN PROYECTO"
+            }
+          ]
         }
       ],
-      "unitCount": 4,
-      "subunitCount": 0
+      "unitCount": 6,
+      "subunitCount": 12
     },
     {
       "id": "lenguajes-de-programacion-1",
@@ -1402,93 +1484,111 @@ const syllabiContentData = {
       "units": [
         {
           "code": "U1",
-          "title": "Introducción A los Lenguajes de Programación.",
+          "title": "INTRODUCCIÓN A LOS LENGUAJES DE PROGRAMACIÓN",
           "subunits": [
             {
               "code": "U1.1",
-              "title": "Paradigmas de Programación. Contacto con El Diseños."
+              "title": "Clasificación de los lenguajes de programación"
+            },
+            {
+              "code": "U1.2",
+              "title": "Paradigmas de programación"
+            },
+            {
+              "code": "U1.3",
+              "title": "Sintaxis y Semántica"
             }
           ]
         },
         {
           "code": "U2",
-          "title": "Algoritmos.",
+          "title": "ALGORITMOS",
           "subunits": [
             {
               "code": "U2.1",
-              "title": "Software para Representar Un Algoritmo Contacto con El"
+              "title": "Análisis y diseño de algoritmos"
             },
             {
               "code": "U2.2",
-              "title": "Algoritmos Iterativos y Recursivos."
+              "title": "Software para representar un algoritmo"
+            },
+            {
+              "code": "U2.3",
+              "title": "Algoritmos iterativos y recursivos"
+            },
+            {
+              "code": "U2.4",
+              "title": "Estructuras de control (Secuenciales, Selectivas, Repetitivas)"
             }
           ]
         },
         {
           "code": "U3",
-          "title": "Introduccion Al Entorno de Matlab",
-          "subunits": []
+          "title": "INTRODUCCION AL ENTORNO DE MATLAB",
+          "subunits": [
+            {
+              "code": "U3.1",
+              "title": "INSTALACION DEL SOFTWARE"
+            },
+            {
+              "code": "U3.2",
+              "title": "VENTANAS Y BOTONES"
+            },
+            {
+              "code": "U3.3",
+              "title": "Sintaxis de programación"
+            },
+            {
+              "code": "U3.4",
+              "title": "VARIABLES"
+            },
+            {
+              "code": "U3.5",
+              "title": "Edición, compilación y ejecución de programas"
+            }
+          ]
         },
         {
           "code": "U4",
-          "title": "Instalacion del Software 3 Clase Magistral: Definición de 8 Horas",
-          "subunits": []
-        },
-        {
-          "code": "U5",
-          "title": "Ventanas y Botones Contacto con El",
+          "title": "ESTRUCTURAS, OPERADORES Y MATRICES",
           "subunits": [
             {
-              "code": "U5.1",
-              "title": "Sintaxis de Programación"
-            }
-          ]
-        },
-        {
-          "code": "U6",
-          "title": "Variables Aprendizaje Aplicación de Diseños 8 Horas",
-          "subunits": [
-            {
-              "code": "U6.1",
-              "title": "Edición, Compilación y Ejecución de Programas Experimental -"
-            }
-          ]
-        },
-        {
-          "code": "U7",
-          "title": "Estructuras, Operadores y Matrices",
-          "subunits": [
-            {
-              "code": "U7.1",
-              "title": "Funciones Contacto con El"
+              "code": "U4.1",
+              "title": "Operadores Matemáticos"
             },
             {
-              "code": "U7.2",
-              "title": "Arreglos y Vectores"
-            }
-          ]
-        },
-        {
-          "code": "U8",
-          "title": "Matrices Aprendizaje Aplicación de Diseños 12 Horas",
-          "subunits": [
-            {
-              "code": "U8.1",
-              "title": "Aplicaciones de Algebra Lineal Experimental -"
+              "code": "U4.2",
+              "title": "Funciones"
             },
             {
-              "code": "U8.2",
-              "title": "Tablas y Gráficas. (ape/a)"
+              "code": "U4.3",
+              "title": "Arreglos y vectores"
             },
             {
-              "code": "U8.3",
+              "code": "U4.4",
+              "title": "Matrices"
+            },
+            {
+              "code": "U4.5",
+              "title": "Aplicaciones de algebra lineal"
+            },
+            {
+              "code": "U4.6",
+              "title": "Tablas y gráficas"
+            },
+            {
+              "code": "U4.7",
+              "title": "Manejo de bases de datos"
+            },
+            {
+              "code": "U4.8",
               "title": "Ejercicios"
             }
           ]
         }
       ],
-      "unitCount": 8,
-      "subunitCount": 10
+      "unitCount": 4,
+      "subunitCount": 20
     },
     {
       "id": "economia-industrial-1",
@@ -1513,17 +1613,77 @@ const syllabiContentData = {
       "units": [
         {
           "code": "U1",
-          "title": "Unidad 1- Economia Industrial Terminología",
-          "subunits": []
+          "title": "UNIDAD 1- ECONOMIA INDUSTRIAL TERMINOLOGÍA",
+          "subunits": [
+            {
+              "code": "U1.1",
+              "title": "Generalidades. Introducción. Concepto de Economía, La Frontera de las Posibilidades de la Producción. El costo de Oportunidad.- Factores de la Producción.- El Mercado.- La Demanda y la Oferta El Valor del Dinero con el tiempo. Concepto de equivalencia. Diagrama de Flujo de Caja. Interés Simple. Interés Compuesto. Factores y su empleo. Factores Múltiples. Amortización: formas de Pago. Tasas de interés nominal y efectiva"
+            }
+          ]
         },
         {
           "code": "U2",
-          "title": "Unidad 2.- Problemas de Ingeniería Económica",
-          "subunits": []
+          "title": "UNIDAD 2.- PROBLEMAS DE INGENIERÍA ECONÓMICA",
+          "subunits": [
+            {
+              "code": "U2.1",
+              "title": "Análisis de Alternativas. Valor presente, Valor futuro, evaluación del Costo Anual equivalente. Vidas iguales y vidas diferentes"
+            }
+          ]
+        },
+        {
+          "code": "U3",
+          "title": "UNIDAD 3 EVALUACION DE LA INVERSIÓN",
+          "subunits": [
+            {
+              "code": "U3.1",
+              "title": "Evaluación de la Inversión: Tasa mínima aceptable de Rendimiento, Valor Actual Neto y Tasa Interna de Retorno.- Tasa de retorno compuesta.- Evaluación de la Inversión: Tasa mínima aceptable de Rendimiento, Valor Actual Neto y Tasa Interna de Retorno"
+            }
+          ]
+        },
+        {
+          "code": "U4",
+          "title": "UNIDAD 4.-CONTABILIDAD GERENCIAL",
+          "subunits": [
+            {
+              "code": "U4.1",
+              "title": "Contabilidad Gerencial: El Balance.- Activos.- Pasivos.- Balance de Pérdidas y Ganancias.- Pasos Contables Métodos para el análisis de Balances: método vertical, método horizontal, método de índices, método de fuentes y usos.- Punto de equilibrio"
+            }
+          ]
+        },
+        {
+          "code": "U5",
+          "title": "UNIDAD 5.- TIPOS DE SOCIEDADES DE CAPITAL",
+          "subunits": [
+            {
+              "code": "U5.1",
+              "title": "Tipos de sociedades de Capital: En nombre Colectivo, Comandita, Compañía Limitada, Compañía Anónima y Compañía de Economía Mixta"
+            }
+          ]
+        },
+        {
+          "code": "U6",
+          "title": "UNIDAD 6 IMPORTACIONES Y EXPORTACIONES",
+          "subunits": [
+            {
+              "code": "U6.1",
+              "title": "Conceptos básicos sobre Importaciones y exportaciones, terminología utilizada, Ejemplos sobre importaciones y exportaciones"
+            }
+          ]
+        },
+        {
+          "code": "U7",
+          "title": "UNIDAD 7. LEY TRIBUTARIA",
+          "subunits": [
+            {
+              "code": "U7.1",
+              "title": "Terminología básica, Impuesto a la Renta, Impuesto al Valor Agregado e Impuesto a los Consumos Especiales"
+            }
+          ]
         }
       ],
-      "unitCount": 2,
-      "subunitCount": 0
+      "unitCount": 7,
+      "subunitCount": 7
     },
     {
       "id": "operaciones-unitarias-ii-extraccion-y-absorcion-1",
@@ -1552,61 +1712,91 @@ const syllabiContentData = {
       "units": [
         {
           "code": "U1",
-          "title": "Introducción",
-          "subunits": []
+          "title": "INTRODUCCIÓN",
+          "subunits": [
+            {
+              "code": "U1.1",
+              "title": "Conceptos generales de extración y absorción"
+            }
+          ]
         },
         {
           "code": "U2",
-          "title": "Diagramas Ternarios para la Extracción Líquido - Líquido",
+          "title": "DIAGRAMAS TERNARIOS PARA LA EXTRACCIÓN LÍQUIDO - LÍQUIDO",
           "subunits": [
             {
               "code": "U2.1",
-              "title": "Interpolación de Rectas de Reparto"
+              "title": "Tipos de diagramas"
+            },
+            {
+              "code": "U2.2",
+              "title": "Interpolación de rectas de reparto"
             }
           ]
         },
         {
           "code": "U3",
-          "title": "Extracción Líquido - Líquido Contacto Sencillo",
-          "subunits": []
+          "title": "EXTRACCIÓN LÍQUIDO - LÍQUIDO CONTACTO SENCILLO",
+          "subunits": [
+            {
+              "code": "U3.1",
+              "title": "Disolvente parcialmente miscible con uno de los componentes"
+            },
+            {
+              "code": "U3.2",
+              "title": "Diagrama concentración contenido de disolvente"
+            }
+          ]
         },
         {
           "code": "U4",
-          "title": "Extracción Líquido - Líquido en Contacto Múltiple en Corriente Directa y Contracorriente",
+          "title": "EXTRACCIÓN LÍQUIDO - LÍQUIDO EN CONTACTO MÚLTIPLE EN CORRIENTE DIRECTA Y CONTRACORRIENTE",
           "subunits": [
             {
               "code": "U4.1",
-              "title": "Cálculo de Número de Etapas"
+              "title": "Balances de materia"
+            },
+            {
+              "code": "U4.2",
+              "title": "Cálculo de número de etapas"
             }
           ]
         },
         {
           "code": "U5",
-          "title": "Extracción Sólido - Líquido",
+          "title": "EXTRACCIÓN SÓLIDO - LÍQUIDO",
           "subunits": [
             {
               "code": "U5.1",
-              "title": "Extracción en Multiples Etapas en Corriente Directa Docente (acd) Virtuales (m.p.)"
+              "title": "Extracción en contacto sencillo"
             },
             {
               "code": "U5.2",
-              "title": "Extracción en Multiples Etapas en Contracorriente"
+              "title": "Extracción en multiples etapas en corriente directa"
+            },
+            {
+              "code": "U5.3",
+              "title": "Extracción en multiples etapas en contracorriente"
             }
           ]
         },
         {
           "code": "U6",
-          "title": "Absorción de Gases",
+          "title": "ABSORCIÓN DE GASES",
           "subunits": [
             {
               "code": "U6.1",
-              "title": "Cálculo de Número de Etapas Teóricas"
+              "title": "Balances de Materia y Valores límites de Lmin"
+            },
+            {
+              "code": "U6.2",
+              "title": "Cálculo de Número de etapas teóricas"
             }
           ]
         }
       ],
       "unitCount": 6,
-      "subunitCount": 5
+      "subunitCount": 12
     },
     {
       "id": "quimica-analitica-de-suelos-1",
@@ -1635,50 +1825,119 @@ const syllabiContentData = {
       "units": [
         {
           "code": "U1",
-          "title": "El Suelo",
-          "subunits": []
+          "title": "EL SUELO",
+          "subunits": [
+            {
+              "code": "U1.1",
+              "title": "Aspectos generales de la ciencia del suelo: Origen y formación. Procesos y Factores Influyentes"
+            }
+          ]
         },
         {
           "code": "U2",
-          "title": "Muestreo de Suelos",
-          "subunits": []
+          "title": "MUESTREO DE SUELOS",
+          "subunits": [
+            {
+              "code": "U2.1",
+              "title": "Muestreo de los suelos para análisis físico químico"
+            }
+          ]
         },
         {
           "code": "U3",
-          "title": "Propiedades Fisicas del Suelo y Su Determinación",
-          "subunits": []
+          "title": "PROPIEDADES FISICAS DEL SUELO Y SU DETERMINACIÓN",
+          "subunits": [
+            {
+              "code": "U3.1",
+              "title": "1"
+            },
+            {
+              "code": "U3.2",
+              "title": "Humedad: Fundamento, Interferencias y expresión de los resultados. Determinación de la humedad (Método de secado por estufa)"
+            },
+            {
+              "code": "U3.3",
+              "title": "2"
+            },
+            {
+              "code": "U3.4",
+              "title": "Densidad: Fundamento, Interferencias y expresión de los resultados. Determinación de la densidad real, densidad aparente. Determinación del % de poros a partir de la densidad aparente"
+            },
+            {
+              "code": "U3.5",
+              "title": "3"
+            },
+            {
+              "code": "U3.6",
+              "title": "TEXTURA: Determinación de la textura, Fundamento, Interferencias y expresión de los resultados. Método de la pipeta"
+            },
+            {
+              "code": "U3.7",
+              "title": "4"
+            },
+            {
+              "code": "U3.8",
+              "title": "TEXTURA: Determinación de la textura, Fundamento, Interferencias y expresión de los resultados. Método de bouyoucos. Superficie Específica"
+            }
+          ]
         },
         {
           "code": "U4",
-          "title": "Propiedades Químicas del Suelo y Su Determinación",
+          "title": "PROPIEDADES QUÍMICAS DEL SUELO Y SU DETERMINACIÓN",
           "subunits": [
             {
               "code": "U4.1",
-              "title": "Encalado de los Suelos. Determinación de la"
+              "title": "1"
             },
             {
               "code": "U4.2",
-              "title": "Estructura de los Silicatos y Propiedades de"
+              "title": "Materia orgánica. Fundamento, Interferencias y expresión de los resultados. Determinación de Materia Orgánica con Peróxido de Hidrógeno y por el Método Walkley"
             },
             {
               "code": "U4.3",
-              "title": "Macronutrientes: Nitrógeno, Fósforo y Potasio"
+              "title": "2"
+            },
+            {
+              "code": "U4.4",
+              "title": "La conductividad eléctrica. Fundamento, Interferencias y expresión de los resultados. Determinación de la conductividad eléctrica. El pH de los suelos. Fundamento, Interferencias y expresión de los resultados. Determinación de pH método potenciométrico"
+            },
+            {
+              "code": "U4.5",
+              "title": "Encalado de los suelos. Determinación de la pureza y Eficiencia granulométrica de material encalante"
+            },
+            {
+              "code": "U4.6",
+              "title": "Estructura de los silicatos y propiedades de superficie. Capacidad de intercambio Catiónico Fundamento, Interferencias y expresión de los resultados. Determinación de la capacidad de intercambio catiónico. Método de Acetato de Amonio, Acetato de Sodio. Determinación de cationes solubles e intercambiables por Espectroscopia de Absorción Atómica de llama"
+            },
+            {
+              "code": "U4.7",
+              "title": "Macronutrientes: Nitrógeno, Fósforo y Potasio NPK: Generalidades: Fuentes y formas asimilables"
             }
           ]
         },
         {
           "code": "U5",
-          "title": "Analisis de Minerales No Metálicos",
-          "subunits": []
+          "title": "ANALISIS DE MINERALES NO METÁLICOS",
+          "subunits": [
+            {
+              "code": "U5.1",
+              "title": "Determinación de la sílice por método gravimétrico. Determinación de Fe, Ca, Mg, Na y K por Espectroscopia de Absorción Atómica de llama. Disgregación ácida y la disgregación alcalina. Fundamento, Interferencias y expresión de los resultados"
+            }
+          ]
         },
         {
           "code": "U6",
-          "title": "Analisis del Minerales Auriferos",
-          "subunits": []
+          "title": "ANALISIS DEL MINERALES AURIFEROS",
+          "subunits": [
+            {
+              "code": "U6.1",
+              "title": "Determinación de oro por método de copelación. Fundamento, Interferencias y expresión de los resultados"
+            }
+          ]
         }
       ],
       "unitCount": 6,
-      "subunitCount": 3
+      "subunitCount": 19
     },
     {
       "id": "ingenieria-de-las-reacciones-ii-reactores-1",
@@ -1704,9 +1963,232 @@ const syllabiContentData = {
         }
       ],
       "description": "La asignatura aborda temas que son fundamentales en la formación de los futuros ingenieros químicos y desarrolla un entendimiento claro de los fundamentos de la ingeniería de las reacciones. Los",
-      "units": [],
-      "unitCount": 0,
-      "subunitCount": 0
+      "units": [
+        {
+          "code": "U1",
+          "title": "1. INTRODUCCIÓN Y CONCEPTOS GENERALES",
+          "subunits": [
+            {
+              "code": "U1.1",
+              "title": "1"
+            },
+            {
+              "code": "U1.2",
+              "title": "Definición de un reactor químico"
+            },
+            {
+              "code": "U1.3",
+              "title": "Criterios para la selección de un reactor"
+            },
+            {
+              "code": "U1.4",
+              "title": "La ingeniería de reactores"
+            },
+            {
+              "code": "U1.5",
+              "title": "Algunas definiciones: conversión, selectividad, rendimiento"
+            },
+            {
+              "code": "U1.6",
+              "title": "Desarrollo de reactores-Clases de reactores"
+            },
+            {
+              "code": "U1.7",
+              "title": "Ejemplos de aplicación industrial 7.1 Mejora de la eficacia mediante la separación in situ de productos de reacción 7.2 Mejora de la selectividad mediante distribución de reactantes"
+            },
+            {
+              "code": "U1.8",
+              "title": "Aplicación a problemas"
+            }
+          ]
+        },
+        {
+          "code": "U2",
+          "title": "2. REACTORES HOMOGÉNEOS I: REACTORES DE MEZCLA PERFECTA",
+          "subunits": [
+            {
+              "code": "U2.1",
+              "title": "1"
+            },
+            {
+              "code": "U2.2",
+              "title": "Reactores homogéneos ideales"
+            },
+            {
+              "code": "U2.3",
+              "title": "Reactor discontinuo de mezcla perfecta"
+            },
+            {
+              "code": "U2.4",
+              "title": "Balance de materia en un reactor discontinuo"
+            },
+            {
+              "code": "U2.5",
+              "title": "Balance de energía en un reactor discontinuo"
+            },
+            {
+              "code": "U2.6",
+              "title": "Diseño de reactores semicontinuos"
+            },
+            {
+              "code": "U2.7",
+              "title": "Optimización del tiempo de reacción"
+            },
+            {
+              "code": "U2.8",
+              "title": "Reactor continuo de mezcla perfecta"
+            },
+            {
+              "code": "U2.9",
+              "title": "Balance de materia en un reactor continuo de mezcla perfecta"
+            },
+            {
+              "code": "U2.10",
+              "title": "Balance de energía en un reactor continuo de mezcla perfecta"
+            },
+            {
+              "code": "U2.11",
+              "title": "Reactor de mezcla perfecta en estado no estacionario"
+            },
+            {
+              "code": "U2.12",
+              "title": "Batería de tanques de mezcla perfecta en serie"
+            },
+            {
+              "code": "U2.13",
+              "title": "Problemas de aplicación Práctica en laboratorio"
+            }
+          ]
+        },
+        {
+          "code": "U3",
+          "title": "3. REACTORES HOMOGENEOS II REACTORES DE FLUJO PISTÓN",
+          "subunits": [
+            {
+              "code": "U3.1",
+              "title": "1"
+            },
+            {
+              "code": "U3.2",
+              "title": "Reactor flujo pistón. Balance de materia en un reactor flujo pistón"
+            },
+            {
+              "code": "U3.3",
+              "title": "Balance de energía en un reactor flujo pistón"
+            },
+            {
+              "code": "U3.4",
+              "title": "Reactor de flujo pistón con recirculación"
+            },
+            {
+              "code": "U3.5",
+              "title": "Reactor flujo pistón en estado no estacionario"
+            },
+            {
+              "code": "U3.6",
+              "title": "Reactor flujo laminar"
+            },
+            {
+              "code": "U3.7",
+              "title": "Reactor flujo pistón con dispersión"
+            },
+            {
+              "code": "U3.8",
+              "title": "Selección y comparación de reactores homogéneos ideales"
+            },
+            {
+              "code": "U3.9",
+              "title": "Proyecto"
+            }
+          ]
+        },
+        {
+          "code": "U4",
+          "title": "4. DISEÑO DE REACTORES HOMOGÉNEOS PARA REACCIONES COMPLEJAS",
+          "subunits": [
+            {
+              "code": "U4.1",
+              "title": "1"
+            },
+            {
+              "code": "U4.2",
+              "title": "Introducción"
+            },
+            {
+              "code": "U4.3",
+              "title": "Diseño de reactores para reacciones en paralelo"
+            },
+            {
+              "code": "U4.4",
+              "title": "Reacciones en serie"
+            },
+            {
+              "code": "U4.5",
+              "title": "Reacciones reversibles en serie o en paralelo"
+            },
+            {
+              "code": "U4.6",
+              "title": "Reacciones reversibles exotérmicas"
+            },
+            {
+              "code": "U4.7",
+              "title": "Reacciones reversibles en paralelo"
+            },
+            {
+              "code": "U4.8",
+              "title": "Reacciones reversibles en serie"
+            },
+            {
+              "code": "U4.9",
+              "title": "Reacciones en serie-paralelo"
+            }
+          ]
+        },
+        {
+          "code": "U5",
+          "title": "5. ESTABILIDAD TÉRMICA EN REACTORES HOMOGÉNEOS",
+          "subunits": [
+            {
+              "code": "U5.1",
+              "title": "1"
+            },
+            {
+              "code": "U5.2",
+              "title": "Introducción"
+            },
+            {
+              "code": "U5.3",
+              "title": "El reactor continuo de mezcla perfecta con reacción exotérmica"
+            },
+            {
+              "code": "U5.4",
+              "title": "Ecuaciones del sistema"
+            },
+            {
+              "code": "U5.5",
+              "title": "Determinación de los estados estacionarios"
+            },
+            {
+              "code": "U5.6",
+              "title": "Régimen auto-térmico"
+            },
+            {
+              "code": "U5.7",
+              "title": "Multiplicidad de estados estacionarios"
+            },
+            {
+              "code": "U5.8",
+              "title": "Curvas de calor generado"
+            },
+            {
+              "code": "U5.9",
+              "title": "Curvas de calor retirado"
+            }
+          ]
+        }
+      ],
+      "unitCount": 5,
+      "subunitCount": 48
     },
     {
       "id": "balances-de-materia-y-energia-1",
@@ -1731,29 +2213,161 @@ const syllabiContentData = {
       "units": [
         {
           "code": "U1",
-          "title": "Introducción A los Cálculos de Ingeniería",
+          "title": "INTRODUCCIÓN A LOS CÁLCULOS DE INGENIERÍA",
           "subunits": [
             {
               "code": "U1.1",
-              "title": "Conversión de Unidades Contacto con El"
+              "title": "Unidades y dimensiones"
             },
             {
               "code": "U1.2",
-              "title": "Sistemas de Unidades Pesencial"
+              "title": "Conversión de unidades"
             },
             {
               "code": "U1.3",
-              "title": "Cálculos y Estimados Numéricos Experimental -"
+              "title": "Sistemas de unidades"
             },
             {
               "code": "U1.4",
-              "title": "Homogeneidad Dimensional y Cantidades (ape/a)"
+              "title": "Fuerza y peso"
+            },
+            {
+              "code": "U1.5",
+              "title": "Cálculos y estimados numéricos"
+            },
+            {
+              "code": "U1.6",
+              "title": "Homogeneidad dimensional y cantidades adimensionales"
+            },
+            {
+              "code": "U1.7",
+              "title": "Representación y análisis de los datos de proceso"
+            }
+          ]
+        },
+        {
+          "code": "U2",
+          "title": "PROCESOS Y VARIABLES DE PROCESOS",
+          "subunits": [
+            {
+              "code": "U2.1",
+              "title": "Masa y volumen. Velocidad de flujo"
+            },
+            {
+              "code": "U2.2",
+              "title": "Composición química"
+            },
+            {
+              "code": "U2.3",
+              "title": "Presión. Temperatura"
+            }
+          ]
+        },
+        {
+          "code": "U3",
+          "title": "FUNDAMENTO DE LOS BALANCES DE MATERIALES",
+          "subunits": [
+            {
+              "code": "U3.1",
+              "title": "Clasificación de los procesos. Balances"
+            },
+            {
+              "code": "U3.2",
+              "title": "Cálculos de balances de materia"
+            },
+            {
+              "code": "U3.3",
+              "title": "Balances en procesos de unidades múltiples"
+            },
+            {
+              "code": "U3.4",
+              "title": "Recirculación y derivación (bypass). Estequiometría de las reacciones químicas"
+            },
+            {
+              "code": "U3.5",
+              "title": "Balances de procesos reactivos. Reacciones de combustión"
+            }
+          ]
+        },
+        {
+          "code": "U4",
+          "title": "SISTEMAS DE UNA FASE",
+          "subunits": [
+            {
+              "code": "U4.1",
+              "title": "Densidades de líquidos y sólidos. Gases ideales"
+            },
+            {
+              "code": "U4.2",
+              "title": "Ecuaciones de estado para gases ideales"
+            },
+            {
+              "code": "U4.3",
+              "title": "Ecuación de estado para gases reales"
+            }
+          ]
+        },
+        {
+          "code": "U5",
+          "title": "SISTEMAS MULTIFÁSICOS",
+          "subunits": [
+            {
+              "code": "U5.1",
+              "title": "Equilibrio de fases en un sistema de un solo componente"
+            },
+            {
+              "code": "U5.2",
+              "title": "La regla de las fases de Gibbs. Sistemas gas- líquido: un componente condensable"
+            },
+            {
+              "code": "U5.3",
+              "title": "Sistemas multicomponentes gas-líquido. Soluciones de sólidos en líquidos"
+            }
+          ]
+        },
+        {
+          "code": "U6",
+          "title": "ENERGÍA Y BALANCES DE ENERGÍA",
+          "subunits": [
+            {
+              "code": "U6.1",
+              "title": "Formas de energía: la primera ley de la termodinámica"
+            },
+            {
+              "code": "U6.2",
+              "title": "Energías cinética y potencial. Balances de energía en sistemas cerrados"
+            },
+            {
+              "code": "U6.3",
+              "title": "Balances de energía en sistemas abiertos en estado estacionario"
+            },
+            {
+              "code": "U6.4",
+              "title": "Tablas de datos termodinámicos. Procedimientos para el balance de energía"
+            },
+            {
+              "code": "U6.5",
+              "title": "Balances de energía mecánica"
+            }
+          ]
+        },
+        {
+          "code": "U7",
+          "title": "BALANCES DE PROCESOS TRANSITORIOS",
+          "subunits": [
+            {
+              "code": "U7.1",
+              "title": "Ecuacion general de balance"
+            },
+            {
+              "code": "U7.2",
+              "title": "Balances de materia"
             }
           ]
         }
       ],
-      "unitCount": 1,
-      "subunitCount": 4
+      "unitCount": 7,
+      "subunitCount": 28
     },
     {
       "id": "produccion-ceramica-1",
@@ -1782,113 +2396,153 @@ const syllabiContentData = {
       "units": [
         {
           "code": "U1",
-          "title": "Introducción y Materias Primas",
+          "title": "INTRODUCCIÓN Y MATERIAS PRIMAS",
           "subunits": [
             {
               "code": "U1.1",
-              "title": "Materias Primas Plásticas: Función, Principales"
+              "title": "Introducción y generalidades sobre Tecnología Cerámica"
             },
             {
               "code": "U1.2",
-              "title": "Materias Primas No Plásticas, Función, Feldespatos"
+              "title": "Materias primas plásticas: función, principales minerales de arcilla usados en cerámica, propiedades de las arcillas, clasificación industrial"
             },
             {
               "code": "U1.3",
-              "title": "Prácticas: Determinación Empírica de la Plasticidad"
+              "title": "Materias primas no plásticas, función, feldespatos y sílice. Otras materias primas usadas en cerámica, función"
+            },
+            {
+              "code": "U1.4",
+              "title": "Prácticas: Determinación empírica de la plasticidad y Determinación de pH de una arcilla"
             }
           ]
         },
         {
           "code": "U2",
-          "title": "Dosificación y Molienda de Pastas Cerámicas",
+          "title": "DOSIFICACIÓN Y MOLIENDA DE PASTAS CERÁMICAS",
           "subunits": [
             {
               "code": "U2.1",
-              "title": "Molinos de Bolas Factores Que Afectan la Molienda Asignatura"
+              "title": "Formas de expresar las dosificaciones cerámicas. Análisis mineralógico racional aproximado"
             },
             {
               "code": "U2.2",
-              "title": "Prácticas: Granulometría y Determinación del Autónomo (aa)"
+              "title": "Dosificación de agua. Dosificación triaxial de pastas cerámicas"
+            },
+            {
+              "code": "U2.3",
+              "title": "Molinos de bolas factores que afectan la molienda de pastas cerámicas, cálculos. Controles"
+            },
+            {
+              "code": "U2.4",
+              "title": "Prácticas: granulometría y Determinación del índice de plasticidad"
             }
           ]
         },
         {
           "code": "U3",
-          "title": "Métodos de Formación de Diferentes Productos Cerámicos",
+          "title": "MÉTODOS DE FORMACIÓN DE DIFERENTES PRODUCTOS CERÁMICOS",
           "subunits": [
             {
               "code": "U3.1",
-              "title": "Métodos de Formación: Prensado en Seco,"
+              "title": "Método de colado: Obtención de barbotinas, defloculación, moldes de yeso, proceso normal de colado. Colado a presión"
             },
             {
               "code": "U3.2",
-              "title": "Práctica: Determinación de Contracciones Al"
+              "title": "Métodos de formación en estado plástico: extrusionado, torno industrial, prensado RAM"
+            },
+            {
+              "code": "U3.3",
+              "title": "Métodos de formación: prensado en seco, prensado isostático"
+            },
+            {
+              "code": "U3.4",
+              "title": "Práctica: Determinación de contracciones al secado, a la quema y total"
             }
           ]
         },
         {
           "code": "U4",
-          "title": "Secado y Finalizado de Productos Cerámicos",
+          "title": "SECADO Y FINALIZADO DE PRODUCTOS CERÁMICOS",
           "subunits": [
             {
               "code": "U4.1",
-              "title": "Finalizado de Piezas Cerámicas."
+              "title": "Tipos de agua en el sistema arcilla-agua. Mecanismo normal de secado. Factores que influyen en el secado de piezas cerámicas"
             },
             {
               "code": "U4.2",
-              "title": "Práctica: Determinación de la Absorción de Agua."
+              "title": "Secadores cerámicos industriales"
+            },
+            {
+              "code": "U4.3",
+              "title": "Finalizado de piezas cerámicas"
+            },
+            {
+              "code": "U4.4",
+              "title": "Práctica: Determinación de la Absorción de Agua"
             }
           ]
         },
         {
           "code": "U5",
-          "title": "Cocción Cerámica",
+          "title": "COCCIÓN CERÁMICA",
           "subunits": [
             {
               "code": "U5.1",
-              "title": "Acción del Calor Sobre los Materiales Cerámicos y"
+              "title": "Cambios físicos y químicos que se producen durante la cocción cerámica. Métodos de estudio de los cambios que se producen durante la cocción"
             },
             {
               "code": "U5.2",
-              "title": "Hornos Cerámicos Industriales y Controles de la"
+              "title": "Acción del calor sobre los materiales cerámicos y el sistema triaxial"
             },
             {
               "code": "U5.3",
-              "title": "Prácticas: Determinación del Óptimo de Autónomo (aa)"
+              "title": "Hornos cerámicos industriales y controles de la cocción"
+            },
+            {
+              "code": "U5.4",
+              "title": "Prácticas: Determinación del óptimo de defloculante y Determinación del óptimo de agua para una pasta cerámica"
             }
           ]
         },
         {
           "code": "U6",
-          "title": "Vidrios Cerámicos y Decoración",
+          "title": "VIDRIOS CERÁMICOS Y DECORACIÓN",
           "subunits": [
             {
               "code": "U6.1",
-              "title": "Propiedades y Formas de Obtención del Vidrio"
+              "title": "Componentes de los vidriados cerámicos. Dosificación y cálculos de vidrios cerámicos"
             },
             {
               "code": "U6.2",
-              "title": "Decoración Cerámica: Pigmentos Cerámicos, Asignatura"
+              "title": "Propiedades y formas de obtención del vidrio cerámico. Acción del calor sobre y defectos de los vidriados cerámicos"
             },
             {
               "code": "U6.3",
-              "title": "Prácticas: Dosificación de Una Pasta Cerámica"
+              "title": "Decoración cerámica: Pigmentos cerámicos, vidriados especiales. Decoración bajo y sobre cubierta"
+            },
+            {
+              "code": "U6.4",
+              "title": "Prácticas: Dosificación de una pasta cerámica aplicando diseño experimental, preparación del primero y segundo grupo de experimentos"
             }
           ]
         },
         {
           "code": "U7",
-          "title": "Normas Cerámicas",
+          "title": "NORMAS CERÁMICAS",
           "subunits": [
             {
               "code": "U7.1",
-              "title": "Práctica: Pruebas de Diferentes Experimentos y"
+              "title": "Normativa técnica para vajillas y baldosas cerámicas"
+            },
+            {
+              "code": "U7.2",
+              "title": "Práctica: pruebas de diferentes experimentos y análisis y discusión de los resultados"
             }
           ]
         }
       ],
       "unitCount": 7,
-      "subunitCount": 16
+      "subunitCount": 26
     },
     {
       "id": "ingenieria-de-proyectos-1",
@@ -1913,64 +2567,103 @@ const syllabiContentData = {
       "units": [
         {
           "code": "U1",
-          "title": "Fundamentos de Gestión de Proyectos",
+          "title": "FUNDAMENTOS DE GESTIÓN DE PROYECTOS",
           "subunits": [
             {
               "code": "U1.1",
-              "title": "Ciclo de Vida del Proyecto"
+              "title": "Introducción a la gestión de proyectos y conceptos básicos"
             },
             {
               "code": "U1.2",
-              "title": "Principales Metodologías de Gestión de Proyectos"
+              "title": "Ciclo de vida del proyecto"
             },
             {
               "code": "U1.3",
-              "title": "Rol del Gestor de Proyectos en Ingeniería Química"
+              "title": "Principales metodologías de gestión de proyectos"
+            },
+            {
+              "code": "U1.4",
+              "title": "Rol del gestor de proyectos en Ingeniería Química"
             }
           ]
         },
         {
           "code": "U2",
-          "title": "Iniciación y Planificación de Proyectos",
+          "title": "INICIACIÓN Y PLANIFICACIÓN DE PROYECTOS",
           "subunits": [
             {
               "code": "U2.1",
-              "title": "Análisis de Viabilidad Inicial"
+              "title": "Definición del proyecto: Generación de ideas/Identificación de oportunidades"
             },
             {
               "code": "U2.2",
-              "title": "Planificación del Proyecto"
+              "title": "Análisis de viabilidad inicial"
+            },
+            {
+              "code": "U2.3",
+              "title": "Planificación del proyecto"
             }
           ]
         },
         {
           "code": "U3",
-          "title": "Formulación de Proyectos",
-          "subunits": []
+          "title": "FORMULACIÓN DE PROYECTOS",
+          "subunits": [
+            {
+              "code": "U3.1",
+              "title": "ESTUDIO DE MERCADO"
+            },
+            {
+              "code": "U3.2",
+              "title": "ESTUDIO TÉCNICO"
+            },
+            {
+              "code": "U3.3",
+              "title": "ESTUDIO ECONÓMICO-FINANCIERO"
+            },
+            {
+              "code": "U3.4",
+              "title": "EVALUCIÓN FINANCIERA"
+            }
+          ]
         },
         {
           "code": "U4",
-          "title": "Estudio de Mercado 3 Aprendizaje en Clase (em) 4 Horas",
-          "subunits": []
+          "title": "EVALUACIÓN Y SELECCIÓN DE PROYECTOS",
+          "subunits": [
+            {
+              "code": "U4.1",
+              "title": "Criterios para la evaluación y selección de proyectos"
+            },
+            {
+              "code": "U4.2",
+              "title": "Evaluación económica: criterios de decisión económica y análisis de sensibilidad"
+            }
+          ]
         },
         {
           "code": "U5",
-          "title": "Estudio Técnico",
-          "subunits": []
+          "title": "IMPLEMENTACIÓN Y GESTIÓN",
+          "subunits": [
+            {
+              "code": "U5.1",
+              "title": "Herramientas y/o técnicas de planificación, seguimiento y control"
+            }
+          ]
         },
         {
           "code": "U6",
-          "title": "Estudio Económico-financiero Práctico",
-          "subunits": []
-        },
-        {
-          "code": "U7",
-          "title": "Evalución Financiera Asignatura",
-          "subunits": []
+          "title": "PROYECTO FINAL",
+          "subunits": [
+            {
+              "code": "U6.1",
+              "title": "PRESENTACIÓN FINAL DEL PROYECTO DESARROLLADO DURANTE LA ASIGNATURA"
+            }
+          ]
         }
       ],
-      "unitCount": 7,
-      "subunitCount": 5
+      "unitCount": 6,
+      "subunitCount": 15
     },
     {
       "id": "quimica-analitica-de-agua-y-alimentos-1",
@@ -1995,77 +2688,123 @@ const syllabiContentData = {
       "units": [
         {
           "code": "U1",
-          "title": "Analisis de las Propiedades Fisicas del Agua",
+          "title": "AGUA",
           "subunits": [
             {
               "code": "U1.1",
-              "title": "Sólidos Totales, Sólidos Disueltos, Sólidos en"
+              "title": "Generalidades. Tipos de agua, toma de las muestras para análisis físico químico de agua cruda (naturales) y tratada. Expresión de resultados de un análisis"
             }
           ]
         },
         {
           "code": "U2",
-          "title": "Analisis Quimico del Agua",
+          "title": "ANALISIS DE LAS PROPIEDADES FISICAS DEL AGUA",
           "subunits": [
             {
               "code": "U2.1",
-              "title": "Dureza Total, Dureza Cálcica, Dureza Magnésica,"
+              "title": "Fundamento, Interferencias y expresión de los resultados. Parámetros organolépticos: Olor, Sabor y Color (Método Pt y Co; y por comparación con discos d e c o l o r e s ) , p H ( M é t o d o Potenciométrico),conductividad"
             },
             {
               "code": "U2.2",
-              "title": "Fundamentos, Interferencias y Expresión de los"
-            },
-            {
-              "code": "U2.3",
-              "title": "Fundamentos, Interferencias y Expresión de los"
-            },
-            {
-              "code": "U2.4",
-              "title": "Nitritos. Nitratos y Amonio (métodos"
-            },
-            {
-              "code": "U2.5",
-              "title": "Oxígeno Disuelto. (método de Winkler Modificado"
+              "title": "Sólidos Totales, Sólidos Disueltos, Sólidos en suspensión (Filtración sobre fibra de vidrio), Pérdida por calcinación, Residuo Fijo"
             }
           ]
         },
         {
           "code": "U3",
-          "title": "Alimentos",
-          "subunits": []
+          "title": "ANALISIS QUIMICO DEL AGUA",
+          "subunits": [
+            {
+              "code": "U3.1",
+              "title": "Alcalinidad Total, Alcalinidad de: hidróxidos, carbonatos y bicarbonatos (Método volumétrico) Acidez Total, Acidez Mineral (Método volumétrico). Fundamento, Interferencias y expresión de los resultados"
+            },
+            {
+              "code": "U3.2",
+              "title": "Dureza Total, Dureza Cálcica, Dureza Magnésica, Dureza Permanente, Dureza Transitoria. (Método v o l u m é t r i c o - c o m p l e j o m é t r i c o ) . Fundamento,Interferencias y expresión de los resultados"
+            },
+            {
+              "code": "U3.3",
+              "title": "Fundamentos, Interferencias y expresión de los resultados. Cloruros (Método de Mohr), Dióxido de Carbono (método volumétrico), Cloro Residual Total"
+            },
+            {
+              "code": "U3.4",
+              "title": "Fundamentos, Interferencias y expresión de los resultados. Materia Orgánica (Método del Permanganato) Sulfatos (Método turbidimétrico)"
+            },
+            {
+              "code": "U3.5",
+              "title": "Nitritos. Nitratos y Amonio (Métodos espectrofotométricos) Fundamentos, Interferencias y expresión de los resultados"
+            },
+            {
+              "code": "U3.6",
+              "title": "Oxígeno Disuelto. (método de Winkler modificado por Alsterberg) Demanda Bioquímica de Oxígeno para aguas débilmente cargadas en materias orgánicas (Método sin dilución o autoconsumo en oxígeno) Fundamentos, Interferencias y expresión de los resultados"
+            }
+          ]
         },
         {
           "code": "U4",
-          "title": "Composicion de los Alimentos",
+          "title": "ALIMENTOS",
           "subunits": [
             {
               "code": "U4.1",
-              "title": "Proteínas: Método Kjeldahl y Titulación con Formol; (ape/a)"
-            },
-            {
-              "code": "U4.2",
-              "title": "Hidratos de Carbono: Fundamento, Interferencias y"
+              "title": "GENERALIDADES. Introducción al Análisis Bromatológico. Importancia de la Nutrición y la bromatología. Componentes de los alimentos"
             }
           ]
         },
         {
           "code": "U5",
-          "title": "Parametros para Determinar Deterioro de Alimentos",
-          "subunits": []
+          "title": "COMPOSICION DE LOS ALIMENTOS",
+          "subunits": [
+            {
+              "code": "U5.1",
+              "title": "Humedad (Método de secado por estufa); Cenizas por calcinación. Fundamento, Interferencias y expresión de los resultados"
+            },
+            {
+              "code": "U5.2",
+              "title": "Lípidos: Método butirométrico de Gerber y extracción con soxhlet; Fundamento, Interferencias y expresión de los resultados"
+            },
+            {
+              "code": "U5.3",
+              "title": "Proteínas: Método Kjeldahl y Titulación con formol; Fundamentos, Interferencias y expresión de los resultados"
+            },
+            {
+              "code": "U5.4",
+              "title": "Hidratos de Carbono: Fundamento, Interferencias y expresión de los resultados. Método Fehling azúcares reductores y no reductores por diferencia. Determinación de Fibra Cruda"
+            }
+          ]
         },
         {
           "code": "U6",
-          "title": "Parametros para Determinar Adulteracion de Alimentos",
-          "subunits": []
+          "title": "PARAMETROS PARA DETERMINAR DETERIORO DE ALIMENTOS",
+          "subunits": [
+            {
+              "code": "U6.1",
+              "title": "pH, acidez titulable, rancidez, Nitrógeno Básico Volátil, Eber Sulfhídrico, Eber Amoniacal, Índice Peróxidos"
+            }
+          ]
         },
         {
           "code": "U7",
-          "title": "Bebidas Alcoholicas",
-          "subunits": []
+          "title": "PARAMETROS PARA DETERMINAR ADULTERACION DE ALIMENTOS",
+          "subunits": [
+            {
+              "code": "U7.1",
+              "title": "Densidad, Punto de Congelación, Índice de Refracción"
+            }
+          ]
+        },
+        {
+          "code": "U8",
+          "title": "BEBIDAS ALCOHOLICAS",
+          "subunits": [
+            {
+              "code": "U8.1",
+              "title": "Fundamento, Interferencias y expresión de los resultados. Método del Alcoholímetro Gay Lusac, Refractómetro Abbe"
+            }
+          ]
         }
       ],
-      "unitCount": 7,
-      "subunitCount": 8
+      "unitCount": 8,
+      "subunitCount": 17
     },
     {
       "id": "sintesis-organica-en-la-industria-1",
@@ -2094,113 +2833,153 @@ const syllabiContentData = {
       "units": [
         {
           "code": "U1",
-          "title": "Introducción",
+          "title": "INTRODUCCIÓN",
           "subunits": [
             {
               "code": "U1.1",
-              "title": "División de la Síntesis Orgánica."
+              "title": "Definición de síntesis orgánica"
             },
             {
               "code": "U1.2",
-              "title": "Plan de Síntesis: Análisis Retro Sintético y Síntesis."
+              "title": "División de la síntesis orgánica"
             },
             {
               "code": "U1.3",
-              "title": "Grupos Protectores. (ape/a)"
+              "title": "Plan de síntesis: análisis retro sintético y síntesis"
             },
             {
               "code": "U1.4",
-              "title": "Principales Sectores de la Industria Química en Clase y Pasar la Materia Al Cuaderno"
+              "title": "Grupos protectores"
+            },
+            {
+              "code": "U1.5",
+              "title": "Características de la Industria Química Orgánica"
+            },
+            {
+              "code": "U1.6",
+              "title": "Principales sectores de la Industria Química Orgánica"
+            },
+            {
+              "code": "U1.7",
+              "title": "Principales fuentes de materias primas"
             }
           ]
         },
         {
           "code": "U2",
-          "title": "Procesos Industriales de Síntesis Orgánica.",
+          "title": "PROCESOS INDUSTRIALES DE SÍNTESIS ORGÁNICA",
           "subunits": [
             {
               "code": "U2.1",
-              "title": "Proceso Industrial de Síntesis Orgánica:"
+              "title": "Proceso industrial de síntesis orgánica: Oxidación"
             },
             {
               "code": "U2.2",
-              "title": "Proceso Industrial de Síntesis Orgánica:"
+              "title": "Proceso industrial de síntesis orgánica: Hidrogenación"
             },
             {
               "code": "U2.3",
-              "title": "Proceso Industrial de Síntesis Orgánica:"
+              "title": "Proceso industrial de síntesis orgánica: Esterificación"
             },
             {
               "code": "U2.4",
-              "title": "Proceso Industrial de Síntesis Orgánica: Alquilación."
+              "title": "Proceso industrial de síntesis orgánica: Polimerización"
             },
             {
               "code": "U2.5",
-              "title": "Proceso Industrial de Síntesis Orgánica: Contacto con El (a.a.)"
+              "title": "Proceso industrial de síntesis orgánica: Alquilación"
             },
             {
               "code": "U2.6",
-              "title": "Proceso Industrial de Síntesis Orgánica: Diazoación Asignatura"
+              "title": "Proceso industrial de síntesis orgánica: Sulfonación"
+            },
+            {
+              "code": "U2.7",
+              "title": "Proceso industrial de síntesis orgánica: Nitración"
+            },
+            {
+              "code": "U2.8",
+              "title": "Proceso industrial de síntesis orgánica: Diazoación y copulación"
+            },
+            {
+              "code": "U2.9",
+              "title": "Proceso industrial de síntesis orgánica: Halogenación"
+            },
+            {
+              "code": "U2.10",
+              "title": "Proceso industrial de síntesis orgánica: Aminación"
             }
           ]
         },
         {
           "code": "U3",
-          "title": "Métodos de Extracción de Principios Activos en Plantas.",
+          "title": "MÉTODOS DE EXTRACCIÓN DE PRINCIPIOS ACTIVOS EN PLANTAS",
           "subunits": [
             {
               "code": "U3.1",
-              "title": "Extracción Mecánica."
+              "title": "Recolección y almacenamiento de las plantas"
             },
             {
               "code": "U3.2",
-              "title": "Destilación. Práctico y Aislamiento del Acetato de Isoamilo."
+              "title": "Extracción mecánica"
             },
             {
               "code": "U3.3",
-              "title": "Extracción con Disolventes. Asignatura"
+              "title": "Destilación"
             },
             {
               "code": "U3.4",
-              "title": "Aplicación de Principios Activos en Productos."
+              "title": "Extracción con disolventes"
+            },
+            {
+              "code": "U3.5",
+              "title": "Aplicación de principios activos en productos"
             }
           ]
         },
         {
           "code": "U4",
-          "title": "Síntesis A Partir de Materias Primas Vegetales O Animales",
+          "title": "SÍNTESIS A PARTIR DE MATERIAS PRIMAS VEGETALES O ANIMALES",
           "subunits": [
             {
               "code": "U4.1",
-              "title": "Procesos y Aplicaciones Industriales de los"
+              "title": "Procesos y aplicaciones industriales de mono y oligosacáridos"
             },
             {
               "code": "U4.2",
-              "title": "Procesos y Aplicaciones Industriales de los Lípidos"
+              "title": "Procesos y aplicaciones industriales de los polisacáridos"
             },
             {
               "code": "U4.3",
-              "title": "Procesos y Aplicaciones Industriales de"
+              "title": "Procesos y aplicaciones industriales de los lípidos"
+            },
+            {
+              "code": "U4.4",
+              "title": "Procesos y aplicaciones industriales de aminoácidos y péptidos"
             }
           ]
         },
         {
           "code": "U5",
-          "title": "Síntesis de Productos de Interés Industrial",
+          "title": "SÍNTESIS DE PRODUCTOS DE INTERÉS INDUSTRIAL",
           "subunits": [
             {
               "code": "U5.1",
-              "title": "Tecnología Aplicada."
+              "title": "Aspectos ideales de la síntesis de productos a nivel industrial"
             },
             {
               "code": "U5.2",
-              "title": "Química Verde en la Industria Química."
+              "title": "Tecnología aplicada"
+            },
+            {
+              "code": "U5.3",
+              "title": "Química verde en la industria química"
             }
           ]
         }
       ],
       "unitCount": 5,
-      "subunitCount": 19
+      "subunitCount": 29
     },
     {
       "id": "estadistica-1",
@@ -2225,139 +3004,205 @@ const syllabiContentData = {
       "units": [
         {
           "code": "U1",
-          "title": "Estadística Descritiva. Generalidades",
+          "title": "ESTADÍSTICA DESCRITIVA. GENERALIDADES",
           "subunits": [
             {
               "code": "U1.1",
-              "title": "Construcción de Tablas, Histogramas y Polígonos"
+              "title": "Terminología y conceptos básicos"
             },
             {
               "code": "U1.2",
-              "title": "Distribución de Frecuencias, Ojiva y Ojiva"
+              "title": "Construcción de tablas, histogramas y polígonos de frecuencia"
             },
             {
               "code": "U1.3",
-              "title": "Medidas de Tendencia Central: Media Poblacional, Experimental - Frecuencias, Polígonos."
+              "title": "Distribución de frecuencias, ojiva y ojiva porcentual"
             },
             {
               "code": "U1.4",
-              "title": "Medidas de Dispersión: Rango, Desviación Media, para Ser Entregado y Calificado."
+              "title": "Medidas de tendencia central: media poblacional, media recortada, media geométrica, mediana, moda, posiciones relativas de la media, mediana, moda. Cuartiles, deciles, percentiles. Rango Intercuartil y Semi-intercuartil"
+            },
+            {
+              "code": "U1.5",
+              "title": "Medidas de dispersión: rango, desviación media, varianza, desviación estándar"
             }
           ]
         },
         {
           "code": "U2",
-          "title": "Probabilidad Básica",
+          "title": "PROBABILIDAD BÁSICA",
           "subunits": [
             {
               "code": "U2.1",
-              "title": "Probabilidad Condicional, Diagrama de Árbol, Regla Revisión."
+              "title": "Introducción a probabilidades, espacio muestral, eventos, axiomas y teoremas de probabilidad"
             },
             {
               "code": "U2.2",
-              "title": "Teorema de Bayes Práctico"
+              "title": "Probabilidad condicional, diagrama de árbol, regla aditiva y del producto"
+            },
+            {
+              "code": "U2.3",
+              "title": "Teorema de Bayes"
+            },
+            {
+              "code": "U2.4",
+              "title": "Teoría del conteo"
             }
           ]
         },
         {
           "code": "U3",
-          "title": "Introducción A las Distribuciones de Probabilidad",
+          "title": "INTRODUCCIÓN A LAS DISTRIBUCIONES DE PROBABILIDAD",
           "subunits": [
             {
               "code": "U3.1",
-              "title": "Distribuciones Discretas de Probabilidad. Contacto con El"
+              "title": "Concepto de variable aleatoria"
             },
             {
               "code": "U3.2",
-              "title": "Distribuciones de Probabilidad Continua"
+              "title": "Distribuciones discretas de probabilidad"
+            },
+            {
+              "code": "U3.3",
+              "title": "Distribuciones de probabilidad continua"
             }
           ]
         },
         {
           "code": "U4",
-          "title": "Algunas Distribuciones de Probabilidad Discreta",
+          "title": "ALGUNAS DISTRIBUCIONES DE PROBABILIDAD DISCRETA",
           "subunits": [
             {
               "code": "U4.1",
-              "title": "Distribución de Poisson. Contacto con El"
+              "title": "Distribución Binomial"
             },
             {
               "code": "U4.2",
-              "title": "Distribución Hipergeométrica."
+              "title": "Distribución de Poisson"
+            },
+            {
+              "code": "U4.3",
+              "title": "Distribución Hipergeométrica"
             }
           ]
         },
         {
           "code": "U5",
-          "title": "Algunas Distribuciones Continuas de Probabilidad",
+          "title": "ALGUNAS DISTRIBUCIONES CONTINUAS DE PROBABILIDAD",
           "subunits": [
             {
               "code": "U5.1",
-              "title": "Distribución Exponencial Contacto con El"
+              "title": "Distribución Normal"
             },
             {
               "code": "U5.2",
-              "title": "Distribución Ji Cuadrado"
+              "title": "Distribución Exponencial"
+            },
+            {
+              "code": "U5.3",
+              "title": "Distribución Ji cuadrado"
+            },
+            {
+              "code": "U5.4",
+              "title": "Distribución T de student"
             }
           ]
         },
         {
           "code": "U6",
-          "title": "Teoría del Muestreo",
+          "title": "TEORÍA DEL MUESTREO",
           "subunits": [
             {
               "code": "U6.1",
-              "title": "Selección de la Muestra."
+              "title": "Delimitación de la Población"
             },
             {
               "code": "U6.2",
-              "title": "Tipos de Muestra Probabilística y No Probabilística"
+              "title": "Selección de la muestra"
             },
             {
               "code": "U6.3",
-              "title": "Cálculo del Tamaño de la Muestra Práctico"
+              "title": "Tipos de muestra Probabilística y No probabilística"
             },
             {
               "code": "U6.4",
-              "title": "Estimador Puntual e Intervalos de Confianza Asignatura para Posterior Elaboración de Mapas"
+              "title": "Cálculo del tamaño de la muestra"
+            },
+            {
+              "code": "U6.5",
+              "title": "Estimador puntual e intervalos de confianza"
             }
           ]
         },
         {
           "code": "U7",
-          "title": "Pruebas de Hipótesis",
+          "title": "PRUEBAS DE HIPÓTESIS",
           "subunits": [
             {
               "code": "U7.1",
-              "title": "Pruebas de Hipótesis de Dos Muestras: Muestras Sobre la Temática."
+              "title": "Pruebas de hipótesis de una muestra: Pruebas para una sola media (varianza conocida), Pruebas sobre una sola media ( varianza desconocida)"
+            },
+            {
+              "code": "U7.2",
+              "title": "Pruebas de hipótesis de dos muestras: Muestras dependientes (Prueba t pareada)"
             }
           ]
         },
         {
           "code": "U8",
-          "title": "Regresión y Correlación",
+          "title": "REGRESIÓN Y CORRELACIÓN",
           "subunits": [
             {
               "code": "U8.1",
-              "title": "Medidas de Correlación"
+              "title": "Correlación lineal"
             },
             {
               "code": "U8.2",
-              "title": "Rectas de Regresión de Mínimos Cuadrados"
+              "title": "Medidas de correlación"
             },
             {
               "code": "U8.3",
-              "title": "Variación Explicada e Inexplicada Práctico Cuadrados y Correlación Lineal."
+              "title": "Rectas de regresión de mínimos cuadrados"
             },
             {
               "code": "U8.4",
-              "title": "Formula Producto Momento para El Coeficiente de"
+              "title": "Variación explicada e inexplicada"
+            },
+            {
+              "code": "U8.5",
+              "title": "Coeficiente de correlación"
+            },
+            {
+              "code": "U8.6",
+              "title": "Formula producto momento para el coeficiente de correlación lineal"
+            }
+          ]
+        },
+        {
+          "code": "U9",
+          "title": "ANÁLISIS DE SERIES DE TIEMPO",
+          "subunits": [
+            {
+              "code": "U9.1",
+              "title": "Clasificación de los movimientos de las series de tiempo"
+            },
+            {
+              "code": "U9.2",
+              "title": "Análisis de las series de tiempo"
+            },
+            {
+              "code": "U9.3",
+              "title": "Estimación de la tendencia"
+            },
+            {
+              "code": "U9.4",
+              "title": "Gráficas de las series de tiempo"
             }
           ]
         }
       ],
-      "unitCount": 8,
-      "subunitCount": 21
+      "unitCount": 9,
+      "subunitCount": 36
     },
     {
       "id": "termotecnia-1",
@@ -2382,51 +3227,79 @@ const syllabiContentData = {
       "units": [
         {
           "code": "U1",
-          "title": "Termodinámica del Vapor de Agua",
-          "subunits": []
+          "title": "TERMODINÁMICA DEL VAPOR DE AGUA",
+          "subunits": [
+            {
+              "code": "U1.1",
+              "title": "PROPIEDADES DEL VAPOR DE AGUA"
+            },
+            {
+              "code": "U1.2",
+              "title": "SUBSTANCIA DE TRABAJO"
+            },
+            {
+              "code": "U1.3",
+              "title": "PROCESOS TERMODINÁMICOS"
+            }
+          ]
         },
         {
           "code": "U2",
-          "title": "Substancia de Trabajo",
-          "subunits": []
-        },
-        {
-          "code": "U3",
-          "title": "Procesos Termodinámicos Aprendizaje en",
-          "subunits": []
-        },
-        {
-          "code": "U4",
-          "title": "Ciclos Termodinámicos",
+          "title": "CICLOS TERMODINÁMICOS",
           "subunits": [
             {
-              "code": "U4.1",
+              "code": "U2.1",
+              "title": "Ciclos de (Otto, Diesel, Brayton, Stirling y Erickson)"
+            },
+            {
+              "code": "U2.2",
+              "title": "Análisis de ciclos de potencia de gas y vapor con base a la segunda ley de la termodinámica"
+            },
+            {
+              "code": "U2.3",
               "title": "Ciclo de Carnot y Rankine"
             }
           ]
         },
         {
-          "code": "U5",
-          "title": "Ciclos Termodinámicos de Refrigeración",
+          "code": "U3",
+          "title": "CICLOS TERMODINÁMICOS DE REFRIGERACIÓN",
           "subunits": [
             {
-              "code": "U5.1",
-              "title": "Análisis de Fluidos Refrigerantes."
+              "code": "U3.1",
+              "title": "Ciclo ideal y real de refrigeración"
             },
             {
-              "code": "U5.2",
-              "title": "Ciclos de Refrigeración de Gas y por Absorción. Contacto con El"
+              "code": "U3.2",
+              "title": "Análisis de fluidos refrigerantes"
+            },
+            {
+              "code": "U3.3",
+              "title": "Ciclos de refrigeración de gas y por absorción"
             }
           ]
         },
         {
-          "code": "U6",
-          "title": "Combustión",
-          "subunits": []
+          "code": "U4",
+          "title": "COMBUSTIÓN",
+          "subunits": [
+            {
+              "code": "U4.1",
+              "title": "COMBUSTIBLE, COMBURENTE Y COMBUSTIÓN"
+            },
+            {
+              "code": "U4.2",
+              "title": "BALANCE MÁSICO DEL CALDERO"
+            },
+            {
+              "code": "U4.3",
+              "title": "BALANCE ENTÁLPICO Y EFICIENCIA"
+            }
+          ]
         }
       ],
-      "unitCount": 6,
-      "subunitCount": 3
+      "unitCount": 4,
+      "subunitCount": 12
     },
     {
       "id": "transferencia-de-calor-1",
@@ -2451,27 +3324,99 @@ const syllabiContentData = {
       "units": [
         {
           "code": "U1",
-          "title": "Principios Básicos de Transferencia de Calor",
-          "subunits": []
+          "title": "PRINCIPIOS BÁSICOS DE TRANSFERENCIA DE CALOR",
+          "subunits": [
+            {
+              "code": "U1.1",
+              "title": "Principios - Sistemas de unidades - Generalidades - Mecanismos de Transferencia de Calor"
+            }
+          ]
         },
         {
           "code": "U2",
-          "title": "Transferencia de Calor por Conducción",
-          "subunits": []
+          "title": "TRANSFERENCIA DE CALOR POR CONDUCCIÓN",
+          "subunits": [
+            {
+              "code": "U2.1",
+              "title": "Importancia - Definición - Ley de Fourier - Conductividad"
+            },
+            {
+              "code": "U2.2",
+              "title": "Conducción en estado estacionario - Redes de resistencias térmicas - Conducción de Calor en cilindros - Conducción de Calor en esferas - Transferencia de Calor en configuraciones comunes"
+            },
+            {
+              "code": "U2.3",
+              "title": "Conducción en estado no estacionario"
+            }
+          ]
         },
         {
           "code": "U3",
-          "title": "Importancia 1 Aprendizaje Desarrollo de Ejercicios y 2 Horas",
+          "title": "TRANSFERENCIA DE CALOR POR CONVECCIÓN",
           "subunits": [
             {
               "code": "U3.1",
-              "title": "Conducción en Estado Estacionario"
+              "title": "Importancia - Definición - Tipos (Convección forzada, convección natural) - Calculo del coeficiente de transferencia de calor por convección - Números Adimensionales"
+            },
+            {
+              "code": "U3.2",
+              "title": "Convección natural - Ecuación de movimiento"
+            },
+            {
+              "code": "U3.3",
+              "title": "Convección Forzada Externa - Convección forzada sobre placas planas - Convección forzada sobre cilindros y esferas"
+            },
+            {
+              "code": "U3.4",
+              "title": "Convección Forzada Interna - Velocidad media - Tipos de flujo - Ecuaciones generales"
+            },
+            {
+              "code": "U3.5",
+              "title": "Convección natural y forzada"
+            }
+          ]
+        },
+        {
+          "code": "U4",
+          "title": "INTERCAMBIADORES DE CALOR",
+          "subunits": [
+            {
+              "code": "U4.1",
+              "title": "Conceptos - Características - Tipos - Coeficiente global de transferencia de calor"
+            },
+            {
+              "code": "U4.2",
+              "title": "Método LTDM - Cálculo del Incremento de Temperatura Medio - Resolución de ejercicios"
+            },
+            {
+              "code": "U4.3",
+              "title": "METODO NTU"
+            }
+          ]
+        },
+        {
+          "code": "U5",
+          "title": "TRANSFERENCIA DE CALOR POR RADIACIÓN",
+          "subunits": [
+            {
+              "code": "U5.1",
+              "title": "Importancia - Definición - Radiación Térmica - Cuerpos Negros"
+            }
+          ]
+        },
+        {
+          "code": "U6",
+          "title": "EJERCICIOS COMBINADOS",
+          "subunits": [
+            {
+              "code": "U6.1",
+              "title": "EJERCICIOS COMBINADOS DE TRANSFERENCIA DE CALOR POR CONDUCCIÓN, CONVECCIÓN Y RADIACIÓN"
             }
           ]
         }
       ],
-      "unitCount": 3,
-      "subunitCount": 1
+      "unitCount": 6,
+      "subunitCount": 14
     },
     {
       "id": "quimica-organica-i-1",
@@ -2500,167 +3445,259 @@ const syllabiContentData = {
       "units": [
         {
           "code": "U1",
-          "title": "Alcanos",
+          "title": "ALCANOS",
           "subunits": [
             {
               "code": "U1.1",
-              "title": "Estructura"
+              "title": "Fuentes y usos de alcanos"
             },
             {
               "code": "U1.2",
-              "title": "Isomería Laboratorio, Reporte de Prácticas,"
+              "title": "Estructura"
             },
             {
               "code": "U1.3",
-              "title": "Propiedades Físicas Compuestos Orgánicos, Pruebas de"
+              "title": "Isomería"
             },
             {
               "code": "U1.4",
-              "title": "Propiedades Químicas: Oxidación, Pirólisis"
+              "title": "Nomenclatura: grupos alquilo, Nombres comunes, Nomenclatura"
             },
             {
               "code": "U1.5",
-              "title": "Preparación: Reacción de Wurtz, Hidrólisis del"
+              "title": "Propiedades Físicas"
             },
             {
               "code": "U1.6",
-              "title": "Algunos Alcanos Importantes: Metano, Etano,"
+              "title": "Propiedades químicas: Oxidación, Pirólisis (cracking), Isomerización"
+            },
+            {
+              "code": "U1.7",
+              "title": "Preparación: Reacción de Wurtz, Hidrólisis del reactivo de Grignard"
+            },
+            {
+              "code": "U1.8",
+              "title": "Algunos alcanos importantes: Metano, Etano, Propano, Butanos, n-alcanos"
             }
           ]
         },
         {
           "code": "U2",
-          "title": "Hidrocarburos No Saturados: Alquenos, Alquinos y Dienos",
+          "title": "HIDROCARBUROS NO SATURADOS: ALQUENOS, ALQUINOS Y DIENOS",
           "subunits": [
             {
               "code": "U2.1",
-              "title": "Isomería Geométrica Docente (acd)"
+              "title": "Estructura de alquenos, alquinos y dienos"
             },
             {
               "code": "U2.2",
-              "title": "Nomenclatura: Iupac, Común y Derivada"
+              "title": "Isomería geométrica"
             },
             {
               "code": "U2.3",
-              "title": "Propiedades Físicas"
+              "title": "Nomenclatura: IUPAC, común y derivada"
             },
             {
               "code": "U2.4",
-              "title": "Propiedades Químicas de los Alquinos Experimental - de Ebullición. (a.a.)"
+              "title": "Propiedades físicas"
             },
             {
               "code": "U2.5",
-              "title": "Algunos Alquenos y Alquinos Importantes Ejercicios (a.a.)"
+              "title": "Propiedades químicas de los alquenos"
+            },
+            {
+              "code": "U2.6",
+              "title": "Propiedades químicas de los alquinos"
+            },
+            {
+              "code": "U2.7",
+              "title": "Síntesis, fuentes y usos de alquenos y alquinos"
+            },
+            {
+              "code": "U2.8",
+              "title": "Algunos alquenos y alquinos importantes"
             }
           ]
         },
         {
           "code": "U3",
-          "title": "Hidrocarburos Alicíclicos",
+          "title": "HIDROCARBUROS ALICÍCLICOS",
           "subunits": [
             {
               "code": "U3.1",
-              "title": "Propiedades Físicas y Químicas"
+              "title": "Estructura y nomenclatura"
             },
             {
               "code": "U3.2",
-              "title": "Preparación. Fuentes y Usos Ejercicios en Forma Grupal O"
+              "title": "Propiedades físicas y químicas"
             },
             {
               "code": "U3.3",
-              "title": "Terpenos y Terpenoides"
+              "title": "Preparación. Fuentes y usos"
+            },
+            {
+              "code": "U3.4",
+              "title": "Terpenos y terpenoides"
             }
           ]
         },
         {
           "code": "U4",
-          "title": "Hidrocarburos Aromáticos",
+          "title": "HIDROCARBUROS AROMÁTICOS",
           "subunits": [
             {
               "code": "U4.1",
-              "title": "Propiedades Físicas"
+              "title": "Estructura y nomenclatura"
             },
             {
               "code": "U4.2",
-              "title": "Propiedades Químicas: Reacciones de Sustitución"
+              "title": "Propiedades físicas"
             },
             {
               "code": "U4.3",
-              "title": "Preparación. Fuentes y Usos. Asignatura"
+              "title": "Propiedades químicas: Reacciones de sustitución electrofílica aromática"
+            },
+            {
+              "code": "U4.4",
+              "title": "Preparación. Fuentes y usos"
             }
           ]
         },
         {
           "code": "U5",
-          "title": "Compuestos Halogenados",
+          "title": "COMPUESTOS HALOGENADOS",
           "subunits": [
             {
               "code": "U5.1",
-              "title": "Propiedades Físicas."
+              "title": "Estructura y nomenclatura"
             },
             {
               "code": "U5.2",
-              "title": "Propiedades Químicas: Reducción, Formación de"
+              "title": "Propiedades físicas"
             },
             {
               "code": "U5.3",
-              "title": "Los Halogenuros de Alquilo en Síntesis Orgánica Experimental - Orgánico. (a.a.)"
+              "title": "Propiedades químicas: reducción, formación de compuestos"
             },
             {
               "code": "U5.4",
-              "title": "Preparación. Fuentes y Usos Consolidar Temas Referentes"
+              "title": "Los halogenuros de alquilo en síntesis orgánica"
+            },
+            {
+              "code": "U5.5",
+              "title": "Preparación. Fuentes y usos"
             }
           ]
         },
         {
           "code": "U6",
-          "title": "Alcoholes",
+          "title": "ALCOHOLES",
           "subunits": [
             {
               "code": "U6.1",
-              "title": "Propiedades Físicas"
+              "title": "Estructura y nomenclatura"
             },
             {
               "code": "U6.2",
-              "title": "Propiedades Químicas: Reacciones con Ruptura del"
+              "title": "Propiedades físicas"
             },
             {
               "code": "U6.3",
-              "title": "Preparación. Fuentes y Usos (ape/a)"
+              "title": "Propiedades químicas: reacciones con ruptura del enlace O-H, reacciones"
+            },
+            {
+              "code": "U6.4",
+              "title": "Preparación. Fuentes y usos"
+            },
+            {
+              "code": "U6.5",
+              "title": "Algunos alcoholes y fenoles importantes: Polihidroxialcoholes"
             }
           ]
         },
         {
           "code": "U7",
-          "title": "Éteres",
+          "title": "ÉTERES",
           "subunits": [
             {
               "code": "U7.1",
-              "title": "Propiedades Físicas"
+              "title": "Estructura y nomenclatura"
             },
             {
               "code": "U7.2",
-              "title": "Propiedades Químicas Práctico (a.a.)"
+              "title": "propiedades físicas"
+            },
+            {
+              "code": "U7.3",
+              "title": "propiedades químicas"
+            },
+            {
+              "code": "U7.4",
+              "title": "preparación- fuentes y usos"
             }
           ]
         },
         {
           "code": "U8",
-          "title": "Aldehídos y Cetonas",
+          "title": "ALDEHÍDOS Y CETONAS",
           "subunits": [
             {
               "code": "U8.1",
-              "title": "Estructura y Nomenclatura Contacto con El"
+              "title": "Aldehídos y cetonas"
             },
             {
               "code": "U8.2",
-              "title": "Propiedades Físicas Estudiantes (a.a.)"
+              "title": "Estructura y nomenclatura"
+            },
+            {
+              "code": "U8.3",
+              "title": "Propiedades físicas"
+            },
+            {
+              "code": "U8.4",
+              "title": "Propiedades químicas: reacciones de adición, oxidación y reducción"
+            }
+          ]
+        },
+        {
+          "code": "U9",
+          "title": "ÁCIDOS CARBOXÍLICOS",
+          "subunits": [
+            {
+              "code": "U9.1",
+              "title": "Estructura, nomenclatura propiedades físicas"
+            },
+            {
+              "code": "U9.2",
+              "title": "Acidez y Equivalente de Neutralización"
+            },
+            {
+              "code": "U9.3",
+              "title": "Propiedades Químicas"
+            },
+            {
+              "code": "U9.4",
+              "title": "Síntesis, fuentes y usos"
+            }
+          ]
+        },
+        {
+          "code": "U10",
+          "title": "ÁCIDOS SULFÓNICOS Y NITROCOMPUESTOS",
+          "subunits": [
+            {
+              "code": "U10.1",
+              "title": "Estructura, nomenclatura, propiedades y reacciones de los ácidos sulfónicos"
+            },
+            {
+              "code": "U10.2",
+              "title": "Estructura, nomenclatura, propiedades y reacciones de los Nitrocompuestos"
             }
           ]
         }
       ],
-      "unitCount": 8,
-      "subunitCount": 28
+      "unitCount": 10,
+      "subunitCount": 48
     },
     {
       "id": "emprendimiento-e-innovacion-1",
@@ -2685,22 +3722,111 @@ const syllabiContentData = {
       "units": [
         {
           "code": "U1",
-          "title": "Perfil Emprendedor",
-          "subunits": []
+          "title": "PERFIL EMPRENDEDOR",
+          "subunits": [
+            {
+              "code": "U1.1",
+              "title": "PROYECTO DE VIDA"
+            },
+            {
+              "code": "U1.2",
+              "title": "CONCEPTO Y TIPOS DE EMPRENDIMIENTO"
+            },
+            {
+              "code": "U1.3",
+              "title": "LA PERSONALIDAD EMPRENDEDORA"
+            },
+            {
+              "code": "U1.4",
+              "title": "POTENCIAL EMPRENDEDOR"
+            }
+          ]
         },
         {
           "code": "U2",
-          "title": "Concepto y Tipos de Emprendimiento",
-          "subunits": []
+          "title": "RADAR EMPRENDEDOR",
+          "subunits": [
+            {
+              "code": "U2.1",
+              "title": "AFINANDO LA CAPACIDAD DE OBSERVACIÓN"
+            },
+            {
+              "code": "U2.2",
+              "title": "IDENTIFICACIÓN DE PROBLEMAS, NECESIDADES Y/U OPORTUNIDADES"
+            }
+          ]
         },
         {
           "code": "U3",
-          "title": "La Personalidad Emprendedora Aprendizaje en Presente – Futuro.",
-          "subunits": []
+          "title": "CREATIVIDAD + INNOVACIÓN= VALOR AGREGADO",
+          "subunits": [
+            {
+              "code": "U3.1",
+              "title": "DESARROLLO DE LA CREATIVIDAD"
+            },
+            {
+              "code": "U3.2",
+              "title": "INNOVACION APLICADA"
+            },
+            {
+              "code": "U3.3",
+              "title": "DESARROLLO DE LA PROPUESTA DE VALOR: METODOLOGÍAS ÁGILES"
+            }
+          ]
+        },
+        {
+          "code": "U4",
+          "title": "NOCIONES BÁSICAS PARA NUEVOS EMPRENDEDORES",
+          "subunits": [
+            {
+              "code": "U4.1",
+              "title": "Exploración de Mercados"
+            },
+            {
+              "code": "U4.2",
+              "title": "Ciclo de Vida de los productos"
+            },
+            {
+              "code": "U4.3",
+              "title": "Punto de Equilibrio"
+            },
+            {
+              "code": "U4.4",
+              "title": "Trámites y Obligaciones"
+            }
+          ]
+        },
+        {
+          "code": "U5",
+          "title": "MODELO DE NEGOCIO",
+          "subunits": [
+            {
+              "code": "U5.1",
+              "title": "LIENZO CANVAS"
+            },
+            {
+              "code": "U5.2",
+              "title": "PRESENTACIONES PARA GANAR"
+            }
+          ]
+        },
+        {
+          "code": "U6",
+          "title": "INTELIGENCIA EMOCIONAL",
+          "subunits": [
+            {
+              "code": "U6.1",
+              "title": "CONOCIMIENTO DE NUESTROS SENTIMIENTOS Y EMOCIONES"
+            },
+            {
+              "code": "U6.2",
+              "title": "EL AUTOCONTROL Y LA AUTOMOTIVACIÓN"
+            }
+          ]
         }
       ],
-      "unitCount": 3,
-      "subunitCount": 0
+      "unitCount": 6,
+      "subunitCount": 17
     },
     {
       "id": "bioquimica-de-alimentos-1",
@@ -2725,52 +3851,87 @@ const syllabiContentData = {
       "units": [
         {
           "code": "U1",
-          "title": "Generalidades",
-          "subunits": []
+          "title": "GENERALIDADES",
+          "subunits": [
+            {
+              "code": "U1.1",
+              "title": "A. BIOQUÍMICA DE ALIMENTOS: DEFINICIÓN B. ALIMENTO: DEFINICIÓN C. CLASIFICACIÓN DE LOS ALIMENTOS D. CAMBIOS GENERALES DE LOS ALIMENTOS E. GRUPOS DE ALIMENTOS F. NUTRICIÓN Y ALIMENTACIÓN G. NUTRIENTES: DEFINICIÓN H. VALOR ENERGÉTICO DE LOS ALIMENTOS I. COMPOSICIÓN DE ALIMENTOS J. EJERCICIOS SOBRE COMPOSICIÓN DE ALIMENTOS"
+            }
+          ]
         },
         {
           "code": "U2",
-          "title": "A. Bioquímica de Alimentos: Definición 1 Aprendizaje en Actividad 1.1 2 Horas",
+          "title": "AGUA",
           "subunits": [
             {
               "code": "U2.1",
-              "title": "Agua"
+              "title": "A. GENERALIDADES SOBRE EL AGUA B. PROPIEDADES FÍSICAS Y QUÍMICAS C. TIPOS DE AGUA D. ACTIVIDAD ACUOSA: CÁLCULO, ISOTERMAS DE SORCIÓN, ESTABILIDAD DE LOS ALIMENTOS, MÉTODOS DE CONSERVACIÓN"
             }
           ]
         },
         {
           "code": "U3",
-          "title": "A. Generalidades Sobre El Agua 2 Aprendizaje en Actividad 1.1 Exposición 5 Horas",
-          "subunits": []
+          "title": "CARBOHIDRATOS",
+          "subunits": [
+            {
+              "code": "U3.1",
+              "title": "A. GENERALIDADES B. CLASIFICACIÓN : MONOSACÁRIDOS, OLIGOSACÁRIDOS, POLISACÁRIDOS C. FIBRA DIETÉTICA: SOLUBLE E INSOLUBLE, UTILIDAD, FUENTES ALIMENTARIAS. E. PROPIEDADES: HIDROFILIA, CRISTALIZACIÓN, ESTADO VÍTREO, MUTORROTACIÓN, INVERSIÓN DEL AZÚCAR, FIJACIÓN, PODER EDULCORANTE. D. REACCIONES DE DETERIORO: HIDRÓLISIS, DEGRADACIÓN Y DESHIDRATACIÓN TÉRMICA, REACCIONES DE OSCURECIMIENTO (PARDEAMIENTO OXIDATIVO ENZIMÁTICO, CARAMELIZACIÓN Y REACCIÓN DE MAILLARD)"
+            }
+          ]
         },
         {
           "code": "U4",
-          "title": "Carbohidratos",
-          "subunits": []
+          "title": "LÍPIDOS",
+          "subunits": [
+            {
+              "code": "U4.1",
+              "title": "A. GENERALIDADES B. CLASIFICACIÓN C. LÍPIDOS IMPORTANTES EN LOS ALIMENTOS D. ÁCIDOS GRASOS: DEFINICIÓN, TIPOS DE ÁCIDOS GRASOS EN LOS ALIMENTOS E. REACCIONES DE DETERIORO: LIPÓLISIS, DEGRADACIÓN Y DESHIDRATACIÓN TÉRMICA, AUTOOXIDACIÓN Y ANTIOXIDANTES, POLIMERIZACIÓN, HIDROGENACIÓN, ISOMERIZACIÓN, CRISTALOGRAFÍA Y POLIMORFISMO F. QUÍMICA DE LAS FRITURAS: COMPORTAMIENTO ALIMENTO-ACEITE, FACTORES INFLUYENTES, MEDIDAS DE"
+            }
+          ]
         },
         {
           "code": "U5",
-          "title": "A. Generalidades 3 Aprendizaje en Actividad 1.1 Exposición 4 Horas",
-          "subunits": []
+          "title": "PROTEINAS",
+          "subunits": [
+            {
+              "code": "U5.1",
+              "title": "A. GENERALIDADES B. AMINOÁCIDOS C. ESTRUCTURAS PROTEICAS D. CLASIFICACIÓN E. FUNCIONES F. PROPIEDADES FUNCIONALES EN LOS ALIMENTOS: HIDRATACIÓN, SOLUBILIDAD, TEXTURA, VISCOSIDAD, GELIFICACIÓN, FORMACIÓN DE MASA, EMULSIFICACIÓN, FORMACIÓN ESPUMA G. REACCIONES DE DETERIORO: DESNATURALIZACIÓN H. PROTEÍNAS ALIMENTARIAS: AMINOÁCIDOS ESENCIALES Y NO ESENCIALES, PROTEÍNAS COMPLETAS, INCOMPLETAS Y COMPLEMENTARIAS. I. CALIDAD DE LAS PROTEÍNAS: VALOR BIOLÓGICO, DIGESTIBILIDAD, CONTENIDO EN AMINOÁCIDOS J. VALOR NUTRICIONAL Y PROPIEDADES FUNCIONALES DEL HUEVO"
+            }
+          ]
         },
         {
           "code": "U6",
-          "title": "Lípidos",
-          "subunits": []
+          "title": "VITAMINAS Y MINERALES",
+          "subunits": [
+            {
+              "code": "U6.1",
+              "title": "A. GENERALIDADES DE VITAMINAS Y MINERALES B. VITAMINAS LIPOSOLUBLES: INGESTA RECOMENDADA, FUENTES Y ACCIÓN. C. VITAMINAS HIDROSOLUBLES: INGESTA RECOMENDADA, FUENTES Y ACCIÓN D. ESTABILIDAD DE LAS VITAMINAS Y LOS MINERALES E. EFECTOS DEL ALMACENAMIENTO Y PREPARACIÓN. F. FORMAS ACTIVAS DE LAS VITAMINAS G. PÉRDIDA DE NUTRIENTES DE LOS"
+            }
+          ]
         },
         {
           "code": "U7",
-          "title": "A. Generalidades 4 Aprendizaje en Actividad 1.1 Exposición 4 Horas",
-          "subunits": []
+          "title": "ADITIVOS",
+          "subunits": [
+            {
+              "code": "U7.1",
+              "title": "A. GENERALIDADES B. CLASIFICACIÓN Y CARACTERÍSTICAS"
+            }
+          ]
         },
         {
           "code": "U8",
-          "title": "Proteinas",
-          "subunits": []
+          "title": "ENZIMAS",
+          "subunits": [
+            {
+              "code": "U8.1",
+              "title": "A. GENERALIDADES B. NOMENCLATURA C. ENZIMAS COMO CATALIZADORES, ESPECIFICIDAD, SITIO ACTIVO D. FACTORES QUE AFECTAN LA VELOCIDAD DE LAS REACCIONES ENZIMÁTICAS: PH, TEMPERATURA, CONCENTRACIÓN DE SUSTRATO, AW, OTROS AGENTES E. USO INDUSTRIAL DE LAS ENZIMAS F. ENZIMAS DE IMPORTANCIA EN ALIMENTOS Y APLICACIONES INDUSTRIALES G. REACCIONES DE FERMENTACIÓN EN ALIMENTOS H. BIOENERGÍA"
+            }
+          ]
         }
       ],
       "unitCount": 8,
-      "subunitCount": 1
+      "subunitCount": 8
     },
     {
       "id": "operaciones-unitarias-iii-intercambio-ionico-1",
@@ -2795,110 +3956,143 @@ const syllabiContentData = {
       "units": [
         {
           "code": "U1",
-          "title": "Introducción",
+          "title": "INTRODUCCIÓN",
           "subunits": [
             {
               "code": "U1.1",
-              "title": "Aplicaciones Industriales de la Adsorción y El Docente (acd)"
+              "title": "Introducción a la Tecnología de separación"
+            },
+            {
+              "code": "U1.2",
+              "title": "Aplicaciones industriales de la adsorción y el intercambio iónico"
             }
           ]
         },
         {
           "code": "U2",
-          "title": "Adsorción",
+          "title": "ADSORCIÓN",
           "subunits": [
             {
               "code": "U2.1",
-              "title": "Estudio de la Cinética de Adsorción."
+              "title": "Parámetros que inciden en el proceso de adsorción. Tamaño de partícula. Temperatura. pH. Cantidad de adsorbente"
+            },
+            {
+              "code": "U2.2",
+              "title": "Estudio de la cinética de adsorción. Modelo de Pseudo primer orden. Modelo de Pseudo segundo orden. Modelo de Weber-Morris"
             }
           ]
         },
         {
           "code": "U3",
-          "title": "Adsorción; Equilibrio e Isotermas",
+          "title": "ADSORCIÓN; EQUILIBRIO E ISOTERMAS",
           "subunits": [
             {
               "code": "U3.1",
-              "title": "Capacidad de Adsorción"
+              "title": "Isoterma de adsorción"
             },
             {
               "code": "U3.2",
-              "title": "Modelos de Isoterma de Adsorción"
+              "title": "Capacidad de adsorción"
+            },
+            {
+              "code": "U3.3",
+              "title": "Modelos de isoterma de adsorción Isoterma de Langmuir Isoterma de Freundlinch"
             }
           ]
         },
         {
           "code": "U4",
-          "title": "Adsorción de Gases",
+          "title": "ADSORCIÓN DE GASES",
           "subunits": [
             {
               "code": "U4.1",
-              "title": "Isoterma de Adsorción"
+              "title": "Aplicación en la Industria"
             },
             {
               "code": "U4.2",
-              "title": "Efecto de la Presión y la Temperatura. Práctico Contenidos Impartidos."
+              "title": "Isoterma de adsorción"
+            },
+            {
+              "code": "U4.3",
+              "title": "Efecto de la presión y la temperatura"
             }
           ]
         },
         {
           "code": "U5",
-          "title": "Adsorción; Diseño de Un Adsorbedor de Lecho Fijo",
+          "title": "ADSORCIÓN; DISEÑO DE UN ADSORBEDOR DE LECHO FIJO",
           "subunits": [
             {
               "code": "U5.1",
-              "title": "Modos de Operación"
+              "title": "Sistemas de contacto en una columna de adsorción"
             },
             {
               "code": "U5.2",
-              "title": "Diseño de Adsorbedor de Lecho Fijo."
+              "title": "Modos de operación"
+            },
+            {
+              "code": "U5.3",
+              "title": "Diseño de adsorbedor de lecho fijo"
             }
           ]
         },
         {
           "code": "U6",
-          "title": "Adsorción; Integración de Lecho Fijo en El Cálculo de Un Sistemas de Flujo",
-          "subunits": []
+          "title": "ADSORCIÓN; INTEGRACIÓN DE LECHO FIJO EN EL CÁLCULO DE UN SISTEMAS DE FLUJO",
+          "subunits": [
+            {
+              "code": "U6.1",
+              "title": "1 . 1 . Diseño de columnas de adsorción utilizando diferentes softwares en un sistema real de la industria, donde se integre desde la"
+            }
+          ]
         },
         {
           "code": "U7",
-          "title": "Intercambio Iónico",
+          "title": "INTERCAMBIO IÓNICO",
           "subunits": [
             {
               "code": "U7.1",
-              "title": "Resinas de Intercambio Anicónico y Catiónico"
+              "title": "Aplicación del intercambio iónico en la industria"
             },
             {
               "code": "U7.2",
-              "title": "Factores Que Influyen en El Intercambio Iónico."
+              "title": "Resinas de intercambio anicónico y catiónico"
             },
             {
               "code": "U7.3",
-              "title": "Utilización de Diferentes Páginas Web para la"
+              "title": "Factores que influyen en el intercambio iónico"
+            },
+            {
+              "code": "U7.4",
+              "title": "Utilización de diferentes páginas web para la selección de las resinas de intercambio, y calculadora de reemplazo de resina, así como el costo"
             }
           ]
         },
         {
           "code": "U8",
-          "title": "Intercambio Iónico; Diseño de Columnas de Intercambio Iónico",
+          "title": "INTERCAMBIO IÓNICO; DISEÑO DE COLUMNAS DE INTERCAMBIO IÓNICO",
           "subunits": [
             {
               "code": "U8.1",
-              "title": "Tipos de Operaciones de Lecho Fluidizado, Lecho Docente (acd)"
+              "title": "Diseño de columnas de intercambio iónico"
             },
             {
               "code": "U8.2",
-              "title": "Ciclos de Regeneración."
+              "title": "Tipos de operaciones de lecho fluidizado, lecho fijo, en continuo y contracorriente"
             },
             {
               "code": "U8.3",
-              "title": "Diseño de Columnas de Intercambio Iónico"
+              "title": "Ciclos de regeneración"
+            },
+            {
+              "code": "U8.4",
+              "title": "Diseño de columnas de intercambio iónico utilizando diferentes softwares en un sistema real de la industria, donde se integre desde la parte hidráulica (bomba tubería)"
             }
           ]
         }
       ],
       "unitCount": 8,
-      "subunitCount": 14
+      "subunitCount": 22
     },
     {
       "id": "tecnologias-para-tratamiento-de-residuos-peligrosos-1",
@@ -2927,42 +4121,71 @@ const syllabiContentData = {
       "units": [
         {
           "code": "U1",
-          "title": "Capítulo 1: Conceptos Básicos Sobre Residuos Peligrosos.",
-          "subunits": []
+          "title": "CAPÍTULO 1: CONCEPTOS BÁSICOS SOBRE RESIDUOS PELIGROSOS",
+          "subunits": [
+            {
+              "code": "U1.1",
+              "title": "Definición, clasificación, fuentes y características de los residuos peligrosos"
+            }
+          ]
         },
         {
           "code": "U2",
-          "title": "Capítulo 2: Normativas y Regulaciones",
-          "subunits": []
+          "title": "CAPÍTULO 2: NORMATIVAS Y REGULACIONES",
+          "subunits": [
+            {
+              "code": "U2.1",
+              "title": "Marco legal y normativo para el manejo y tratamiento de residuos peligrosos a nivel nacional e internacional"
+            },
+            {
+              "code": "U2.2",
+              "title": "CONVENIO DE BASILEA"
+            }
+          ]
         },
         {
           "code": "U3",
-          "title": "Convenio de Basilea. Aprendizaje Exposición de los Temas 2 Horas",
-          "subunits": []
+          "title": "CAPÍTULO 3: PROCESOS DE TRATAMIENTO",
+          "subunits": [
+            {
+              "code": "U3.1",
+              "title": "Descripción de los procesos de tratamiento de residuos peligrosos, incluyendo el tratamiento físico, químico, biológico (aeróbicos y anaeróbicos), físico- químico y térmico"
+            }
+          ]
         },
         {
           "code": "U4",
-          "title": "Capítulo 3: Procesos de Tratamiento.",
-          "subunits": []
+          "title": "CAPÍTULO 4: TECNOLOGÍAS APLICADAS EN EL TRATAMIENTO DE RESIDUOS PELIGROSOS",
+          "subunits": [
+            {
+              "code": "U4.1",
+              "title": "Revisión de las tecnologías más utilizadas en el tratamiento de residuos peligrosos, incluyendo la incineración, métodos electroquímicos, la neutralización química, la estabilización y la solidificación, entre otras"
+            }
+          ]
         },
         {
           "code": "U5",
-          "title": "Capítulo 4: Tecnologías Aplicadas en El Tratamiento de Residuos Peligrosos.",
-          "subunits": []
+          "title": "CAPÍTULO 5: SISTEMAS DE GESTIÓN DE RESIDUOS PELIGROSOS",
+          "subunits": [
+            {
+              "code": "U5.1",
+              "title": "Manejo de residuos peligrosos, la evaluación de riesgos, el seguimiento ambiental, la auditoría ambiental y el control de calidad"
+            }
+          ]
         },
         {
           "code": "U6",
-          "title": "Capítulo 5: Sistemas de Gestión de Residuos Peligrosos.",
+          "title": "CAPÍTULO 6: EXPERIENCIAS Y CASOS PRÁCTICOS",
           "subunits": [
             {
               "code": "U6.1",
-              "title": "Manejo de Residuos Peligrosos, la"
+              "title": "PRESENTACIÓN DE EXPERIENCIAS Y CASOS PRÁCTICOS SOBRE TECNOLOGÍAS Y PROCESOS DE TRATAMIENTO DE RESIDUOS PELIGROSOS EN DIFERENTES CONTEXTOS, TANTO A NIVEL NACIONAL COMO"
             }
           ]
         }
       ],
       "unitCount": 6,
-      "subunitCount": 1
+      "subunitCount": 7
     },
     {
       "id": "fisica-i-1",
@@ -2987,17 +4210,175 @@ const syllabiContentData = {
       "units": [
         {
           "code": "U1",
-          "title": "Mediciones y Algebra Vectorial",
+          "title": "MEDICIONES Y ALGEBRA VECTORIAL",
           "subunits": [
             {
               "code": "U1.1",
-              "title": "Análisis Dimensional Interacción en la Plataforma"
+              "title": "Definición y clasificación de magnitudes"
+            },
+            {
+              "code": "U1.2",
+              "title": "Sistemas de unidades: Sistema internacional de unidades y magnitudes"
+            },
+            {
+              "code": "U1.3",
+              "title": "Análisis Dimensional"
+            },
+            {
+              "code": "U1.4",
+              "title": "Vectores: Representación de un vector, Clases de vectores. Descomposición de un vector en el plano y en el espacio. Sistema de coordenadas. Operaciones con vectores"
+            },
+            {
+              "code": "U1.5",
+              "title": "Resolución de problemas"
+            }
+          ]
+        },
+        {
+          "code": "U2",
+          "title": "CINEMÁTICA",
+          "subunits": [
+            {
+              "code": "U2.1",
+              "title": "Reposo y movimiento: Trayectoria, distancia, rapidez, Vector desplazamiento, vector posición, vector velocidad, vector aceleración"
+            },
+            {
+              "code": "U2.2",
+              "title": "Movimiento Rectilineo Uniforme (MRU): Velocidad media e instantánea, Aceleración media e instantánea"
+            },
+            {
+              "code": "U2.3",
+              "title": "Movimiento Rectilíneo Uniformemente Variado (MRUV) y caída libre de cuerpo"
+            },
+            {
+              "code": "U2.4",
+              "title": "Movimiento Parabólico"
+            },
+            {
+              "code": "U2.5",
+              "title": "Movimiento Circula Uniforme (MCU): periodo, frecuencia, desplazamiento angular, velocidad angular media e instantánea"
+            },
+            {
+              "code": "U2.6",
+              "title": "Movimiento Circular Uniformemente Variado (MCUV): aceleración tangencial y centrípeta"
+            },
+            {
+              "code": "U2.7",
+              "title": "Resolución de problemas"
+            }
+          ]
+        },
+        {
+          "code": "U3",
+          "title": "ESTÁTICA Y DINÁMICA",
+          "subunits": [
+            {
+              "code": "U3.1",
+              "title": "Conceptos de masa, peso y fuerza"
+            },
+            {
+              "code": "U3.2",
+              "title": "Fuerzas sobre un objeto"
+            },
+            {
+              "code": "U3.3",
+              "title": "Primera, segunda y tercera ley de Newton"
+            },
+            {
+              "code": "U3.4",
+              "title": "Diagrama de cuerpo libre y equilibrio traslacional (plano horizontal y plano inclinado)"
+            },
+            {
+              "code": "U3.5",
+              "title": "Resolución de problemas"
+            }
+          ]
+        },
+        {
+          "code": "U4",
+          "title": "ENERGÍA MECÁNICA",
+          "subunits": [
+            {
+              "code": "U4.1",
+              "title": "Trabajo de una fuerza constante"
+            },
+            {
+              "code": "U4.2",
+              "title": "Trabajo de una fuerza variable"
+            },
+            {
+              "code": "U4.3",
+              "title": "Teorema trabajo – energía: Energía cinética"
+            },
+            {
+              "code": "U4.4",
+              "title": "Energía Potencial"
+            },
+            {
+              "code": "U4.5",
+              "title": "Conservación de la energía"
+            },
+            {
+              "code": "U4.6",
+              "title": "Potencia"
+            },
+            {
+              "code": "U4.7",
+              "title": "Resolución de problemas"
+            }
+          ]
+        },
+        {
+          "code": "U5",
+          "title": "MOMENTO LINEAL, IMPULSO Y COLISIONES",
+          "subunits": [
+            {
+              "code": "U5.1",
+              "title": "Momento Lineal e Impulso"
+            },
+            {
+              "code": "U5.2",
+              "title": "Conservación del momento lineal"
+            },
+            {
+              "code": "U5.3",
+              "title": "Colisiones y tipos"
+            },
+            {
+              "code": "U5.4",
+              "title": "Resolución de problemas"
+            }
+          ]
+        },
+        {
+          "code": "U6",
+          "title": "DINÁMICA ROTACIONAL",
+          "subunits": [
+            {
+              "code": "U6.1",
+              "title": "Torque. Equilibro rotatorio"
+            },
+            {
+              "code": "U6.2",
+              "title": "Momento de Inercia"
+            },
+            {
+              "code": "U6.3",
+              "title": "Teorema del eje paralelo"
+            },
+            {
+              "code": "U6.4",
+              "title": "Momento Angular y conservación del momento angular"
+            },
+            {
+              "code": "U6.5",
+              "title": "Resolución de problemas"
             }
           ]
         }
       ],
-      "unitCount": 1,
-      "subunitCount": 1
+      "unitCount": 6,
+      "subunitCount": 33
     },
     {
       "id": "trabajo-de-integracion-curricular-ii-2",
@@ -3022,22 +4403,41 @@ const syllabiContentData = {
       "units": [
         {
           "code": "U1",
-          "title": "Desarrollo de la Metodología Aprobada en la Uic I",
-          "subunits": []
+          "title": "DESARROLLO DE LA METODOLOGÍA APROBADA EN LA UIC I",
+          "subunits": [
+            {
+              "code": "U1.1",
+              "title": "Seguimiento a la parte experimental y levantamiento de datos planteada en la propuesta"
+            }
+          ]
         },
         {
           "code": "U2",
-          "title": "Análisis de Resultados",
-          "subunits": []
+          "title": "ANÁLISIS DE RESULTADOS",
+          "subunits": [
+            {
+              "code": "U2.1",
+              "title": "Formas de presentar datos (tablas, figuras, gráficos)"
+            }
+          ]
         },
         {
           "code": "U3",
-          "title": "Elaboración del Documento Final del Trabajo de Integración Curricular.",
-          "subunits": []
+          "title": "ELABORACIÓN DEL DOCUMENTO FINAL DEL TRABAJO DE INTEGRACIÓN CURRICULAR",
+          "subunits": [
+            {
+              "code": "U3.1",
+              "title": "Formato de presentación de trabajo de titulación"
+            },
+            {
+              "code": "U3.2",
+              "title": "Uso adecuado de referencias"
+            }
+          ]
         }
       ],
       "unitCount": 3,
-      "subunitCount": 0
+      "subunitCount": 4
     },
     {
       "id": "gestion-y-tecnologia-del-medio-ambiente-1",
@@ -3062,101 +4462,143 @@ const syllabiContentData = {
       "units": [
         {
           "code": "U1",
-          "title": "Ambiente",
-          "subunits": []
+          "title": "AMBIENTE",
+          "subunits": [
+            {
+              "code": "U1.1",
+              "title": "Generalidades, definiciones de ambiente, efectos de las diferentes actividades humanas sobre el medio ambiente, importancia del ambiente"
+            }
+          ]
         },
         {
           "code": "U2",
-          "title": "Impacto Ambiental y Contaminación",
+          "title": "IMPACTO AMBIENTAL Y CONTAMINACIÓN",
           "subunits": [
             {
               "code": "U2.1",
-              "title": "Definición de Contaminantes, Contaminación,"
+              "title": "Impacto Ambiental: definición y tipos de impacto ambiental"
             },
             {
               "code": "U2.2",
-              "title": "Clasificación de los Contaminantes en Función de"
+              "title": "Definición de contaminantes, contaminación, origen de los contaminantes"
             },
             {
               "code": "U2.3",
-              "title": "Propiedades Fisicoquímicas y Movilidad de los"
+              "title": "Clasificación de los contaminantes en función de diferentes aspectos"
+            },
+            {
+              "code": "U2.4",
+              "title": "Propiedades fisicoquímicas y movilidad de los contaminantes en el ambiente"
             }
           ]
         },
         {
           "code": "U3",
-          "title": "Marco Jurídico",
-          "subunits": []
+          "title": "MARCO JURÍDICO",
+          "subunits": [
+            {
+              "code": "U3.1",
+              "title": "Marco Jurídico en materia ambiental, antecedentes, leyes, convenios nternacionales, normas, reglamentos"
+            }
+          ]
         },
         {
           "code": "U4",
-          "title": "Gestión Ambiental",
+          "title": "GESTIÓN AMBIENTAL",
           "subunits": [
             {
               "code": "U4.1",
-              "title": "Principio de Jerarquización para la Gestión de Docente (acd)"
+              "title": "Generalidades"
+            },
+            {
+              "code": "U4.2",
+              "title": "Principio de jerarquización para la gestión de desechos: prevención, minimización, valorización, tratamiento y disposición final. Gestores autorizados"
             }
           ]
         },
         {
           "code": "U5",
-          "title": "Herramientas Específicas de Gestión Ambiental",
+          "title": "HERRAMIENTAS ESPECÍFICAS DE GESTIÓN AMBIENTAL",
           "subunits": [
             {
               "code": "U5.1",
-              "title": "Introducción A la Iso 14001 Docente (acd)"
+              "title": "Introducción a la Producción más Limpia"
+            },
+            {
+              "code": "U5.2",
+              "title": "Introducción al Análisis de Ciclo de Vida"
+            },
+            {
+              "code": "U5.3",
+              "title": "Introducción a la ISO 14001"
             }
           ]
         },
         {
           "code": "U6",
-          "title": "Tratamiento de Residuos Sólidos Industriales",
+          "title": "TRATAMIENTO DE RESIDUOS SÓLIDOS INDUSTRIALES",
           "subunits": [
             {
               "code": "U6.1",
-              "title": "Tratamientos Fisicoquímicos: Tratamientos Térmicos,"
+              "title": "Generalidades, desechos peligrosos y clasificación CRETIB, etiquetado, almacenaje"
             },
             {
               "code": "U6.2",
+              "title": "Tratamientos fisicoquímicos: tratamientos térmicos, estabilización y solidificación, vitrificación"
+            },
+            {
+              "code": "U6.3",
               "title": "Disposición Final"
             }
           ]
         },
         {
           "code": "U7",
-          "title": "Tratamiento de Efluentes Industriales",
+          "title": "TRATAMIENTO DE EFLUENTES INDUSTRIALES",
           "subunits": [
             {
               "code": "U7.1",
-              "title": "Tratamientos Físicos"
+              "title": "Parámetros de calidad del agua"
             },
             {
               "code": "U7.2",
-              "title": "Tratamientos Biológicos"
+              "title": "Tratamientos físicos"
             },
             {
               "code": "U7.3",
-              "title": "Tratamiento de Lodos Contacto con El Apoyo de Material Audiovisual y"
+              "title": "Tratamientos fisicoquímicos"
+            },
+            {
+              "code": "U7.4",
+              "title": "Tratamientos biológicos"
+            },
+            {
+              "code": "U7.5",
+              "title": "Tratamiento de lodos"
             }
           ]
         },
         {
           "code": "U8",
-          "title": "Control de Emisiones Gaseosas de Origen Industrial",
+          "title": "CONTROL DE EMISIONES GASEOSAS DE ORIGEN INDUSTRIAL",
           "subunits": [
             {
               "code": "U8.1",
-              "title": "Material Particulado (pm10, Pm2,5), Dispositivos"
+              "title": "Generalidades, medición y estimación de la concentración de los contaminantes del aire"
             },
             {
               "code": "U8.2",
-              "title": "Gases y Dispositivos de Control de Gases (nox,"
+              "title": "Material particulado (PM10, PM2,5), Dispositivos de control de partículas"
+            },
+            {
+              "code": "U8.3",
+              "title": "Gases y dispositivos de control de gases (NOx, COVs, SOx)"
             }
           ]
         }
       ],
       "unitCount": 8,
-      "subunitCount": 12
+      "subunitCount": 22
     },
     {
       "id": "ecuaciones-diferenciales-1",
@@ -3181,37 +4623,213 @@ const syllabiContentData = {
       "units": [
         {
           "code": "U1",
-          "title": "Ecuaciones Diferenciales Lineales de Primer Orden",
+          "title": "ECUACIONES DIFERENCIALES LINEALES DE PRIMER ORDEN",
           "subunits": [
             {
               "code": "U1.1",
-              "title": "Problemas de Valor Inicial"
+              "title": "1"
             },
             {
               "code": "U1.2",
-              "title": "Separación de Variables"
+              "title": "Definiciones y terminología básica"
             },
             {
               "code": "U1.3",
-              "title": "Ecuaciones Exactas y Factores Integrantes"
+              "title": "Soluciones de una ecuación diferencial, constantes de integración. Teorema de existencia y unicidad"
             },
             {
               "code": "U1.4",
-              "title": "Ecuaciones Lineales"
+              "title": "Problemas de valor inicial"
             },
             {
               "code": "U1.5",
-              "title": "Soluciones por Sustitución (ecuación de Bernoulli)"
+              "title": "Ecuaciones Homogéneas"
             },
             {
               "code": "U1.6",
-              "title": "Solución A las Ecuaciones Diferenciales Como"
+              "title": "Separación de variables"
+            },
+            {
+              "code": "U1.7",
+              "title": "Ecuaciones exactas y factores integrantes"
+            },
+            {
+              "code": "U1.8",
+              "title": "Ecuaciones lineales"
+            },
+            {
+              "code": "U1.9",
+              "title": "Soluciones por sustitución (Ecuación de Bernoulli)"
+            },
+            {
+              "code": "U1.10",
+              "title": "Solución a las ecuaciones diferenciales como modelos matemáticos (crecimiento y decaimiento, ley de Newton sobre enfriamiento y calentamiento, mezclas, dinámica poblacional, ecuación logística, reacciones químicas)"
+            }
+          ]
+        },
+        {
+          "code": "U2",
+          "title": "ECUACIONES DIFERENCIALES LINEALES DE SEGUNDO ORDEN Y DE ORDEN SUPERIOR",
+          "subunits": [
+            {
+              "code": "U2.1",
+              "title": "1"
+            },
+            {
+              "code": "U2.2",
+              "title": "Teoría preliminar: Ecuaciones diferenciales de segundo y n-ésimo orden. Independencia lineales y Wronskiano"
+            },
+            {
+              "code": "U2.3",
+              "title": "Ecuaciones lineales homogéneas y no homogéneas con coeficientes constantes (soluciones complementaria y particular)"
+            },
+            {
+              "code": "U2.4",
+              "title": "Reducción de orden"
+            },
+            {
+              "code": "U2.5",
+              "title": "Coeficientes indeterminados"
+            },
+            {
+              "code": "U2.6",
+              "title": "Variación de parámetros"
+            },
+            {
+              "code": "U2.7",
+              "title": "Ecuación de Cauchy-Euler"
+            },
+            {
+              "code": "U2.8",
+              "title": "Ecuaciones diferenciales con coeficientes variables"
+            },
+            {
+              "code": "U2.9",
+              "title": "Ecuaciones de forma homogénea"
+            },
+            {
+              "code": "U2.10",
+              "title": "No aparece la variable dependiente"
+            },
+            {
+              "code": "U2.11",
+              "title": "No aparece la variable independiente"
+            },
+            {
+              "code": "U2.12",
+              "title": "Problemas de aplicación"
+            }
+          ]
+        },
+        {
+          "code": "U3",
+          "title": "LA TRANSFORMADA DE LAPALCE",
+          "subunits": [
+            {
+              "code": "U3.1",
+              "title": "1"
+            },
+            {
+              "code": "U3.2",
+              "title": "Definición de la transformada de Laplace"
+            },
+            {
+              "code": "U3.3",
+              "title": "Transformación de funciones básicas"
+            },
+            {
+              "code": "U3.4",
+              "title": "Derivadas e Integrales de transformadas de Laplace"
+            },
+            {
+              "code": "U3.5",
+              "title": "Transformadas de derivadas"
+            },
+            {
+              "code": "U3.6",
+              "title": "La función delta de Dirac"
+            }
+          ]
+        },
+        {
+          "code": "U4",
+          "title": "SISTEMAS DE ECUACIONES DIFERENCIALES LINEALES",
+          "subunits": [
+            {
+              "code": "U4.1",
+              "title": "1"
+            },
+            {
+              "code": "U4.2",
+              "title": "Teoría preliminar"
+            },
+            {
+              "code": "U4.3",
+              "title": "Sistemas lineales homogéneos con coeficientes constantes:"
+            },
+            {
+              "code": "U4.4",
+              "title": "Valores propios reales distintos"
+            },
+            {
+              "code": "U4.5",
+              "title": "Valores propios reales repetidos"
+            },
+            {
+              "code": "U4.6",
+              "title": "Valores propios complejos"
+            },
+            {
+              "code": "U4.7",
+              "title": "Sistemas lineales no homogéneos:"
+            },
+            {
+              "code": "U4.8",
+              "title": "Coeficientes indeterminados"
+            },
+            {
+              "code": "U4.9",
+              "title": "Variación de parámetros"
+            },
+            {
+              "code": "U4.10",
+              "title": "Eliminación (operadores diferenciales)"
+            },
+            {
+              "code": "U4.11",
+              "title": "Transformada de Laplace"
+            }
+          ]
+        },
+        {
+          "code": "U5",
+          "title": "INTRODUCCIÓN A LAS ECUACIONES DIFERENCIALES PARCIALES",
+          "subunits": [
+            {
+              "code": "U5.1",
+              "title": "1"
+            },
+            {
+              "code": "U5.2",
+              "title": "Concepto de una ecuación diferencial parcial"
+            },
+            {
+              "code": "U5.3",
+              "title": "Significado geométrico de las soluciones general y particular"
+            },
+            {
+              "code": "U5.4",
+              "title": "El método de separación de variables"
+            },
+            {
+              "code": "U5.5",
+              "title": "Flujo unidimensional del calor (Ecuación del Calor)"
             }
           ]
         }
       ],
-      "unitCount": 1,
-      "subunitCount": 6
+      "unitCount": 5,
+      "subunitCount": 44
     },
     {
       "id": "transferencia-de-fluidos-1",
@@ -3236,12 +4854,135 @@ const syllabiContentData = {
       "units": [
         {
           "code": "U1",
-          "title": "Introducción",
-          "subunits": []
+          "title": "INTRODUCCIÓN",
+          "subunits": [
+            {
+              "code": "U1.1",
+              "title": "1"
+            },
+            {
+              "code": "U1.2",
+              "title": "Introducción a las Operaciones Unitarias"
+            },
+            {
+              "code": "U1.3",
+              "title": "2"
+            },
+            {
+              "code": "U1.4",
+              "title": "Manejo de sistemas de unidades"
+            },
+            {
+              "code": "U1.5",
+              "title": "3"
+            },
+            {
+              "code": "U1.6",
+              "title": "Propiedades de los fluidos"
+            }
+          ]
+        },
+        {
+          "code": "U2",
+          "title": "ESTÁTICA DE FLUIDOS",
+          "subunits": [
+            {
+              "code": "U2.1",
+              "title": "Ecuación general de presión. Presión Atmosférica. Presión absoluta, manejo de unidades"
+            },
+            {
+              "code": "U2.2",
+              "title": "Manómetros Práctica de identificación de Manómetros"
+            }
+          ]
+        },
+        {
+          "code": "U3",
+          "title": "DINÁMICA DE FLUIDOS",
+          "subunits": [
+            {
+              "code": "U3.1",
+              "title": "Caudal másico, Caudal volumétrico, Velocidad másica Ecuación de la continuidad"
+            },
+            {
+              "code": "U3.2",
+              "title": "Análisis de tuberías Principio de conservación de energía Teorema de Bernoulli, Ecuación general de energía"
+            },
+            {
+              "code": "U3.3",
+              "title": "Potencia de las bombas Número de Reynolds, Flujo laminar y turbulento"
+            },
+            {
+              "code": "U3.4",
+              "title": "Ecuación de Fanning y Pérdidas de Fricción"
+            },
+            {
+              "code": "U3.5",
+              "title": "Perfiles de velocidad para tuberías no circulares, Radio Hidráulico"
+            },
+            {
+              "code": "U3.6",
+              "title": "Pérdidas Menores Cavitación en Valvulas reductoras de Presión. Grado de apertura de válvulas, Golpe de Arieta"
+            },
+            {
+              "code": "U3.7",
+              "title": "Tuberías en serie"
+            },
+            {
+              "code": "U3.8",
+              "title": "Cálculo de diámetros nominales de tuberías Sistema de tuberías en Paralelo dos ramales Sistema de tuberías en Paralelo tres ramales"
+            },
+            {
+              "code": "U3.9",
+              "title": "Flujo compresible Medida de los caudales, Método directo de Karman, Diagrama de Karman"
+            },
+            {
+              "code": "U3.10",
+              "title": "Dispositivos para medir caudales: Venturímetros, diafragmas, boquillas"
+            },
+            {
+              "code": "U3.11",
+              "title": "Bombas. Definición, clasificación, curvas, Cálculo de la curva de una bomba. Determinación del NPSH. Cálculo de sistemas de tuberías simples con bombas"
+            },
+            {
+              "code": "U3.12",
+              "title": "Tubo de Pitot Alturas Piezométricas"
+            }
+          ]
+        },
+        {
+          "code": "U4",
+          "title": "DISEÑOS Y APLICACIONES",
+          "subunits": [
+            {
+              "code": "U4.1",
+              "title": "1"
+            },
+            {
+              "code": "U4.2",
+              "title": "Diseño de una instalación de un proceso productivo"
+            },
+            {
+              "code": "U4.3",
+              "title": "Procesamiento de datos y Manejo de condiciones de cálculo de sistemas de serie y paralelo en una hoja de cálculo EXCEL"
+            },
+            {
+              "code": "U4.4",
+              "title": "Uso de softwares especificos para conducciones"
+            },
+            {
+              "code": "U4.5",
+              "title": "Cálculo de problemas combinados"
+            },
+            {
+              "code": "U4.6",
+              "title": "Sustentación del diseño de la instalación fabril"
+            }
+          ]
         }
       ],
-      "unitCount": 1,
-      "subunitCount": 0
+      "unitCount": 4,
+      "subunitCount": 26
     },
     {
       "id": "diseno-y-calculo-de-plantas-industriales-1",
@@ -3266,47 +5007,77 @@ const syllabiContentData = {
       "units": [
         {
           "code": "U1",
-          "title": "Manejar Conceptos Fundamentales en El Cálculo de Equipos, Así Como Criterios de Diseño, de Equipos:",
-          "subunits": []
+          "title": "MANEJAR CONCEPTOS FUNDAMENTALES EN EL CÁLCULO DE EQUIPOS, ASÍ COMO CRITERIOS DE DISEÑO, DE EQUIPOS: NORMAS ASME, API, ANSI",
+          "subunits": [
+            {
+              "code": "U1.1",
+              "title": "Manejar conceptos fundamentales como, ingeniería básica, diseño Básico del proceso, Ingeniería Conceptual, Diseño Básico de Ingeniería, criterios de diseño, normas para el diseño de equipos: Normas ASME, API, ANSI. Capacidad real y de diseño de una planta química. Concepto de escalado. Selección del Diámetro nominal y material de tuberías según las normas. Aislamiento de tuberías, espesor óptimo, programa AISLAM"
+            }
+          ]
         },
         {
           "code": "U2",
-          "title": "Diseño Tanques de Almacenamiento.",
-          "subunits": []
+          "title": "DISEÑO TANQUES DE ALMACENAMIENTO",
+          "subunits": [
+            {
+              "code": "U2.1",
+              "title": "Clasificación general de los tanques. Tipos de techos. Diseño del fondo. Códigos de fabricación de los recipientes, norma ASME Y API. Condiciones de diseño de un tanque, materiales a emplear. Método de cálculo para el diseño de tanques de almacenamiento"
+            }
+          ]
         },
         {
           "code": "U3",
-          "title": "Cálculo y Diseño de Tanque A Presión.",
-          "subunits": []
+          "title": "CÁLCULO Y DISEÑO DE TANQUE A PRESIÓN",
+          "subunits": [
+            {
+              "code": "U3.1",
+              "title": "Diseño de recipientes a presión. Tipos de techos. Diseño del fondo. Códigos de fabricación de los recipientes, norma ASME Y API. Condiciones de diseño de un tanque, materiales a emplear. Método de cálculo para el diseño de recipientes a presión"
+            }
+          ]
         },
         {
           "code": "U4",
-          "title": "Diseño de Tanque de Mezclado.selección del Tipo de Agitador.",
-          "subunits": []
+          "title": "DISEÑO DE TANQUE DE MEZCLADO.SELECCIÓN DEL TIPO DE AGITADOR",
+          "subunits": [
+            {
+              "code": "U4.1",
+              "title": "Diseño y cálculo de un tanque agitado, norma ASME y API. Selección de los cabezales, cálculo de altura y espesor, cálculo del espesor del cuerpo cilíndrico, altura total del tanque. Selección del agitador"
+            }
+          ]
         },
         {
           "code": "U5",
-          "title": "Calcular Una Industria Química Seleccionando los Equipos, Desde El Punto de Vista Técnico, Económico",
-          "subunits": []
-        },
-        {
-          "code": "U6",
-          "title": "Realizar Balance de Masa y Energía en 12 Aprendizaje en Contenidos Impartidos por El 24 Horas",
-          "subunits": []
-        },
-        {
-          "code": "U7",
-          "title": "Selección de los Equipos Desde El",
-          "subunits": []
-        },
-        {
-          "code": "U8",
-          "title": "Realizar Un Análisis de Riesgos en los",
-          "subunits": []
+          "title": "CALCULAR UNA INDUSTRIA QUÍMICA SELECCIONANDO LOS EQUIPOS, DESDE EL PUNTO DE VISTA TÉCNICO, ECONÓMICO Y AMBIENTAL",
+          "subunits": [
+            {
+              "code": "U5.1",
+              "title": "REALIZAR BALANCE DE MASA Y ENERGÍA EN LAS DIFERENTES PARTES DEL PROCESO"
+            },
+            {
+              "code": "U5.2",
+              "title": "SELECCIÓN DE LOS EQUIPOS DESDE EL PUNTO DE VISTA TÉCNICO, ECONÓMICO Y"
+            },
+            {
+              "code": "U5.3",
+              "title": "REALIZAR UN ANÁLISIS DE RIESGOS EN LOS PROCESOS QUÍMICOS"
+            },
+            {
+              "code": "U5.4",
+              "title": "REALIZAR LA DISTRIBUCIÓN EN PLANTA DE LOS EQUIPOS ASÍ COMO UN ANÁLISIS ECONÓMICO DEL PROCESOS"
+            },
+            {
+              "code": "U5.5",
+              "title": "REALIZAR INTEGRACIÓN ENERGÉTICA SEGÚN EL PROCESO QUE SE ESTE CALCULANDO"
+            },
+            {
+              "code": "U5.6",
+              "title": "UTILIZACIÓN DE SOFTWARE EN EL DISEÑO DE PLANTAS"
+            }
+          ]
         }
       ],
-      "unitCount": 8,
-      "subunitCount": 0
+      "unitCount": 5,
+      "subunitCount": 10
     },
     {
       "id": "practicas-laborales-i-2",
@@ -3331,27 +5102,47 @@ const syllabiContentData = {
       "units": [
         {
           "code": "U1",
-          "title": "Planificación de Actividades de la Fase Práctica",
-          "subunits": []
+          "title": "PLANIFICACIÓN DE ACTIVIDADES DE LA FASE PRÁCTICA",
+          "subunits": [
+            {
+              "code": "U1.1",
+              "title": "1.1.Asignación de la plaza de la práctica laboral 1.2.Organización de las actividades a realizar"
+            }
+          ]
         },
         {
           "code": "U2",
-          "title": "Ejecución de la Fase Práctica",
-          "subunits": []
+          "title": "EJECUCIÓN DE LA FASE PRÁCTICA",
+          "subunits": [
+            {
+              "code": "U2.1",
+              "title": "2.Documentación habilitante de la fase práctica"
+            }
+          ]
         },
         {
           "code": "U3",
-          "title": "Seguimiento de la Fase Práctica.",
-          "subunits": []
+          "title": "SEGUIMIENTO DE LA FASE PRÁCTICA",
+          "subunits": [
+            {
+              "code": "U3.1",
+              "title": "3.Desempeño laboral del estudiante en la fase práctica"
+            }
+          ]
         },
         {
           "code": "U4",
-          "title": "Finalización de la Fase Práctica",
-          "subunits": []
+          "title": "FINALIZACIÓN DE LA FASE PRÁCTICA",
+          "subunits": [
+            {
+              "code": "U4.1",
+              "title": "4.Verificación del cumplimiento de la fase práctica"
+            }
+          ]
         }
       ],
       "unitCount": 4,
-      "subunitCount": 0
+      "subunitCount": 4
     },
     {
       "id": "quimica-organica-ii-1",
@@ -3380,119 +5171,191 @@ const syllabiContentData = {
       "units": [
         {
           "code": "U1",
-          "title": "Amidas, Nitrilos",
+          "title": "AMIDAS, NITRILOS",
           "subunits": [
             {
               "code": "U1.1",
-              "title": "Estructura, Nomenclatura, Propiedades y"
+              "title": "Estructura, nomenclatura, propiedades y reacciones de las amidas"
+            },
+            {
+              "code": "U1.2",
+              "title": "Estructura, nomenclatura, propiedades y reacciones de los nitrilos"
             }
           ]
         },
         {
           "code": "U2",
-          "title": "Aminas",
+          "title": "AMINAS",
           "subunits": [
             {
               "code": "U2.1",
-              "title": "Propiedades"
+              "title": "Estructura, nomenclatura"
             },
             {
               "code": "U2.2",
-              "title": "Compuestos de Amonio Cuaternario. Práctico Cuestionarios (a.a.)"
+              "title": "Propiedades"
             },
             {
               "code": "U2.3",
-              "title": "Propiedades Químicas: Principales Reacciones Asignatura"
+              "title": "Compuestos de amonio cuaternario"
+            },
+            {
+              "code": "U2.4",
+              "title": "Propiedades Químicas: principales Reacciones características"
+            },
+            {
+              "code": "U2.5",
+              "title": "Reacciones de obtención"
             }
           ]
         },
         {
           "code": "U3",
-          "title": "Sales de Diazonio",
+          "title": "SALES DE DIAZONIO",
           "subunits": [
             {
               "code": "U3.1",
+              "title": "Estructura, propiedades"
+            },
+            {
+              "code": "U3.2",
               "title": "Reacciones"
             }
           ]
         },
         {
           "code": "U4",
-          "title": "Heterociclos",
+          "title": "HETEROCICLOS",
           "subunits": [
             {
               "code": "U4.1",
-              "title": "Heterociclos de 5 Átomos"
+              "title": "Estructura y nomenclatura"
             },
             {
               "code": "U4.2",
-              "title": "Ejemplos de Heterociclos de 5 Átomos, Principal"
+              "title": "Heterociclos de 5 átomos"
             },
             {
               "code": "U4.3",
-              "title": "Ejemplos de Heterociclos de 6 Átomos, Principal"
+              "title": "Ejemplos de heterociclos de 5 átomos, principal reacción de obtención"
+            },
+            {
+              "code": "U4.4",
+              "title": "Ejemplos de heterociclos de 6 átomos, principal reacción de obtención"
             }
           ]
         },
         {
           "code": "U5",
-          "title": "Alcaloides",
+          "title": "ALCALOIDES",
           "subunits": [
             {
               "code": "U5.1",
-              "title": "Estructura y Propiedades de Algunos Derivados del"
+              "title": "Estructura y propiedades de algunos derivados del tropano"
+            },
+            {
+              "code": "U5.2",
+              "title": "Estructura y propiedades de algunos derivados del la quinolina"
             }
           ]
         },
         {
           "code": "U6",
-          "title": "Actividad Óptica",
+          "title": "ACTIVIDAD ÓPTICA",
           "subunits": [
             {
               "code": "U6.1",
-              "title": "Rotación Óptica, Fórmulas y Aplicación."
+              "title": "Compuestos quirales, nomenclatura R y S"
+            },
+            {
+              "code": "U6.2",
+              "title": "Rotación Óptica, fórmulas y aplicación"
             }
           ]
         },
         {
           "code": "U7",
-          "title": "Hidratos de Carbono",
+          "title": "HIDRATOS DE CARBONO",
           "subunits": [
             {
               "code": "U7.1",
-              "title": "Estudio de la Glucosa:"
+              "title": "Estructura, clasificación, nomenclatura, propiedades generales"
             },
             {
               "code": "U7.2",
-              "title": "Disacáridos Principales, Estructura, Nomenclatura, Experimental -"
+              "title": "Estudio de la glucosa: Fórmulas, isómeros, reacciones características"
             },
             {
               "code": "U7.3",
-              "title": "Polisacáridos: Celulosa y Almidón, Estructura,"
+              "title": "Disacáridos principales, estructura, nomenclatura, propiedades"
+            },
+            {
+              "code": "U7.4",
+              "title": "Polisacáridos: celulosa y almidón, estructura, propiedades"
             }
           ]
         },
         {
           "code": "U8",
-          "title": "Aminoácidos y Proteínas",
+          "title": "AMINOÁCIDOS Y PROTEÍNAS",
           "subunits": [
             {
               "code": "U8.1",
-              "title": "Reacciones de Obtención."
+              "title": "Estructura, nomenclatura, propiedades"
             },
             {
               "code": "U8.2",
-              "title": "Péptidos y Proteínas Algunas Propiedades y"
+              "title": "Reacciones de obtención"
             },
             {
               "code": "U8.3",
-              "title": "Péptidos y Proteínas, Clasificación y Aplicación"
+              "title": "Péptidos y proteínas algunas propiedades y reacciones"
+            },
+            {
+              "code": "U8.4",
+              "title": "Péptidos y proteínas, clasificación y aplicación industrial"
+            }
+          ]
+        },
+        {
+          "code": "U9",
+          "title": "LÍPIDOS",
+          "subunits": [
+            {
+              "code": "U9.1",
+              "title": "Estructura y clasificación"
+            },
+            {
+              "code": "U9.2",
+              "title": "Lípidos Hidrolizables"
+            },
+            {
+              "code": "U9.3",
+              "title": "Lípidos no Hidrolizables"
+            }
+          ]
+        },
+        {
+          "code": "U10",
+          "title": "POLÍMEROS",
+          "subunits": [
+            {
+              "code": "U10.1",
+              "title": "Estructura,clasificación, propiedades"
+            },
+            {
+              "code": "U10.2",
+              "title": "Reacciones de obtención, aplicación industrial"
+            },
+            {
+              "code": "U10.3",
+              "title": "El Caucho: Fundamento de su tecnología"
             }
           ]
         }
       ],
-      "unitCount": 8,
-      "subunitCount": 16
+      "unitCount": 10,
+      "subunitCount": 31
     },
     {
       "id": "ingenieria-de-las-reacciones-i-cinetica-1",
@@ -3517,91 +5380,123 @@ const syllabiContentData = {
       "units": [
         {
           "code": "U1",
-          "title": "Elementos de la Cinética Química",
+          "title": "ELEMENTOS DE LA CINÉTICA QUÍMICA",
           "subunits": [
             {
               "code": "U1.1",
-              "title": "Características y Tipos de Reacciones Homogéneas"
+              "title": "Conceptos y fundamentos de la Cinética Química"
             },
             {
               "code": "U1.2",
-              "title": "La Velocidad de Reacción, Orden de Reacción, Experimental -"
+              "title": "Características y tipos de reacciones homogéneas y heterogéneas"
+            },
+            {
+              "code": "U1.3",
+              "title": "La velocidad de reacción, orden de reacción, estequiometría y molecularidad, ecuación cinética y constante de velocidad"
+            },
+            {
+              "code": "U1.4",
+              "title": "La influencia de la temperatura en la constante cinética y la Ley de Arrhenius"
+            },
+            {
+              "code": "U1.5",
+              "title": "¿Cómo se producen las Reacciones Químicas? La teoría de las Colisiones y la del Complejo Activado"
             }
           ]
         },
         {
           "code": "U2",
-          "title": "Reacciones Elementales y No Elementales",
+          "title": "REACCIONES ELEMENTALES Y NO ELEMENTALES",
           "subunits": [
             {
               "code": "U2.1",
-              "title": "Las Reacciones No Elementales"
+              "title": "Las reacciones elementales"
+            },
+            {
+              "code": "U2.2",
+              "title": "Las reacciones no elementales"
             }
           ]
         },
         {
           "code": "U3",
-          "title": "Métodos Diferenciales e Integrales para El Análisis de Datos Cinéticos",
+          "title": "MÉTODOS DIFERENCIALES E INTEGRALES PARA EL ANÁLISIS DE DATOS CINÉTICOS",
           "subunits": [
             {
               "code": "U3.1",
-              "title": "Métodos Integrales para El Análisis de Datos"
+              "title": "Métodos diferenciales para el análisis de datos"
+            },
+            {
+              "code": "U3.2",
+              "title": "Métodos integrales para el análisis de datos"
             }
           ]
         },
         {
           "code": "U4",
-          "title": "Reacciones en Fase Líquida y en Disolución",
+          "title": "REACCIONES EN FASE LÍQUIDA Y EN DISOLUCIÓN",
           "subunits": [
             {
               "code": "U4.1",
-              "title": "Los Mecanismos de los Sistemas en Disolución"
+              "title": "Los sistemas líquidos"
             },
             {
               "code": "U4.2",
-              "title": "La Velocidad de Reacción en Sistemas en Fase"
+              "title": "Los mecanismos de los sistemas en disolución"
+            },
+            {
+              "code": "U4.3",
+              "title": "La velocidad de reacción en sistemas en fase líquida"
             }
           ]
         },
         {
           "code": "U5",
-          "title": "Catálisis Homogénea, Heterogénea y Enzimática",
+          "title": "CATÁLISIS HOMOGÉNEA, HETEROGÉNEA Y ENZIMÁTICA",
           "subunits": [
             {
               "code": "U5.1",
-              "title": "Catálisis Heterogénea y Catalizadores Sólidos"
+              "title": "Catálisis homogénea"
             },
             {
               "code": "U5.2",
-              "title": "Catálisis Enzimática Práctico Científicos"
+              "title": "Catálisis heterogénea y catalizadores sólidos"
+            },
+            {
+              "code": "U5.3",
+              "title": "Catálisis enzimática"
             }
           ]
         },
         {
           "code": "U6",
-          "title": "Reacciones Heterogéneas No Catalíticas",
+          "title": "REACCIONES HETEROGÉNEAS NO CATALÍTICAS",
           "subunits": [
             {
               "code": "U6.1",
-              "title": "Modelos para Partículas de Tamaño Decreciente"
+              "title": "Reacciones sólido fluido en partículas de tamaño constante"
             },
             {
               "code": "U6.2",
-              "title": "Determinación Experimental de la Etapa"
+              "title": "Modelos para partículas de tamaño decreciente"
             },
             {
               "code": "U6.3",
-              "title": "Reacciones con Crecimiento de Partícula"
+              "title": "Determinación experimental de la etapa controlante"
             },
             {
               "code": "U6.4",
-              "title": "Modelos para Condiciones No Isotérmicas"
+              "title": "Reacciones con crecimiento de partícula"
+            },
+            {
+              "code": "U6.5",
+              "title": "Modelos para condiciones no isotérmicas"
             }
           ]
         }
       ],
       "unitCount": 6,
-      "subunitCount": 12
+      "subunitCount": 20
     },
     {
       "id": "calculo-integral-1",
@@ -3626,96 +5521,191 @@ const syllabiContentData = {
       "units": [
         {
           "code": "U1",
-          "title": "La Integral Indefinida",
-          "subunits": []
+          "title": "LA INTEGRAL INDEFINIDA",
+          "subunits": [
+            {
+              "code": "U1.1",
+              "title": "La integral indefinida (anti derivación)"
+            },
+            {
+              "code": "U1.2",
+              "title": "Técnicas de integración:"
+            },
+            {
+              "code": "U1.3",
+              "title": "-Básica mediante fórmulas"
+            },
+            {
+              "code": "U1.4",
+              "title": "-Cambio de variable"
+            },
+            {
+              "code": "U1.5",
+              "title": "-Sustitución trigonométrica"
+            },
+            {
+              "code": "U1.6",
+              "title": "-Resolución por partes"
+            },
+            {
+              "code": "U1.7",
+              "title": "-Reducción a fracciones parciales"
+            },
+            {
+              "code": "U1.8",
+              "title": "-Resolución por racionalización"
+            },
+            {
+              "code": "U1.9",
+              "title": "-Sustitución diversas y universal"
+            },
+            {
+              "code": "U1.10",
+              "title": "-Integrales de funciones trigonométricas directas e inversas"
+            },
+            {
+              "code": "U1.11",
+              "title": "-Métodos y técnicas para el cálculo de la constante de integración"
+            },
+            {
+              "code": "U1.12",
+              "title": "-Problemas de aplicación con diferentes técnicas de integración"
+            }
+          ]
         },
         {
           "code": "U2",
-          "title": "La Integral Definida",
+          "title": "LA INTEGRAL DEFINIDA",
           "subunits": [
             {
               "code": "U2.1",
-              "title": "Teorema Fundamental del Cálculo"
+              "title": "Propiedades de la integral definida"
             },
             {
               "code": "U2.2",
-              "title": "La Función Logaritmo Natural Definida Desde El"
+              "title": "Área bajo una curva"
             },
             {
               "code": "U2.3",
-              "title": "Cambio de Límites de Integración Experimental - Prueba"
+              "title": "Teorema fundamental del cálculo"
             },
             {
               "code": "U2.4",
-              "title": "Integrales Impropias: Criterio de Convergencia (ape/a)"
+              "title": "La función logaritmo natural definida desde el cálculo integral"
             },
             {
               "code": "U2.5",
-              "title": "Integración con Integrandos Discontinuos"
+              "title": "Cambio de límites de integración"
+            },
+            {
+              "code": "U2.6",
+              "title": "Integrales impropias: Criterio de Convergencia"
+            },
+            {
+              "code": "U2.7",
+              "title": "Integrales con extremos de integración infinitos"
+            },
+            {
+              "code": "U2.8",
+              "title": "Integración con integrandos discontinuos"
             }
           ]
         },
         {
           "code": "U3",
-          "title": "Aplicaciones de la Integral",
+          "title": "APLICACIONES DE LA INTEGRAL",
           "subunits": [
             {
               "code": "U3.1",
-              "title": "Aplicaciones en Física: Trabajo, Fuerza, Presión y Contacto con El Diálogo con los Estudiantes Sobre El"
+              "title": "Aplicaciones geométricas: áreas, volúmenes y superficie de revolución"
             },
             {
               "code": "U3.2",
-              "title": "Ecuaciones Paramétricas"
-            },
-            {
-              "code": "U3.3",
-              "title": "Longitud de Arco: Curvas Polares Contacto con El"
-            },
-            {
-              "code": "U3.4",
-              "title": "Movimiento en Un Plano"
+              "title": "Aplicaciones en física: trabajo, fuerza, presión y centros de masa"
             }
           ]
         },
         {
           "code": "U4",
-          "title": "Integrales Múltiples",
+          "title": "ECUACIONES PARAMÉTRICAS",
           "subunits": [
             {
               "code": "U4.1",
-              "title": "La Integral Triple"
+              "title": "Longitud de arco: curvas parametrizadas"
             },
             {
               "code": "U4.2",
-              "title": "Cambio de Variables en las Integrales Múltiples"
+              "title": "Longitud de arco: curvas polares"
             },
             {
               "code": "U4.3",
-              "title": "Aplicaciones de las Integrales Múltiples Experimental - Casa. Deberes"
+              "title": "Movimiento en un plano"
+            },
+            {
+              "code": "U4.4",
+              "title": "Área: regiones polares"
             }
           ]
         },
         {
           "code": "U5",
-          "title": "Derivadas Parciales",
+          "title": "INTEGRALES MÚLTIPLES",
           "subunits": [
             {
               "code": "U5.1",
-              "title": "Diferencial Total Contacto con El Diálogo con los Estudiantes Sobre El"
+              "title": "La integral doble"
             },
             {
               "code": "U5.2",
-              "title": "Regla de la Cadena para Funciones de Más de Una Pregunta-respuesta."
+              "title": "Integrales dobles sobre regiones generales"
             },
             {
               "code": "U5.3",
-              "title": "Extremos de Funciones de Dos Variables (derivadas"
+              "title": "La integral triple"
+            },
+            {
+              "code": "U5.4",
+              "title": "Cambio de variables en las integrales múltiples"
+            },
+            {
+              "code": "U5.5",
+              "title": "Aplicaciones de las integrales múltiples"
+            }
+          ]
+        },
+        {
+          "code": "U6",
+          "title": "DERIVADAS PARCIALES",
+          "subunits": [
+            {
+              "code": "U6.1",
+              "title": "Cálculo de la diferencial de una variable (continuidad, derivada)"
+            },
+            {
+              "code": "U6.2",
+              "title": "Diferencial Total"
+            },
+            {
+              "code": "U6.3",
+              "title": "Regla de la cadena para funciones de más de una variable"
+            },
+            {
+              "code": "U6.4",
+              "title": "Derivadas direccionales"
+            },
+            {
+              "code": "U6.5",
+              "title": "Extremos de funciones de dos variables (Derivadas direccionales y gradientes)"
+            },
+            {
+              "code": "U6.6",
+              "title": "Aplicaciones"
             }
           ]
         }
       ],
-      "unitCount": 5,
-      "subunitCount": 15
+      "unitCount": 6,
+      "subunitCount": 37
     },
     {
       "id": "termodinamica-1",
@@ -3744,21 +5734,219 @@ const syllabiContentData = {
       "units": [
         {
           "code": "U1",
-          "title": "Ley de Hess 11 Aprendizaje en Revisión y Análisis de Videos. 3 Horas",
+          "title": "1. CONCEPTOS BÁSICOS Y DEFINICIONES:",
           "subunits": [
             {
               "code": "U1.1",
-              "title": "Calorimetria"
+              "title": "1"
             },
             {
               "code": "U1.2",
-              "title": "Energia Libre de Gibbs Práctico Específico de Sólidos (j.c.)"
+              "title": "Naturaleza de la termodinámica"
+            },
+            {
+              "code": "U1.3",
+              "title": "Dimensiones y unidades"
+            },
+            {
+              "code": "U1.4",
+              "title": "Sistema, propiedad y estado"
+            },
+            {
+              "code": "U1.5",
+              "title": "Ley cero y temperatura Presión"
+            }
+          ]
+        },
+        {
+          "code": "U2",
+          "title": "2. LA PRIMERA LEY Y OTROS CONCEPTOS:",
+          "subunits": [
+            {
+              "code": "U2.1",
+              "title": "1"
+            },
+            {
+              "code": "U2.2",
+              "title": "Formas de energía: Conceptos de calor y trabajo"
+            },
+            {
+              "code": "U2.3",
+              "title": "La primera ley de la termodinámica"
+            },
+            {
+              "code": "U2.4",
+              "title": "Balance de energía para sistemas cerrados"
+            },
+            {
+              "code": "U2.5",
+              "title": "Estado termodinámico y funciones de estado Equilibrio"
+            },
+            {
+              "code": "U2.6",
+              "title": "Regla de las fases"
+            },
+            {
+              "code": "U2.7",
+              "title": "El proceso reversible"
+            },
+            {
+              "code": "U2.8",
+              "title": "Entalpía Capacidad calorífica"
+            },
+            {
+              "code": "U2.9",
+              "title": "Balance de masa y energía para sistemas abiertos"
+            }
+          ]
+        },
+        {
+          "code": "U3",
+          "title": "3. PROPIEDADES VOLUMÉTRICAS DE FLUIDOS PUROS:",
+          "subunits": [
+            {
+              "code": "U3.1",
+              "title": "1"
+            },
+            {
+              "code": "U3.2",
+              "title": "Comportamiento PVmT de sustancias puras"
+            },
+            {
+              "code": "U3.3",
+              "title": "Ecuación de gas ideal Ecuaciones de estado de gases reales"
+            },
+            {
+              "code": "U3.4",
+              "title": "Correlaciones generalizadas para gases Correlaciones generalizadas para líquidos"
+            }
+          ]
+        },
+        {
+          "code": "U4",
+          "title": "4. EFECTOS TÉRMICOS",
+          "subunits": [
+            {
+              "code": "U4.1",
+              "title": "1"
+            },
+            {
+              "code": "U4.2",
+              "title": "Efectos del calor sensible Calores latentes de sustancias puras"
+            },
+            {
+              "code": "U4.3",
+              "title": "Calores estándar de: reacción, de formación, de combustión"
+            },
+            {
+              "code": "U4.4",
+              "title": "Dependencia con la temperatura Efectos térmicos de las reacciones industriales"
+            }
+          ]
+        },
+        {
+          "code": "U5",
+          "title": "5. LA SEGUNDA LEY DE LA TERMODINÁMICA",
+          "subunits": [
+            {
+              "code": "U5.1",
+              "title": "1"
+            },
+            {
+              "code": "U5.2",
+              "title": "Introducción"
+            },
+            {
+              "code": "U5.3",
+              "title": "Motores térmicos, máquinas frigoríficas"
+            },
+            {
+              "code": "U5.4",
+              "title": "Enunciados de la segunda ley Escala termodinámica de temperatura"
+            },
+            {
+              "code": "U5.5",
+              "title": "Entropía Cambios de entropía de un gas ideal"
+            },
+            {
+              "code": "U5.6",
+              "title": "Balance de entropía"
+            },
+            {
+              "code": "U5.7",
+              "title": "Cálculo del trabajo ideal Trabajo perdido"
+            },
+            {
+              "code": "U5.8",
+              "title": "La tercera ley de la termodinámica"
+            },
+            {
+              "code": "U5.9",
+              "title": "Entropía y probabilidad"
+            }
+          ]
+        },
+        {
+          "code": "U6",
+          "title": "5. TERMOQUIMICA",
+          "subunits": [
+            {
+              "code": "U6.1",
+              "title": "ley de HEss"
+            },
+            {
+              "code": "U6.2",
+              "title": "CAlorimetria"
+            },
+            {
+              "code": "U6.3",
+              "title": "Energia libre de gibbs"
+            }
+          ]
+        },
+        {
+          "code": "U7",
+          "title": "6. PROPIEDADES TERMODINÁMICAS DE LOS FLUIDOS:",
+          "subunits": [
+            {
+              "code": "U7.1",
+              "title": "1"
+            },
+            {
+              "code": "U7.2",
+              "title": "Expresiones para la evaluación de una propiedad en fases homogéneas"
+            },
+            {
+              "code": "U7.3",
+              "title": "Diagramas termodinámicos"
+            },
+            {
+              "code": "U7.4",
+              "title": "Tablas de propiedades termodinámicas"
+            }
+          ]
+        },
+        {
+          "code": "U8",
+          "title": "7. REACCIONES DE COMBUSTION",
+          "subunits": [
+            {
+              "code": "U8.1",
+              "title": "Tipos de reacciones de combustion"
+            },
+            {
+              "code": "U8.2",
+              "title": "estequeometria"
+            },
+            {
+              "code": "U8.3",
+              "title": "aplicaciones"
             }
           ]
         }
       ],
-      "unitCount": 1,
-      "subunitCount": 2
+      "unitCount": 8,
+      "subunitCount": 41
     },
     {
       "id": "herramientas-de-metodologia-de-investigacion-1",
@@ -3787,17 +5975,111 @@ const syllabiContentData = {
       "units": [
         {
           "code": "U1",
-          "title": "Introducción",
+          "title": "INTRODUCCIÓN",
           "subunits": [
             {
               "code": "U1.1",
-              "title": "Presentación de Silabo y Criterios de"
+              "title": "Presentación de silabo y criterios de evaluación"
+            },
+            {
+              "code": "U1.2",
+              "title": "Definición de conceptos de metodología de la investigación, el método científico, tipos de métodos"
+            }
+          ]
+        },
+        {
+          "code": "U2",
+          "title": "REVISIÓN DE LA LITERATURA",
+          "subunits": [
+            {
+              "code": "U2.1",
+              "title": "Criterios de selección de la información Fuentes de información. Fuentes primarias y secundarias"
+            },
+            {
+              "code": "U2.2",
+              "title": "Artículos científicos: estructura, formato tablas, títulos, subtítulos, etc) y presentación Estado del arte: estructura, formato y presentación"
+            },
+            {
+              "code": "U2.3",
+              "title": "Búsqueda en bases digitales Palabras clave y descriptores (Google académico, SCOPUS, Science Direct, Taylor & Francis) Estrategia de búsqueda de evidencia científica Sistematización de búsqueda y selección de literatura. Selección de evidencia científica (aplicación de criterios de selección)"
+            },
+            {
+              "code": "U2.4",
+              "title": "Gestores de referencias: Manejo del gestor de referencia"
+            },
+            {
+              "code": "U2.5",
+              "title": "El plagio: tipos e importancia Sistema de citación APA: citas y referencias Pautas del parafraseo y resumen"
+            }
+          ]
+        },
+        {
+          "code": "U3",
+          "title": "ESCRITURA ACADÉMICA",
+          "subunits": [
+            {
+              "code": "U3.1",
+              "title": "Principios de la escritura académica. El tema, la idea principal, las ideas de apoyo. El proceso de escritura (planeación, escritura, revisión)"
+            }
+          ]
+        },
+        {
+          "code": "U4",
+          "title": "EL MÉTODO CIENTÍFICO",
+          "subunits": [
+            {
+              "code": "U4.1",
+              "title": "Tipos de Investigación. El método científico. Pasos de la investigación. Los enfoques cualitativos y cuantitativos de la investigación científica"
+            },
+            {
+              "code": "U4.2",
+              "title": "Formulación del problema de investigación"
+            }
+          ]
+        },
+        {
+          "code": "U5",
+          "title": "TRABAJOS ACADÉMICOS",
+          "subunits": [
+            {
+              "code": "U5.1",
+              "title": "Trabajo de Investigación. Formulación de la hipótesis. Formulación de objetivos Escritura de un trabajo de investigación"
+            },
+            {
+              "code": "U5.2",
+              "title": "Trabajo de Investigación. Escritura de un trabajo de investigación : Introducción. Marco teórico"
+            },
+            {
+              "code": "U5.3",
+              "title": "Trabajo de Investigación. Escritura de un trabajo de investigación: Resultados Conclusiones y recomendaciones"
+            },
+            {
+              "code": "U5.4",
+              "title": "Trabajo de Investigación"
+            },
+            {
+              "code": "U5.5",
+              "title": "Ensayos"
+            },
+            {
+              "code": "U5.6",
+              "title": "Informe de laboratorio. Materiales y métodos"
+            }
+          ]
+        },
+        {
+          "code": "U6",
+          "title": "PRESENTACION DE UN TRABAJO DE INVESTIGACION",
+          "subunits": [
+            {
+              "code": "U6.1",
+              "title": "Pasos para la elaboración de una presentación en Power Point de un trabajo científico"
             }
           ]
         }
       ],
-      "unitCount": 1,
-      "subunitCount": 1
+      "unitCount": 6,
+      "subunitCount": 17
     },
     {
       "id": "operaciones-unitarias-iii-humidificacion-y-secado-1",
@@ -3822,53 +6104,73 @@ const syllabiContentData = {
       "units": [
         {
           "code": "U1",
-          "title": "Humidificación",
+          "title": "HUMIDIFICACIÓN",
           "subunits": [
             {
               "code": "U1.1",
-              "title": "Métodos de Humidificación Experimental - de Climatización"
+              "title": "Psicrometría: Presión total de una mezcla, presión parcial, humedad molar y humedad absoluta, humedad relativa, humedad porcentual, punto de rocío, volumen específico, entalpía específica, Temperatura de bulbo húmedo y temperatura de saturación adiabática, Diagrama psicrométrico"
             },
             {
               "code": "U1.2",
-              "title": "Enfriamiento del Agua (ape/a)"
+              "title": "Métodos de humidificación"
+            },
+            {
+              "code": "U1.3",
+              "title": "Enfriamiento del agua"
             }
           ]
         },
         {
           "code": "U2",
-          "title": "Interacción del Ambiente y los Productos Deshidratados.",
+          "title": "INTERACCIÓN DEL AMBIENTE Y LOS PRODUCTOS DESHIDRATADOS",
           "subunits": [
             {
               "code": "U2.1",
-              "title": "Alimentos de Humedad Intermedia. Alimentos, Obtención de Una Isoterma"
+              "title": "Bases para entender la acción química del agua: Distribución del agua en los alimentos, actividad acuosa, isotermas de sorción, temperatura de transición vítrea, métodos para predecir la aw, aw y estabilidad microbiana"
             },
             {
               "code": "U2.2",
-              "title": "Tiempo de Vida Útil: Bases Cinéticas, Determinación Temperatura de Transición Vítrea."
+              "title": "Alimentos de humedad intermedia"
+            },
+            {
+              "code": "U2.3",
+              "title": "Tiempo de vida útil: Bases cinéticas, determinación del tiempo de vida útil"
+            },
+            {
+              "code": "U2.4",
+              "title": "Empaques de productos deshidratados"
             }
           ]
         },
         {
           "code": "U3",
-          "title": "Secado",
+          "title": "SECADO",
           "subunits": [
             {
               "code": "U3.1",
-              "title": "Cinética del Secado: Velocidad de Secado, Tiempo"
+              "title": "Definiciones de secado: Humedad libre, humedad crítica, humedad de equilibrio. Curva de secado, Cinética del secado"
             },
             {
               "code": "U3.2",
-              "title": "Secado por Aspersión Experimental - Obtención Experimental de Una Curva"
+              "title": "Cinética del secado: velocidad de secado, tiempo de secado"
             },
             {
               "code": "U3.3",
+              "title": "Equipos de secado"
+            },
+            {
+              "code": "U3.4",
+              "title": "Secado por aspersión"
+            },
+            {
+              "code": "U3.5",
               "title": "Liofilización"
             }
           ]
         }
       ],
       "unitCount": 3,
-      "subunitCount": 7
+      "subunitCount": 12
     },
     {
       "id": "tecnologias-limpias-en-ingenieria-quimica-2",
@@ -3893,71 +6195,93 @@ const syllabiContentData = {
       "units": [
         {
           "code": "U1",
-          "title": "Producción Más Limpia",
+          "title": "PRODUCCIÓN MÁS LIMPIA",
           "subunits": [
             {
               "code": "U1.1",
-              "title": "Evolución de la Producción Más Limpia"
+              "title": "Concepto de producción más limpia"
+            },
+            {
+              "code": "U1.2",
+              "title": "Evolución de la producción más limpia"
             }
           ]
         },
         {
           "code": "U2",
-          "title": "Niveles de Producción Más Limpia",
+          "title": "NIVELES DE PRODUCCIÓN MÁS LIMPIA",
           "subunits": [
             {
               "code": "U2.1",
-              "title": "Minimización de Residuos. Reutilización"
+              "title": "Niveles de producción más limpia"
             },
             {
               "code": "U2.2",
-              "title": "Las Tres R - Concepto, Reducir, Reutilizar y Reciclar"
+              "title": "Minimización de residuos. Reutilización"
+            },
+            {
+              "code": "U2.3",
+              "title": "Las Tres R - Concepto, reducir, reutilizar y reciclar"
             }
           ]
         },
         {
           "code": "U3",
-          "title": "Herramientas de la Producción Más Limpia.",
-          "subunits": []
+          "title": "HERRAMIENTAS DE LA PRODUCCIÓN MÁS LIMPIA",
+          "subunits": [
+            {
+              "code": "U3.1",
+              "title": "Herramientas de producción más limpia. Ecomapas, Matrices MED, Ecobalances, Ciclo de vida"
+            }
+          ]
         },
         {
           "code": "U4",
-          "title": "Tecnologías de Membranas",
+          "title": "TECNOLOGÍAS DE MEMBRANAS",
           "subunits": [
             {
               "code": "U4.1",
-              "title": "Umbral de Corte de las Membrabas: Microfiltración, Docente (acd)"
+              "title": "Concepto de membrana. Modo de operación"
             },
             {
               "code": "U4.2",
-              "title": "Utilización de Membrana Como Tecnología Limpia"
+              "title": "Umbral de corte de las membrabas: microfiltración, nanofiltración, ultrafiltración y ósmosis inversa"
             },
             {
               "code": "U4.3",
-              "title": "La Tecnología de Membrana en la Industria"
+              "title": "Utilización de membrana como tecnología limpia en la industria química"
             },
             {
               "code": "U4.4",
-              "title": "La Tecnología de Membrana en las Plantas de Agua Autónomo (aa) Contenidos de la Unidad."
+              "title": "La tecnología de membrana en la industria alimenticia"
             },
             {
               "code": "U4.5",
-              "title": "La Tecnología de Membrana A en la Desalación de"
+              "title": "La tecnología de membrana en las plantas de agua potable y agua residual"
             },
             {
               "code": "U4.6",
-              "title": "Utilización de Diferentes Software de Membranas."
+              "title": "La tecnología de membrana a en la desalación de agua de mar"
+            },
+            {
+              "code": "U4.7",
+              "title": "Utilización de diferentes software de membranas"
             }
           ]
         },
         {
           "code": "U5",
-          "title": "Implementación de Un Sistema de Producción Más Limpia en Una Industria.",
-          "subunits": []
+          "title": "IMPLEMENTACIÓN DE UN SISTEMA DE PRODUCCIÓN MÁS LIMPIA EN UNA INDUSTRIA",
+          "subunits": [
+            {
+              "code": "U5.1",
+              "title": "Implementar un sistema de producción más limpia utilizando las herramientas y tecnologías impartidas"
+            }
+          ]
         }
       ],
       "unitCount": 5,
-      "subunitCount": 9
+      "subunitCount": 14
     },
     {
       "id": "control-de-calidad-de-recursos-hidricos-1",
@@ -3982,39 +6306,119 @@ const syllabiContentData = {
       "units": [
         {
           "code": "U1",
-          "title": "Introduccion",
+          "title": "INTRODUCCION",
           "subunits": [
             {
               "code": "U1.1",
-              "title": "El Ciclo Hidrologico"
+              "title": "Conceptos introductorios"
             },
             {
               "code": "U1.2",
-              "title": "Balance Hidrico Práctico"
+              "title": "El ciclo Hidrologico"
+            },
+            {
+              "code": "U1.3",
+              "title": "Balance Hidrico"
             }
           ]
         },
         {
           "code": "U2",
-          "title": "Analisis Estadistico",
+          "title": "ANALISIS ESTADISTICO",
           "subunits": [
             {
               "code": "U2.1",
-              "title": "Variables Aleatorias en Hidrología"
+              "title": "Introducción"
             },
             {
               "code": "U2.2",
-              "title": "Periodo de Retorno y Riesgo Práctico Talleres"
+              "title": "Variables aleatorias en Hidrología"
             },
             {
               "code": "U2.3",
-              "title": "Metodos de Estimación Asignatura"
+              "title": "Periodo de retorno y riesgo"
+            },
+            {
+              "code": "U2.4",
+              "title": "Metodos de Estimación"
+            }
+          ]
+        },
+        {
+          "code": "U3",
+          "title": "EVAPOTRANSPIRACION Y ESCORRENTÍA",
+          "subunits": [
+            {
+              "code": "U3.1",
+              "title": "Evapotranspiracion factores internos y externos"
+            },
+            {
+              "code": "U3.2",
+              "title": "Escorrentía Superficial producción"
+            },
+            {
+              "code": "U3.3",
+              "title": "escorrentía superficial propagación"
+            }
+          ]
+        },
+        {
+          "code": "U4",
+          "title": "INTRODUCCION A LOS TRATAMIENTOS DE AGUAS",
+          "subunits": [
+            {
+              "code": "U4.1",
+              "title": "Introducción a los Tratamientos Físicos y Químicos de aguas residuales"
+            },
+            {
+              "code": "U4.2",
+              "title": "Metodos fisicos de tratamiento, enrejados, tanques de homogeneización,sedimentacion, filtracion"
+            },
+            {
+              "code": "U4.3",
+              "title": "Diseño de un sistema de tratamiento de agua residual empleando EXCEL"
+            }
+          ]
+        },
+        {
+          "code": "U5",
+          "title": "DEPURACION BIOLOGICA DE AGUAS RESIDUALES",
+          "subunits": [
+            {
+              "code": "U5.1",
+              "title": "Introduccion a los tipos de microorganismos en la depuracion"
+            },
+            {
+              "code": "U5.2",
+              "title": "procesos biologicos de cultivo en suspensión"
+            },
+            {
+              "code": "U5.3",
+              "title": "eliminacion de nitrogeno y fosforo"
+            },
+            {
+              "code": "U5.4",
+              "title": "Cinética de crecimiento y modelamiento de las bacterias Heterotrofas, Autotrofas y PAO"
+            }
+          ]
+        },
+        {
+          "code": "U6",
+          "title": "MODELOS MATEMATICOS PARA SIMULACION DE TRATAMIENTOS DE AGUA RESIDUAL",
+          "subunits": [
+            {
+              "code": "U6.1",
+              "title": "Creación de un modelo matemático empleando la Cinética de crecimiento de los microorganismos"
+            },
+            {
+              "code": "U6.2",
+              "title": "Empleo de software para el modelamiento de plantas de agua residual"
             }
           ]
         }
       ],
-      "unitCount": 2,
-      "subunitCount": 5
+      "unitCount": 6,
+      "subunitCount": 19
     },
     {
       "id": "operaciones-unitarias-i-manipulacion-de-solidos-1",
@@ -4039,77 +6443,109 @@ const syllabiContentData = {
       "units": [
         {
           "code": "U1",
-          "title": "Consideraciones Generales Sobre Operaciones Unitarias de Reducción de Tamaño",
+          "title": "CONSIDERACIONES GENERALES SOBRE OPERACIONES UNITARIAS DE REDUCCIÓN DE TAMAÑO",
           "subunits": [
             {
               "code": "U1.1",
-              "title": "Procesos Industriales Que Involucran Reducción de"
+              "title": "Presentación del sílabo, laboratorios y trabajos de investigación Consideraciones generales sobre operaciones Unitarias de reducción de tamaño"
+            },
+            {
+              "code": "U1.2",
+              "title": "Procesos industriales que involucran reducción de sólidos: tratamiento de minerales, cemento, alimentos"
             }
           ]
         },
         {
           "code": "U2",
-          "title": "Caracterización de las Partículas Sólidas",
+          "title": "CARACTERIZACIÓN DE LAS PARTÍCULAS SÓLIDAS",
           "subunits": [
             {
               "code": "U2.1",
-              "title": "Ángulo de Reposo y Fricción, Densidad Aparente y"
+              "title": "Caracterización de las partículas sólidas. Técnicas y métodos de muestreo. Métodos de análisis químico, físico y granulométrico"
             },
             {
               "code": "U2.2",
-              "title": "Granulometria por Difracción de Rayos Laser"
+              "title": "Definición de tamaño de partícula y tamaños típicos de materiales comunes"
+            },
+            {
+              "code": "U2.3",
+              "title": "Ángulo de reposo y fricción, densidad aparente y real. Coeficiente de fricción"
+            },
+            {
+              "code": "U2.4",
+              "title": "Granulometria por difracción de Rayos Laser"
             }
           ]
         },
         {
           "code": "U3",
-          "title": "Tamizado",
+          "title": "TAMIZADO",
           "subunits": [
             {
               "code": "U3.1",
-              "title": "Materiales Pulverulentos: Cálculo de la Superficie"
+              "title": "Tamizado. Distribución de tamaño (definición de tamaño medio y funciones acumulativas de distribución de tamaño). Representación gráfica y porcentual de los resultados del análisis de tamizado"
             },
             {
               "code": "U3.2",
-              "title": "Funciones Granulométricas Ecuación de Rosin-"
+              "title": "Materiales pulverulentos: cálculo de la superficie específica de los materiales pulverulentos"
             },
             {
               "code": "U3.3",
-              "title": "Caracterización de Un Tamiz y Su Trabajo. Índice de"
+              "title": "Funciones granulométricas Ecuación de Rosin- Rammer. Gráficos. El gráfico de Rosin-Rammer- Sperling"
+            },
+            {
+              "code": "U3.4",
+              "title": "Caracterización de un tamiz y su trabajo. Índice de cernido. Índice de rechazo. Rendimiento separador. Tamices industriales. Factores de diseño"
             }
           ]
         },
         {
           "code": "U4",
-          "title": "Operaciones Unitarias de Trituración y Molienda",
+          "title": "OPERACIONES UNITARIAS DE TRITURACIÓN Y MOLIENDA",
           "subunits": [
             {
               "code": "U4.1",
-              "title": "Expresión Práctica del Trabajo de Un Desintegrador."
+              "title": "Clasificación general de las operaciones unitarias de trituración y molienda"
             },
             {
               "code": "U4.2",
-              "title": "Trituración Primaria, Secundaria, Molino para"
+              "title": "Leyes de desintegración. Ley general de la energía. Teoría de Rittinger. Ley de Kick. Ley de Bond. Determinación del Índice de Bond"
             },
             {
               "code": "U4.3",
-              "title": "Introducción Al Cálculo y Diseño de los Equipos de"
+              "title": "Expresión práctica del trabajo de un desintegrador. Determinación del número e índice de Rittinger. Características de los productos de desintegración"
+            },
+            {
+              "code": "U4.4",
+              "title": "Trituración primaria, secundaria, molino para gruesos y finos. Consideraciones generales sobre las técnicas de desintegración. Selección de equipo. Clases y tipos de desintegradores"
+            },
+            {
+              "code": "U4.5",
+              "title": "Introducción al cálculo y diseño de los equipos de desintegración. Trituradores de mandibulas. Molinos de tambor, Molinos de rodillo"
             }
           ]
         },
         {
           "code": "U5",
-          "title": "Manipulación de Sólidos: Transportadores",
+          "title": "MANIPULACIÓN DE SÓLIDOS: TRANSPORTADORES",
           "subunits": [
             {
               "code": "U5.1",
-              "title": "Manipulación de Sólidos: Elevadores de Cangilones"
+              "title": "Manipulación de sólidos: Transportadores de banda"
+            },
+            {
+              "code": "U5.2",
+              "title": "Manipulación de sólidos: elevadores de cangilones"
+            },
+            {
+              "code": "U5.3",
+              "title": "Manipulación de sólidos: transportadores neumáticos"
             }
           ]
         }
       ],
       "unitCount": 5,
-      "subunitCount": 10
+      "subunitCount": 18
     },
     {
       "id": "mineralogia-aplicada-1",
@@ -4134,93 +6570,133 @@ const syllabiContentData = {
       "units": [
         {
           "code": "U1",
-          "title": "Introducción, Leyes de la Cristalografía y Sistemas",
+          "title": "INTRODUCCIÓN, LEYES DE LA CRISTALOGRAFÍA Y SISTEMAS",
           "subunits": [
             {
               "code": "U1.1",
-              "title": "Leyes de Cristalización"
+              "title": "Clases de sólidos y génesis de los cristales"
             },
             {
               "code": "U1.2",
-              "title": "Sistemas Cristalinos y Singonías Práctico Índices Cirstalográficos"
+              "title": "Leyes de cristalización"
             },
             {
               "code": "U1.3",
-              "title": "Holoedrías y Meroedrías Asignatura"
+              "title": "Sistemas cristalinos y singonías"
+            },
+            {
+              "code": "U1.4",
+              "title": "Holoedrías y meroedrías"
             }
           ]
         },
         {
           "code": "U2",
-          "title": "Propiedades de los Minerales",
+          "title": "PROPIEDADES DE LOS MINERALES",
           "subunits": [
             {
               "code": "U2.1",
-              "title": "Otras Propiedades: Eléctricas y Magnéticas;"
+              "title": "Propiedades ópticas: color, brillo, raya; iridiscencia y pátina; transparencia y luminiscencia"
+            },
+            {
+              "code": "U2.2",
+              "title": "Propiedades mecánicas: dureza, tenacidad, peso específico, exfoliación y fractura"
+            },
+            {
+              "code": "U2.3",
+              "title": "Otras propiedades: eléctricas y magnéticas; propiedades organolépticas"
             }
           ]
         },
         {
           "code": "U3",
-          "title": "Hábitos y Agregados Cristalinos",
+          "title": "HÁBITOS Y AGREGADOS CRISTALINOS",
           "subunits": [
             {
               "code": "U3.1",
-              "title": "Rocas: Concepto y Clasificación Según Su Origen"
+              "title": "Hábitos y agregados: conceptos y clasificación. Maclas"
+            },
+            {
+              "code": "U3.2",
+              "title": "Rocas: concepto y clasificación según su origen"
             }
           ]
         },
         {
           "code": "U4",
-          "title": "Mineralogía Descriptiva: Oro y Otros Elementos Nativos",
+          "title": "MINERALOGÍA DESCRIPTIVA: ORO Y OTROS ELEMENTOS NATIVOS",
           "subunits": [
             {
               "code": "U4.1",
-              "title": "Minerales Nativos Metálicos: Propiedades de la Asignatura"
+              "title": "Propiedades del oro, características del oro que permiten su identificación, yacimientos y usos"
             },
             {
               "code": "U4.2",
-              "title": "Minerales Nativos No Metálicos: Propiedades del"
+              "title": "Metalurgia del oro y cálculos de aleaciones de oro"
+            },
+            {
+              "code": "U4.3",
+              "title": "Minerales nativos metálicos: propiedades de la plata y el cobre, características que permiten su identificación, yacimientos y usos"
+            },
+            {
+              "code": "U4.4",
+              "title": "Minerales nativos no metálicos: propiedades del azufre, grafito y diamante; características que permiten su identificación, yacimientos y usos"
             }
           ]
         },
         {
           "code": "U5",
-          "title": "Mineralogía Descriptiva: Sulfuros",
+          "title": "MINERALOGÍA DESCRIPTIVA: SULFUROS",
           "subunits": [
             {
               "code": "U5.1",
-              "title": "Sulfuros: Propiedades de Rejalgar, Oropimente,"
+              "title": "Sulfuros: propiedades de calcosina, bornita, galena, blenda, calcopirita, pirrotina y cinabrio, propiedades que permiten su identificación; yacimientos y usos"
+            },
+            {
+              "code": "U5.2",
+              "title": "Sulfuros: propiedades de rejalgar, oropimente, antimonita, pirita, marcasita y molibdenita; características que permiten su identificación; yacimientos y usos de los sulfuros"
             }
           ]
         },
         {
           "code": "U6",
-          "title": "Mineralogía Descriptiva: Óxidos, Haluros y Carbonatos",
+          "title": "MINERALOGÍA DESCRIPTIVA: ÓXIDOS, HALUROS Y CARBONATOS",
           "subunits": [
             {
               "code": "U6.1",
-              "title": "Haluros: Propiedades de Halita y Fluorita,"
+              "title": "Óxidos: Propiedades de cuprita, oligisto, pirolusita, goethita, magnetita, limonita, bauxita; características que permiten su identificación; yacimientos y usos"
             },
             {
               "code": "U6.2",
-              "title": "Carbonatos: Propiedades de Calcita, Dolomita,"
+              "title": "Haluros: Propiedades de halita y fluorita, características que permiten su identificación; yacimientos y usos"
+            },
+            {
+              "code": "U6.3",
+              "title": "Carbonatos: propiedades de calcita, dolomita, magnesita, estroncianita y malaquita; características que permiten su identificación; yacimientos y usos"
             }
           ]
         },
         {
           "code": "U7",
-          "title": "Mineralogía Descriptiva: Sulfatos y Silicatos",
+          "title": "MINERALOGÍA DESCRIPTIVA: SULFATOS Y SILICATOS",
           "subunits": [
             {
               "code": "U7.1",
-              "title": "Silicatos: Propiedades del Cuarzo y de Sus Tipos; (ape/a)"
+              "title": "Sulfatos: propiedades de baritina y yeso; características que permiten su identificación; yacimientos y usos"
+            },
+            {
+              "code": "U7.2",
+              "title": "Silicatos: propiedades de caolinita, mica, taco y ortosa; características que permiten su identificación; yacimientos y usos"
+            },
+            {
+              "code": "U7.3",
+              "title": "Silicatos: propiedades del cuarzo y de sus tipos; características que permiten su identificación; yacimientos y usos"
             }
           ]
         }
       ],
       "unitCount": 7,
-      "subunitCount": 11
+      "subunitCount": 21
     },
     {
       "id": "salud-y-seguridad-industrial-1",
@@ -4245,57 +6721,247 @@ const syllabiContentData = {
       "units": [
         {
           "code": "U1",
-          "title": "Conceptos Generales",
+          "title": "CONCEPTOS GENERALES",
           "subunits": [
             {
               "code": "U1.1",
-              "title": "Objetivos de la Seguridad. Contacto con El"
+              "title": "Evolución histórica de la Seguridad"
             },
             {
               "code": "U1.2",
-              "title": "Terminología Básica de Seguridad en El Trabajo."
+              "title": "Objetivos de la Seguridad"
             },
             {
               "code": "U1.3",
-              "title": "Misiones y Principios Experimental - Ejercicio de Aplicación: Identificación de"
+              "title": "Terminología Básica de Seguridad en el trabajo"
+            },
+            {
+              "code": "U1.4",
+              "title": "¿Qué es la Seguridad?"
+            },
+            {
+              "code": "U1.5",
+              "title": "Misiones y Principios"
             }
           ]
         },
         {
           "code": "U2",
-          "title": "Investigación de Accidentes Trabajo",
+          "title": "INVESTIGACIÓN DE ACCIDENTES TRABAJO",
           "subunits": [
             {
               "code": "U2.1",
-              "title": "Generalidades de los Accidentes de Trabajo. (ape/a) de Videos"
+              "title": "Definición de accidente de trabajo. Teorías sobre accidente de trabajo. Factores de riesgo que producen accidentes de trabajo"
             },
             {
               "code": "U2.2",
-              "title": "Determinación de Causas Básicas – Inmediata."
+              "title": "Generalidades de los accidentes de trabajo. Técnicas de investigación de accidentes. Importancia de la investigación. Etapas de la investigación"
             },
             {
               "code": "U2.3",
-              "title": "Registro de Accidentes e Índice de Lesiones."
+              "title": "Determinación de causas básicas – inmediata. Acciones correctivas. Costes de los accidentes"
             },
             {
               "code": "U2.4",
-              "title": "Utilidad de los Registros. Notificación de Accidentes"
+              "title": "Registro de accidentes e índice de lesiones"
+            },
+            {
+              "code": "U2.5",
+              "title": "Utilidad de los registros. Notificación de accidentes de trabajo. Índices reactivos de Accidentabilidad. Fórmulas estándar para establecer los índices reactivos"
             }
           ]
         },
         {
           "code": "U3",
-          "title": "Enfermedad Ocupacional",
+          "title": "ENFERMEDAD OCUPACIONAL",
           "subunits": [
             {
               "code": "U3.1",
-              "title": "Factores de Riesgo Que Inciden en la Aparición de Docente (acd)"
+              "title": "Definición de enfermedad ocupacional"
+            },
+            {
+              "code": "U3.2",
+              "title": "Factores de riesgo que inciden en la aparición de enfermedades ocupacionales"
+            },
+            {
+              "code": "U3.3",
+              "title": "Enfermedades ocupacionales asociadas a diferentes factores de riesgo"
+            }
+          ]
+        },
+        {
+          "code": "U4",
+          "title": "TOXICOLOGÍA INDUSTRIAL",
+          "subunits": [
+            {
+              "code": "U4.1",
+              "title": "Principios generales de toxicología. Criterios de peligrosidad de las sustancias químicas"
+            },
+            {
+              "code": "U4.2",
+              "title": "Tipos de efectos tóxicos provocados por sustancias químicas industriales"
+            },
+            {
+              "code": "U4.3",
+              "title": "Criterios de valoración de riesgo higiénico: TLVs, VLA"
+            }
+          ]
+        },
+        {
+          "code": "U5",
+          "title": "GESTIÓN Y EVALUACIÓN DE RIESGOS",
+          "subunits": [
+            {
+              "code": "U5.1",
+              "title": "Identificación, medición, evaluación, control y seguimiento de factores de riesgo mecánicos"
+            },
+            {
+              "code": "U5.2",
+              "title": "Identificación, medición, evaluación, control y seguimiento de factores de riesgo físico"
+            },
+            {
+              "code": "U5.3",
+              "title": "Identificación, medición, evaluación, control y seguimiento de factores de riesgo químico"
+            },
+            {
+              "code": "U5.4",
+              "title": "Identificación, medición, evaluación, control y seguimiento de factores de riesgo biológico"
+            },
+            {
+              "code": "U5.5",
+              "title": "Identificación, medición, evaluación, control y seguimiento de factores de riesgo ergonómico"
+            },
+            {
+              "code": "U5.6",
+              "title": "Identificación, medición, evaluación, control y seguimiento de factores de riesgo psicosocial"
+            }
+          ]
+        },
+        {
+          "code": "U6",
+          "title": "LEGISLACIÓN DE SEGURIDAD",
+          "subunits": [
+            {
+              "code": "U6.1",
+              "title": "Instrumento Andino de Seguridad y Salud en el Trabajo"
+            },
+            {
+              "code": "U6.2",
+              "title": "Reglamento de Seguridad y Salud de los Trabajadores y Mejoramiento del Medio Ambiente de Trabajo D.E 2393"
+            },
+            {
+              "code": "U6.3",
+              "title": "Resolución CD"
+            },
+            {
+              "code": "U6.4",
+              "title": "Reglamento del Seguro General de Riesgos del Trabajo"
+            },
+            {
+              "code": "U6.5",
+              "title": "Acuerdo Ministerial 135"
+            }
+          ]
+        },
+        {
+          "code": "U7",
+          "title": "PREVENCIÓN Y PROTECCIÓN CONTRA INCENDIOS Y EXPLOSIONES",
+          "subunits": [
+            {
+              "code": "U7.1",
+              "title": "Riesgo de Incendio. Química del incendio"
+            },
+            {
+              "code": "U7.2",
+              "title": "Factores del Incendio"
+            },
+            {
+              "code": "U7.3",
+              "title": "Clasificación de los tipos de fuegos y equipos y medios de extinción"
+            },
+            {
+              "code": "U7.4",
+              "title": "Explosiones: Definición y clasificación"
+            },
+            {
+              "code": "U7.5",
+              "title": "Programa de prevención y protección contra incendios y explosiones"
+            }
+          ]
+        },
+        {
+          "code": "U8",
+          "title": "EQUIPOS DE PROTECCIÓN PERSONAL",
+          "subunits": [
+            {
+              "code": "U8.1",
+              "title": "Protección respiratoria: Definición, clasificación, usos"
+            },
+            {
+              "code": "U8.2",
+              "title": "Protección auditiva: definición, clasificación, usos"
+            },
+            {
+              "code": "U8.3",
+              "title": "Protección de la cara y ojos: definición, clasificación, usos"
+            },
+            {
+              "code": "U8.4",
+              "title": "Protección del cuerpo, manos, cabeza, calzado: definición, clasificación, Usos"
+            },
+            {
+              "code": "U8.5",
+              "title": "Responsabilidades de la administración en la dotación y distribución de los Equipos de Protección Individual"
+            }
+          ]
+        },
+        {
+          "code": "U9",
+          "title": "SEÑALIZACIÓN",
+          "subunits": [
+            {
+              "code": "U9.1",
+              "title": "Características de la señalización. Clases de señalización y utilización"
+            },
+            {
+              "code": "U9.2",
+              "title": "El color en seguridad. Clasificación de los colores"
+            },
+            {
+              "code": "U9.3",
+              "title": "Principios de la señalización. Tipos de señales de seguridad en forma de panel"
+            },
+            {
+              "code": "U9.4",
+              "title": "Análisis de la Norma INEN – 439"
+            }
+          ]
+        },
+        {
+          "code": "U10",
+          "title": "MATERIALES PELIGROSOS",
+          "subunits": [
+            {
+              "code": "U10.1",
+              "title": "Definiciones generales. Evaluación de los peligros para la salud"
+            },
+            {
+              "code": "U10.2",
+              "title": "Principales riesgos de un manejo inadecuado de los materiales peligrosos"
+            },
+            {
+              "code": "U10.3",
+              "title": "Medidas preventivas y recomendaciones para evitar accidentes"
+            },
+            {
+              "code": "U10.4",
+              "title": "Norma INEN 2266.2010"
             }
           ]
         }
       ],
-      "unitCount": 3,
-      "subunitCount": 8
+      "unitCount": 10,
+      "subunitCount": 45
     },
     {
       "id": "polimeros-2",
@@ -4320,57 +6986,69 @@ const syllabiContentData = {
       "units": [
         {
           "code": "U1",
-          "title": "Conceptos, Peso Molecular y Mecanismos de Polimerización",
+          "title": "CONCEPTOS, PESO MOLECULAR Y MECANISMOS DE POLIMERIZACIÓN",
           "subunits": [
             {
               "code": "U1.1",
-              "title": "Pesos Moleculares Promedio en Número, en Peso,"
+              "title": "Introducción, nomenclatura, clasificación, aplicaciones"
             },
             {
               "code": "U1.2",
-              "title": "Mecanismos y Sistemas de Polimerización."
+              "title": "Pesos moleculares promedio en número, en peso, en z y viscosimétrico: Calculo y técnicas para su determinación"
+            },
+            {
+              "code": "U1.3",
+              "title": "Mecanismos y sistemas de polimerización"
             }
           ]
         },
         {
           "code": "U2",
-          "title": "Propiedades de los Polimeros y Tecnicas de Caracterización",
+          "title": "PROPIEDADES DE LOS POLIMEROS Y TECNICAS DE CARACTERIZACIÓN",
           "subunits": [
             {
               "code": "U2.1",
-              "title": "Comportamiento Reológico"
+              "title": "Solubilidad"
             },
             {
               "code": "U2.2",
-              "title": "Transiciones Térmicas Práctico"
+              "title": "Comportamiento reológico"
             },
             {
               "code": "U2.3",
-              "title": "Propiedades Mecánicas Asignatura"
+              "title": "Transiciones térmicas"
+            },
+            {
+              "code": "U2.4",
+              "title": "Propiedades mecánicas"
             }
           ]
         },
         {
           "code": "U3",
-          "title": "Procesos de Transformación, Gestion de Residuos Plásticos",
+          "title": "PROCESOS DE TRANSFORMACIÓN, GESTION DE RESIDUOS PLÁSTICOS",
           "subunits": [
             {
               "code": "U3.1",
-              "title": "Fibras, Vulcanización, Refuerzos y Aditivos"
+              "title": "Extrusión, Inyección, Soplado, Termoformado, Calandrado"
             },
             {
               "code": "U3.2",
-              "title": "Pruebas en Producto Terminado"
+              "title": "Fibras, Vulcanización, Refuerzos y aditivos"
             },
             {
               "code": "U3.3",
-              "title": "Reutilización, Reciclaje Primario, Secundario,"
+              "title": "Pruebas en producto terminado"
+            },
+            {
+              "code": "U3.4",
+              "title": "Reutilización, Reciclaje primario, secundario, terciario y recuperación energética"
             }
           ]
         }
       ],
       "unitCount": 3,
-      "subunitCount": 8
+      "subunitCount": 11
     },
     {
       "id": "organizacion-y-direccion-de-empresas-1",
@@ -4395,42 +7073,77 @@ const syllabiContentData = {
       "units": [
         {
           "code": "U1",
-          "title": "La Empresa y Su Organización",
-          "subunits": []
+          "title": "LA EMPRESA Y SU ORGANIZACIÓN",
+          "subunits": [
+            {
+              "code": "U1.1",
+              "title": "Introducción La empresa y sus funciones Clasificación de empresas Organización Empresarial"
+            }
+          ]
         },
         {
           "code": "U2",
-          "title": "Introducción A la Dirección Estratégica",
-          "subunits": []
+          "title": "INTRODUCCIÓN A LA DIRECCIÓN ESTRATÉGICA",
+          "subunits": [
+            {
+              "code": "U2.1",
+              "title": "La dirección estratégica Análisis Estratégico Formulación e implementación de estrategias"
+            }
+          ]
         },
         {
           "code": "U3",
-          "title": "Introducción A la Dirección de Operaciones y Recursos Humanos",
-          "subunits": []
+          "title": "INTRODUCCIÓN A LA DIRECCIÓN DE OPERACIONES Y RECURSOS HUMANOS",
+          "subunits": [
+            {
+              "code": "U3.1",
+              "title": "Concepto y elementos de la Dirección de Operaciones Estructura y organización de los temas de Dirección de Operaciones"
+            }
+          ]
         },
         {
           "code": "U4",
-          "title": "Estrategias de Localización Industrial y Distribución de Planta",
-          "subunits": []
+          "title": "ESTRATEGIAS DE LOCALIZACIÓN INDUSTRIAL Y DISTRIBUCIÓN DE PLANTA",
+          "subunits": [
+            {
+              "code": "U4.1",
+              "title": "Factores de Localización Modelos de Localización Tipos de procesos productivos. Diagramas del proceso productivo Distribución en planta"
+            }
+          ]
         },
         {
           "code": "U5",
-          "title": "Organización del Trabajo",
-          "subunits": []
+          "title": "ORGANIZACIÓN DEL TRABAJO",
+          "subunits": [
+            {
+              "code": "U5.1",
+              "title": "Diseño del sistema de trabajo El estudio de métodos La medición del trabajo"
+            }
+          ]
         },
         {
           "code": "U6",
-          "title": "Sistemas Integrados de Producción",
-          "subunits": []
+          "title": "SISTEMAS INTEGRADOS DE PRODUCCIÓN",
+          "subunits": [
+            {
+              "code": "U6.1",
+              "title": "Introducción Planificación Agregada de la Producción Programación Maestra de la Producción. Viabilidad del Programa Maestro de Producción La Planificación de las Necesidades de Materiales (MRP)"
+            }
+          ]
         },
         {
           "code": "U7",
-          "title": "Programación y Control de Operaciones",
-          "subunits": []
+          "title": "PROGRAMACIÓN Y CONTROL DE OPERACIONES",
+          "subunits": [
+            {
+              "code": "U7.1",
+              "title": "Asignación de trabajos Secuenciación de trabajos Programación de tareas Programación flexible de la producción"
+            }
+          ]
         }
       ],
       "unitCount": 7,
-      "subunitCount": 0
+      "subunitCount": 7
     },
     {
       "id": "gestion-energetica-1",
@@ -4455,12 +7168,103 @@ const syllabiContentData = {
       "units": [
         {
           "code": "U1",
-          "title": "Introducción A la Gestión Energética.",
-          "subunits": []
+          "title": "INTRODUCCIÓN A LA GESTIÓN ENERGÉTICA",
+          "subunits": [
+            {
+              "code": "U1.1",
+              "title": "Conceptos generales. Rendimiento de un sistema energético. Unidades de potencia y energía"
+            },
+            {
+              "code": "U1.2",
+              "title": "Fuentes de energía. Clasificación"
+            },
+            {
+              "code": "U1.3",
+              "title": "Recursos energéticos globales"
+            },
+            {
+              "code": "U1.4",
+              "title": "Recursos energéticos nacionales"
+            },
+            {
+              "code": "U1.5",
+              "title": "Energía y medio ambiente"
+            },
+            {
+              "code": "U1.6",
+              "title": "Gestión energética"
+            }
+          ]
+        },
+        {
+          "code": "U2",
+          "title": "GENERACIÓN, CONVERSIÓN Y USO EFICIENTE DE LA ENERGÍA",
+          "subunits": [
+            {
+              "code": "U2.1",
+              "title": "Conceptos generales de la cogeneración y su aplicación en las actividades productivas"
+            },
+            {
+              "code": "U2.2",
+              "title": "Componentes principales de un sistema de cogeneración"
+            },
+            {
+              "code": "U2.3",
+              "title": "Cálculos termodinámicos de un sistema de cogeneración y análisis de resultados"
+            },
+            {
+              "code": "U2.4",
+              "title": "Incorporación de energías renovables"
+            },
+            {
+              "code": "U2.5",
+              "title": "Motores eléctricos"
+            },
+            {
+              "code": "U2.6",
+              "title": "Calderas"
+            }
+          ]
+        },
+        {
+          "code": "U3",
+          "title": "SISTEMA DE GESTIÓN DE ENERGÍA EN LA INDUSTRIA",
+          "subunits": [
+            {
+              "code": "U3.1",
+              "title": "Sistemas de gestión de energía (SGEn)"
+            },
+            {
+              "code": "U3.2",
+              "title": "Norma ISO"
+            },
+            {
+              "code": "U3.3",
+              "title": "50001"
+            },
+            {
+              "code": "U3.4",
+              "title": "Casos de estudio"
+            }
+          ]
+        },
+        {
+          "code": "U4",
+          "title": "LA APLICACIÓN DE LA EFICIENCIA ENERGÉTICA A LA REALIDAD DEL ECUADOR",
+          "subunits": [
+            {
+              "code": "U4.1",
+              "title": "Plan Nacional de Eficiencia Energética 2016-2035"
+            },
+            {
+              "code": "U4.2",
+              "title": "Ley Orgánica de Eficiencia Energética / Ley Orgánica de Competitividad Energética"
+            }
+          ]
         }
       ],
-      "unitCount": 1,
-      "subunitCount": 0
+      "unitCount": 4,
+      "subunitCount": 18
     },
     {
       "id": "procesamiento-industrial-de-lacteos-y-carnicos-1",
@@ -4486,9 +7290,276 @@ const syllabiContentData = {
         }
       ],
       "description": "La asignatura de procesamiento industrial de cárnicos y lácteos es de naturaleza teórico - práctico, diseñada para que el estudiante maneje con propiedad los fundamentos de la ciencia y tecnología, además busca relacionar con el conocimiento de la categorización y transformación de las materias primas dentro de la agroindustria. - Logros de aprendizaje del perfil de egreso. 1. Aplicar los conocimientos y habilidades en matemáticas y química como herramientas básicas para la solución de problemas en el campo de la i",
-      "units": [],
-      "unitCount": 0,
-      "subunitCount": 0
+      "units": [
+        {
+          "code": "U1",
+          "title": "1. TECNOLOGÍA DE LA CARNE Y SU CATEGORIZACIÓN",
+          "subunits": [
+            {
+              "code": "U1.1",
+              "title": "1"
+            },
+            {
+              "code": "U1.2",
+              "title": "Materias primas"
+            },
+            {
+              "code": "U1.3",
+              "title": "composición y calidad de la carne"
+            },
+            {
+              "code": "U1.4",
+              "title": "Modificaciones de la carne después del sacrificio"
+            },
+            {
+              "code": "U1.5",
+              "title": "Características de la carne destinada a la elaboración"
+            },
+            {
+              "code": "U1.6",
+              "title": "La grasa"
+            },
+            {
+              "code": "U1.7",
+              "title": "vísceras y despojos"
+            }
+          ]
+        },
+        {
+          "code": "U2",
+          "title": "2. INTRODUCCION: INDUSTRIA LACTEA",
+          "subunits": [
+            {
+              "code": "U2.1",
+              "title": "1"
+            },
+            {
+              "code": "U2.2",
+              "title": "Introducción: Definición"
+            },
+            {
+              "code": "U2.3",
+              "title": "Composición"
+            },
+            {
+              "code": "U2.4",
+              "title": "Microbiología de la leche Cruda"
+            },
+            {
+              "code": "U2.5",
+              "title": "Buenas Prácticas de Ordeño"
+            },
+            {
+              "code": "U2.6",
+              "title": "Parámetros Físico-Químicos y Microbiológicos de la leche cruda"
+            },
+            {
+              "code": "U2.7",
+              "title": "Bibliográfica: Normativa"
+            }
+          ]
+        },
+        {
+          "code": "U3",
+          "title": "3. EQUIPOS MAQUINARIA Y METROLOGÍA",
+          "subunits": [
+            {
+              "code": "U3.1",
+              "title": "1"
+            },
+            {
+              "code": "U3.2",
+              "title": "Descripción de la maquinaria en la Industria cárnica"
+            },
+            {
+              "code": "U3.3",
+              "title": "Descripción de equipos de control en las diferentes etapas del proceso"
+            },
+            {
+              "code": "U3.4",
+              "title": "Estudio de los parámetros de control pH, Viscosidad, Temperatura, Color, Textura, Dureza, y características organolépticas"
+            }
+          ]
+        },
+        {
+          "code": "U4",
+          "title": "4. BUENAS PRACTICAS DE MANUFACTURA EN LA INDUSTRIA LACTEA",
+          "subunits": [
+            {
+              "code": "U4.1",
+              "title": "1.Instalaciones 2.Equipos y utensilios 3.Higiene y actitud del personal 4.Control del agua 5.Control de plagas 6.Limpieza y desinfección: - Control de procesos - Distribución de la planta"
+            }
+          ]
+        },
+        {
+          "code": "U5",
+          "title": "5. ADITIVOS, ESPECIES Y CONDIMENTOS",
+          "subunits": [
+            {
+              "code": "U5.1",
+              "title": "1"
+            },
+            {
+              "code": "U5.2",
+              "title": "Sustancias Curantes"
+            },
+            {
+              "code": "U5.3",
+              "title": "Estabilizantes de pH"
+            },
+            {
+              "code": "U5.4",
+              "title": "Retenedores de Humedad"
+            },
+            {
+              "code": "U5.5",
+              "title": "Conservantes y antioxidantes"
+            },
+            {
+              "code": "U5.6",
+              "title": "Potencializadores de sabor"
+            },
+            {
+              "code": "U5.7",
+              "title": "Colorantes"
+            },
+            {
+              "code": "U5.8",
+              "title": "Aromas naturales y artificiales"
+            },
+            {
+              "code": "U5.9",
+              "title": "Especies y condimentos"
+            }
+          ]
+        },
+        {
+          "code": "U6",
+          "title": "6. ENVASES PARA PRODUCTOS LACTEOS",
+          "subunits": [
+            {
+              "code": "U6.1",
+              "title": "1.Definición 2.Generalidades - Características 3.Tipos de envases 4.Ejemplos de envases"
+            }
+          ]
+        },
+        {
+          "code": "U7",
+          "title": "7. ENVOLTURAS NATURALES Y ARTIFICIALES, MALLA Y EMPAQUES AL VACIÓ CON ATMOSFERA MODIFICADA",
+          "subunits": [
+            {
+              "code": "U7.1",
+              "title": "1"
+            },
+            {
+              "code": "U7.2",
+              "title": "Tripas naturales"
+            },
+            {
+              "code": "U7.3",
+              "title": "Tripas artificiales"
+            },
+            {
+              "code": "U7.4",
+              "title": "Productos empacados al vacío"
+            }
+          ]
+        },
+        {
+          "code": "U8",
+          "title": "8. QUESOS: FRESCO - MADURO - REQUESON - MOZZARELLA",
+          "subunits": [
+            {
+              "code": "U8.1",
+              "title": "1.Introducción 2.Generalidades (nacionales - mundiales) 3.Clasificación 4.Características 5.Insumos - equipos 6.Operaciones de proceso- Control de Producto terminado"
+            }
+          ]
+        },
+        {
+          "code": "U9",
+          "title": "9. PRODUCTOS CRUDOS DE PASTA GRUESA",
+          "subunits": [
+            {
+              "code": "U9.1",
+              "title": "1"
+            },
+            {
+              "code": "U9.2",
+              "title": "Proceso de elaboración de la salchichas (freír / paisa)"
+            }
+          ]
+        },
+        {
+          "code": "U10",
+          "title": "10. TIPOS DE LECHES",
+          "subunits": [
+            {
+              "code": "U10.1",
+              "title": "1"
+            },
+            {
+              "code": "U10.2",
+              "title": "Definición"
+            },
+            {
+              "code": "U10.3",
+              "title": "Operaciones de transformación"
+            },
+            {
+              "code": "U10.4",
+              "title": "Equipos"
+            },
+            {
+              "code": "U10.5",
+              "title": "Producto Terminado"
+            }
+          ]
+        },
+        {
+          "code": "U11",
+          "title": "11. PRODUCTOS ESCALDADOS DE PASTA FINA",
+          "subunits": [
+            {
+              "code": "U11.1",
+              "title": "1"
+            },
+            {
+              "code": "U11.2",
+              "title": "Procesos de elaboración de salchichas Tipo Viena (pollo, cerdo, res)"
+            }
+          ]
+        },
+        {
+          "code": "U12",
+          "title": "12. PRODUCTOS MASAJEADOS",
+          "subunits": [
+            {
+              "code": "U12.1",
+              "title": "1"
+            },
+            {
+              "code": "U12.2",
+              "title": "Proceso de elaboración de los Jamones"
+            }
+          ]
+        },
+        {
+          "code": "U13",
+          "title": "13. PRODUCTOS AHUMADOS. AHUMADOS DE POLLO Y CORTES DE CERDO",
+          "subunits": [
+            {
+              "code": "U13.1",
+              "title": "1"
+            },
+            {
+              "code": "U13.2",
+              "title": "Proceso de elaboración de productos ahumados"
+            }
+          ]
+        }
+      ],
+      "unitCount": 13,
+      "subunitCount": 47
     },
     {
       "id": "investigacion-de-operaciones-1",
@@ -4513,57 +7584,171 @@ const syllabiContentData = {
       "units": [
         {
           "code": "U1",
-          "title": "Introducción A la Investigación de Operaciones y Generalidades de las Empresas",
+          "title": "INTRODUCCIÓN A LA INVESTIGACIÓN DE OPERACIONES Y GENERALIDADES DE LAS EMPRESAS",
           "subunits": [
             {
               "code": "U1.1",
-              "title": "Tipología de Procesos y de Productos Contacto con El Sobre El Tema, Retroalimentación:"
+              "title": "HISTORIA DE LA INVESTIGACIÓN OPERATIVA"
+            },
+            {
+              "code": "U1.2",
+              "title": "TIPOLOGÍA DE PROCESOS Y DE PRODUCTOS"
+            },
+            {
+              "code": "U1.3",
+              "title": "TIPOLOGÍA DE LOS DEPARTAMENTOS DE UNA EMPRESA"
+            },
+            {
+              "code": "U1.4",
+              "title": "APLICACIONES DE LA INVESTIGACIÓN DE OPERACIONES EN UNA EMPRESA"
+            },
+            {
+              "code": "U1.5",
+              "title": "ENFOQUE DE MODELADO EN LA INVESTIGACIÓN DE OPERACIONES"
+            },
+            {
+              "code": "U1.6",
+              "title": "HERRAMIENTAS CUALITATIVAS PARA EL ANÁLISIS DE PROBLEMAS"
             }
           ]
         },
         {
           "code": "U2",
-          "title": "Tipología de los Departamentos de Una",
-          "subunits": []
-        },
-        {
-          "code": "U3",
-          "title": "Aplicaciones de la Investigación de",
-          "subunits": []
-        },
-        {
-          "code": "U4",
-          "title": "Enfoque de Modelado en la",
-          "subunits": []
-        },
-        {
-          "code": "U5",
-          "title": "Herramientas Cualitativas para El",
-          "subunits": []
-        },
-        {
-          "code": "U6",
-          "title": "Optimización de Redes y Algoritmos de Solución",
+          "title": "OPTIMIZACIÓN DE REDES Y ALGORITMOS DE SOLUCIÓN",
           "subunits": [
             {
-              "code": "U6.1",
-              "title": "Algoritmo de Dijkstra Contacto con El Sobre El Tema, Retroalimentación:"
+              "code": "U2.1",
+              "title": "MODELOS DE OPTIMIZACIÓN DE REDES"
+            },
+            {
+              "code": "U2.2",
+              "title": "ALGORITMO DE DIJKSTRA"
+            },
+            {
+              "code": "U2.3",
+              "title": "ALGORITMO DE PRIM"
+            },
+            {
+              "code": "U2.4",
+              "title": "ALGORITMO DE FORD-FULKERSON"
             }
           ]
         },
         {
-          "code": "U7",
-          "title": "Algoritmo de Prim",
-          "subunits": []
+          "code": "U3",
+          "title": "MODELOS MIXTOS",
+          "subunits": [
+            {
+              "code": "U3.1",
+              "title": "MÉTODO PERT"
+            },
+            {
+              "code": "U3.2",
+              "title": "MÉTODO DE LA PONDERACIÓN DE FACTORES"
+            }
+          ]
         },
         {
-          "code": "U8",
-          "title": "Algoritmo de Ford-fulkerson Práctico Aplicación.",
-          "subunits": []
+          "code": "U4",
+          "title": "MODELOS MATEMÁTICOS DETERMINÍSTICOS",
+          "subunits": [
+            {
+              "code": "U4.1",
+              "title": "PROGRAMACIÓN LINEAL: INTRODUCCIÓN"
+            },
+            {
+              "code": "U4.2",
+              "title": "PROGRAMACIÓN LINEAL: MODELACIÓN"
+            },
+            {
+              "code": "U4.3",
+              "title": "PROGRAMACIÓN LINEAL: MÉTODO GRÁFICO"
+            },
+            {
+              "code": "U4.4",
+              "title": "PROGRAMACIÓN LINEAL: MÉTODO SIMPLEX"
+            },
+            {
+              "code": "U4.5",
+              "title": "PROGRAMACIÓN LINEAL: OTROS MÉTODOS"
+            },
+            {
+              "code": "U4.6",
+              "title": "PROBLEMA DE TRANSPORTE Y ASIGNACIÓN Y SUS VARIANTES"
+            },
+            {
+              "code": "U4.7",
+              "title": "PROGRAMACIÓN LINEAL: RESOLUCIÓN MEDIANTE SOFTWARE"
+            },
+            {
+              "code": "U4.8",
+              "title": "PROGRAMACIÓN LINEAL APLICADA A LA OPTIMIZACIÓN DE REDES"
+            },
+            {
+              "code": "U4.9",
+              "title": "INTRODUCCIÓN A LA PLANEACIÓN DE LA PRODUCCIÓN-APLICACIONES PL"
+            },
+            {
+              "code": "U4.10",
+              "title": "INTRODUCCIÓN A LA PROGRAMACIÓN DE LA PRODUCCIÓN- APLICACIONES DE PL"
+            },
+            {
+              "code": "U4.11",
+              "title": "PROGRAMACIÓN ENTERA"
+            },
+            {
+              "code": "U4.12",
+              "title": "PROGRAMACIÓN ENTERA: RESOLUCIÓN MEDIANTE SOFTWARE"
+            }
+          ]
+        },
+        {
+          "code": "U5",
+          "title": "MODELOS MATEMÁTICOS PROBABILÍSTICOS",
+          "subunits": [
+            {
+              "code": "U5.1",
+              "title": "PRONÓSTICOS"
+            },
+            {
+              "code": "U5.2",
+              "title": "INTRODUCCIÓN A LA TEORÍA DE JUEGOS"
+            },
+            {
+              "code": "U5.3",
+              "title": "ANÁLISIS DE DECISIONES"
+            }
+          ]
+        },
+        {
+          "code": "U6",
+          "title": "SOLUCIONES HEURÍSTICAS Y META-HEURÍSTICA",
+          "subunits": [
+            {
+              "code": "U6.1",
+              "title": "HEURÍSTICA"
+            },
+            {
+              "code": "U6.2",
+              "title": "BÚSQUEDA LOCAL"
+            },
+            {
+              "code": "U6.3",
+              "title": "ALGORITMOS VORACES"
+            },
+            {
+              "code": "U6.4",
+              "title": "BÚSQUEDA TABÚ"
+            },
+            {
+              "code": "U6.5",
+              "title": "CASOS DE APLICACIÓN"
+            }
+          ]
         }
       ],
-      "unitCount": 8,
-      "subunitCount": 2
+      "unitCount": 6,
+      "subunitCount": 32
     },
     {
       "id": "trabajo-de-integracion-curricular-i-1",
@@ -4588,32 +7773,55 @@ const syllabiContentData = {
       "units": [
         {
           "code": "U1",
-          "title": "Introducción A Unidad de Integración Curricular 1",
-          "subunits": []
+          "title": "INTRODUCCIÓN A UNIDAD DE INTEGRACIÓN CURRICULAR 1",
+          "subunits": [
+            {
+              "code": "U1.1",
+              "title": "Objetivos y propósito del trabajo de titulación, lineamientos y requisitos de la carrera de Ingeniería Química"
+            },
+            {
+              "code": "U1.2",
+              "title": "Opciones de titulación y formatos de diseño del trabajo de titulación"
+            }
+          ]
         },
         {
           "code": "U2",
-          "title": "Proceso de Investigación (método Científico)",
+          "title": "PROCESO DE INVESTIGACIÓN (MÉTODO CIENTÍFICO)",
           "subunits": [
             {
               "code": "U2.1",
-              "title": "Secuencia Metodologica: Idea - Problema -"
+              "title": "estrategias de búsqueda y selección de referencias"
+            },
+            {
+              "code": "U2.2",
+              "title": "Secuencia metodologica: idea - problema - hipótesis - objetivos"
             }
           ]
         },
         {
           "code": "U3",
-          "title": "Diseño del Trabajo de Integración Curricular",
-          "subunits": []
+          "title": "DISEÑO DEL TRABAJO DE INTEGRACIÓN CURRICULAR",
+          "subunits": [
+            {
+              "code": "U3.1",
+              "title": "Redacción de propuesta: PROBLEMA Y JUSTIFICACIÓN, OBJETIVOS, MARCO TEÓRICO/ESTADO DEL ARTE, METODOLOGÍA, RESULTADOS ESPERADOS, COSTOS Y CRONOGRAMA, REFERENCIAS, RESUMEN"
+            }
+          ]
         },
         {
           "code": "U4",
-          "title": "Marco Teórico Trabajo de Integración Curricular",
-          "subunits": []
+          "title": "MARCO TEÓRICO TRABAJO DE INTEGRACIÓN CURRICULAR",
+          "subunits": [
+            {
+              "code": "U4.1",
+              "title": "ESCRITURA ACADÉMICA Y GESTORES DE REFERENCIA"
+            }
+          ]
         }
       ],
       "unitCount": 4,
-      "subunitCount": 1
+      "subunitCount": 6
     },
     {
       "id": "comunicacion-efectiva-1",
@@ -4638,26 +7846,137 @@ const syllabiContentData = {
       "units": [
         {
           "code": "U1",
-          "title": "El Lenguaje la Características Distintiva del Ser Humano",
-          "subunits": []
+          "title": "EL LENGUAJE LA CARACTERÍSTICAS DISTINTIVA DEL SER HUMANO",
+          "subunits": [
+            {
+              "code": "U1.1",
+              "title": "El lenguaje"
+            },
+            {
+              "code": "U1.2",
+              "title": "Condiciones estructurales e históricas para el surgimiento del lenguaje humano"
+            },
+            {
+              "code": "U1.3",
+              "title": "El individuo como construcción lingüística"
+            },
+            {
+              "code": "U1.4",
+              "title": "Los individuos como fenómenos sociales"
+            },
+            {
+              "code": "U1.5",
+              "title": "La relación mutua entre los sistemas lingüísticos y el comportamiento individual"
+            }
+          ]
         },
         {
           "code": "U2",
-          "title": "El Lenguaje 1 Aprendizaje en Presentación de la 1 Horas",
+          "title": "PERFIL PROFESIONAL DEL EXPOSITOR",
           "subunits": [
             {
               "code": "U2.1",
-              "title": "Condiciones Estructurales e Históricas para El Docente (acd)"
+              "title": "¿Qué son las competencias?"
             },
             {
               "code": "U2.2",
-              "title": "El Individuo Como Construcción Lingüística"
+              "title": "Elementos de una competencia"
+            },
+            {
+              "code": "U2.3",
+              "title": "Tipos de competencias"
+            },
+            {
+              "code": "U2.4",
+              "title": "Reconocimiento y evaluación de las competencias"
+            },
+            {
+              "code": "U2.5",
+              "title": "Construcción de un perfil profesional por competencias"
+            }
+          ]
+        },
+        {
+          "code": "U3",
+          "title": "EL DISCURSO, LA BASE DE UNA PRESENTACIÓN EFECTIVA",
+          "subunits": [
+            {
+              "code": "U3.1",
+              "title": "¿Qué es un discurso?, ¿por qué elaborarlo?, ¿para qué construirlo?"
+            },
+            {
+              "code": "U3.2",
+              "title": "Elementos de un discurso"
+            },
+            {
+              "code": "U3.3",
+              "title": "Estructura de un discurso"
+            },
+            {
+              "code": "U3.4",
+              "title": "Los tres momentos de un discurso"
+            },
+            {
+              "code": "U3.5",
+              "title": "Los siete principios del Discurso Perfecto"
+            }
+          ]
+        },
+        {
+          "code": "U4",
+          "title": "COMO HABLAR BIEN EN PÚBLICO",
+          "subunits": [
+            {
+              "code": "U4.1",
+              "title": "COMO DESARROLLAR LAS HABILIDADES NECESARIAS PARA HABLAR BIEN EN PÚBLICO"
+            },
+            {
+              "code": "U4.2",
+              "title": "COMO EMPLEAR EN LA PRÁCTICA LAS HABILIDADES PARA HABLAR BIEN EN PÚBLICO"
+            },
+            {
+              "code": "U4.3",
+              "title": "BREVE HISTORIA DE LA PNL Y SUS FUNDAMENTOS"
+            },
+            {
+              "code": "U4.4",
+              "title": "PNL Y COMUNICACIÓN EFECTIVA"
+            },
+            {
+              "code": "U4.5",
+              "title": "EL PLAN DE UN DISCURSO APLICANDO PNL"
+            }
+          ]
+        },
+        {
+          "code": "U5",
+          "title": "PRESENTACIONES PARA GANAR",
+          "subunits": [
+            {
+              "code": "U5.1",
+              "title": "¿Aporta valor a las presentaciones utilizar Power Point y/u otro programa?"
+            },
+            {
+              "code": "U5.2",
+              "title": "La tecnología y la hiperconexión: ¿ventaja o amenaza?"
+            },
+            {
+              "code": "U5.3",
+              "title": "Principios de las presentaciones para ganar"
+            },
+            {
+              "code": "U5.4",
+              "title": "Creatividad e innovación, dos aliados del expositor"
+            },
+            {
+              "code": "U5.5",
+              "title": "Uso efectivo de los recursos audivisuales"
             }
           ]
         }
       ],
-      "unitCount": 2,
-      "subunitCount": 2
+      "unitCount": 5,
+      "subunitCount": 25
     },
     {
       "id": "diseno-experimental-1",
@@ -4682,169 +8001,197 @@ const syllabiContentData = {
       "units": [
         {
           "code": "U1",
-          "title": "Método Científico y Conceptos Fundamentales del Diseño de Experimentos",
+          "title": "MÉTODO CIENTÍFICO Y CONCEPTOS FUNDAMENTALES DEL DISEÑO DE EXPERIMENTOS",
           "subunits": [
             {
               "code": "U1.1",
-              "title": "1 Conceptos Contacto con El"
+              "title": "1"
             },
             {
               "code": "U1.2",
-              "title": "2 Pasos del Método Científico Docente (acd)"
+              "title": "Método Científico: 1.1 Conceptos 1.2 Pasos del método científico"
             },
             {
               "code": "U1.3",
-              "title": "1 Definiciones Básicas en El Diseño de"
+              "title": "2"
             },
             {
               "code": "U1.4",
-              "title": "2 Objetivos de Un Diseño de Experimentos."
-            },
-            {
-              "code": "U1.5",
-              "title": "3 Etapas en El Diseño de Experimentos."
-            },
-            {
-              "code": "U1.6",
-              "title": "4 Consideraciones Prácticas Sobre El Uso de"
-            },
-            {
-              "code": "U1.7",
-              "title": "5 Principios Básicos del Diseño de Experimentos."
-            },
-            {
-              "code": "U1.8",
-              "title": "6 Clasificación y Selección de los Diseños"
+              "title": "Introducción al diseño de experimentos: 2.1 Definiciones básicas en el diseño de experimentos. 2.2 Objetivos de un diseño de experimentos. 2.3 Etapas en el diseño de experimentos. 2.4 Consideraciones prácticas sobre el uso de métodos estadísticos. 2.5 Principios básicos del diseño de experimentos. 2.6 Clasificación y selección de los diseños experimentales"
             }
           ]
         },
         {
           "code": "U2",
-          "title": "Elementos de Inferencia Estadística: Experimentos con Uno y Dos Tratamientos",
+          "title": "ELEMENTOS DE INFERENCIA ESTADÍSTICA: EXPERIMENTOS CON UNO Y DOS TRATAMIENTOS",
           "subunits": [
             {
               "code": "U2.1",
-              "title": "1.2 Distribuciones de Probabilidad e Inferencia. Problemas de Aplicación."
+              "title": "1"
             },
             {
               "code": "U2.2",
-              "title": "1.3 Estimación Puntual y por Intervalo."
+              "title": "1 Población y muestra: parámetros estadísticos"
             },
             {
               "code": "U2.3",
-              "title": "1.4 Conceptos Básicos de Prueba de Hipótesis."
+              "title": "1.2 Distribuciones de probabilidad e inferencia"
             },
             {
               "code": "U2.4",
-              "title": "1.5 Planteamiento de Una Hipótesis Estadística."
+              "title": "1.3 Estimación puntual y por intervalo"
             },
             {
               "code": "U2.5",
-              "title": "1.6 Prueba para la Media. Sobre Hipótesis Estadísticas y"
+              "title": "1.4 Conceptos básicos de prueba de hipótesis"
             },
             {
               "code": "U2.6",
-              "title": "1.7 Prueba para la Varianza. Autónomo (aa) Actividad 3.2 Resolución de Ejercicios y"
+              "title": "1.5 Planteamiento de una hipótesis estadística"
             },
             {
               "code": "U2.7",
-              "title": "1.8 Hipótesis para Dos Medias: Comparación de"
+              "title": "1.6 Prueba para la media"
             },
             {
               "code": "U2.8",
-              "title": "1.9 Prueba para la Igualdad de Varianzas."
+              "title": "1.7 Prueba para la varianza"
             },
             {
               "code": "U2.9",
-              "title": "1.10 Poblaciones Pareadas (comparación de Dos"
+              "title": "1.8 Hipótesis para dos medias: comparación de dos tratamientos"
+            },
+            {
+              "code": "U2.10",
+              "title": "1.9 Prueba para la igualdad de varianzas"
+            },
+            {
+              "code": "U2.11",
+              "title": "1.10 Poblaciones pareadas (comparación de dos medias con muestras dependientes)"
             }
           ]
         },
         {
           "code": "U3",
-          "title": "Experimentos con Un Solo Factor (análisis de Varianza)",
+          "title": "EXPERIMENTOS CON UN SOLO FACTOR (ANÁLISIS DE VARIANZA)",
           "subunits": [
             {
               "code": "U3.1",
-              "title": "2 Resolución de Ejercicios y"
+              "title": "1.1 Diseño completamente al azar y ANOVA"
             },
             {
               "code": "U3.2",
-              "title": "1.2 Comparaciones O Pruebas de Rango Múltiples: Docente (acd) Problemas de Aplicación."
+              "title": "1.2 Comparaciones o pruebas de rango múltiples: LSD, Tukey y Duncan"
             },
             {
               "code": "U3.3",
-              "title": "1.4 Elección del Tamaño de la Muestra."
+              "title": "1.3 Verificación de los supuestos del modelo: normalidad, varianza constante, independencia"
+            },
+            {
+              "code": "U3.4",
+              "title": "1.4 Elección del tamaño de la muestra"
             }
           ]
         },
         {
           "code": "U4",
-          "title": "Diseños en Bloques",
+          "title": "DISEÑOS EN BLOQUES",
           "subunits": [
             {
               "code": "U4.1",
-              "title": "1.2 Diseño en Cuadro Latino. Docente (acd) Problemas de Aplicación."
+              "title": "1.1 Diseños en bloques completos al azar"
             },
             {
               "code": "U4.2",
-              "title": "1.3 Diseño en Cuadro Grecolatino."
+              "title": "1.2 Diseño en cuadro latino"
+            },
+            {
+              "code": "U4.3",
+              "title": "1.3 Diseño en cuadro grecolatino"
             }
           ]
         },
         {
           "code": "U5",
-          "title": "Diseños Factoriales Generales y Factoriales 2k",
+          "title": "DISEÑOS FACTORIALES GENERALES Y FACTORIALES 2K",
           "subunits": [
             {
               "code": "U5.1",
-              "title": "1.4 Transformaciones para Estabilizar la Varianza."
+              "title": "1.1 Conceptos básicos en diseños factoriales"
             },
             {
               "code": "U5.2",
-              "title": "1.5 Diseño Factorial General."
+              "title": "1.2 Diseños factoriales 2K"
             },
             {
               "code": "U5.3",
-              "title": "1.6 Modelos de Efectos Aleatorios. Experimental - Factorial."
+              "title": "1.4 Transformaciones para estabilizar la varianza"
             },
             {
               "code": "U5.4",
-              "title": "1.7 Modelos con Factores Anidados. (ape/a)"
+              "title": "1.5 Diseño factorial general"
+            },
+            {
+              "code": "U5.5",
+              "title": "1.6 Modelos de efectos aleatorios"
+            },
+            {
+              "code": "U5.6",
+              "title": "1.7 Modelos con factores anidados"
+            },
+            {
+              "code": "U5.7",
+              "title": "1.8 Modelo con efectos mixtos"
             }
           ]
         },
         {
           "code": "U6",
-          "title": "Diseños Factoriales Fraccionados 2k-p",
+          "title": "DISEÑOS FACTORIALES FRACCIONADOS 2K-P",
           "subunits": [
             {
               "code": "U6.1",
-              "title": "1.2 Principios para la Construcción de Diseños Docente (acd) Problemas de Aplicación."
+              "title": "1.1. Generalidades:"
             },
             {
               "code": "U6.2",
-              "title": "1.4 Diseño de Plackett-burman"
+              "title": "1.2 Principios para la construcción de diseños fraccionarios"
+            },
+            {
+              "code": "U6.3",
+              "title": "1.3 Diseño factorial fraccionado 2k – p"
+            },
+            {
+              "code": "U6.4",
+              "title": "1.4 Diseño de PLACKETT-BURMAN"
             }
           ]
         },
         {
           "code": "U7",
-          "title": "Optimización y Diseño de Mezclas",
+          "title": "OPTIMIZACIÓN Y DISEÑO DE MEZCLAS",
           "subunits": [
             {
               "code": "U7.1",
-              "title": "1.2 Optimización Simplex Contacto con El"
+              "title": "1.1. Generalidades"
             },
             {
               "code": "U7.2",
-              "title": "1.3 Metodología de la Superficie de Respuesta"
+              "title": "1.2 Optimización Simplex"
+            },
+            {
+              "code": "U7.3",
+              "title": "1.3 Metodología de la superficie de respuesta"
+            },
+            {
+              "code": "U7.4",
+              "title": "1.4 Factores involucrados en un diseño de mezclas"
             }
           ]
         }
       ],
       "unitCount": 7,
-      "subunitCount": 30
+      "subunitCount": 37
     },
     {
       "id": "ingenieria-de-las-reacciones-iii-catalisis-1",
@@ -4869,85 +8216,105 @@ const syllabiContentData = {
       "units": [
         {
           "code": "U1",
-          "title": "Introducción A la Catálisis",
+          "title": "INTRODUCCIÓN A LA CATÁLISIS",
           "subunits": [
             {
               "code": "U1.1",
-              "title": "Integración de las Tres Catálisis: Términos y Docente (acd)"
+              "title": "Historia de la catálisis e importancia"
             },
             {
               "code": "U1.2",
-              "title": "La Cinética en la Catálisis"
+              "title": "Integración de las tres catálisis: términos y conceptos de catálisis"
+            },
+            {
+              "code": "U1.3",
+              "title": "La cinética en la catálisis"
             }
           ]
         },
         {
           "code": "U2",
-          "title": "Catálisis Homogénea",
+          "title": "CATÁLISIS HOMOGÉNEA",
           "subunits": [
             {
               "code": "U2.1",
-              "title": "Catálisis de Complejos Metálicos en Fase Líquida Docente (acd)"
+              "title": "Bases de la catálisis homogénea"
             },
             {
               "code": "U2.2",
-              "title": "Catálisis Homogénea Sin Metales"
+              "title": "Catálisis de complejos metálicos en fase líquida"
+            },
+            {
+              "code": "U2.3",
+              "title": "Catálisis homogénea sin metales"
             }
           ]
         },
         {
           "code": "U3",
-          "title": "Catálisis Heterogénea",
+          "title": "CATÁLISIS HETEROGÉNEA",
           "subunits": [
             {
               "code": "U3.1",
-              "title": "Catálisis Sólido/gas"
+              "title": "Bases de la catálisis heterogénea"
             },
             {
               "code": "U3.2",
-              "title": "Catálisis Sólido/líquido Práctico"
+              "title": "Catálisis sólido/gas"
             },
             {
               "code": "U3.3",
-              "title": "Aplicaciones Asignatura"
+              "title": "Catálisis sólido/líquido"
+            },
+            {
+              "code": "U3.4",
+              "title": "Aplicaciones"
             }
           ]
         },
         {
           "code": "U4",
-          "title": "Catálisis Enzimática",
+          "title": "CATÁLISIS ENZIMÁTICA",
           "subunits": [
             {
               "code": "U4.1",
-              "title": "Mecanismos"
+              "title": "Bases de la catálisis enzimática"
             },
             {
               "code": "U4.2",
-              "title": "Aplicaciones Práctico"
+              "title": "Mecanismos"
+            },
+            {
+              "code": "U4.3",
+              "title": "Aplicaciones"
             }
           ]
         },
         {
           "code": "U5",
-          "title": "Diseño y Ejecución de Un Estudio Catalítico",
+          "title": "DISEÑO Y EJECUCIÓN DE UN ESTUDIO CATALÍTICO",
           "subunits": [
             {
               "code": "U5.1",
-              "title": "La Quimiometría en El Estudio de la Catálisis"
+              "title": "Planteamiento de un estudio catalítico"
             },
             {
               "code": "U5.2",
-              "title": "El Planteamiento del Diseño Experimental para El"
+              "title": "La quimiometría en el estudio de la catálisis"
             },
             {
               "code": "U5.3",
-              "title": "El Análisis de Resultados y Conclusiones (ape/a)"
+              "title": "El planteamiento del diseño experimental para el estudio de la catálisis"
+            },
+            {
+              "code": "U5.4",
+              "title": "El análisis de resultados y conclusiones"
             }
           ]
         }
       ],
       "unitCount": 5,
-      "subunitCount": 12
+      "subunitCount": 17
     },
     {
       "id": "cementos-y-nanomateriales-1",
@@ -4972,85 +8339,105 @@ const syllabiContentData = {
       "units": [
         {
           "code": "U1",
-          "title": "Generalidades y Descripción del Proceso de Fabricación del Cemento",
+          "title": "GENERALIDADES Y DESCRIPCIÓN DEL PROCESO DE FABRICACIÓN DEL CEMENTO",
           "subunits": [
             {
               "code": "U1.1",
-              "title": "Descripcion General de los Procesos de Fabricacion"
+              "title": "Generalidades del proceso de fabricacion del cemento"
             },
             {
               "code": "U1.2",
-              "title": "Materias Primas para la Fabricacion del Cemento"
+              "title": "Descripcion general de los procesos de fabricacion del cemento"
+            },
+            {
+              "code": "U1.3",
+              "title": "Materias primas para la fabricacion del cemento"
             }
           ]
         },
         {
           "code": "U2",
-          "title": "Materias Primas y Clinker",
+          "title": "MATERIAS PRIMAS Y CLINKER",
           "subunits": [
             {
               "code": "U2.1",
-              "title": "Dosificación de Materias Primas y Preparación de"
+              "title": "Proceso de trituración y pre- homogeneización de calizas"
             },
             {
               "code": "U2.2",
-              "title": "Sistemas de Transporte y Homogeneización del"
+              "title": "Dosificación de materias primas y preparación de crudo para cemento"
+            },
+            {
+              "code": "U2.3",
+              "title": "Sistemas de transporte y homogeneización del crudo"
             }
           ]
         },
         {
           "code": "U3",
-          "title": "La Química del Cemento",
+          "title": "LA QUÍMICA DEL CEMENTO",
           "subunits": [
             {
               "code": "U3.1",
-              "title": "Control de los Procesos de Molienda de Crudo. Docente (acd) del Profesor"
+              "title": "Química del cemento"
             },
             {
               "code": "U3.2",
-              "title": "Precalentamiento Y/ó Precalcinación del Crudo."
+              "title": "Control de los procesos de molienda de crudo"
             },
             {
               "code": "U3.3",
-              "title": "Tecnología de la Cocción del Crudo de Clínker."
+              "title": "Precalentamiento y/ó precalcinación del crudo"
+            },
+            {
+              "code": "U3.4",
+              "title": "Tecnología de la cocción del crudo de clínker"
             }
           ]
         },
         {
           "code": "U4",
-          "title": "Introduccion A la Nanotecnologia, Sintesis y Propiedades.",
+          "title": "INTRODUCCION A LA NANOTECNOLOGIA, SINTESIS Y PROPIEDADES",
           "subunits": [
             {
               "code": "U4.1",
-              "title": "Coloidales y Nanopartículas Metálicas"
+              "title": "Introducción a la nanotecnología"
             },
             {
               "code": "U4.2",
-              "title": "Nanocatalisis y Nanofluidos la Confección e Una Propuesta de"
+              "title": "Coloidales y nanopartículas metálicas"
             },
             {
               "code": "U4.3",
-              "title": "Películas Finas de Semiconductores Orgánicos y Autónomo (aa) Utilización de Nanotecnología, con la"
+              "title": "Nanocatalisis y nanofluidos"
             },
             {
               "code": "U4.4",
-              "title": "Aplicaciones Nanotecnológicas"
+              "title": "Películas Finas de semiconductores orgánicos y nanotubos de carbono"
+            },
+            {
+              "code": "U4.5",
+              "title": "Aplicaciones nanotecnológicas"
             }
           ]
         },
         {
           "code": "U5",
-          "title": "Hormigón y Nanotecnologia, Caracterizacion y Aplicaciones",
+          "title": "HORMIGÓN Y NANOTECNOLOGIA, CARACTERIZACION Y APLICACIONES",
           "subunits": [
             {
               "code": "U5.1",
-              "title": "Análisis de Materias Primas, Clínker, Cemento y Docente (acd) Guía del Profesor."
+              "title": "tecnología del hormigón"
+            },
+            {
+              "code": "U5.2",
+              "title": "análisis de materias primas, clínker, cemento y nanocompuestos mediante diferentes técnicas"
             }
           ]
         }
       ],
       "unitCount": 5,
-      "subunitCount": 12
+      "subunitCount": 17
     },
     {
       "id": "quimica-inorganica-1",
@@ -5075,67 +8462,93 @@ const syllabiContentData = {
       "units": [
         {
           "code": "U1",
-          "title": "Introducción",
+          "title": "INTRODUCCIÓN",
           "subunits": [
             {
               "code": "U1.1",
-              "title": "Enlace Químico. Orbitales Atómicos y Moleculares"
+              "title": "Revisión de configuraciones electrónicas y propiedades periódicas"
             },
             {
               "code": "U1.2",
-              "title": "El Estado Sólido. Interacciones Intermoleculares"
+              "title": "Enlace Químico. Orbitales atómicos y moleculares"
+            },
+            {
+              "code": "U1.3",
+              "title": "El estado sólido. Interacciones intermoleculares"
             }
           ]
         },
         {
           "code": "U2",
-          "title": "El Hidrógeno",
+          "title": "EL HIDRÓGENO",
           "subunits": [
             {
               "code": "U2.1",
-              "title": "El Hidrógeno Como Molécula: Propiedades Físicas,"
+              "title": "El hidrógeno como elemento: características químicas, abundancia y propiedades"
             },
             {
               "code": "U2.2",
-              "title": "Compuestos Binarios de Hidrógeno"
+              "title": "El hidrógeno como molécula: Propiedades físicas, síntesis, aplicaciones"
+            },
+            {
+              "code": "U2.3",
+              "title": "Compuestos binarios de hidrógeno"
             }
           ]
         },
         {
           "code": "U3",
-          "title": "Bloque S: Metales Alcalinos y Alcalino Térreos",
-          "subunits": []
+          "title": "BLOQUE S: METALES ALCALINOS Y ALCALINO TÉRREOS",
+          "subunits": [
+            {
+              "code": "U3.1",
+              "title": "Metales alcalinos: abundancia, extracción, propiedades físicas y químicas, compuestos relevantes"
+            },
+            {
+              "code": "U3.2",
+              "title": "Metales alcalino térreos: Abundancia, extracción y reactividad. Compuestos relevantes"
+            }
+          ]
         },
         {
           "code": "U4",
-          "title": "Bloque P: No Metales",
+          "title": "BLOQUE P: NO METALES",
           "subunits": [
             {
               "code": "U4.1",
-              "title": "Grupo 15: Nitrógeno, Fósforo, Arsénico y"
+              "title": "Grupo 14: Carbono, Sílice, Germanio y Plomo. Abundancia natural. Propiedades y aplicaciones"
             },
             {
               "code": "U4.2",
-              "title": "Grupo 16: Oxígeno, Azufre, Selenio y Teluro."
+              "title": "Grupo 15: Nitrógeno, Fósforo, Arsénico y Antimonio. Abundancia natural. Propiedades y aplicaciones"
             },
             {
               "code": "U4.3",
-              "title": "Grupo 17: Halógenos. Abundancia, Obtención,"
+              "title": "Grupo 16: Oxígeno, Azufre, Selenio y Teluro. Abundancia natural. Propiedades y aplicaciones"
             },
             {
               "code": "U4.4",
+              "title": "Grupo 17: Halógenos. Abundancia, obtención, usos, propiedades y aplicaciones"
+            },
+            {
+              "code": "U4.5",
               "title": "Grupo 18: Gases Nobles"
             }
           ]
         },
         {
           "code": "U5",
-          "title": "Bloques D y F",
-          "subunits": []
+          "title": "BLOQUES D Y F",
+          "subunits": [
+            {
+              "code": "U5.1",
+              "title": "Configuraciones electrónicas, paramagnetismo, formación de complejos. Metales representativos"
+            }
+          ]
         }
       ],
       "unitCount": 5,
-      "subunitCount": 8
+      "subunitCount": 14
     },
     {
       "id": "quimica-general-2",
@@ -5160,12 +8573,481 @@ const syllabiContentData = {
       "units": [
         {
           "code": "U1",
-          "title": "Introducción A la Química General. Estructura de la Materia",
-          "subunits": []
+          "title": "INTRODUCCIÓN A LA QUÍMICA GENERAL. ESTRUCTURA DE LA MATERIA",
+          "subunits": [
+            {
+              "code": "U1.1",
+              "title": "1"
+            },
+            {
+              "code": "U1.2",
+              "title": "Generalidades:"
+            },
+            {
+              "code": "U1.3",
+              "title": "1.1 Historia"
+            },
+            {
+              "code": "U1.4",
+              "title": "1.2 Concepto"
+            },
+            {
+              "code": "U1.5",
+              "title": "1.3 Clasificación"
+            },
+            {
+              "code": "U1.6",
+              "title": "1.4 Importancia"
+            },
+            {
+              "code": "U1.7",
+              "title": "6"
+            },
+            {
+              "code": "U1.8",
+              "title": "Constitución Química:"
+            },
+            {
+              "code": "U1.9",
+              "title": "2.1 Elementos"
+            },
+            {
+              "code": "U1.10",
+              "title": "2.2 Moléculas e Iones"
+            },
+            {
+              "code": "U1.11",
+              "title": "2.3 Nomenclatura de los compuestos inorganicos"
+            },
+            {
+              "code": "U1.12",
+              "title": "2.5 Medida de las propiedades de la materia"
+            },
+            {
+              "code": "U1.13",
+              "title": "2.6 Sistema internacional de medidas"
+            },
+            {
+              "code": "U1.14",
+              "title": "2.7 Longitud y masa"
+            },
+            {
+              "code": "U1.15",
+              "title": "2.8 Temperatura"
+            },
+            {
+              "code": "U1.16",
+              "title": "2.9 Volumen y densidad"
+            }
+          ]
+        },
+        {
+          "code": "U2",
+          "title": "REACCIONES QUÍMICAS Y ESTEQUIOMETRIA",
+          "subunits": [
+            {
+              "code": "U2.1",
+              "title": "1"
+            },
+            {
+              "code": "U2.2",
+              "title": "Tipos de reacciones químicas"
+            },
+            {
+              "code": "U2.3",
+              "title": "1.1 Reacciones moleculares"
+            },
+            {
+              "code": "U2.4",
+              "title": "1.2 Balance y obtención de las respectivas ecuaciones"
+            },
+            {
+              "code": "U2.5",
+              "title": "4"
+            },
+            {
+              "code": "U2.6",
+              "title": "Estequiometria:"
+            },
+            {
+              "code": "U2.7",
+              "title": "2.1 Concepto de mol"
+            },
+            {
+              "code": "U2.8",
+              "title": "2.2 Tipos de Reacciones"
+            },
+            {
+              "code": "U2.9",
+              "title": "2.3 Determinación de fórmulas químicas"
+            },
+            {
+              "code": "U2.10",
+              "title": "2.4 Fórmula empírica"
+            },
+            {
+              "code": "U2.11",
+              "title": "2.5 Fórmula molecular"
+            },
+            {
+              "code": "U2.12",
+              "title": "2.6 Relación y cálculos estequiométricos: Reactivo en exceso, limitante, rendimientos"
+            }
+          ]
+        },
+        {
+          "code": "U3",
+          "title": "GASES",
+          "subunits": [
+            {
+              "code": "U3.1",
+              "title": "1"
+            },
+            {
+              "code": "U3.2",
+              "title": "Gases"
+            },
+            {
+              "code": "U3.3",
+              "title": "1.1 Naturaleza de los gases"
+            },
+            {
+              "code": "U3.4",
+              "title": "1.2 Presión, temperatura, volumen"
+            },
+            {
+              "code": "U3.5",
+              "title": "1.3 Leyes de los gases"
+            },
+            {
+              "code": "U3.6",
+              "title": "1.3.1. Transformación Isotérmica (Ley de Boyle)"
+            },
+            {
+              "code": "U3.7",
+              "title": "1.3.2. Transformación Isobárica (Ley de Charles)"
+            },
+            {
+              "code": "U3.8",
+              "title": "1.3.3. Transformación Isocórica (Ley de Gay- Lussac)"
+            },
+            {
+              "code": "U3.9",
+              "title": "1.3.4 Ecuación del gas ideal. Aplicaciones"
+            },
+            {
+              "code": "U3.10",
+              "title": "1.3.4. Ley de Dalton de las presiones parciales"
+            },
+            {
+              "code": "U3.11",
+              "title": "1.3.5. Teoría Cinético Molecular de los Gases"
+            },
+            {
+              "code": "U3.12",
+              "title": "1.3.6. Densidad de los Gases"
+            },
+            {
+              "code": "U3.13",
+              "title": "1.3.7. Ley de Graham: Difusión y efusión de los gases"
+            },
+            {
+              "code": "U3.14",
+              "title": "1.3.8. Desviación del Comportamiento ideal: gases reales"
+            },
+            {
+              "code": "U3.15",
+              "title": "1.3.9. Ecuación de estado"
+            }
+          ]
+        },
+        {
+          "code": "U4",
+          "title": "LÍQUIDOS Y SOLIDOS",
+          "subunits": [
+            {
+              "code": "U4.1",
+              "title": "1"
+            },
+            {
+              "code": "U4.2",
+              "title": "LIQUIDOS"
+            },
+            {
+              "code": "U4.3",
+              "title": "1.1 Fuerzas intermoleculares"
+            },
+            {
+              "code": "U4.4",
+              "title": "1.2 Ion – dipolo"
+            },
+            {
+              "code": "U4.5",
+              "title": "1.3 Fuerzas de Van der Waals"
+            },
+            {
+              "code": "U4.6",
+              "title": "1.4. Dipolo-dipolo/dipolo inducido"
+            },
+            {
+              "code": "U4.7",
+              "title": "1.5 Fuerzas de dispersión de London"
+            },
+            {
+              "code": "U4.8",
+              "title": "1.6 Enlace puente de Hidrogeno"
+            },
+            {
+              "code": "U4.9",
+              "title": "8"
+            },
+            {
+              "code": "U4.10",
+              "title": "Propiedades de los Líquidos"
+            },
+            {
+              "code": "U4.11",
+              "title": "2.1 Propiedades de los líquidos"
+            },
+            {
+              "code": "U4.12",
+              "title": "2.2 Tensión superficial"
+            },
+            {
+              "code": "U4.13",
+              "title": "2.3 Viscosidad"
+            },
+            {
+              "code": "U4.14",
+              "title": "12"
+            },
+            {
+              "code": "U4.15",
+              "title": "Sólidos"
+            },
+            {
+              "code": "U4.16",
+              "title": "1.1 Clasificación de los sólidos: cristalinos y amorfos"
+            },
+            {
+              "code": "U4.17",
+              "title": "1.2 Solidos moleculares"
+            },
+            {
+              "code": "U4.18",
+              "title": "1.3 Solidos Covalentes (Alotropia)"
+            },
+            {
+              "code": "U4.19",
+              "title": "1.4 Solidos Metálicos"
+            },
+            {
+              "code": "U4.20",
+              "title": "1.5 Solidos Iónicos"
+            },
+            {
+              "code": "U4.21",
+              "title": "1.6 Estructuras Solidas, celdas y empaquetamientos"
+            }
+          ]
+        },
+        {
+          "code": "U5",
+          "title": "QUIMICA DE LAS SOLUCIONES",
+          "subunits": [
+            {
+              "code": "U5.1",
+              "title": "1"
+            },
+            {
+              "code": "U5.2",
+              "title": "Soluciones Ideales"
+            },
+            {
+              "code": "U5.3",
+              "title": "1.1 Definición y propiedades"
+            },
+            {
+              "code": "U5.4",
+              "title": "1.2 Formas de expresar las concentraciones"
+            },
+            {
+              "code": "U5.5",
+              "title": "1.3 Concentraciones físicas"
+            },
+            {
+              "code": "U5.6",
+              "title": "1.4 Concentraciones químicas"
+            },
+            {
+              "code": "U5.7",
+              "title": "6"
+            },
+            {
+              "code": "U5.8",
+              "title": "Propiedades Coligativas"
+            },
+            {
+              "code": "U5.9",
+              "title": "2.1 Propiedades de los líquidos: 2.2 La presión de vapor"
+            },
+            {
+              "code": "U5.10",
+              "title": "2.3 Influencia de la temperatura en la presión de vapor,"
+            },
+            {
+              "code": "U5.11",
+              "title": "2.4 Punto de ebullición"
+            },
+            {
+              "code": "U5.12",
+              "title": "2.5 Calor de vaporización"
+            },
+            {
+              "code": "U5.13",
+              "title": "2.6 Descenso de la Presión de vapor"
+            },
+            {
+              "code": "U5.14",
+              "title": "2.7 Ascenso del Punto de Ebullición"
+            },
+            {
+              "code": "U5.15",
+              "title": "2.8 Descenso del punto de congelación"
+            },
+            {
+              "code": "U5.16",
+              "title": "2.9 Osmosis y presión osmótica"
+            }
+          ]
+        },
+        {
+          "code": "U6",
+          "title": "EQUILIBRIO QUIMICO",
+          "subunits": [
+            {
+              "code": "U6.1",
+              "title": "1"
+            },
+            {
+              "code": "U6.2",
+              "title": "Generalidades:"
+            },
+            {
+              "code": "U6.3",
+              "title": "1.1 Descripción del equilibrio Químico"
+            },
+            {
+              "code": "U6.4",
+              "title": "1.2 Reversibilidad"
+            },
+            {
+              "code": "U6.5",
+              "title": "1.3 Equilibrio y ley de acción de masas"
+            },
+            {
+              "code": "U6.6",
+              "title": "1.4 Equilibrios homogéneos y heterogéneos"
+            },
+            {
+              "code": "U6.7",
+              "title": "1.5 Constantes de equilibrio Kc y Kp"
+            },
+            {
+              "code": "U6.8",
+              "title": "1.6 Factores que afectan el equilibrio químico"
+            },
+            {
+              "code": "U6.9",
+              "title": "1.7 Principio de Le Chatelier"
+            },
+            {
+              "code": "U6.10",
+              "title": "1.8 Equilibrio Termodinámico"
+            },
+            {
+              "code": "U6.11",
+              "title": "10"
+            },
+            {
+              "code": "U6.12",
+              "title": "Equilibrio de Solubilidad"
+            },
+            {
+              "code": "U6.13",
+              "title": "2.1 Producto de solubilidad (Kps)"
+            },
+            {
+              "code": "U6.14",
+              "title": "2.2 Efecto del Ion Común"
+            },
+            {
+              "code": "U6.15",
+              "title": "2.3 Efecto Salino"
+            }
+          ]
+        },
+        {
+          "code": "U7",
+          "title": "ACIDOS Y BASES",
+          "subunits": [
+            {
+              "code": "U7.1",
+              "title": "1"
+            },
+            {
+              "code": "U7.2",
+              "title": "Generalidades:"
+            },
+            {
+              "code": "U7.3",
+              "title": "1.1 Naturaleza de los ácidos y bases"
+            },
+            {
+              "code": "U7.4",
+              "title": "1.2 Ácidos y bases de Arrhenius"
+            },
+            {
+              "code": "U7.5",
+              "title": "1.3 Ácidos y bases de Brönsted – Lowry"
+            },
+            {
+              "code": "U7.6",
+              "title": "1.4 Propiedades ácido base del agua"
+            },
+            {
+              "code": "U7.7",
+              "title": "1.5 Constante de producto Iónico del agua (Kw)"
+            },
+            {
+              "code": "U7.8",
+              "title": "1.6 Escala de pH"
+            },
+            {
+              "code": "U7.9",
+              "title": "1.7 Propiedades ácido- base de las sales, hidrolisis de las sales"
+            },
+            {
+              "code": "U7.10",
+              "title": "1.8 Ácidos y bases de Lewis"
+            },
+            {
+              "code": "U7.11",
+              "title": "1.9 Soluciones Buffer"
+            },
+            {
+              "code": "U7.12",
+              "title": "1.10 Valoraciones ácido base. Titulaciones"
+            },
+            {
+              "code": "U7.13",
+              "title": "1.11 Indicadores ácido – base"
+            }
+          ]
         }
       ],
-      "unitCount": 1,
-      "subunitCount": 0
+      "unitCount": 7,
+      "subunitCount": 108
     },
     {
       "id": "procesamiento-industrial-de-frutas-y-verduras-1",
@@ -5190,17 +9072,47 @@ const syllabiContentData = {
       "units": [
         {
           "code": "U1",
-          "title": "Método de Appert: Procesos Generales de Conservación",
+          "title": "MÉTODO DE APPERT: PROCESOS GENERALES DE CONSERVACIÓN",
           "subunits": [
             {
               "code": "U1.1",
-              "title": "2 Operaciones de Preparación de la Materia Prima Contacto con El Preguntarespuesta."
+              "title": "1.1 Introducción: Conceptos básicos en la producción de frutas y verduras, uso del agua, uso de aditivos en la producción de frutas y verduras. 1.2 Operaciones de preparación de la materia prima (requisitos de la materia prima, transporte- almacenamiento, calificación y clasificación, lavado, otras operaciones). 1.3 Operaciones de transformación, envasado y otros (escaldado y blanqueamiento, pasteurización, concentración, acidificación, envasado en caliente, evacuado, sellado, esterilización). 1.4 Operaciones de acabado (control de calidad y etiquetado)"
+            }
+          ]
+        },
+        {
+          "code": "U2",
+          "title": "TECNOLOGÍA DE PROCESAMIENTO",
+          "subunits": [
+            {
+              "code": "U2.1",
+              "title": "2.1 Proceso de elaboración de productos de alta viscosidad: mermeladas 2.2 Proceso de elaboración Productos de concentración salina: salsas de tomate y ají 2.3 Proceso de elaboración de conservas en medio ácido salinos: escabeches 2.4 Proceso de elaboración de conservas de baja acidez: verduras en conserva 2.5 Néctar de frutas y pulpas"
+            }
+          ]
+        },
+        {
+          "code": "U3",
+          "title": "CALIDAD E INOCUIDAD",
+          "subunits": [
+            {
+              "code": "U3.1",
+              "title": "3.1 Buenas Prácticas de Manufactura (BPM) y Procedimientos Estandarizados de Saneamiento (POES). 3.2 Análisis de Peligros y Puntos Críticos de Control (APPCC o HACCP). 3.3 Generalidades ISO 22000"
+            }
+          ]
+        },
+        {
+          "code": "U4",
+          "title": "PREDICCIÓN DE VIDA ÚTIL DE ALIMENTOS",
+          "subunits": [
+            {
+              "code": "U4.1",
+              "title": "4.1 Generalidades (alteraciones en los alimentos, factores que influyen en el deterioro). 4.2 Modelos matemáticos de orden cero y primer orden. 4.3 Modelo acelerado y Energía de activación"
             }
           ]
         }
       ],
-      "unitCount": 1,
-      "subunitCount": 1
+      "unitCount": 4,
+      "subunitCount": 4
     },
     {
       "id": "algebra-lineal-2",
@@ -5225,169 +9137,205 @@ const syllabiContentData = {
       "units": [
         {
           "code": "U1",
-          "title": "Sistemas de Ecuaciones Lineales",
+          "title": "SISTEMAS DE ECUACIONES LINEALES",
           "subunits": [
             {
               "code": "U1.1",
-              "title": "Eliminación Gaussiana y Eliminación de Gauss-"
+              "title": "Introducción a los sistemas de ecuaciones lineales"
             },
             {
               "code": "U1.2",
-              "title": "Aplicaciones de los Sistemas de Ecuaciones"
+              "title": "Eliminación gaussiana y eliminación de Gauss- Jordan"
             },
             {
               "code": "U1.3",
-              "title": "Ejercicios de Repaso"
+              "title": "Aplicaciones de los sistemas de ecuaciones lineales"
+            },
+            {
+              "code": "U1.4",
+              "title": "Ejercicios de repaso"
             }
           ]
         },
         {
           "code": "U2",
-          "title": "Matrices",
+          "title": "MATRICES",
           "subunits": [
             {
               "code": "U2.1",
-              "title": "Propiedades de las Operaciones con Matrices"
+              "title": "operaciones con matrices"
             },
             {
               "code": "U2.2",
-              "title": "Inversa de Una Matriz Práctico"
+              "title": "propiedades de las operaciones con matrices"
             },
             {
               "code": "U2.3",
-              "title": "Matrices Elementales Asignatura"
+              "title": "inversa de una matriz"
             },
             {
               "code": "U2.4",
-              "title": "Aplicaciones de las Operaciones con Matrices"
+              "title": "matrices elementales"
             },
             {
               "code": "U2.5",
-              "title": "Ejercicios de Repaso"
+              "title": "aplicaciones de las operaciones con matrices"
+            },
+            {
+              "code": "U2.6",
+              "title": "ejercicios de repaso"
             }
           ]
         },
         {
           "code": "U3",
-          "title": "Determinantes",
+          "title": "DETERMINANTES",
           "subunits": [
             {
               "code": "U3.1",
-              "title": "Determinantes y Operaciones Elementales"
+              "title": "Determinante de una matriz"
             },
             {
               "code": "U3.2",
-              "title": "Propiedades de los Determinantes Práctico"
+              "title": "Determinantes y operaciones elementales"
             },
             {
               "code": "U3.3",
-              "title": "Aplicaciones de los Determinantes Asignatura"
+              "title": "propiedades de los determinantes"
             },
             {
               "code": "U3.4",
-              "title": "Ejercicios de Repaso"
+              "title": "aplicaciones de los determinantes"
+            },
+            {
+              "code": "U3.5",
+              "title": "ejercicios de repaso"
             }
           ]
         },
         {
           "code": "U4",
-          "title": "Espacios Vectoriales",
+          "title": "ESPACIOS VECTORIALES",
           "subunits": [
             {
               "code": "U4.1",
-              "title": "Espacios Vectoriales"
+              "title": "Vectores en Rn"
             },
             {
               "code": "U4.2",
-              "title": "Subespacios de Espacios Vectoriales Práctico"
+              "title": "Espacios vectoriales"
             },
             {
               "code": "U4.3",
-              "title": "Conjuntos Generadores e Independencia Lineal Asignatura"
+              "title": "subespacios de espacios vectoriales"
             },
             {
               "code": "U4.4",
-              "title": "Base y Dimensión"
+              "title": "conjuntos generadores e independencia lineal"
             },
             {
               "code": "U4.5",
-              "title": "Rango de Una Matriz y Sistemas de Ecuaciones Autónomo (aa)"
+              "title": "base y dimensión"
             },
             {
               "code": "U4.6",
-              "title": "Coordenadas y Cambio de Base"
+              "title": "rango de una matriz y sistemas de ecuaciones lineales"
             },
             {
               "code": "U4.7",
-              "title": "Ejercicios de Repaso Experimental -"
+              "title": "coordenadas y cambio de base"
+            },
+            {
+              "code": "U4.8",
+              "title": "aplicaciones de espacios vectoriales"
+            },
+            {
+              "code": "U4.9",
+              "title": "ejercicios de repaso"
             }
           ]
         },
         {
           "code": "U5",
-          "title": "Espacios con Producto Interno",
+          "title": "ESPACIOS CON PRODUCTO INTERNO",
           "subunits": [
             {
               "code": "U5.1",
-              "title": "Espacios con Producto Interno"
+              "title": "Longitud y producto punto en Rn"
             },
             {
               "code": "U5.2",
-              "title": "Bases Ortonormales: El Proceso de Gram-schmidt"
+              "title": "Espacios con producto interno"
             },
             {
               "code": "U5.3",
-              "title": "Aplicaciones de los Espacios con Producto Interno"
+              "title": "Bases ortonormales: el proceso de Gram-Schmidt"
+            },
+            {
+              "code": "U5.4",
+              "title": "Aplicaciones de los espacios con producto interno"
             }
           ]
         },
         {
           "code": "U6",
-          "title": "Transformaciones Lineales",
+          "title": "TRANSFORMACIONES LINEALES",
           "subunits": [
             {
               "code": "U6.1",
-              "title": "El Kernel y El Rango de Una Transformación Lineal Docente (acd)"
+              "title": "Introducción"
             },
             {
               "code": "U6.2",
-              "title": "Matrices de Transformaciones Lineales"
+              "title": "El Kernel y el rango de una transformación lineal"
             },
             {
               "code": "U6.3",
-              "title": "Mensajes de Transición y Semejanza (ape/a)"
+              "title": "matrices de transformaciones lineales"
             },
             {
               "code": "U6.4",
-              "title": "Ejercicios de Repaso"
+              "title": "mensajes de transición y semejanza"
+            },
+            {
+              "code": "U6.5",
+              "title": "aplicaciones de transformaciones lineales"
+            },
+            {
+              "code": "U6.6",
+              "title": "ejercicios de repaso"
             }
           ]
         },
         {
           "code": "U7",
-          "title": "Eigenvalores y Eigenvectores",
+          "title": "EIGENVALORES Y EIGENVECTORES",
           "subunits": [
             {
               "code": "U7.1",
-              "title": "Diagonalización"
+              "title": "eigenvalores y eigenvectores"
             },
             {
               "code": "U7.2",
-              "title": "Matrices Simetricas de Diagonalización Ortogonal"
+              "title": "diagonalización"
             },
             {
               "code": "U7.3",
-              "title": "Aplicaciones de los Eigenvalores y los"
+              "title": "matrices simetricas de diagonalización ortogonal"
             },
             {
               "code": "U7.4",
-              "title": "Ejercicios de Repaso Autónomo (aa)"
+              "title": "aplicaciones de los eigenvalores y los eigenvectores"
+            },
+            {
+              "code": "U7.5",
+              "title": "ejercicios de repaso"
             }
           ]
         }
       ],
       "unitCount": 7,
-      "subunitCount": 30
+      "subunitCount": 39
     },
     {
       "id": "transferencia-de-masa-1",
@@ -5412,97 +9360,125 @@ const syllabiContentData = {
       "units": [
         {
           "code": "U1",
-          "title": "Principios de la Operaciones Básicas O Unitarias de los Procesos Químicos",
+          "title": "PRINCIPIOS DE LA OPERACIONES BÁSICAS O UNITARIAS DE LOS PROCESOS QUÍMICOS",
           "subunits": [
             {
               "code": "U1.1",
-              "title": "Por Tipo de Operación: Continuas, Descontinuas y Docente (acd)"
+              "title": "Por régimen: Estacionario y no estacionario"
             },
             {
               "code": "U1.2",
-              "title": "Por Contacto Entre Fases Inmiscibles: Continuo, por Práctico"
+              "title": "Por tipo de operación: continuas, descontinuas y semicontinuas"
             },
             {
               "code": "U1.3",
-              "title": "Por Flujo: Paralelo, Contracorriente y Cruzado (ape/a) Equilibrio."
+              "title": "Por contacto entre fases inmiscibles: continuo, por etapas y por contacto repetido"
             },
             {
               "code": "U1.4",
-              "title": "Equilibrio Entre Fases"
+              "title": "Por flujo: paralelo, contracorriente y cruzado"
+            },
+            {
+              "code": "U1.5",
+              "title": "Clasificación de las operaciones básicas y equipos"
+            },
+            {
+              "code": "U1.6",
+              "title": "Equilibrio entre fases"
             }
           ]
         },
         {
           "code": "U2",
-          "title": "Introducción A los Fenómenos de Transporte",
+          "title": "INTRODUCCIÓN A LOS FENÓMENOS DE TRANSPORTE",
           "subunits": [
             {
               "code": "U2.1",
-              "title": "Generalidades y Mecanismos del Transporte"
+              "title": "Conceptualización de los tres fenómenos de transporte: cantidad de movimiento, calor y masa"
             },
             {
               "code": "U2.2",
-              "title": "Las Capas Límite: Fluidodinámica, Térmica y de"
+              "title": "Generalidades y mecanismos del transporte molecular o laminar, analogías y diferencias entre las transferencias de cantidad de movimiento, calor y materia; leyes de Newton, Fourier y Fick, difusividades y números adimensionales de Schmidt, Lewis y Prandtl"
+            },
+            {
+              "code": "U2.3",
+              "title": "Generalidades y mecanismos del transporte turbulento, analogías y diferencias entre las transferencias de cantidad de movimiento, calor y materia y sus leyes empíricas"
+            },
+            {
+              "code": "U2.4",
+              "title": "Las capas límite: fluidodinámica, térmica y de concentración"
             }
           ]
         },
         {
           "code": "U3",
-          "title": "Difusión de la Masa",
+          "title": "DIFUSIÓN DE LA MASA",
           "subunits": [
             {
               "code": "U3.1",
-              "title": "Cálculo de los Coeficientes de Difusividad Entre Dos"
+              "title": "Ley de Fick y sus expresiones en base másica y molar"
             },
             {
               "code": "U3.2",
-              "title": "Mecanismos de Difusión en la Frontera O Interfase"
+              "title": "Cálculo de los coeficientes de difusividad entre dos componentes, gas-gas, líquido-líquido, gas-sólidos, etc"
             },
             {
               "code": "U3.3",
-              "title": "Difusión Estacionaria de Masa A Través Una Pared"
+              "title": "Mecanismos de difusión en la frontera o interfase"
             },
             {
               "code": "U3.4",
-              "title": "Migración de Vapor de Agua de los Edificios"
+              "title": "Difusión estacionaria de masa a través una pared"
             },
             {
               "code": "U3.5",
-              "title": "Difusión Transitoria de Masa"
+              "title": "Migración de vapor de agua de los edificios"
             },
             {
               "code": "U3.6",
-              "title": "Difusión en Un Medio en Movimiento: Difusión en"
+              "title": "Difusión transitoria de masa"
+            },
+            {
+              "code": "U3.7",
+              "title": "Difusión en un medio en movimiento: Difusión en Mezclas de gases a presión y temperatura constante; difusión del vapor a través de un gas estacionario; Flujo de Stefan; contradifusión equimolar"
             }
           ]
         },
         {
           "code": "U4",
-          "title": "Convección de la Masa",
+          "title": "CONVECCIÓN DE LA MASA",
           "subunits": [
             {
               "code": "U4.1",
-              "title": "Relaciones Entre los Coeficientes de Convección A Docente (acd)"
+              "title": "Fundamentos de la convección de masa"
             },
             {
               "code": "U4.2",
-              "title": "Transferencia de Masa en la Interfase: Coeficientes"
+              "title": "Relaciones entre los coeficientes de convección a través de números adimensionales y analogía entre los coeficientes de fricción en la transferencia de calor y de transferencia de masa. Limitación sobre la analogía de la convección"
+            },
+            {
+              "code": "U4.3",
+              "title": "Transferencia de masa en la interfase: coeficientes de transporte globales"
             }
           ]
         },
         {
           "code": "U5",
-          "title": "Transferencia Simultánea de Cantidad de Masa, Calor y Cantidad de Movimiento",
+          "title": "TRANSFERENCIA SIMULTÁNEA DE CANTIDAD DE MASA, CALOR Y CANTIDAD DE MOVIMIENTO",
           "subunits": [
             {
               "code": "U5.1",
-              "title": "Transferencia Simultánea de Energía, Masa y Docente (acd)"
+              "title": "Transferencia simultánea de energía y masa"
+            },
+            {
+              "code": "U5.2",
+              "title": "Transferencia simultánea de energía, masa y cantidad de movimiento"
             }
           ]
         }
       ],
       "unitCount": 5,
-      "subunitCount": 15
+      "subunitCount": 22
     },
     {
       "id": "calculo-diferencial-1-2",
@@ -5527,201 +9503,257 @@ const syllabiContentData = {
       "units": [
         {
           "code": "U1",
-          "title": "Funciones",
+          "title": "FUNCIONES",
           "subunits": [
             {
               "code": "U1.1",
-              "title": "Operación con Funciones: Desplazamientos y Práctico"
+              "title": "Funciones: Dominio, rango, gráfica y clases"
             },
             {
               "code": "U1.2",
-              "title": "Funciones Algebraicas: Lineal, Cuadrática y Cúbica (ape/a)"
+              "title": "Combinación de funciones: Composición y relaciones algebraicas"
             },
             {
               "code": "U1.3",
-              "title": "Funciones Especiales: Valor Absoluto y Escalón Autónomo (aa) Ejercicios)"
+              "title": "Operación con funciones: Desplazamientos y escalamientos"
             },
             {
               "code": "U1.4",
-              "title": "Funciones Trigonométricas"
+              "title": "Funciones algebraicas: Lineal, cuadrática y cúbica"
             },
             {
               "code": "U1.5",
-              "title": "Funciones Inversas"
+              "title": "Funciones especiales: Valor absoluto y escalón"
             },
             {
               "code": "U1.6",
-              "title": "Funciones Exponenciales y Logarítmicas Práctico"
+              "title": "Funciones trigonométricas"
             },
             {
               "code": "U1.7",
-              "title": "Funciones Como Modelos Matemáticos Asignatura"
+              "title": "Funciones inversas"
+            },
+            {
+              "code": "U1.8",
+              "title": "Funciones exponenciales y logarítmicas"
+            },
+            {
+              "code": "U1.9",
+              "title": "Funciones como modelos matemáticos"
             }
           ]
         },
         {
           "code": "U2",
-          "title": "Límites y Continuidad",
+          "title": "LÍMITES Y CONTINUIDAD",
           "subunits": [
             {
               "code": "U2.1",
-              "title": "Límites Laterales"
+              "title": "Límite de una función"
             },
             {
               "code": "U2.2",
-              "title": "Teoremas Sobre Límite de Funciones Práctico"
+              "title": "Límites laterales"
             },
             {
               "code": "U2.3",
-              "title": "Continuidad de Una Función en Un Número y en El Asignatura"
+              "title": "Teoremas sobre límite de funciones"
             },
             {
               "code": "U2.4",
-              "title": "Continuidad de las Funciones Algebraicas"
+              "title": "Continuidad de una función en un número y en el intervalo"
             },
             {
               "code": "U2.5",
-              "title": "Continuidad de la Función Composición"
+              "title": "Continuidad de las operaciones con funciones"
             },
             {
               "code": "U2.6",
-              "title": "Límites de las Funciones Trigonométricas Directas Experimental -"
+              "title": "Continuidad de las funciones algebraicas"
             },
             {
               "code": "U2.7",
-              "title": "Límites Al Infinito"
+              "title": "Continuidad de la función composición"
             },
             {
               "code": "U2.8",
-              "title": "Límites Infinitos"
+              "title": "Continuidad de las funciones trascendentes"
             },
             {
               "code": "U2.9",
-              "title": "Asíntotas: Vertical, Horizontal y Oblicua Contacto con El Magistral."
+              "title": "Límites de las funciones trigonométricas directas"
             },
             {
               "code": "U2.10",
-              "title": "Gráfica de las Funciones: Dominio, Rango, Cortes,"
+              "title": "Límites al infinito"
             },
             {
               "code": "U2.11",
-              "title": "Definición Formal de Límite Experimental -"
+              "title": "Límites infinitos"
+            },
+            {
+              "code": "U2.12",
+              "title": "Asíntotas: Vertical, horizontal y oblicua"
+            },
+            {
+              "code": "U2.13",
+              "title": "Gráfica de las funciones: Dominio, rango, cortes, simetría, signo, asíntotas y continuidad"
+            },
+            {
+              "code": "U2.14",
+              "title": "Definición formal de límite"
             }
           ]
         },
         {
           "code": "U3",
-          "title": "La Derivada",
+          "title": "LA DERIVADA",
           "subunits": [
             {
               "code": "U3.1",
-              "title": "Recta Tangente y Velocidad Instantánea"
+              "title": "Incrementos y deferenciales"
             },
             {
               "code": "U3.2",
-              "title": "La Derivada: Definición e Interpretación Geométrica"
+              "title": "Recta tangente y velocidad instantánea"
             },
             {
               "code": "U3.3",
-              "title": "Diferenciabilidad y Continuidad (ape/a)"
+              "title": "La derivada: Definición e interpretación geométrica"
             },
             {
               "code": "U3.4",
-              "title": "Derivada de Funciones Trigonométricas"
+              "title": "Diferenciabilidad y continuidad"
             },
             {
               "code": "U3.5",
-              "title": "Derivada de Funciones Compuestas: Regla de la"
+              "title": "Teoremas de derivación de funciones algebraicas"
             },
             {
               "code": "U3.6",
-              "title": "Diferenciación Implícita"
+              "title": "Derivada de una función potencia para exponente racional"
             },
             {
               "code": "U3.7",
-              "title": "Derivada de Una Función Exponencial y Derivada (investigación)."
+              "title": "Derivada de funciones trigonométricas"
             },
             {
               "code": "U3.8",
-              "title": "Derivadas de Orden Superior y de Orden N-ésima Contacto con El Magistral."
+              "title": "Derivada de funciones compuestas: Regla de la cadena"
+            },
+            {
+              "code": "U3.9",
+              "title": "Diferenciación implícita"
+            },
+            {
+              "code": "U3.10",
+              "title": "Derivada de la función inversa"
+            },
+            {
+              "code": "U3.11",
+              "title": "Derivada de una función exponencial y logarítmica"
+            },
+            {
+              "code": "U3.12",
+              "title": "Derivadas de orden superior y de orden n-ésima"
             }
           ]
         },
         {
           "code": "U4",
-          "title": "Aplicaciones de la Derivada",
+          "title": "APLICACIONES DE LA DERIVADA",
           "subunits": [
             {
               "code": "U4.1",
-              "title": "Rapidez de Variación Relacionada"
+              "title": "Razón de cambio: Aplicaciones"
             },
             {
               "code": "U4.2",
-              "title": "Extremos de Una Función: Relativos y Absolutos"
+              "title": "Rapidez de variación relacionada"
             },
             {
               "code": "U4.3",
-              "title": "Teorema de Rolle, Valor Medio y de Cauchy (ape/a)"
+              "title": "Extremos de una función: Relativos y absolutos"
             },
             {
               "code": "U4.4",
-              "title": "Números Críticos"
+              "title": "Teorema de Rolle, valor medio y de Cauchy"
             },
             {
               "code": "U4.5",
-              "title": "Comportamiento de las Funciones"
+              "title": "Teorema de L’Hpital: Indeterminaciones"
             },
             {
               "code": "U4.6",
-              "title": "Criterios de la Segunda Derivada para Extremos Experimental -"
+              "title": "Números críticos"
             },
             {
               "code": "U4.7",
-              "title": "Gráfica de Una Función: Números Críticos,"
+              "title": "Comportamiento de las funciones"
             },
             {
               "code": "U4.8",
-              "title": "Aproximaciones Lineales y Diferenciales"
+              "title": "Concavidad y puntos de inflexión"
+            },
+            {
+              "code": "U4.9",
+              "title": "Criterios de la segunda derivada para extremos relativos"
+            },
+            {
+              "code": "U4.10",
+              "title": "Gráfica de una función: Números críticos, extremos relativos, comportamiento, concavidad y puntos de inflexión"
+            },
+            {
+              "code": "U4.11",
+              "title": "Optimización"
+            },
+            {
+              "code": "U4.12",
+              "title": "Aproximaciones lineales y diferenciales"
             }
           ]
         },
         {
           "code": "U5",
-          "title": "Derivadas Parciales",
+          "title": "DERIVADAS PARCIALES",
           "subunits": [
             {
               "code": "U5.1",
-              "title": "Límites y Continuidad"
+              "title": "Funciones de varias variables"
             },
             {
               "code": "U5.2",
-              "title": "Derivadas Parciales Práctico"
+              "title": "Límites y continuidad"
             },
             {
               "code": "U5.3",
-              "title": "Linealización y Diferenciales Asignatura"
+              "title": "Derivadas parciales"
             },
             {
               "code": "U5.4",
-              "title": "Regla de la Cadena"
+              "title": "Linealización y diferenciales"
             },
             {
               "code": "U5.5",
-              "title": "Derivadas Direccionales y Sus Vectores Gradientes Autónomo (aa) Ejercicios)."
+              "title": "Regla de la cadena"
             },
             {
               "code": "U5.6",
-              "title": "Máximos y Mínimos de Funciones de Varias"
+              "title": "Derivadas direccionales y sus vectores gradientes"
             },
             {
               "code": "U5.7",
-              "title": "Multiplicadores de Lagrange Práctico Individual."
+              "title": "Máximos y mínimos de funciones de varias variables"
+            },
+            {
+              "code": "U5.8",
+              "title": "Multiplicadores de Lagrange"
             }
           ]
         }
       ],
       "unitCount": 5,
-      "subunitCount": 41
+      "subunitCount": 55
     },
     {
       "id": "practicas-laborales-ii-2",
@@ -5746,27 +9778,47 @@ const syllabiContentData = {
       "units": [
         {
           "code": "U1",
-          "title": "Planificación de Actividades de la Fase Práctica",
-          "subunits": []
+          "title": "PLANIFICACIÓN DE ACTIVIDADES DE LA FASE PRÁCTICA",
+          "subunits": [
+            {
+              "code": "U1.1",
+              "title": "1.1.Asignación de la plaza de la práctica laboral 1.2.Organización de las actividades a realizar"
+            }
+          ]
         },
         {
           "code": "U2",
-          "title": "Ejecución de la Fase Práctica",
-          "subunits": []
+          "title": "EJECUCIÓN DE LA FASE PRÁCTICA",
+          "subunits": [
+            {
+              "code": "U2.1",
+              "title": "Documentación habilitante de la fase práctica"
+            }
+          ]
         },
         {
           "code": "U3",
-          "title": "Seguimiento de la Fase Práctica.",
-          "subunits": []
+          "title": "SEGUIMIENTO DE LA FASE PRÁCTICA",
+          "subunits": [
+            {
+              "code": "U3.1",
+              "title": "Desempeño laboral del estudiante en la fase práctica"
+            }
+          ]
         },
         {
           "code": "U4",
-          "title": "Finalización de la Fase Práctica",
-          "subunits": []
+          "title": "FINALIZACIÓN DE LA FASE PRÁCTICA",
+          "subunits": [
+            {
+              "code": "U4.1",
+              "title": "Verificación del cumplimiento de la fase práctica"
+            }
+          ]
         }
       ],
       "unitCount": 4,
-      "subunitCount": 0
+      "subunitCount": 4
     },
     {
       "id": "ciencia-e-ingenieria-de-los-materiales-1",
@@ -5791,78 +9843,107 @@ const syllabiContentData = {
       "units": [
         {
           "code": "U1",
-          "title": "Introducción A la Ciencia e Ingeniería de Materiales",
+          "title": "INTRODUCCIÓN A LA CIENCIA E INGENIERÍA DE MATERIALES",
           "subunits": [
             {
               "code": "U1.1",
-              "title": "Síntesis y Preparación de Materiales."
+              "title": "Importancia de los materiales para la sociedad, Diseño de nuevos materiales, Ciencia e Ingeniería de los materiales"
+            },
+            {
+              "code": "U1.2",
+              "title": "Clasificación de los materiales: metálicos, cerámicos, poliméricos y compuestos"
+            },
+            {
+              "code": "U1.3",
+              "title": "Síntesis y preparación de materiales"
             }
           ]
         },
         {
           "code": "U2",
-          "title": "Enlaces y Arreglo Atómico",
+          "title": "ENLACES Y ARREGLO ATÓMICO",
           "subunits": [
             {
               "code": "U2.1",
-              "title": "Celda Unitaria, Sistemas Cristalinos y Redes de"
+              "title": "Tipos de enlace atómico: Primarios y secundarios"
             },
             {
               "code": "U2.2",
-              "title": "Direcciones y Planos en la Celda Unitaria, Indices Experimental -"
+              "title": "Celda unitaria, sistemas cristalinos y redes de Bravais"
             },
             {
               "code": "U2.3",
-              "title": "Difracción de Rayos X"
+              "title": "Direcciones y planos en la celda unitaria, indices de Miller"
+            },
+            {
+              "code": "U2.4",
+              "title": "Difracción de rayos X"
             }
           ]
         },
         {
           "code": "U3",
-          "title": "Imperfecciones en los Arreglos Atómicos y Movimiento de los Átomos",
+          "title": "IMPERFECCIONES EN LOS ARREGLOS ATÓMICOS Y MOVIMIENTO DE LOS ÁTOMOS",
           "subunits": [
             {
               "code": "U3.1",
-              "title": "Difusión y Mecanismos. Velocidad de Difusión"
+              "title": "Defectos puntuales, defectos de superficie (dislocaciones), defectos planares"
+            },
+            {
+              "code": "U3.2",
+              "title": "Difusión y mecanismos. Velocidad de difusión (primera ley de Fick), Perfil de composición (segunda ley de Fick)"
             }
           ]
         },
         {
           "code": "U4",
-          "title": "Propiedades Mecánicas",
+          "title": "PROPIEDADES MECÁNICAS",
           "subunits": [
             {
               "code": "U4.1",
-              "title": "Endurecimiento de los Materiales: Trabajo en Frío,"
+              "title": "Ensayo de tensión (esfuerzo-deformación), impacto, fatiga, termofluencia, dureza"
             },
             {
               "code": "U4.2",
+              "title": "Endurecimiento de los materiales: Trabajo en frío, disolución sólida"
+            },
+            {
+              "code": "U4.3",
               "title": "Recocido"
             }
           ]
         },
         {
           "code": "U5",
-          "title": "Diagramas de Fases y Aleaciones",
+          "title": "DIAGRAMAS DE FASES Y ALEACIONES",
           "subunits": [
             {
               "code": "U5.1",
-              "title": "Microestructura Durante El Enfriamiento"
+              "title": "Diagrama de fases binario, Regla de la palanca, reacciones invariantes"
             },
             {
               "code": "U5.2",
-              "title": "Aleaciones No Ferrosas y Aceros"
+              "title": "Microestructura durante el enfriamiento"
+            },
+            {
+              "code": "U5.3",
+              "title": "aleaciones no ferrosas y aceros"
             }
           ]
         },
         {
           "code": "U6",
-          "title": "Introducción A los Nanomateriales",
-          "subunits": []
+          "title": "INTRODUCCIÓN A LOS NANOMATERIALES",
+          "subunits": [
+            {
+              "code": "U6.1",
+              "title": "Conceptos, síntesis, aplicaciones"
+            }
+          ]
         }
       ],
       "unitCount": 6,
-      "subunitCount": 9
+      "subunitCount": 16
     },
     {
       "id": "escritura-cientifica-y-metodologia-de-investigacion-1",
@@ -5887,22 +9968,67 @@ const syllabiContentData = {
       "units": [
         {
           "code": "U1",
-          "title": "Revisión de Recursos de Información",
-          "subunits": []
+          "title": "REVISIÓN DE RECURSOS DE INFORMACIÓN",
+          "subunits": [
+            {
+              "code": "U1.1",
+              "title": "BREVE REVISIÓN DE RECURSOS DE INFORMACIÓN: Recordatorio de bases digitales y repositorios de datos, específicos para la rama Química-Industrial"
+            }
+          ]
         },
         {
           "code": "U2",
-          "title": "Lectura Compresiva",
+          "title": "LECTURA COMPRESIVA",
           "subunits": [
             {
               "code": "U2.1",
-              "title": "Secuencia Paserr: Prelectura, Anotaciones Contacto con El"
+              "title": "PRINCIPIOS BÁSICOS DE LECTURA: Consejos para una lectura comprensiva de textos"
+            },
+            {
+              "code": "U2.2",
+              "title": "SECUENCIA PASERR: Prelectura, Anotaciones Marginales, Subrayado, Esquemas–Cuadro Sinóptico–Resumen–Mapa Conceptual, Revisión, Repetición activa"
+            },
+            {
+              "code": "U2.3",
+              "title": "ANALISIS ESTRUCTURAL DE UN MANUSCRITO CIENTÍFICO: Análisis de secciones IMRD: Introducción-Materiales y Métodos-Resultados y Discusión. Revisión de elementos complementarios"
+            }
+          ]
+        },
+        {
+          "code": "U3",
+          "title": "ESCRITURA ACADÉMICA Y CIENTÍFICA",
+          "subunits": [
+            {
+              "code": "U3.1",
+              "title": "LOS MODELOS DE LENGUAJE POR INTELIGENCIA ARTIFICIAL: Chatbots. Uso apropiado, consideraciones éticas y ventajas / desventajas en la escritura académica"
+            },
+            {
+              "code": "U3.2",
+              "title": "PRINCIPIOS ELEMENTALES DE ARGUMENTACIÓN Y SINTESIS: Tipos de escritura narrativa, descriptiva, expositiva y argumentativa. El discurso académico: Estructura semántica y argumentativa. Síntesis y parafraseo de textos"
+            },
+            {
+              "code": "U3.3",
+              "title": "REDACCIÓN ACADÉMICA: Planificación y Estructura, Desarrollo del Texto y Revisión. Escritura del párrafo: estructura, organización, progresión. Conectividad entre párrafos y elementos de un"
+            },
+            {
+              "code": "U3.4",
+              "title": "CITACIÓN BIBLIOGRAFICA EN EL PROCESO DE ESCRITURA: Estilos de citación para la academia y en publicaciones. Aplicación del gestor de referencia Mendeley. Formato APA: Tablas, títulos, subtítulos, complementarios. Plagio (plataforma URKUND)"
+            }
+          ]
+        },
+        {
+          "code": "U4",
+          "title": "MÉTODO CIENTÍFICO Y SECUENCIA METODOLÓGICA",
+          "subunits": [
+            {
+              "code": "U4.1",
+              "title": "SECUENCIA METODOLÓGICA DE LA INVESTIGACIÓN CIENTÍFICA: Idea-Problema- Hipótesis-Objetivos-Resultados"
             }
           ]
         }
       ],
-      "unitCount": 2,
-      "subunitCount": 1
+      "unitCount": 4,
+      "subunitCount": 9
     },
     {
       "id": "procesamiento-industrial-de-cereales-y-fermentaciones-1",
@@ -5931,17 +10057,117 @@ const syllabiContentData = {
       "units": [
         {
           "code": "U1",
-          "title": "Generalidades",
+          "title": "GENERALIDADES",
           "subunits": [
             {
               "code": "U1.1",
-              "title": "Socialización del Silabo y Forma de"
+              "title": "Socialización del silabo y forma de evaluación"
+            },
+            {
+              "code": "U1.2",
+              "title": "Generalidades y características de los cereales"
+            },
+            {
+              "code": "U1.3",
+              "title": "Alteración de los cereales"
+            },
+            {
+              "code": "U1.4",
+              "title": "Técnicas y procedimientos para el procesamiento de cereales"
+            }
+          ]
+        },
+        {
+          "code": "U2",
+          "title": "FERMENTACIÓN DE ALIMENTOS",
+          "subunits": [
+            {
+              "code": "U2.1",
+              "title": "Sustratos susceptibles de fermentación"
+            },
+            {
+              "code": "U2.2",
+              "title": "Tipos de fermentación"
+            },
+            {
+              "code": "U2.3",
+              "title": "Factores que intervienen en la fermentación"
+            },
+            {
+              "code": "U2.4",
+              "title": "Microorganismos participantes en la fermentación de alimentos"
+            }
+          ]
+        },
+        {
+          "code": "U3",
+          "title": "ALIMENTOS FERMENTADOS DE ORIGEN LÁCTEO",
+          "subunits": [
+            {
+              "code": "U3.1",
+              "title": "Leche y productos lácteos"
+            },
+            {
+              "code": "U3.2",
+              "title": "Microorganismos beneficiosos y contaminantes"
+            },
+            {
+              "code": "U3.3",
+              "title": "Cultivos lácticos"
+            },
+            {
+              "code": "U3.4",
+              "title": "Cambios fisicoquímicos y microbiológicos en productos fermentados"
+            }
+          ]
+        },
+        {
+          "code": "U4",
+          "title": "ALIMENTOS FERMENTADOS DE ORIGEN ANIMAL",
+          "subunits": [
+            {
+              "code": "U4.1",
+              "title": "Generalidades alimentos de origen animal"
+            },
+            {
+              "code": "U4.2",
+              "title": "Cambios organolépticos y nutricionales de alimentos fermentados"
+            },
+            {
+              "code": "U4.3",
+              "title": "Sustratos e indicadores para la fermentación"
+            },
+            {
+              "code": "U4.4",
+              "title": "Técnicas de fermentación"
+            }
+          ]
+        },
+        {
+          "code": "U5",
+          "title": "ALIMENTOS FERMENTADOS DE ORIGEN VEGETAL",
+          "subunits": [
+            {
+              "code": "U5.1",
+              "title": "Generalidades alimentos de origen vegetal"
+            },
+            {
+              "code": "U5.2",
+              "title": "Alimentos fermentados a partir del trigo, arroz y maíz"
+            },
+            {
+              "code": "U5.3",
+              "title": "Cambios organolépticos y nutricionales de alimentos fermentados"
+            },
+            {
+              "code": "U5.4",
+              "title": "Técnicas de fermentación"
             }
           ]
         }
       ],
-      "unitCount": 1,
-      "subunitCount": 1
+      "unitCount": 5,
+      "subunitCount": 20
     },
     {
       "id": "analisis-numerico-1",
@@ -5966,47 +10192,237 @@ const syllabiContentData = {
       "units": [
         {
           "code": "U1",
-          "title": "Uso del Desarrollo de Taylor",
-          "subunits": []
+          "title": "1. INTERPOLACION POLINOMIAL",
+          "subunits": [
+            {
+              "code": "U1.1",
+              "title": "1"
+            },
+            {
+              "code": "U1.2",
+              "title": "INTERPOLACION LINEAL"
+            },
+            {
+              "code": "U1.3",
+              "title": "2"
+            },
+            {
+              "code": "U1.4",
+              "title": "INTERPOLACION DE LAGRANGE"
+            },
+            {
+              "code": "U1.5",
+              "title": "3"
+            },
+            {
+              "code": "U1.6",
+              "title": "INTERPOLACIONES DE NEWTON HACIA ADELANTE Y HACIA ATRAS"
+            },
+            {
+              "code": "U1.7",
+              "title": "4"
+            },
+            {
+              "code": "U1.8",
+              "title": "INTERPOLACION DE NEWTON EN PUNTOS CON SEPARACION NO UNIFORME"
+            }
+          ]
         },
         {
           "code": "U2",
-          "title": "Algoritmo Generico para Tener Una",
-          "subunits": []
+          "title": "2. SOLUCION DE ECUACIONES NO LINEALES",
+          "subunits": [
+            {
+              "code": "U2.1",
+              "title": "1"
+            },
+            {
+              "code": "U2.2",
+              "title": "METODO DE LA BISECCION"
+            },
+            {
+              "code": "U2.3",
+              "title": "2"
+            },
+            {
+              "code": "U2.4",
+              "title": "METODO DE LA FALSA POSICION Y FALSA POSICION MODIFICADA"
+            },
+            {
+              "code": "U2.5",
+              "title": "3"
+            },
+            {
+              "code": "U2.6",
+              "title": "METODO DE NEWTON-RHAPSON"
+            },
+            {
+              "code": "U2.7",
+              "title": "4"
+            },
+            {
+              "code": "U2.8",
+              "title": "METODO DE LA SECANTE"
+            },
+            {
+              "code": "U2.9",
+              "title": "5"
+            },
+            {
+              "code": "U2.10",
+              "title": "METODO DE SUSTITUCION SUCESIVA"
+            }
+          ]
         },
         {
           "code": "U3",
-          "title": "Eliminacion de Gauss y Gauss Jordan",
-          "subunits": []
+          "title": "3. INTEGRACION NUMERICA",
+          "subunits": [
+            {
+              "code": "U3.1",
+              "title": "1"
+            },
+            {
+              "code": "U3.2",
+              "title": "REGLA DEL TRAPECIO"
+            },
+            {
+              "code": "U3.3",
+              "title": "2"
+            },
+            {
+              "code": "U3.4",
+              "title": "REGLA DE 1/3 DE SIMPSON"
+            },
+            {
+              "code": "U3.5",
+              "title": "3"
+            },
+            {
+              "code": "U3.6",
+              "title": "REGLA DE 3/8 DE SIMPSON"
+            },
+            {
+              "code": "U3.7",
+              "title": "4"
+            },
+            {
+              "code": "U3.8",
+              "title": "FORMULAS DE NEWTON COTES"
+            },
+            {
+              "code": "U3.9",
+              "title": "5"
+            },
+            {
+              "code": "U3.10",
+              "title": "CUADRATURAS DE GAUSS"
+            }
+          ]
         },
         {
           "code": "U4",
-          "title": "Pivoteo y Eliminacion Canonica de Práctico",
-          "subunits": []
+          "title": "4. DIFERENCIACION NUMERICA",
+          "subunits": [
+            {
+              "code": "U4.1",
+              "title": "INTRODUCCION"
+            },
+            {
+              "code": "U4.2",
+              "title": "USO DEL DESARROLLO DE TAYLOR"
+            },
+            {
+              "code": "U4.3",
+              "title": "ALGORITMO GENERICO PARA TENER UNA APROXIMACION POR DIFERENCIAS"
+            }
+          ]
         },
         {
           "code": "U5",
-          "title": "Problemas Sin Solucion Unica Asignatura",
-          "subunits": []
+          "title": "5. ALGEBRA LINEAL NUMERICA",
+          "subunits": [
+            {
+              "code": "U5.1",
+              "title": "INTRODUCCION"
+            },
+            {
+              "code": "U5.2",
+              "title": "ELIMINACION DE GAUSS Y GAUSS JORDAN"
+            },
+            {
+              "code": "U5.3",
+              "title": "PIVOTEO Y ELIMINACION CANONICA DE"
+            },
+            {
+              "code": "U5.4",
+              "title": "PROBLEMAS SIN SOLUCION UNICA"
+            },
+            {
+              "code": "U5.5",
+              "title": "MATRICES Y VECTORES"
+            },
+            {
+              "code": "U5.6",
+              "title": "INVERSION DE UNA MATRIZ"
+            },
+            {
+              "code": "U5.7",
+              "title": "DESCOMPOSICION LU"
+            },
+            {
+              "code": "U5.8",
+              "title": "DETERMINANTES"
+            }
+          ]
         },
         {
           "code": "U6",
-          "title": "Matrices y Vectores",
-          "subunits": []
+          "title": "6. AJUSTE DE CURVAS",
+          "subunits": [
+            {
+              "code": "U6.1",
+              "title": "INTRODUCCION"
+            },
+            {
+              "code": "U6.2",
+              "title": "REGRESION LINEAL"
+            },
+            {
+              "code": "U6.3",
+              "title": "AJUSTE DE CURVAS CON UN POLINOMIO DE ORDEN SUPERIOR"
+            },
+            {
+              "code": "U6.4",
+              "title": "AJUSTE DE CURVAS MEDIANTE UNA COMBINACION LINEAL DE FUNCIONES"
+            }
+          ]
         },
         {
           "code": "U7",
-          "title": "Inversion de Una Matriz",
-          "subunits": []
-        },
-        {
-          "code": "U8",
-          "title": "Descomposicion Lu",
-          "subunits": []
+          "title": "7. PROBLEMAS DE ECUACIONES DIFERENCIALES CON VALOR O CONDICION INICIAL",
+          "subunits": [
+            {
+              "code": "U7.1",
+              "title": "INTRODUCCION"
+            },
+            {
+              "code": "U7.2",
+              "title": "METODOS DE EULER"
+            },
+            {
+              "code": "U7.3",
+              "title": "METODO DE RUNGE KUTTA DE SEGUNDO ORDEN"
+            },
+            {
+              "code": "U7.4",
+              "title": "METODO DE RUNGE KUTTA DE ORDEN SUPERIOR"
+            }
+          ]
         }
       ],
-      "unitCount": 8,
-      "subunitCount": 0
+      "unitCount": 7,
+      "subunitCount": 47
     },
     {
       "id": "dibujo-asistido-por-computador-1",
@@ -6031,47 +10447,111 @@ const syllabiContentData = {
       "units": [
         {
           "code": "U1",
-          "title": "Introducción Al Dibujo Técnico",
-          "subunits": []
+          "title": "INTRODUCCIÓN AL DIBUJO TÉCNICO",
+          "subunits": [
+            {
+              "code": "U1.1",
+              "title": "SISTEMAS DE MEDICIÓN"
+            },
+            {
+              "code": "U1.2",
+              "title": "ESCALAS DE DIBUJO"
+            },
+            {
+              "code": "U1.3",
+              "title": "LETRAS Y NÚMEROS: NORMATIVA"
+            },
+            {
+              "code": "U1.4",
+              "title": "FORMATOS Y TAMAÑOS DE PAPEL"
+            },
+            {
+              "code": "U1.5",
+              "title": "FIGURAS GEOMÉTRICAS"
+            },
+            {
+              "code": "U1.6",
+              "title": "SÓLIDOS GEOMÉTRICOS"
+            }
+          ]
         },
         {
           "code": "U2",
-          "title": "Sistemas de Medición 4 Aprendizaje en Clase Magistral, Estudio de 4 Horas",
-          "subunits": []
+          "title": "MODELADO EN DOS DIMENSIONES",
+          "subunits": [
+            {
+              "code": "U2.1",
+              "title": "BARRA DE COMANDOS, BARRA DE ESTADO, BARRA DE NAVEGACIÓN, BARRA DE HERRAMIENTAS"
+            },
+            {
+              "code": "U2.2",
+              "title": "HERRAMIENTAS DE DIBUJO Y MODIFICACIÓN"
+            },
+            {
+              "code": "U2.3",
+              "title": "GENERACIÓN DE CAPAS"
+            },
+            {
+              "code": "U2.4",
+              "title": "IMPRESIÓN Y PLOTEADO"
+            },
+            {
+              "code": "U2.5",
+              "title": "DISEÑO DE PIEZAS EN 2D"
+            },
+            {
+              "code": "U2.6",
+              "title": "ACOTACIÓN DE OBJETOS Y NORMATIVA"
+            }
+          ]
         },
         {
           "code": "U3",
-          "title": "Escalas de Dibujo",
-          "subunits": []
+          "title": "DIAGRAMAS DE FLUJO DE PROCESO",
+          "subunits": [
+            {
+              "code": "U3.1",
+              "title": "DEFINICIÓN Y PROPIEDADES DE LOS DIAGRAMAS DE FLUJO DE PROCESO"
+            },
+            {
+              "code": "U3.2",
+              "title": "ELEMENTOS DE UN DIAGRAMA DE PROCESO"
+            },
+            {
+              "code": "U3.3",
+              "title": "ELEMENTOS DE UN DIAGRAMA DE FLUJO"
+            },
+            {
+              "code": "U3.4",
+              "title": "SIMBOLOGÍA DE EQUIPOS DE PROCESO"
+            }
+          ]
         },
         {
           "code": "U4",
-          "title": "Letras y Números: Normativa Práctico",
-          "subunits": []
-        },
-        {
-          "code": "U5",
-          "title": "Formatos y Tamaños de Papel Asignatura",
-          "subunits": []
-        },
-        {
-          "code": "U6",
-          "title": "Figuras Geométricas",
-          "subunits": []
-        },
-        {
-          "code": "U7",
-          "title": "Sólidos Geométricos",
-          "subunits": []
-        },
-        {
-          "code": "U8",
-          "title": "Modelado en Dos Dimensiones",
-          "subunits": []
+          "title": "MODELADO EN TRES DIMENSIONES DE EQUIPOS DE PROCESOS QUÍMICOS",
+          "subunits": [
+            {
+              "code": "U4.1",
+              "title": "PROYECCIONES AXONOMÉTRICAS. PROYECCIONES DE PRIMER Y TERCER"
+            },
+            {
+              "code": "U4.2",
+              "title": "HERRAMIENTAS DE DIBUJO Y MODIFICACIÓN EN TRES DIMENSIONES"
+            },
+            {
+              "code": "U4.3",
+              "title": "VISTAS, CORTES, SECCIONES Y DETALLES A PARTIR DE MODELOS TRIDIMENSIONALES"
+            },
+            {
+              "code": "U4.4",
+              "title": "MODELOS DE EQUIPOS DE INGENIERÍA QUÍMICA EN TRES DIMENSIONES"
+            }
+          ]
         }
       ],
-      "unitCount": 8,
-      "subunitCount": 0
+      "unitCount": 4,
+      "subunitCount": 20
     },
     {
       "id": "analisis-instrumental-1",
@@ -6108,98 +10588,119 @@ const syllabiContentData = {
       "units": [
         {
           "code": "U1",
-          "title": "Espectroscopía de Absorción Uv-vis",
+          "title": "ESPECTROSCOPÍA DE ABSORCIÓN UV-VIS",
           "subunits": [
             {
               "code": "U1.1",
-              "title": "Términos Empleados en Espectroscopía Uv-vis. Práctico Espectroscopía Óptica. Barrido"
+              "title": "Introducción: Métodos analíticos instrumentales y selección. Propiedades de la Radiación Electromagnética. Instrumentos para Espectroscopía Optica"
             },
             {
               "code": "U1.2",
-              "title": "Aspectos Cuantitativos de las Mediciones de (ape/a)"
+              "title": "Términos empleados en Espectroscopía UV-Vis"
             },
             {
               "code": "U1.3",
-              "title": "Análisis Cualitativo. Identificación de Grupos"
+              "title": "Aspectos cuantitativos de las mediciones de absorción. Ley de Beer"
+            },
+            {
+              "code": "U1.4",
+              "title": "Análisis cualitativo. Identificación de grupos cromóforos"
             }
           ]
         },
         {
           "code": "U2",
-          "title": "Espectroscopía Infrarroja",
+          "title": "ESPECTROSCOPÍA INFRARROJA",
           "subunits": [
             {
               "code": "U2.1",
-              "title": "Análisis Cualitativo y Cuantitativo por"
+              "title": "Teorìa de la Absorción Infrarroja. Fuentes de energía Infrarroja. Detectores"
+            },
+            {
+              "code": "U2.2",
+              "title": "Análisis cualitativo y cuantitativo por Espectroscopía Infrarroja"
             }
           ]
         },
         {
           "code": "U3",
-          "title": "Espectroscopía de Absorción Atómica",
+          "title": "ESPECTROSCOPÍA DE ABSORCIÓN ATÓMICA",
           "subunits": [
             {
               "code": "U3.1",
-              "title": "Introducción A los Métodos Instrumentales: de Interés. (m.f.)"
+              "title": "Generalidades sobre el Análisis Químico. Clasificación de métodos analíticos"
             },
             {
               "code": "U3.2",
-              "title": "Instrumentación en Absorción Atómica"
+              "title": "Introducción a los métodos instrumentales: Fundamentos"
             },
             {
               "code": "U3.3",
-              "title": "Aspectos Cuantitativos en Absorción Atómica Práctico Realización de Ejercicios. Prácticas de"
+              "title": "Fundamentos de Absorción y Emisión Atómica"
             },
             {
               "code": "U3.4",
-              "title": "Interferencias en Absorción Atómica. Asignatura"
+              "title": "Instrumentación en Absorción Atómica"
             },
             {
               "code": "U3.5",
-              "title": "La Marcha Analítica en El Análisis por Absorción"
+              "title": "Aspectos Cuantitativos en Absorción Atómica"
             },
             {
               "code": "U3.6",
-              "title": "Calidad de los Resultados Analíticos en Absorción"
+              "title": "Interferencias en Absorción Atómica"
             },
             {
               "code": "U3.7",
-              "title": "Introducción A la Validación de Métodos Analíticos"
+              "title": "La marcha analítica en el análisis por Absorción Atómica"
             },
             {
               "code": "U3.8",
-              "title": "Prácticas de Laboratorio de Absorción Atómica"
+              "title": "Calidad de los Resultados Analíticos en Absorción Atómica"
+            },
+            {
+              "code": "U3.9",
+              "title": "Introducción a la validación de métodos analíticos por absorción atómica"
+            },
+            {
+              "code": "U3.10",
+              "title": "Prácticas de laboratorio de Absorción Atómica"
             }
           ]
         },
         {
           "code": "U4",
-          "title": "Cromatografía",
-          "subunits": []
-        },
-        {
-          "code": "U5",
-          "title": "Parámetros y Teorías Aprendizaje en Clases Magistrales con",
-          "subunits": []
-        },
-        {
-          "code": "U6",
-          "title": "Cromatografía de Gases",
-          "subunits": []
-        },
-        {
-          "code": "U7",
-          "title": "Cromatografía Líquida H) (s.o.)",
-          "subunits": []
-        },
-        {
-          "code": "U8",
-          "title": "Procesamiento de Datos Aprendizaje Revisión Teórica Autónoma 1 Horas",
-          "subunits": []
+          "title": "CROMATOGRAFÍA",
+          "subunits": [
+            {
+              "code": "U4.1",
+              "title": "Generalidades e introducción a la cromatografía"
+            },
+            {
+              "code": "U4.2",
+              "title": "PARÁMETROS Y TEORÍAS"
+            },
+            {
+              "code": "U4.3",
+              "title": "CROMATOGRAFÍA DE GASES"
+            },
+            {
+              "code": "U4.4",
+              "title": "CROMATOGRAFÍA LÍQUIDA"
+            },
+            {
+              "code": "U4.5",
+              "title": "PROCESAMIENTO DE DATOS CROMATOGRÁFICOS"
+            },
+            {
+              "code": "U4.6",
+              "title": "PRÁCTICAS DE LABORATORIO DE CROMATOGRAFÍA"
+            }
+          ]
         }
       ],
-      "unitCount": 8,
-      "subunitCount": 12
+      "unitCount": 4,
+      "subunitCount": 22
     },
     {
       "id": "operaciones-unitarias-i-filtracion-y-fluidizacion-1",
@@ -6224,47 +10725,83 @@ const syllabiContentData = {
       "units": [
         {
           "code": "U1",
-          "title": "Introducción. Paso de Fluidos A Través de Lechos Porosos",
-          "subunits": []
+          "title": "INTRODUCCIÓN. PASO DE FLUIDOS A TRAVÉS DE LECHOS POROSOS",
+          "subunits": [
+            {
+              "code": "U1.1",
+              "title": "CALCULO DE PARÁMETROS DE LECHO POROSO, POROSIDAD, DENSIDAD REAL Y APARENTE, DIÁMETRO DE PARTÍCULA"
+            },
+            {
+              "code": "U1.2",
+              "title": "CALCULO DE LA CAÍDA DE PRESIÓN A TRAVÉS DE UN MEDIO POROSO"
+            }
+          ]
         },
         {
           "code": "U2",
-          "title": "Calculo de la Caída de Presión A (ape/a)",
-          "subunits": []
+          "title": "EL PROCESO DE FLUIDIZACIÓN. TIPOS DE FLUIDIZACIÓN",
+          "subunits": [
+            {
+              "code": "U2.1",
+              "title": "EL PROCESO DE FLUIDIZACIÓN. TIPOS DE FLUIDIZACIÓN: FLUIDIZACIÓN CON LÍQUIDOS Y CON GASES"
+            },
+            {
+              "code": "U2.2",
+              "title": "HIDRODINÁMICA DE LOS LECHOS FLUIDIZADOS. VELOCIDAD MÍNIMA DE FLUIDIZACIÓN, VELOCIDAD DE TRABAJO, VELOCIDAD DE ARRASTRE"
+            },
+            {
+              "code": "U2.3",
+              "title": "PARÁMETROS FUNDAMENTALES EN EL CALCULO Y DISEÑO DE UN FLUIDIZADOR. RELACIÓN ALTURA DIÁMETRO"
+            }
+          ]
         },
         {
           "code": "U3",
-          "title": "El Proceso de Fluidización. Tipos de Fluidización",
-          "subunits": []
+          "title": "TEORÍA DE LA FILTRACIÓN, CLASIFICACIÓN DE LA FILTRACIÓN",
+          "subunits": [
+            {
+              "code": "U3.1",
+              "title": "PRINCIPIOS BÁSICOS Y ASPECTOS GENERALES DE LA OPERACIÓN DE FILTRACIÓN. CLASIFICACIÓN DE LA FILTRACIÓN"
+            },
+            {
+              "code": "U3.2",
+              "title": "FILTRACIÓN A PRESIÓN CONSTANTE. TORTAS COMPRESIBLES Y NO COMPRESIBLES"
+            },
+            {
+              "code": "U3.3",
+              "title": "FILTRACIÓN A VELOCIDAD CONSTANTE"
+            }
+          ]
         },
         {
           "code": "U4",
-          "title": "Parámetros Fundamentales en El",
-          "subunits": []
-        },
-        {
-          "code": "U5",
-          "title": "Teoría de la Filtración, Clasificación de la Filtración",
-          "subunits": []
-        },
-        {
-          "code": "U6",
-          "title": "Filtración A Velocidad Constante",
-          "subunits": []
-        },
-        {
-          "code": "U7",
-          "title": "Ciclos de Filtración",
-          "subunits": []
-        },
-        {
-          "code": "U8",
-          "title": "Calculo de los Ciclos de Filtración",
-          "subunits": []
+          "title": "CICLOS DE FILTRACIÓN",
+          "subunits": [
+            {
+              "code": "U4.1",
+              "title": "LAVADO DE TORTAS DE FILTRACIÓN"
+            },
+            {
+              "code": "U4.2",
+              "title": "CALCULO DE LOS CICLOS DE FILTRACIÓN"
+            },
+            {
+              "code": "U4.3",
+              "title": "VARIABLES DEL PROCESO Y SU"
+            },
+            {
+              "code": "U4.4",
+              "title": "MEDIOS FILTRANTES Y AYUDANTES DE FILTRACIÓN"
+            },
+            {
+              "code": "U4.5",
+              "title": "FILTROS POR GRAVEDAD, FILTROS A PRESIÓN, FILTROS AL VACIO, FILTROS"
+            }
+          ]
         }
       ],
-      "unitCount": 8,
-      "subunitCount": 0
+      "unitCount": 4,
+      "subunitCount": 13
     },
     {
       "id": "calidad-y-tratamiento-de-suelos-1",
@@ -6289,22 +10826,37 @@ const syllabiContentData = {
       "units": [
         {
           "code": "U1",
-          "title": "Calidad de los Suelos",
-          "subunits": []
+          "title": "CALIDAD DE LOS SUELOS",
+          "subunits": [
+            {
+              "code": "U1.1",
+              "title": "Componentes de la calidad del suelo: Indicadores Físicos (textura, profundidad, infiltración, capacidad de retención de agua), Químicos (materia orgánica, pH y conductividad eléctrica) y Biológicos (biomasa microbiana, respiración y temperatura)"
+            }
+          ]
         },
         {
           "code": "U2",
-          "title": "Contaminación de Suelos.",
-          "subunits": []
+          "title": "CONTAMINACIÓN DE SUELOS",
+          "subunits": [
+            {
+              "code": "U2.1",
+              "title": "Agentes contaminantes. Influencia de las propiedades del suelo en la dinámica de los contaminantes. COPs, Metales Pesados, Hidrocarburos y Otros"
+            }
+          ]
         },
         {
           "code": "U3",
-          "title": "Tecnologias de Tratamiento",
-          "subunits": []
+          "title": "TECNOLOGIAS DE TRATAMIENTO",
+          "subunits": [
+            {
+              "code": "U3.1",
+              "title": "Métodos Biológicos. Métodos Fisicoquímicos: Stripping por aire. Extracción por vapor del suelo. Adsorción por carbón. Stripping por vapor. Oxidación Química. Fluidos Supercríticos. Procesos de Membrana. Estabilización Solidificación. Métodos Térmicos Recuperación de suelos"
+            }
+          ]
         }
       ],
       "unitCount": 3,
-      "subunitCount": 0
+      "subunitCount": 3
     },
     {
       "id": "procesamiento-termico-de-alimentos-2",
@@ -6333,17 +10885,73 @@ const syllabiContentData = {
       "units": [
         {
           "code": "U1",
-          "title": "Generalidades",
+          "title": "GENERALIDADES",
           "subunits": [
             {
               "code": "U1.1",
-              "title": "Socialización del Sílabo y Forma de"
+              "title": "Socialización del sílabo y forma de evaluación"
+            },
+            {
+              "code": "U1.2",
+              "title": "Generalidades y alteraciones de los alimentos"
+            },
+            {
+              "code": "U1.3",
+              "title": "Fundamento de los métodos de conservación de alimentos basado en temperaturas bajas"
+            },
+            {
+              "code": "U1.4",
+              "title": "Alteraciones y beneficios de los alimentos almacenados en temperaturas bajas"
+            }
+          ]
+        },
+        {
+          "code": "U2",
+          "title": "FUNDAMENTOS DE LOS TRATAMIENTOS TÉRMICOS",
+          "subunits": [
+            {
+              "code": "U2.1",
+              "title": "Operaciones de transformación, Escaldado, metodología del escaldado, escaldado con vapor, escaldado con agua caliente, concentrado, pasteurizado, sistemas de pasteurización, sistema HTST, sitema VAT, equipos empleados para pasteurizar líquidos sin envasar, equipos para pasteurizar líquidos envasados, esterilizado, proceso de esterilizado, esterilización de productos envasados, esterilización de productos sin envasar, esterilización por cargas"
+            }
+          ]
+        },
+        {
+          "code": "U3",
+          "title": "BASES DE LA CONSERVACIÓN DE ALIMENTOS",
+          "subunits": [
+            {
+              "code": "U3.1",
+              "title": "Factores que intervienen en la conservación de alimentos, procesos de alteración de alimentos"
+            }
+          ]
+        },
+        {
+          "code": "U4",
+          "title": "DISEÑO DE UN PROCESO DE ESTERILIZACIÓN",
+          "subunits": [
+            {
+              "code": "U4.1",
+              "title": "Diseño de un proceso de esterilización para productos lácteos y enlatados"
+            }
+          ]
+        },
+        {
+          "code": "U5",
+          "title": "MÉTODOS PARA LA EVALUACIÓN DEL PROCESAMIENTO TÉRMICO DE ALIMENTOS",
+          "subunits": [
+            {
+              "code": "U5.1",
+              "title": "Método general, Método de Ball"
+            },
+            {
+              "code": "U5.2",
+              "title": "Curva de penetración de calor en productos envasados"
             }
           ]
         }
       ],
-      "unitCount": 1,
-      "subunitCount": 1
+      "unitCount": 5,
+      "subunitCount": 9
     },
     {
       "id": "metalurgia-extractiva-1",
@@ -6368,47 +10976,57 @@ const syllabiContentData = {
       "units": [
         {
           "code": "U1",
-          "title": "Metalurgia Extractiva.",
-          "subunits": []
+          "title": "METALURGIA EXTRACTIVA",
+          "subunits": [
+            {
+              "code": "U1.1",
+              "title": "Generalidades. Fundamentos Físico-químicos"
+            }
+          ]
         },
         {
           "code": "U2",
-          "title": "Termodinámica y Cinética Metalúrgicas",
-          "subunits": []
+          "title": "TERMODINÁMICA Y CINÉTICA METALÚRGICAS",
+          "subunits": [
+            {
+              "code": "U2.1",
+              "title": "Equilibrios en metalurgia extractiva. Aplicación de principios termodinámicos y cinética de los procesos"
+            }
+          ]
         },
         {
           "code": "U3",
-          "title": "Operaciones Previas y Procesos Metalúrgicos",
-          "subunits": []
+          "title": "OPERACIONES PREVIAS Y PROCESOS METALÚRGICOS",
+          "subunits": [
+            {
+              "code": "U3.1",
+              "title": "MUESTREO Y PREPARACION DE MUESTRAS. REDUCCIÓN DE TAMAÑO PROCESOS DE CONCENTRACIÓN DE"
+            }
+          ]
         },
         {
           "code": "U4",
-          "title": "Muestreo y Preparacion de Muestras. 3 Aprendizaje en Clase Magistral 10 Horas",
-          "subunits": []
+          "title": "METALURGIA POR VÍA HÚMEDA. LIXIVIACIÓN. ELECTROMETALURGIA. PROCEDIMIENTO DE REFINO DE METALES",
+          "subunits": [
+            {
+              "code": "U4.1",
+              "title": "LIXIVIACIÓN. SEPARACIONES SÓLIDO LÍQUIDO. PRECIPITACIÓN, PURIFICACIÓN Y CONCENTRACIÓN DE LA SOLUCIÓN"
+            }
+          ]
         },
         {
           "code": "U5",
-          "title": "Metalurgia por Vía Húmeda. Lixiviación.",
-          "subunits": []
-        },
-        {
-          "code": "U6",
-          "title": "Lixiviación. Separaciones Sólido 4 Aprendizaje en Clase Magistral 10 Horas",
-          "subunits": []
-        },
-        {
-          "code": "U7",
-          "title": "Impactos Medioambientales en Metalurgia Extractiva",
-          "subunits": []
-        },
-        {
-          "code": "U8",
-          "title": "Contabilidad Metalúrgica y Control. 5 Aprendizaje en Clase Magistral 2 Horas",
-          "subunits": []
+          "title": "IMPACTOS MEDIOAMBIENTALES EN METALURGIA EXTRACTIVA",
+          "subunits": [
+            {
+              "code": "U5.1",
+              "title": "CONTABILIDAD METALÚRGICA Y CONTROL. IMPACTOS AMBIENTALES DE LA METALURGIA EXTRACTIVA"
+            }
+          ]
         }
       ],
-      "unitCount": 8,
-      "subunitCount": 0
+      "unitCount": 5,
+      "subunitCount": 5
     },
     {
       "id": "quimica-analitica-1",
@@ -6437,22 +11055,151 @@ const syllabiContentData = {
       "units": [
         {
           "code": "U1",
-          "title": "Introduccion A la Quimica Analitica, Precisión y Cuidado en la Labor Analitica",
-          "subunits": []
+          "title": "INTRODUCCION A LA QUIMICA ANALITICA, PRECISIÓN Y CUIDADO EN LA LABOR ANALITICA",
+          "subunits": [
+            {
+              "code": "U1.1",
+              "title": "Seguridad en el Laboratorio"
+            }
+          ]
         },
         {
           "code": "U2",
-          "title": "Muestreo y Ataque de Muestras",
-          "subunits": []
+          "title": "MUESTREO Y ATAQUE DE MUESTRAS",
+          "subunits": [
+            {
+              "code": "U2.1",
+              "title": "Toma de la muestra y sus procedimientos"
+            }
+          ]
         },
         {
           "code": "U3",
-          "title": "Precipitacion Cuantitativa",
-          "subunits": []
+          "title": "PRECIPITACION CUANTITATIVA",
+          "subunits": [
+            {
+              "code": "U3.1",
+              "title": "La precipitación cuantitativa. Filtración y procesos relativos al lavado"
+            }
+          ]
+        },
+        {
+          "code": "U4",
+          "title": "VERACIDAD DE LAS MEDIDAS",
+          "subunits": [
+            {
+              "code": "U4.1",
+              "title": "Precisión, desviación absoluta, desviación"
+            }
+          ]
+        },
+        {
+          "code": "U5",
+          "title": "METODOS GRAVIMETRICOS",
+          "subunits": [
+            {
+              "code": "U5.1",
+              "title": "Determinación de la Humedad. Clases de Agua"
+            },
+            {
+              "code": "U5.2",
+              "title": "Determinación gravimétrica de un Sulfato. Principio"
+            },
+            {
+              "code": "U5.3",
+              "title": "Cálculos en el Análisis Gravimétrico. Resolución de Problemas"
+            }
+          ]
+        },
+        {
+          "code": "U6",
+          "title": "ANALISIS VOLUMETRICOS",
+          "subunits": [
+            {
+              "code": "U6.1",
+              "title": "Requisitos fundamentales.- Disolución Patrón.- Patrones"
+            },
+            {
+              "code": "U6.2",
+              "title": "Cálculos en Análisis Volumétrico. Resolución de Problemas"
+            }
+          ]
+        },
+        {
+          "code": "U7",
+          "title": "PREPARACION Y NORMALIZACION DE SOLUCIONES",
+          "subunits": [
+            {
+              "code": "U7.1",
+              "title": "Preparación disolución patrón de ácido clorhídrico"
+            },
+            {
+              "code": "U7.2",
+              "title": "Preparación y normalización de una disolución patrón de hidróxido"
+            },
+            {
+              "code": "U7.3",
+              "title": "Preparación y normalización de una disolución patrón de ácido sulfúrico"
+            }
+          ]
+        },
+        {
+          "code": "U8",
+          "title": "DETERMINACIONES VOLUMETRICAS DE NEUTRALIZACION",
+          "subunits": [
+            {
+              "code": "U8.1",
+              "title": "Indicadores Acido-Base. Neutralización de un ácido fuerte con base fuerte"
+            },
+            {
+              "code": "U8.2",
+              "title": "Dosificación de los hidróxidos Alcalinos"
+            },
+            {
+              "code": "U8.3",
+              "title": "Dosificación de Carbonatos alcalinos. Dosificación de carbonatos alcalinoterreos"
+            }
+          ]
+        },
+        {
+          "code": "U9",
+          "title": "DETERMINACIONES VOLUMETRICAS DE OXIDO REDUCCION",
+          "subunits": [
+            {
+              "code": "U9.1",
+              "title": "Naturaleza de las reacciones Redox"
+            },
+            {
+              "code": "U9.2",
+              "title": "Preparación y normalización de una disolución patrón de permanganato"
+            },
+            {
+              "code": "U9.3",
+              "title": "Yodometría.- Principios generales.- Métodos directos y métodos indirectos"
+            }
+          ]
+        },
+        {
+          "code": "U10",
+          "title": "DETERMINACIONES VOLUMETRICAS DE PRECIPITACION",
+          "subunits": [
+            {
+              "code": "U10.1",
+              "title": "Producto de solubilidad. Titulaciones de precipitación"
+            },
+            {
+              "code": "U10.2",
+              "title": "Preparación y normalización de disoluciones patrón de Nitrato de Plata"
+            },
+            {
+              "code": "U10.3",
+              "title": "Dosificación de Cloruros y bromuros por los métodos de Mohr y Volhard"
+            }
+          ]
         }
       ],
-      "unitCount": 3,
-      "subunitCount": 0
+      "unitCount": 10,
+      "subunitCount": 21
     },
     {
       "id": "algebra-lineal-1",
@@ -6477,169 +11224,205 @@ const syllabiContentData = {
       "units": [
         {
           "code": "U1",
-          "title": "Sistemas de Ecuaciones Lineales",
+          "title": "SISTEMAS DE ECUACIONES LINEALES",
           "subunits": [
             {
               "code": "U1.1",
-              "title": "Eliminación Gaussiana y Eliminación de Gauss-"
+              "title": "Introducción a los sistemas de ecuaciones lineales"
             },
             {
               "code": "U1.2",
-              "title": "Aplicaciones de los Sistemas de Ecuaciones"
+              "title": "Eliminación gaussiana y eliminación de Gauss- Jordan"
             },
             {
               "code": "U1.3",
-              "title": "Ejercicios de Repaso"
+              "title": "Aplicaciones de los sistemas de ecuaciones lineales"
+            },
+            {
+              "code": "U1.4",
+              "title": "Ejercicios de repaso"
             }
           ]
         },
         {
           "code": "U2",
-          "title": "Matrices",
+          "title": "MATRICES",
           "subunits": [
             {
               "code": "U2.1",
-              "title": "Propiedades de las Operaciones con Matrices"
+              "title": "operaciones con matrices"
             },
             {
               "code": "U2.2",
-              "title": "Inversa de Una Matriz Práctico"
+              "title": "propiedades de las operaciones con matrices"
             },
             {
               "code": "U2.3",
-              "title": "Matrices Elementales Asignatura"
+              "title": "inversa de una matriz"
             },
             {
               "code": "U2.4",
-              "title": "Aplicaciones de las Operaciones con Matrices"
+              "title": "matrices elementales"
             },
             {
               "code": "U2.5",
-              "title": "Ejercicios de Repaso"
+              "title": "aplicaciones de las operaciones con matrices"
+            },
+            {
+              "code": "U2.6",
+              "title": "ejercicios de repaso"
             }
           ]
         },
         {
           "code": "U3",
-          "title": "Determinantes",
+          "title": "DETERMINANTES",
           "subunits": [
             {
               "code": "U3.1",
-              "title": "Determinantes y Operaciones Elementales"
+              "title": "Determinante de una matriz"
             },
             {
               "code": "U3.2",
-              "title": "Propiedades de los Determinantes Práctico"
+              "title": "Determinantes y operaciones elementales"
             },
             {
               "code": "U3.3",
-              "title": "Aplicaciones de los Determinantes Asignatura"
+              "title": "propiedades de los determinantes"
             },
             {
               "code": "U3.4",
-              "title": "Ejercicios de Repaso"
+              "title": "aplicaciones de los determinantes"
+            },
+            {
+              "code": "U3.5",
+              "title": "ejercicios de repaso"
             }
           ]
         },
         {
           "code": "U4",
-          "title": "Espacios Vectoriales",
+          "title": "ESPACIOS VECTORIALES",
           "subunits": [
             {
               "code": "U4.1",
-              "title": "Espacios Vectoriales"
+              "title": "Vectores en Rn"
             },
             {
               "code": "U4.2",
-              "title": "Subespacios de Espacios Vectoriales Práctico"
+              "title": "Espacios vectoriales"
             },
             {
               "code": "U4.3",
-              "title": "Conjuntos Generadores e Independencia Lineal Asignatura"
+              "title": "subespacios de espacios vectoriales"
             },
             {
               "code": "U4.4",
-              "title": "Base y Dimensión"
+              "title": "conjuntos generadores e independencia lineal"
             },
             {
               "code": "U4.5",
-              "title": "Rango de Una Matriz y Sistemas de Ecuaciones Autónomo (aa)"
+              "title": "base y dimensión"
             },
             {
               "code": "U4.6",
-              "title": "Coordenadas y Cambio de Base"
+              "title": "rango de una matriz y sistemas de ecuaciones lineales"
             },
             {
               "code": "U4.7",
-              "title": "Ejercicios de Repaso Experimental -"
+              "title": "coordenadas y cambio de base"
+            },
+            {
+              "code": "U4.8",
+              "title": "aplicaciones de espacios vectoriales"
+            },
+            {
+              "code": "U4.9",
+              "title": "ejercicios de repaso"
             }
           ]
         },
         {
           "code": "U5",
-          "title": "Espacios con Producto Interno",
+          "title": "ESPACIOS CON PRODUCTO INTERNO",
           "subunits": [
             {
               "code": "U5.1",
-              "title": "Espacios con Producto Interno"
+              "title": "Longitud y producto punto en Rn"
             },
             {
               "code": "U5.2",
-              "title": "Bases Ortonormales: El Proceso de Gram-schmidt"
+              "title": "Espacios con producto interno"
             },
             {
               "code": "U5.3",
-              "title": "Aplicaciones de los Espacios con Producto Interno"
+              "title": "Bases ortonormales: el proceso de Gram-Schmidt"
+            },
+            {
+              "code": "U5.4",
+              "title": "Aplicaciones de los espacios con producto interno"
             }
           ]
         },
         {
           "code": "U6",
-          "title": "Transformaciones Lineales",
+          "title": "TRANSFORMACIONES LINEALES",
           "subunits": [
             {
               "code": "U6.1",
-              "title": "El Kernel y El Rango de Una Transformación Lineal Docente (acd)"
+              "title": "Introducción"
             },
             {
               "code": "U6.2",
-              "title": "Matrices de Transformaciones Lineales"
+              "title": "El Kernel y el rango de una transformación lineal"
             },
             {
               "code": "U6.3",
-              "title": "Mensajes de Transición y Semejanza (ape/a)"
+              "title": "matrices de transformaciones lineales"
             },
             {
               "code": "U6.4",
-              "title": "Ejercicios de Repaso"
+              "title": "mensajes de transición y semejanza"
+            },
+            {
+              "code": "U6.5",
+              "title": "aplicaciones de transformaciones lineales"
+            },
+            {
+              "code": "U6.6",
+              "title": "ejercicios de repaso"
             }
           ]
         },
         {
           "code": "U7",
-          "title": "Eigenvalores y Eigenvectores",
+          "title": "EIGENVALORES Y EIGENVECTORES",
           "subunits": [
             {
               "code": "U7.1",
-              "title": "Diagonalización"
+              "title": "eigenvalores y eigenvectores"
             },
             {
               "code": "U7.2",
-              "title": "Matrices Simetricas de Diagonalización Ortogonal"
+              "title": "diagonalización"
             },
             {
               "code": "U7.3",
-              "title": "Aplicaciones de los Eigenvalores y los"
+              "title": "matrices simetricas de diagonalización ortogonal"
             },
             {
               "code": "U7.4",
-              "title": "Ejercicios de Repaso Autónomo (aa)"
+              "title": "aplicaciones de los eigenvalores y los eigenvectores"
+            },
+            {
+              "code": "U7.5",
+              "title": "ejercicios de repaso"
             }
           ]
         }
       ],
       "unitCount": 7,
-      "subunitCount": 30
+      "subunitCount": 39
     },
     {
       "id": "algebra-lineal-2-2",
@@ -6664,169 +11447,205 @@ const syllabiContentData = {
       "units": [
         {
           "code": "U1",
-          "title": "Sistemas de Ecuaciones Lineales",
+          "title": "SISTEMAS DE ECUACIONES LINEALES",
           "subunits": [
             {
               "code": "U1.1",
-              "title": "Eliminación Gaussiana y Eliminación de Gauss-"
+              "title": "Introducción a los sistemas de ecuaciones lineales"
             },
             {
               "code": "U1.2",
-              "title": "Aplicaciones de los Sistemas de Ecuaciones"
+              "title": "Eliminación gaussiana y eliminación de Gauss- Jordan"
             },
             {
               "code": "U1.3",
-              "title": "Ejercicios de Repaso"
+              "title": "Aplicaciones de los sistemas de ecuaciones lineales"
+            },
+            {
+              "code": "U1.4",
+              "title": "Ejercicios de repaso"
             }
           ]
         },
         {
           "code": "U2",
-          "title": "Matrices",
+          "title": "MATRICES",
           "subunits": [
             {
               "code": "U2.1",
-              "title": "Propiedades de las Operaciones con Matrices"
+              "title": "operaciones con matrices"
             },
             {
               "code": "U2.2",
-              "title": "Inversa de Una Matriz Práctico"
+              "title": "propiedades de las operaciones con matrices"
             },
             {
               "code": "U2.3",
-              "title": "Matrices Elementales Asignatura"
+              "title": "inversa de una matriz"
             },
             {
               "code": "U2.4",
-              "title": "Aplicaciones de las Operaciones con Matrices"
+              "title": "matrices elementales"
             },
             {
               "code": "U2.5",
-              "title": "Ejercicios de Repaso"
+              "title": "aplicaciones de las operaciones con matrices"
+            },
+            {
+              "code": "U2.6",
+              "title": "ejercicios de repaso"
             }
           ]
         },
         {
           "code": "U3",
-          "title": "Determinantes",
+          "title": "DETERMINANTES",
           "subunits": [
             {
               "code": "U3.1",
-              "title": "Determinantes y Operaciones Elementales"
+              "title": "Determinante de una matriz"
             },
             {
               "code": "U3.2",
-              "title": "Propiedades de los Determinantes Práctico"
+              "title": "Determinantes y operaciones elementales"
             },
             {
               "code": "U3.3",
-              "title": "Aplicaciones de los Determinantes Asignatura"
+              "title": "propiedades de los determinantes"
             },
             {
               "code": "U3.4",
-              "title": "Ejercicios de Repaso"
+              "title": "aplicaciones de los determinantes"
+            },
+            {
+              "code": "U3.5",
+              "title": "ejercicios de repaso"
             }
           ]
         },
         {
           "code": "U4",
-          "title": "Espacios Vectoriales",
+          "title": "ESPACIOS VECTORIALES",
           "subunits": [
             {
               "code": "U4.1",
-              "title": "Espacios Vectoriales"
+              "title": "Vectores en Rn"
             },
             {
               "code": "U4.2",
-              "title": "Subespacios de Espacios Vectoriales Práctico"
+              "title": "Espacios vectoriales"
             },
             {
               "code": "U4.3",
-              "title": "Conjuntos Generadores e Independencia Lineal Asignatura"
+              "title": "subespacios de espacios vectoriales"
             },
             {
               "code": "U4.4",
-              "title": "Base y Dimensión"
+              "title": "conjuntos generadores e independencia lineal"
             },
             {
               "code": "U4.5",
-              "title": "Rango de Una Matriz y Sistemas de Ecuaciones Autónomo (aa)"
+              "title": "base y dimensión"
             },
             {
               "code": "U4.6",
-              "title": "Coordenadas y Cambio de Base"
+              "title": "rango de una matriz y sistemas de ecuaciones lineales"
             },
             {
               "code": "U4.7",
-              "title": "Ejercicios de Repaso Experimental -"
+              "title": "coordenadas y cambio de base"
+            },
+            {
+              "code": "U4.8",
+              "title": "aplicaciones de espacios vectoriales"
+            },
+            {
+              "code": "U4.9",
+              "title": "ejercicios de repaso"
             }
           ]
         },
         {
           "code": "U5",
-          "title": "Espacios con Producto Interno",
+          "title": "ESPACIOS CON PRODUCTO INTERNO",
           "subunits": [
             {
               "code": "U5.1",
-              "title": "Espacios con Producto Interno"
+              "title": "Longitud y producto punto en Rn"
             },
             {
               "code": "U5.2",
-              "title": "Bases Ortonormales: El Proceso de Gram-schmidt"
+              "title": "Espacios con producto interno"
             },
             {
               "code": "U5.3",
-              "title": "Aplicaciones de los Espacios con Producto Interno"
+              "title": "Bases ortonormales: el proceso de Gram-Schmidt"
+            },
+            {
+              "code": "U5.4",
+              "title": "Aplicaciones de los espacios con producto interno"
             }
           ]
         },
         {
           "code": "U6",
-          "title": "Transformaciones Lineales",
+          "title": "TRANSFORMACIONES LINEALES",
           "subunits": [
             {
               "code": "U6.1",
-              "title": "El Kernel y El Rango de Una Transformación Lineal Docente (acd)"
+              "title": "Introducción"
             },
             {
               "code": "U6.2",
-              "title": "Matrices de Transformaciones Lineales"
+              "title": "El Kernel y el rango de una transformación lineal"
             },
             {
               "code": "U6.3",
-              "title": "Mensajes de Transición y Semejanza (ape/a)"
+              "title": "matrices de transformaciones lineales"
             },
             {
               "code": "U6.4",
-              "title": "Ejercicios de Repaso"
+              "title": "mensajes de transición y semejanza"
+            },
+            {
+              "code": "U6.5",
+              "title": "aplicaciones de transformaciones lineales"
+            },
+            {
+              "code": "U6.6",
+              "title": "ejercicios de repaso"
             }
           ]
         },
         {
           "code": "U7",
-          "title": "Eigenvalores y Eigenvectores",
+          "title": "EIGENVALORES Y EIGENVECTORES",
           "subunits": [
             {
               "code": "U7.1",
-              "title": "Diagonalización"
+              "title": "eigenvalores y eigenvectores"
             },
             {
               "code": "U7.2",
-              "title": "Matrices Simetricas de Diagonalización Ortogonal"
+              "title": "diagonalización"
             },
             {
               "code": "U7.3",
-              "title": "Aplicaciones de los Eigenvalores y los"
+              "title": "matrices simetricas de diagonalización ortogonal"
             },
             {
               "code": "U7.4",
-              "title": "Ejercicios de Repaso Autónomo (aa)"
+              "title": "aplicaciones de los eigenvalores y los eigenvectores"
+            },
+            {
+              "code": "U7.5",
+              "title": "ejercicios de repaso"
             }
           ]
         }
       ],
       "unitCount": 7,
-      "subunitCount": 30
+      "subunitCount": 39
     }
   ],
   "similar": {
@@ -6868,12 +11687,12 @@ const syllabiContentData = {
         ]
       },
       {
-        "id": "algebra-lineal-2",
-        "title": "Álgebra Lineal",
-        "level": 1,
+        "id": "balances-de-materia-y-energia-1",
+        "title": "Balances de Materia y Energía",
+        "level": 3,
         "score": 0.06,
         "keywords": [
-          "ejercicios"
+          "variables"
         ]
       }
     ],
@@ -6915,12 +11734,12 @@ const syllabiContentData = {
         ]
       },
       {
-        "id": "algebra-lineal-2",
-        "title": "Álgebra Lineal",
-        "level": 1,
+        "id": "balances-de-materia-y-energia-1",
+        "title": "Balances de Materia y Energía",
+        "level": 3,
         "score": 0.06,
         "keywords": [
-          "ejercicios"
+          "variables"
         ]
       }
     ],
@@ -6934,16 +11753,25 @@ const syllabiContentData = {
           "campo",
           "campos",
           "capacitores",
-          "cargas"
+          "carga"
         ]
       },
       {
-        "id": "operaciones-unitarias-i-filtracion-y-fluidizacion-1",
-        "title": "Operaciones Unitarias I Filtración y Fluidización",
-        "level": 6,
+        "id": "fisica-i-1",
+        "title": "Física I",
+        "level": 1,
         "score": 0.12,
         "keywords": [
-          "campo",
+          "energia",
+          "movimiento"
+        ]
+      },
+      {
+        "id": "dibujo-asistido-por-computador-1",
+        "title": "Dibujo Asistido por Computador",
+        "level": 2,
+        "score": 0.06,
+        "keywords": [
           "flujo"
         ]
       },
@@ -6955,46 +11783,37 @@ const syllabiContentData = {
         "keywords": [
           "energia"
         ]
-      },
-      {
-        "id": "termodinamica-1",
-        "title": "Termodinámica",
-        "level": 3,
-        "score": 0.06,
-        "keywords": [
-          "energia"
-        ]
       }
     ],
     "fisico-quimica-1": [
       {
-        "id": "ingenieria-de-proyectos-1",
-        "title": "Ingeniería de Proyectos",
-        "level": 10,
+        "id": "quimica-general-2",
+        "title": "Química General",
+        "level": 1,
         "score": 0.19,
         "keywords": [
-          "aplicacion",
-          "comprension",
-          "estudio"
+          "equilibrio",
+          "generalidades",
+          "quimica"
         ]
       },
       {
-        "id": "fisica-i-1",
-        "title": "Física I",
-        "level": 1,
-        "score": 0.12,
-        "keywords": [
-          "estudio",
-          "fenomenos"
-        ]
-      },
-      {
-        "id": "quimica-organica-ii-1",
-        "title": "Química Orgánica II",
+        "id": "ecuaciones-diferenciales-1",
+        "title": "Ecuaciones Diferenciales",
         "level": 3,
         "score": 0.12,
         "keywords": [
-          "estudio",
+          "problemas",
+          "sistemas"
+        ]
+      },
+      {
+        "id": "quimica-analitica-1",
+        "title": "Química Analítica",
+        "level": 4,
+        "score": 0.12,
+        "keywords": [
+          "problemas",
           "quimica"
         ]
       },
@@ -7022,35 +11841,35 @@ const syllabiContentData = {
         ]
       },
       {
-        "id": "operaciones-unitarias-i-manipulacion-de-solidos-1",
-        "title": "Operaciones Unitarias I Manipulación de Sólidos",
-        "level": 6,
+        "id": "transferencia-de-masa-1",
+        "title": "Transferencia de Masa",
+        "level": 5,
         "score": 0.19,
         "keywords": [
-          "equipos",
-          "operaciones",
-          "unitarias"
+          "calor",
+          "materia",
+          "operaciones"
         ]
       },
       {
-        "id": "operaciones-unitarias-iii-intercambio-ionico-1",
-        "title": "Operaciones Unitarias III Intercambio Iónico",
+        "id": "operaciones-unitarias-iii-humidificacion-y-secado-1",
+        "title": "Operaciones Unitarias III Humidificación y Secado",
         "level": 8,
         "score": 0.19,
         "keywords": [
-          "operacion",
           "operaciones",
+          "punto",
           "unitarias"
         ]
       },
       {
-        "id": "transferencia-de-calor-1",
-        "title": "Transferencia de Calor",
-        "level": 5,
+        "id": "quimica-general-2",
+        "title": "Química General",
+        "level": 1,
         "score": 0.12,
         "keywords": [
-          "calor",
-          "equipos"
+          "equilibrio",
+          "generalidades"
         ]
       }
     ],
@@ -7059,70 +11878,68 @@ const syllabiContentData = {
         "id": "procesamiento-termico-de-alimentos-2",
         "title": "I1 Procesamiento Térmico de Alimentos",
         "level": 9,
-        "score": 0.38,
+        "score": 0.25,
         "keywords": [
           "alimentos",
-          "carrera",
-          "conocimientos",
-          "dentro"
-        ]
-      },
-      {
-        "id": "procesamiento-industrial-de-cereales-y-fermentaciones-1",
-        "title": "I1 Procesamiento Industrial de Cereales y Fermentaciones",
-        "level": 10,
-        "score": 0.38,
-        "keywords": [
-          "carrera",
-          "conocimientos",
-          "dentro",
-          "dicta"
+          "conservacion",
+          "metodos",
+          "productos"
         ]
       },
       {
         "id": "sintesis-organica-en-la-industria-1",
         "title": "Síntesis Orgánica en la Industria",
         "level": 4,
-        "score": 0.25,
+        "score": 0.19,
         "keywords": [
-          "conocimientos",
-          "industrial",
+          "industriales",
           "productos",
           "quimica"
         ]
       },
       {
-        "id": "quimica-general-2",
-        "title": "Química General",
-        "level": 1,
+        "id": "operaciones-unitarias-iii-humidificacion-y-secado-1",
+        "title": "Operaciones Unitarias III Humidificación y Secado",
+        "level": 8,
         "score": 0.19,
         "keywords": [
-          "carrera",
-          "conocimientos",
+          "alimentos",
+          "metodos",
+          "productos"
+        ]
+      },
+      {
+        "id": "quimica-analitica-1",
+        "title": "Química Analítica",
+        "level": 4,
+        "score": 0.12,
+        "keywords": [
+          "metodos",
           "quimica"
         ]
       }
     ],
     "diseno-y-desarrollo-de-productos-1": [
       {
-        "id": "ingenieria-de-proyectos-1",
-        "title": "Ingeniería de Proyectos",
-        "level": 10,
-        "score": 0.19,
-        "keywords": [
-          "estudiantes",
-          "gestion",
-          "proyectos"
-        ]
-      },
-      {
         "id": "dibujo-asistido-por-computador-1",
         "title": "Dibujo Asistido por Computador",
         "level": 2,
-        "score": 0.12,
+        "score": 0.19,
         "keywords": [
           "desarrollo",
-          "diseno"
+          "diseno",
+          "proceso"
+        ]
+      },
+      {
+        "id": "emprendimiento-e-innovacion-1",
+        "title": "Emprendimiento e Innovación",
+        "level": 6,
+        "score": 0.19,
+        "keywords": [
+          "desarrollo",
+          "innovacion",
+          "productos"
         ]
       },
       {
@@ -7136,13 +11953,13 @@ const syllabiContentData = {
         ]
       },
       {
-        "id": "emprendimiento-e-innovacion-1",
-        "title": "Emprendimiento e Innovación",
+        "id": "operaciones-unitarias-i-filtracion-y-fluidizacion-1",
+        "title": "Operaciones Unitarias I Filtración y Fluidización",
         "level": 6,
         "score": 0.12,
         "keywords": [
-          "desarrollo",
-          "estudiantes"
+          "diseno",
+          "proceso"
         ]
       }
     ],
@@ -7156,31 +11973,31 @@ const syllabiContentData = {
           "campo",
           "campos",
           "capacitores",
-          "cargas"
+          "carga"
         ]
       },
       {
-        "id": "operaciones-unitarias-i-filtracion-y-fluidizacion-1",
-        "title": "Operaciones Unitarias I Filtración y Fluidización",
-        "level": 6,
+        "id": "fisica-i-1",
+        "title": "Física I",
+        "level": 1,
         "score": 0.12,
         "keywords": [
-          "campo",
+          "energia",
+          "movimiento"
+        ]
+      },
+      {
+        "id": "dibujo-asistido-por-computador-1",
+        "title": "Dibujo Asistido por Computador",
+        "level": 2,
+        "score": 0.06,
+        "keywords": [
           "flujo"
         ]
       },
       {
         "id": "balances-de-materia-y-energia-1",
         "title": "Balances de Materia y Energía",
-        "level": 3,
-        "score": 0.06,
-        "keywords": [
-          "energia"
-        ]
-      },
-      {
-        "id": "termodinamica-1",
-        "title": "Termodinámica",
         "level": 3,
         "score": 0.06,
         "keywords": [
@@ -7193,8 +12010,20 @@ const syllabiContentData = {
         "id": "practicas-laborales-i-2",
         "title": "Prácticas Laborales I",
         "level": 9,
-        "score": 0.12,
+        "score": 0.19,
         "keywords": [
+          "actividades",
+          "desarrollo",
+          "practicas"
+        ]
+      },
+      {
+        "id": "practicas-laborales-ii-2",
+        "title": "Prácticas Laborales II",
+        "level": 10,
+        "score": 0.19,
+        "keywords": [
+          "actividades",
           "desarrollo",
           "practicas"
         ]
@@ -7206,113 +12035,100 @@ const syllabiContentData = {
         "score": 0.12,
         "keywords": [
           "desarrollo",
-          "proceso"
+          "servicio"
         ]
       },
       {
-        "id": "practicas-laborales-ii-2",
-        "title": "Prácticas Laborales II",
-        "level": 10,
-        "score": 0.12,
+        "id": "herramientas-de-metodologia-de-investigacion-1",
+        "title": "Herramientas de Metodología de Investigación",
+        "level": 1,
+        "score": 0.06,
         "keywords": [
-          "desarrollo",
-          "practicas"
+          "informacion"
+        ]
+      }
+    ],
+    "gestion-de-calidad-1": [
+      {
+        "id": "ingenieria-de-proyectos-1",
+        "title": "Ingeniería de Proyectos",
+        "level": 10,
+        "score": 0.25,
+        "keywords": [
+          "estudiantes",
+          "gestion",
+          "herramientas",
+          "proyecto"
         ]
       },
       {
         "id": "dibujo-asistido-por-computador-1",
         "title": "Dibujo Asistido por Computador",
         "level": 2,
-        "score": 0.06,
+        "score": 0.12,
         "keywords": [
-          "desarrollo"
+          "herramientas",
+          "procesos"
         ]
-      }
-    ],
-    "gestion-de-calidad-1": [
+      },
+      {
+        "id": "balances-de-materia-y-energia-1",
+        "title": "Balances de Materia y Energía",
+        "level": 3,
+        "score": 0.12,
+        "keywords": [
+          "procesos",
+          "sistemas"
+        ]
+      },
       {
         "id": "fisico-quimica-1",
         "title": "Físico Química",
         "level": 4,
         "score": 0.12,
         "keywords": [
-          "fundamentos",
-          "teoricos"
-        ]
-      },
-      {
-        "id": "quimica-analitica-de-agua-y-alimentos-1",
-        "title": "Química Analítica de Agua y Alimentos",
-        "level": 7,
-        "score": 0.12,
-        "keywords": [
-          "calidad",
-          "fundamentos"
-        ]
-      },
-      {
-        "id": "gestion-energetica-1",
-        "title": "Gestión Energética",
-        "level": 8,
-        "score": 0.12,
-        "keywords": [
-          "gestion",
-          "procesos"
-        ]
-      },
-      {
-        "id": "procesamiento-termico-de-alimentos-2",
-        "title": "I1 Procesamiento Térmico de Alimentos",
-        "level": 9,
-        "score": 0.12,
-        "keywords": [
-          "estudiantes",
-          "practicos"
+          "generalidades",
+          "sistemas"
         ]
       }
     ],
     "lenguajes-de-programacion-1": [
       {
-        "id": "ciencia-e-ingenieria-de-los-materiales-1",
-        "title": "Ciencia e Ingeniería de los Materiales",
-        "level": 4,
-        "score": 0.19,
-        "keywords": [
-          "introduccion",
-          "practica",
-          "teorica"
-        ]
-      },
-      {
         "id": "organizacion-y-direccion-de-empresas-1",
         "title": "Organización y Dirección de Empresas",
         "level": 8,
-        "score": 0.19,
-        "keywords": [
-          "introduccion",
-          "practica",
-          "teorica"
-        ]
-      },
-      {
-        "id": "procesamiento-industrial-de-frutas-y-verduras-1",
-        "title": "I1 Procesamiento Industrial de Frutas y Verduras",
-        "level": 10,
-        "score": 0.19,
-        "keywords": [
-          "aplicacion",
-          "practica",
-          "teorica"
-        ]
-      },
-      {
-        "id": "diseno-experimental-1",
-        "title": "Diseño Experimental",
-        "level": 4,
         "score": 0.12,
         "keywords": [
-          "aplicacion",
-          "disenos"
+          "introduccion",
+          "programacion"
+        ]
+      },
+      {
+        "id": "investigacion-de-operaciones-1",
+        "title": "Investigación de Operaciones",
+        "level": 10,
+        "score": 0.12,
+        "keywords": [
+          "introduccion",
+          "programacion"
+        ]
+      },
+      {
+        "id": "comunicacion-efectiva-1",
+        "title": "Comunicación Efectiva",
+        "level": 1,
+        "score": 0.06,
+        "keywords": [
+          "lenguaje"
+        ]
+      },
+      {
+        "id": "algebra-lineal-2",
+        "title": "Álgebra Lineal",
+        "level": 1,
+        "score": 0.06,
+        "keywords": [
+          "matrices"
         ]
       }
     ],
@@ -7321,67 +12137,53 @@ const syllabiContentData = {
         "id": "diseno-experimental-1",
         "title": "Diseño Experimental",
         "level": 4,
-        "score": 0.25,
+        "score": 0.19,
         "keywords": [
           "analisis",
           "basicos",
-          "conceptos",
-          "principios"
+          "metodo"
         ]
       },
       {
-        "id": "quimica-analitica-1",
-        "title": "Química Analítica",
-        "level": 4,
-        "score": 0.19,
+        "id": "salud-y-seguridad-industrial-1",
+        "title": "Salud y Seguridad Industrial",
+        "level": 6,
+        "score": 0.12,
         "keywords": [
-          "analisis",
-          "metodos",
-          "profesional"
+          "evaluacion",
+          "factores"
         ]
       },
       {
-        "id": "sintesis-organica-en-la-industria-1",
-        "title": "Síntesis Orgánica en la Industria",
-        "level": 4,
-        "score": 0.19,
-        "keywords": [
-          "industria",
-          "industrial",
-          "principios"
-        ]
-      },
-      {
-        "id": "termodinamica-1",
-        "title": "Termodinámica",
-        "level": 3,
+        "id": "termotecnia-1",
+        "title": "Termotecnia",
+        "level": 6,
         "score": 0.12,
         "keywords": [
           "analisis",
-          "principios"
+          "basicos"
+        ]
+      },
+      {
+        "id": "quimica-analitica-de-agua-y-alimentos-1",
+        "title": "Química Analítica de Agua y Alimentos",
+        "level": 7,
+        "score": 0.12,
+        "keywords": [
+          "analisis",
+          "metodo"
         ]
       }
     ],
     "operaciones-unitarias-ii-extraccion-y-absorcion-1": [
       {
-        "id": "operaciones-unitarias-iii-intercambio-ionico-1",
-        "title": "Operaciones Unitarias III Intercambio Iónico",
-        "level": 8,
-        "score": 0.19,
-        "keywords": [
-          "operacion",
-          "operaciones",
-          "separacion"
-        ]
-      },
-      {
-        "id": "operaciones-unitarias-i-filtracion-y-fluidizacion-1",
-        "title": "Operaciones Unitarias I Filtración y Fluidización",
-        "level": 6,
+        "id": "fisico-quimica-1",
+        "title": "Físico Química",
+        "level": 4,
         "score": 0.12,
         "keywords": [
-          "calculo",
-          "operaciones"
+          "diagramas",
+          "liquido"
         ]
       },
       {
@@ -7395,108 +12197,152 @@ const syllabiContentData = {
         ]
       },
       {
-        "id": "calculo-diferencial-1",
-        "title": "Cálculo Diferencial",
+        "id": "operaciones-unitarias-iii-intercambio-ionico-1",
+        "title": "Operaciones Unitarias III Intercambio Iónico",
+        "level": 8,
+        "score": 0.12,
+        "keywords": [
+          "operaciones",
+          "separacion"
+        ]
+      },
+      {
+        "id": "algebra-lineal-2",
+        "title": "Álgebra Lineal",
         "level": 1,
         "score": 0.06,
         "keywords": [
-          "calculo"
+          "operaciones"
         ]
       }
     ],
     "quimica-analitica-de-suelos-1": [
       {
-        "id": "quimica-analitica-1",
-        "title": "Química Analítica",
-        "level": 4,
-        "score": 0.38,
+        "id": "quimica-analitica-de-agua-y-alimentos-1",
+        "title": "Química Analítica de Agua y Alimentos",
+        "level": 7,
+        "score": 0.44,
         "keywords": [
           "analisis",
-          "analitica",
-          "formacion",
-          "metodos"
-        ]
-      },
-      {
-        "id": "metalurgia-extractiva-1",
-        "title": "I2 Metalurgia Extractiva",
-        "level": 9,
-        "score": 0.31,
-        "keywords": [
-          "basada",
-          "brindar",
-          "estudiante",
-          "formacion"
+          "expresion",
+          "fundamento",
+          "interferencias"
         ]
       },
       {
         "id": "calidad-y-tratamiento-de-suelos-1",
         "title": "I3 Calidad y Tratamiento de Suelos",
         "level": 9,
-        "score": 0.31,
+        "score": 0.38,
         "keywords": [
           "analisis",
           "formacion",
-          "misma",
+          "metodos",
           "quimica"
         ]
       },
       {
-        "id": "quimica-analitica-de-agua-y-alimentos-1",
-        "title": "Química Analítica de Agua y Alimentos",
-        "level": 7,
+        "id": "quimica-analitica-1",
+        "title": "Química Analítica",
+        "level": 4,
         "score": 0.25,
         "keywords": [
           "analisis",
           "analitica",
-          "pertenece",
+          "metodos",
           "quimica"
-        ]
-      }
-    ],
-    "ingenieria-de-las-reacciones-ii-reactores-1": [
-      {
-        "id": "quimica-analitica-1",
-        "title": "Química Analítica",
-        "level": 4,
-        "score": 0.14,
-        "keywords": [
-          "formacion",
-          "ingenieria"
         ]
       },
       {
         "id": "ingenieria-de-las-reacciones-i-cinetica-1",
         "title": "Ingeniería de las Reacciones I (Cinética)",
         "level": 5,
-        "score": 0.14,
+        "score": 0.19,
         "keywords": [
-          "ingenieria",
-          "reacciones"
+          "analisis",
+          "metodos",
+          "quimica"
         ]
-      },
+      }
+    ],
+    "ingenieria-de-las-reacciones-ii-reactores-1": [
       {
-        "id": "operaciones-unitarias-i-filtracion-y-fluidizacion-1",
-        "title": "Operaciones Unitarias I Filtración y Fluidización",
-        "level": 6,
-        "score": 0.14,
+        "id": "dibujo-asistido-por-computador-1",
+        "title": "Dibujo Asistido por Computador",
+        "level": 2,
+        "score": 0.12,
         "keywords": [
-          "aborda",
+          "flujo",
           "ingenieria"
         ]
       },
       {
-        "id": "ingenieria-de-las-reacciones-iii-catalisis-1",
-        "title": "Ingeniería de las Reacciones III (Catálisis)",
-        "level": 7,
-        "score": 0.14,
+        "id": "quimica-organica-ii-1",
+        "title": "Química Orgánica II",
+        "level": 3,
+        "score": 0.12,
+        "keywords": [
+          "aplicacion",
+          "reacciones"
+        ]
+      },
+      {
+        "id": "termodinamica-1",
+        "title": "Termodinámica",
+        "level": 3,
+        "score": 0.12,
+        "keywords": [
+          "balance",
+          "reacciones"
+        ]
+      },
+      {
+        "id": "ciencia-e-ingenieria-de-los-materiales-1",
+        "title": "Ciencia e Ingeniería de los Materiales",
+        "level": 4,
+        "score": 0.12,
         "keywords": [
           "ingenieria",
-          "reacciones"
+          "introduccion"
         ]
       }
     ],
     "balances-de-materia-y-energia-1": [
+      {
+        "id": "termodinamica-1",
+        "title": "Termodinámica",
+        "level": 3,
+        "score": 0.25,
+        "keywords": [
+          "energia",
+          "estado",
+          "reacciones",
+          "sistemas"
+        ]
+      },
+      {
+        "id": "ingenieria-de-las-reacciones-i-cinetica-1",
+        "title": "Ingeniería de las Reacciones I (Cinética)",
+        "level": 5,
+        "score": 0.25,
+        "keywords": [
+          "analisis",
+          "datos",
+          "reacciones",
+          "sistemas"
+        ]
+      },
+      {
+        "id": "ecuaciones-diferenciales-1",
+        "title": "Ecuaciones Diferenciales",
+        "level": 3,
+        "score": 0.19,
+        "keywords": [
+          "ecuaciones",
+          "sistemas",
+          "variables"
+        ]
+      },
       {
         "id": "operaciones-unitarias-ii-evaporacion-destilacion-y-cristalizacion-1",
         "title": "Operaciones Unitarias II Evaporación, Destilación y Cristalización",
@@ -7507,122 +12353,96 @@ const syllabiContentData = {
           "energia",
           "materia"
         ]
-      },
-      {
-        "id": "termodinamica-1",
-        "title": "Termodinámica",
-        "level": 3,
-        "score": 0.12,
-        "keywords": [
-          "definir",
-          "energia"
-        ]
-      },
-      {
-        "id": "termotecnia-1",
-        "title": "Termotecnia",
-        "level": 6,
-        "score": 0.12,
-        "keywords": [
-          "calcular",
-          "procesos"
-        ]
-      },
-      {
-        "id": "polimeros-2",
-        "title": "I2 Polímeros",
-        "level": 9,
-        "score": 0.12,
-        "keywords": [
-          "procesos",
-          "tecnicas"
-        ]
       }
     ],
     "produccion-ceramica-1": [
       {
-        "id": "ciencia-e-ingenieria-de-los-materiales-1",
-        "title": "Ciencia e Ingeniería de los Materiales",
+        "id": "sintesis-organica-en-la-industria-1",
+        "title": "Síntesis Orgánica en la Industria",
+        "level": 4,
+        "score": 0.19,
+        "keywords": [
+          "materias",
+          "primas",
+          "productos"
+        ]
+      },
+      {
+        "id": "operaciones-unitarias-iii-humidificacion-y-secado-1",
+        "title": "Operaciones Unitarias III Humidificación y Secado",
+        "level": 8,
+        "score": 0.19,
+        "keywords": [
+          "metodos",
+          "productos",
+          "secado"
+        ]
+      },
+      {
+        "id": "quimica-analitica-de-suelos-1",
+        "title": "Química Analítica de Suelos",
+        "level": 8,
+        "score": 0.19,
+        "keywords": [
+          "determinacion",
+          "formacion",
+          "metodos"
+        ]
+      },
+      {
+        "id": "quimica-analitica-1",
+        "title": "Química Analítica",
         "level": 4,
         "score": 0.12,
         "keywords": [
-          "materiales",
-          "practica"
-        ]
-      },
-      {
-        "id": "operaciones-unitarias-i-manipulacion-de-solidos-1",
-        "title": "Operaciones Unitarias I Manipulación de Sólidos",
-        "level": 6,
-        "score": 0.12,
-        "keywords": [
-          "materiales",
-          "molienda"
-        ]
-      },
-      {
-        "id": "organizacion-y-direccion-de-empresas-1",
-        "title": "Organización y Dirección de Empresas",
-        "level": 8,
-        "score": 0.12,
-        "keywords": [
-          "practica",
-          "produccion"
-        ]
-      },
-      {
-        "id": "practicas-laborales-i-2",
-        "title": "Prácticas Laborales I",
-        "level": 9,
-        "score": 0.12,
-        "keywords": [
-          "practica",
-          "practicas"
+          "dosificacion",
+          "metodos"
         ]
       }
     ],
     "ingenieria-de-proyectos-1": [
       {
-        "id": "quimica-general-2",
-        "title": "Química General",
-        "level": 1,
-        "score": 0.19,
-        "keywords": [
-          "general",
-          "ingenieria",
-          "pretende"
-        ]
-      },
-      {
-        "id": "fisico-quimica-1",
-        "title": "Físico Química",
-        "level": 4,
-        "score": 0.19,
-        "keywords": [
-          "aplicacion",
-          "comprension",
-          "estudio"
-        ]
-      },
-      {
-        "id": "diseno-y-desarrollo-de-productos-1",
-        "title": "Diseño y Desarrollo de Productos",
-        "level": 10,
-        "score": 0.19,
+        "id": "gestion-de-calidad-1",
+        "title": "Gestión de Calidad",
+        "level": 8,
+        "score": 0.25,
         "keywords": [
           "estudiantes",
           "gestion",
-          "proyectos"
+          "herramientas",
+          "proyecto"
         ]
       },
       {
-        "id": "lenguajes-de-programacion-1",
-        "title": "Lenguajes de Programación",
-        "level": 2,
+        "id": "ingenieria-de-las-reacciones-i-cinetica-1",
+        "title": "Ingeniería de las Reacciones I (Cinética)",
+        "level": 5,
+        "score": 0.19,
+        "keywords": [
+          "analisis",
+          "estudio",
+          "ingenieria"
+        ]
+      },
+      {
+        "id": "diseno-y-calculo-de-plantas-industriales-1",
+        "title": "Diseño y Cálculo de Plantas Industriales",
+        "level": 9,
+        "score": 0.19,
+        "keywords": [
+          "criterios",
+          "ingenieria",
+          "seleccion"
+        ]
+      },
+      {
+        "id": "herramientas-de-metodologia-de-investigacion-1",
+        "title": "Herramientas de Metodología de Investigación",
+        "level": 1,
         "score": 0.12,
         "keywords": [
-          "aplicacion",
-          "estudiantes"
+          "criterios",
+          "seleccion"
         ]
       }
     ],
@@ -7631,70 +12451,56 @@ const syllabiContentData = {
         "id": "quimica-analitica-de-suelos-1",
         "title": "Química Analítica de Suelos",
         "level": 8,
-        "score": 0.25,
+        "score": 0.44,
         "keywords": [
           "analisis",
-          "analitica",
-          "pertenece",
-          "quimica"
+          "expresion",
+          "fundamento",
+          "interferencias"
+        ]
+      },
+      {
+        "id": "quimica-general-2",
+        "title": "Química General",
+        "level": 1,
+        "score": 0.12,
+        "keywords": [
+          "quimica",
+          "solidos"
+        ]
+      },
+      {
+        "id": "diseno-experimental-1",
+        "title": "Diseño Experimental",
+        "level": 4,
+        "score": 0.12,
+        "keywords": [
+          "analisis",
+          "metodo"
         ]
       },
       {
         "id": "quimica-analitica-1",
         "title": "Química Analítica",
         "level": 4,
-        "score": 0.19,
-        "keywords": [
-          "analisis",
-          "analitica",
-          "quimica"
-        ]
-      },
-      {
-        "id": "calidad-y-tratamiento-de-suelos-1",
-        "title": "I3 Calidad y Tratamiento de Suelos",
-        "level": 9,
-        "score": 0.19,
-        "keywords": [
-          "analisis",
-          "calidad",
-          "quimica"
-        ]
-      },
-      {
-        "id": "quimica-organica-ii-1",
-        "title": "Química Orgánica II",
-        "level": 3,
         "score": 0.12,
         "keywords": [
-          "principales",
+          "analisis",
           "quimica"
         ]
       }
     ],
     "sintesis-organica-en-la-industria-1": [
       {
-        "id": "quimica-organica-ii-1",
-        "title": "Química Orgánica II",
-        "level": 3,
-        "score": 0.25,
+        "id": "cementos-y-nanomateriales-1",
+        "title": "I2 Cementos y Nanomateriales",
+        "level": 10,
+        "score": 0.31,
         "keywords": [
-          "organica",
-          "principales",
-          "quimica",
-          "sintesis"
-        ]
-      },
-      {
-        "id": "microbiologia-industrial-1",
-        "title": "Microbiología Industrial",
-        "level": 5,
-        "score": 0.25,
-        "keywords": [
-          "conocimientos",
-          "industrial",
-          "productos",
-          "quimica"
+          "aplicaciones",
+          "materias",
+          "primas",
+          "proceso"
         ]
       },
       {
@@ -7703,25 +12509,58 @@ const syllabiContentData = {
         "level": 10,
         "score": 0.25,
         "keywords": [
-          "aplicacion",
           "industrial",
+          "proceso",
           "procesos",
           "productos"
         ]
       },
       {
-        "id": "economia-industrial-1",
-        "title": "Economía Industrial",
-        "level": 7,
+        "id": "dibujo-asistido-por-computador-1",
+        "title": "Dibujo Asistido por Computador",
+        "level": 2,
         "score": 0.19,
         "keywords": [
-          "industria",
+          "proceso",
+          "procesos",
+          "quimica"
+        ]
+      },
+      {
+        "id": "quimica-organica-ii-1",
+        "title": "Química Orgánica II",
+        "level": 3,
+        "score": 0.19,
+        "keywords": [
+          "aplicacion",
           "industrial",
-          "principios"
+          "organica"
         ]
       }
     ],
     "estadistica-1": [
+      {
+        "id": "diseno-experimental-1",
+        "title": "Diseño Experimental",
+        "level": 4,
+        "score": 0.25,
+        "keywords": [
+          "analisis",
+          "estadistica",
+          "hipotesis",
+          "varianza"
+        ]
+      },
+      {
+        "id": "balances-de-materia-y-energia-1",
+        "title": "Balances de Materia y Energía",
+        "level": 3,
+        "score": 0.12,
+        "keywords": [
+          "analisis",
+          "datos"
+        ]
+      },
       {
         "id": "ingenieria-de-las-reacciones-i-cinetica-1",
         "title": "Ingeniería de las Reacciones I (Cinética)",
@@ -7733,34 +12572,40 @@ const syllabiContentData = {
         ]
       },
       {
+        "id": "trabajo-de-integracion-curricular-ii-2",
+        "title": "Trabajo de Integración Curricular II",
+        "level": 10,
+        "score": 0.12,
+        "keywords": [
+          "analisis",
+          "datos"
+        ]
+      }
+    ],
+    "termotecnia-1": [
+      {
         "id": "termodinamica-1",
         "title": "Termodinámica",
         "level": 3,
-        "score": 0.06,
+        "score": 0.25,
         "keywords": [
-          "analisis"
-        ]
-      },
-      {
-        "id": "analisis-numerico-1",
-        "title": "Análisis Numérico",
-        "level": 4,
-        "score": 0.06,
-        "keywords": [
-          "analisis"
+          "balance",
+          "combustion",
+          "propiedades",
+          "termodinamica"
         ]
       },
       {
         "id": "diseno-experimental-1",
         "title": "Diseño Experimental",
         "level": 4,
-        "score": 0.06,
+        "score": 0.19,
         "keywords": [
-          "analisis"
+          "analisis",
+          "basicos",
+          "principios"
         ]
-      }
-    ],
-    "termotecnia-1": [
+      },
       {
         "id": "transferencia-de-calor-1",
         "title": "Transferencia de Calor",
@@ -7773,46 +12618,25 @@ const syllabiContentData = {
         ]
       },
       {
-        "id": "transferencia-de-masa-1",
-        "title": "Transferencia de Masa",
-        "level": 5,
-        "score": 0.19,
-        "keywords": [
-          "mecanismos",
-          "procesos",
-          "transporte"
-        ]
-      },
-      {
         "id": "balances-de-materia-y-energia-1",
         "title": "Balances de Materia y Energía",
         "level": 3,
         "score": 0.12,
         "keywords": [
-          "calcular",
+          "analisis",
           "procesos"
-        ]
-      },
-      {
-        "id": "diseno-experimental-1",
-        "title": "Diseño Experimental",
-        "level": 4,
-        "score": 0.12,
-        "keywords": [
-          "basicos",
-          "principios"
         ]
       }
     ],
     "transferencia-de-calor-1": [
       {
-        "id": "transferencia-de-fluidos-1",
-        "title": "Transferencia de Fluidos",
+        "id": "transferencia-de-masa-1",
+        "title": "Transferencia de Masa",
         "level": 5,
         "score": 0.19,
         "keywords": [
-          "estudiante",
-          "estudio",
+          "calor",
+          "conveccion",
           "transferencia"
         ]
       },
@@ -7838,13 +12662,13 @@ const syllabiContentData = {
         ]
       },
       {
-        "id": "economia-industrial-1",
-        "title": "Economía Industrial",
-        "level": 7,
+        "id": "bioquimica-de-alimentos-1",
+        "title": "Bioquímica de Alimentos",
+        "level": 6,
         "score": 0.12,
         "keywords": [
-          "basicos",
-          "principios"
+          "definicion",
+          "tipos"
         ]
       }
     ],
@@ -7862,34 +12686,38 @@ const syllabiContentData = {
         ]
       },
       {
-        "id": "quimica-inorganica-1",
-        "title": "Química Inorgánica",
-        "level": 2,
-        "score": 0.19,
+        "id": "quimica-general-2",
+        "title": "Química General",
+        "level": 1,
+        "score": 0.25,
         "keywords": [
-          "compuestos",
+          "acidos",
           "propiedades",
-          "quimica"
+          "quimicas",
+          "reacciones"
         ]
       },
       {
-        "id": "sintesis-organica-en-la-industria-1",
-        "title": "Síntesis Orgánica en la Industria",
-        "level": 4,
-        "score": 0.12,
+        "id": "quimica-inorganica-1",
+        "title": "Química Inorgánica",
+        "level": 2,
+        "score": 0.25,
         "keywords": [
-          "organica",
-          "quimica"
+          "compuestos",
+          "fisicas",
+          "propiedades",
+          "quimicas"
         ]
       },
       {
         "id": "bioquimica-de-alimentos-1",
         "title": "Bioquímica de Alimentos",
         "level": 6,
-        "score": 0.12,
+        "score": 0.19,
         "keywords": [
+          "fuentes",
           "propiedades",
-          "quimica"
+          "reacciones"
         ]
       }
     ],
@@ -7898,70 +12726,145 @@ const syllabiContentData = {
         "id": "diseno-y-desarrollo-de-productos-1",
         "title": "Diseño y Desarrollo de Productos",
         "level": 10,
+        "score": 0.19,
+        "keywords": [
+          "desarrollo",
+          "innovacion",
+          "productos"
+        ]
+      },
+      {
+        "id": "dibujo-asistido-por-computador-1",
+        "title": "Dibujo Asistido por Computador",
+        "level": 2,
         "score": 0.12,
         "keywords": [
           "desarrollo",
-          "estudiantes"
-        ]
-      },
-      {
-        "id": "comunicacion-efectiva-1",
-        "title": "Comunicación Efectiva",
-        "level": 1,
-        "score": 0.06,
-        "keywords": [
-          "necesarias"
-        ]
-      },
-      {
-        "id": "herramientas-de-metodologia-de-investigacion-1",
-        "title": "Herramientas de Metodología de Investigación",
-        "level": 1,
-        "score": 0.06,
-        "keywords": [
           "herramientas"
         ]
       },
       {
-        "id": "calculo-integral-1",
-        "title": "Cálculo Integral",
-        "level": 2,
-        "score": 0.06,
+        "id": "gestion-de-calidad-1",
+        "title": "Gestión de Calidad",
+        "level": 8,
+        "score": 0.12,
         "keywords": [
-          "estudiantes"
+          "estudiantes",
+          "herramientas"
+        ]
+      },
+      {
+        "id": "ingenieria-de-proyectos-1",
+        "title": "Ingeniería de Proyectos",
+        "level": 10,
+        "score": 0.12,
+        "keywords": [
+          "estudiantes",
+          "herramientas"
         ]
       }
     ],
     "bioquimica-de-alimentos-1": [
       {
-        "id": "procesamiento-termico-de-alimentos-2",
-        "title": "I1 Procesamiento Térmico de Alimentos",
-        "level": 9,
-        "score": 0.19,
+        "id": "quimica-general-2",
+        "title": "Química General",
+        "level": 1,
+        "score": 0.25,
         "keywords": [
-          "alimentos",
           "generalidades",
-          "quimica"
+          "propiedades",
+          "quimica",
+          "reacciones"
         ]
       },
       {
-        "id": "quimica-inorganica-1",
-        "title": "Química Inorgánica",
-        "level": 2,
-        "score": 0.12,
+        "id": "quimica-organica-ii-1",
+        "title": "Química Orgánica II",
+        "level": 3,
+        "score": 0.25,
         "keywords": [
+          "clasificacion",
           "propiedades",
-          "quimica"
+          "proteinas",
+          "reacciones"
         ]
       },
       {
         "id": "quimica-organica-i-1",
         "title": "Química Orgánica I",
         "level": 2,
+        "score": 0.19,
+        "keywords": [
+          "fuentes",
+          "propiedades",
+          "reacciones"
+        ]
+      },
+      {
+        "id": "termodinamica-1",
+        "title": "Termodinámica",
+        "level": 3,
         "score": 0.12,
         "keywords": [
           "propiedades",
-          "quimica"
+          "reacciones"
+        ]
+      }
+    ],
+    "operaciones-unitarias-iii-intercambio-ionico-1": [
+      {
+        "id": "operaciones-unitarias-i-filtracion-y-fluidizacion-1",
+        "title": "Operaciones Unitarias I Filtración y Fluidización",
+        "level": 6,
+        "score": 0.25,
+        "keywords": [
+          "diseno",
+          "lecho",
+          "operaciones",
+          "unitarias"
+        ]
+      },
+      {
+        "id": "operaciones-unitarias-i-manipulacion-de-solidos-1",
+        "title": "Operaciones Unitarias I Manipulación de Sólidos",
+        "level": 6,
+        "score": 0.19,
+        "keywords": [
+          "diseno",
+          "operaciones",
+          "unitarias"
+        ]
+      },
+      {
+        "id": "dibujo-asistido-por-computador-1",
+        "title": "Dibujo Asistido por Computador",
+        "level": 2,
+        "score": 0.12,
+        "keywords": [
+          "diseno",
+          "procesos"
+        ]
+      },
+      {
+        "id": "sintesis-organica-en-la-industria-1",
+        "title": "Síntesis Orgánica en la Industria",
+        "level": 4,
+        "score": 0.12,
+        "keywords": [
+          "industria",
+          "procesos"
+        ]
+      }
+    ],
+    "tecnologias-para-tratamiento-de-residuos-peligrosos-1": [
+      {
+        "id": "quimica-inorganica-1",
+        "title": "Química Inorgánica",
+        "level": 2,
+        "score": 0.12,
+        "keywords": [
+          "caracteristicas",
+          "quimico"
         ]
       },
       {
@@ -7970,141 +12873,70 @@ const syllabiContentData = {
         "level": 3,
         "score": 0.12,
         "keywords": [
-          "propiedades",
-          "quimica"
+          "caracteristicas",
+          "clasificacion"
         ]
-      }
-    ],
-    "operaciones-unitarias-iii-intercambio-ionico-1": [
+      },
       {
-        "id": "operaciones-unitarias-i-manipulacion-de-solidos-1",
-        "title": "Operaciones Unitarias I Manipulación de Sólidos",
+        "id": "salud-y-seguridad-industrial-1",
+        "title": "Salud y Seguridad Industrial",
         "level": 6,
-        "score": 0.25,
-        "keywords": [
-          "diseno",
-          "operaciones",
-          "procesos",
-          "unitarias"
-        ]
-      },
-      {
-        "id": "transferencia-de-masa-1",
-        "title": "Transferencia de Masa",
-        "level": 5,
-        "score": 0.19,
-        "keywords": [
-          "operaciones",
-          "procesos",
-          "unitarias"
-        ]
-      },
-      {
-        "id": "operaciones-unitarias-i-filtracion-y-fluidizacion-1",
-        "title": "Operaciones Unitarias I Filtración y Fluidización",
-        "level": 6,
-        "score": 0.19,
-        "keywords": [
-          "lecho",
-          "operaciones",
-          "unitarias"
-        ]
-      },
-      {
-        "id": "operaciones-unitarias-ii-evaporacion-destilacion-y-cristalizacion-1",
-        "title": "Operaciones Unitarias II Evaporación, Destilación y Cristalización",
-        "level": 7,
-        "score": 0.19,
-        "keywords": [
-          "operacion",
-          "operaciones",
-          "unitarias"
-        ]
-      }
-    ],
-    "tecnologias-para-tratamiento-de-residuos-peligrosos-1": [
-      {
-        "id": "calidad-y-tratamiento-de-suelos-1",
-        "title": "I3 Calidad y Tratamiento de Suelos",
-        "level": 9,
-        "score": 0.19,
-        "keywords": [
-          "practica",
-          "teorica",
-          "tratamiento"
-        ]
-      },
-      {
-        "id": "procesamiento-industrial-de-frutas-y-verduras-1",
-        "title": "I1 Procesamiento Industrial de Frutas y Verduras",
-        "level": 10,
-        "score": 0.19,
-        "keywords": [
-          "practica",
-          "teorica",
-          "tratamiento"
-        ]
-      },
-      {
-        "id": "quimica-general-2",
-        "title": "Química General",
-        "level": 1,
         "score": 0.12,
         "keywords": [
-          "estudiante",
-          "general"
+          "clasificacion",
+          "evaluacion"
         ]
       },
       {
-        "id": "lenguajes-de-programacion-1",
-        "title": "Lenguajes de Programación",
-        "level": 2,
+        "id": "termotecnia-1",
+        "title": "Termotecnia",
+        "level": 6,
         "score": 0.12,
         "keywords": [
-          "practica",
-          "teorica"
+          "basicos",
+          "procesos"
         ]
       }
     ],
     "fisica-i-1": [
       {
-        "id": "ecuaciones-diferenciales-1",
-        "title": "Ecuaciones Diferenciales",
+        "id": "fisica-ii-1",
+        "title": "Física II",
+        "level": 2,
+        "score": 0.12,
+        "keywords": [
+          "energia",
+          "movimiento"
+        ]
+      },
+      {
+        "id": "fisica-ii-1-2",
+        "title": "Física II",
+        "level": 2,
+        "score": 0.12,
+        "keywords": [
+          "energia",
+          "movimiento"
+        ]
+      },
+      {
+        "id": "balances-de-materia-y-energia-1",
+        "title": "Balances de Materia y Energía",
         "level": 3,
         "score": 0.12,
         "keywords": [
-          "problemas",
-          "soluciones"
+          "conservacion",
+          "energia"
         ]
       },
       {
-        "id": "fisico-quimica-1",
-        "title": "Físico Química",
-        "level": 4,
+        "id": "termodinamica-1",
+        "title": "Termodinámica",
+        "level": 3,
         "score": 0.12,
         "keywords": [
-          "estudio",
-          "fenomenos"
-        ]
-      },
-      {
-        "id": "transferencia-de-fluidos-1",
-        "title": "Transferencia de Fluidos",
-        "level": 5,
-        "score": 0.12,
-        "keywords": [
-          "estudio",
-          "permite"
-        ]
-      },
-      {
-        "id": "operaciones-unitarias-i-filtracion-y-fluidizacion-1",
-        "title": "Operaciones Unitarias I Filtración y Fluidización",
-        "level": 6,
-        "score": 0.12,
-        "keywords": [
-          "aborda",
-          "estudio"
+          "energia",
+          "trabajo"
         ]
       }
     ],
@@ -8121,86 +12953,81 @@ const syllabiContentData = {
         ]
       },
       {
-        "id": "calculo-integral-1",
-        "title": "Cálculo Integral",
-        "level": 2,
-        "score": 0.06,
-        "keywords": [
-          "integracion"
-        ]
-      },
-      {
-        "id": "dibujo-asistido-por-computador-1",
-        "title": "Dibujo Asistido por Computador",
-        "level": 2,
-        "score": 0.06,
-        "keywords": [
-          "desarrollo"
-        ]
-      },
-      {
-        "id": "escritura-cientifica-y-metodologia-de-investigacion-1",
-        "title": "Escritura Científica y Metodología de Investigación",
+        "id": "balances-de-materia-y-energia-1",
+        "title": "Balances de Materia y Energía",
         "level": 3,
-        "score": 0.06,
+        "score": 0.12,
         "keywords": [
-          "desarrollo"
+          "analisis",
+          "datos"
+        ]
+      },
+      {
+        "id": "estadistica-1",
+        "title": "Estadística",
+        "level": 3,
+        "score": 0.12,
+        "keywords": [
+          "analisis",
+          "datos"
+        ]
+      },
+      {
+        "id": "ingenieria-de-las-reacciones-i-cinetica-1",
+        "title": "Ingeniería de las Reacciones I (Cinética)",
+        "level": 5,
+        "score": 0.12,
+        "keywords": [
+          "analisis",
+          "datos"
         ]
       }
     ],
     "gestion-y-tecnologia-del-medio-ambiente-1": [
       {
-        "id": "tecnologias-limpias-en-ingenieria-quimica-2",
-        "title": "I3 Tecnologías Limpias en Ingeniería Química",
-        "level": 9,
-        "score": 0.12,
-        "keywords": [
-          "ambiental",
-          "tecnologia"
-        ]
-      },
-      {
-        "id": "procesamiento-industrial-de-frutas-y-verduras-1",
-        "title": "I1 Procesamiento Industrial de Frutas y Verduras",
-        "level": 10,
-        "score": 0.12,
-        "keywords": [
-          "tecnologia",
-          "tratamiento"
-        ]
-      },
-      {
         "id": "control-de-calidad-de-recursos-hidricos-1",
         "title": "I3 Control de Calidad de Recursos Hídricos",
         "level": 10,
-        "score": 0.12,
+        "score": 0.25,
         "keywords": [
           "control",
+          "introduccion",
+          "tratamiento",
+          "tratamientos"
+        ]
+      },
+      {
+        "id": "analisis-instrumental-1",
+        "title": "Análisis Instrumental",
+        "level": 5,
+        "score": 0.12,
+        "keywords": [
+          "diferentes",
+          "introduccion"
+        ]
+      },
+      {
+        "id": "gestion-de-calidad-1",
+        "title": "Gestión de Calidad",
+        "level": 8,
+        "score": 0.12,
+        "keywords": [
+          "generalidades",
           "gestion"
         ]
       },
       {
-        "id": "sintesis-organica-en-la-industria-1",
-        "title": "Síntesis Orgánica en la Industria",
-        "level": 4,
-        "score": 0.06,
+        "id": "procesamiento-industrial-de-lacteos-y-carnicos-1",
+        "title": "I1 Procesamiento Industrial de Lácteos y Cárnicos",
+        "level": 9,
+        "score": 0.12,
         "keywords": [
-          "industriales"
+          "control",
+          "introduccion"
         ]
       }
     ],
     "ecuaciones-diferenciales-1": [
-      {
-        "id": "quimica-general-2",
-        "title": "Química General",
-        "level": 1,
-        "score": 0.19,
-        "keywords": [
-          "conocimientos",
-          "ingenieria",
-          "primer"
-        ]
-      },
       {
         "id": "algebra-lineal-2",
         "title": "Álgebra Lineal",
@@ -8208,8 +13035,8 @@ const syllabiContentData = {
         "score": 0.19,
         "keywords": [
           "ecuaciones",
-          "ingenieria",
-          "lineales"
+          "lineales",
+          "sistemas"
         ]
       },
       {
@@ -8219,8 +13046,8 @@ const syllabiContentData = {
         "score": 0.19,
         "keywords": [
           "ecuaciones",
-          "ingenieria",
-          "lineales"
+          "lineales",
+          "sistemas"
         ]
       },
       {
@@ -8230,92 +13057,110 @@ const syllabiContentData = {
         "score": 0.19,
         "keywords": [
           "ecuaciones",
-          "ingenieria",
-          "lineales"
+          "lineales",
+          "sistemas"
+        ]
+      },
+      {
+        "id": "balances-de-materia-y-energia-1",
+        "title": "Balances de Materia y Energía",
+        "level": 3,
+        "score": 0.19,
+        "keywords": [
+          "ecuaciones",
+          "sistemas",
+          "variables"
         ]
       }
     ],
     "transferencia-de-fluidos-1": [
       {
-        "id": "transferencia-de-calor-1",
-        "title": "Transferencia de Calor",
-        "level": 5,
+        "id": "quimica-general-2",
+        "title": "Química General",
+        "level": 1,
         "score": 0.19,
         "keywords": [
-          "estudiante",
-          "estudio",
-          "transferencia"
-        ]
-      },
-      {
-        "id": "fisica-i-1",
-        "title": "Física I",
-        "level": 1,
-        "score": 0.12,
-        "keywords": [
-          "estudio",
-          "permite"
-        ]
-      },
-      {
-        "id": "quimica-inorganica-1",
-        "title": "Química Inorgánica",
-        "level": 2,
-        "score": 0.12,
-        "keywords": [
-          "estudiante",
+          "general",
+          "presion",
           "propiedades"
         ]
       },
       {
-        "id": "quimica-organica-ii-1",
-        "title": "Química Orgánica II",
+        "id": "ecuaciones-diferenciales-1",
+        "title": "Ecuaciones Diferenciales",
         "level": 3,
         "score": 0.12,
         "keywords": [
-          "estudio",
+          "ecuacion",
+          "sistemas"
+        ]
+      },
+      {
+        "id": "termodinamica-1",
+        "title": "Termodinámica",
+        "level": 3,
+        "score": 0.12,
+        "keywords": [
+          "propiedades",
+          "sistemas"
+        ]
+      },
+      {
+        "id": "ciencia-e-ingenieria-de-los-materiales-1",
+        "title": "Ciencia e Ingeniería de los Materiales",
+        "level": 4,
+        "score": 0.12,
+        "keywords": [
+          "introduccion",
           "propiedades"
         ]
       }
     ],
     "diseno-y-calculo-de-plantas-industriales-1": [
       {
-        "id": "operaciones-unitarias-i-manipulacion-de-solidos-1",
-        "title": "Operaciones Unitarias I Manipulación de Sólidos",
-        "level": 6,
-        "score": 0.19,
+        "id": "dibujo-asistido-por-computador-1",
+        "title": "Dibujo Asistido por Computador",
+        "level": 2,
+        "score": 0.25,
         "keywords": [
           "diseno",
           "equipos",
-          "industriales"
+          "ingenieria",
+          "proceso"
         ]
       },
       {
-        "id": "transferencia-de-calor-1",
-        "title": "Transferencia de Calor",
-        "level": 5,
-        "score": 0.12,
+        "id": "operaciones-unitarias-i-filtracion-y-fluidizacion-1",
+        "title": "Operaciones Unitarias I Filtración y Fluidización",
+        "level": 6,
+        "score": 0.25,
         "keywords": [
-          "equipos",
-          "transferencia"
+          "calculo",
+          "diseno",
+          "ingenieria",
+          "proceso"
         ]
       },
       {
-        "id": "calculo-diferencial-1",
-        "title": "Cálculo Diferencial",
-        "level": 1,
-        "score": 0.06,
+        "id": "trabajo-de-integracion-curricular-i-1",
+        "title": "Trabajo de Integración Curricular I",
+        "level": 9,
+        "score": 0.19,
         "keywords": [
-          "calculo"
+          "diseno",
+          "ingenieria",
+          "seleccion"
         ]
       },
       {
-        "id": "calculo-diferencial-2",
-        "title": "Cálculo Diferencial",
-        "level": 1,
-        "score": 0.06,
+        "id": "ingenieria-de-proyectos-1",
+        "title": "Ingeniería de Proyectos",
+        "level": 10,
+        "score": 0.19,
         "keywords": [
-          "calculo"
+          "criterios",
+          "ingenieria",
+          "seleccion"
         ]
       }
     ],
@@ -8333,33 +13178,32 @@ const syllabiContentData = {
         ]
       },
       {
+        "id": "practicas-de-servicio-comunitario-1",
+        "title": "Prácticas de Servicio Comunitario",
+        "level": 8,
+        "score": 0.19,
+        "keywords": [
+          "actividades",
+          "desarrollo",
+          "practicas"
+        ]
+      },
+      {
         "id": "comunicacion-efectiva-1",
         "title": "Comunicación Efectiva",
         "level": 1,
-        "score": 0.12,
+        "score": 0.06,
         "keywords": [
-          "competencias",
-          "entornos"
+          "competencias"
         ]
       },
       {
-        "id": "lenguajes-de-programacion-1",
-        "title": "Lenguajes de Programación",
+        "id": "dibujo-asistido-por-computador-1",
+        "title": "Dibujo Asistido por Computador",
         "level": 2,
-        "score": 0.12,
+        "score": 0.06,
         "keywords": [
-          "aplicacion",
-          "practica"
-        ]
-      },
-      {
-        "id": "ciencia-e-ingenieria-de-los-materiales-1",
-        "title": "Ciencia e Ingeniería de los Materiales",
-        "level": 4,
-        "score": 0.12,
-        "keywords": [
-          "conocimientos",
-          "practica"
+          "desarrollo"
         ]
       }
     ],
@@ -8377,15 +13221,15 @@ const syllabiContentData = {
         ]
       },
       {
-        "id": "sintesis-organica-en-la-industria-1",
-        "title": "Síntesis Orgánica en la Industria",
-        "level": 4,
+        "id": "bioquimica-de-alimentos-1",
+        "title": "Bioquímica de Alimentos",
+        "level": 6,
         "score": 0.25,
         "keywords": [
-          "organica",
-          "principales",
-          "quimica",
-          "sintesis"
+          "clasificacion",
+          "propiedades",
+          "proteinas",
+          "reacciones"
         ]
       },
       {
@@ -8394,20 +13238,20 @@ const syllabiContentData = {
         "level": 2,
         "score": 0.19,
         "keywords": [
+          "caracteristicas",
           "compuestos",
-          "propiedades",
-          "quimica"
+          "propiedades"
         ]
       },
       {
-        "id": "ingenieria-de-las-reacciones-i-cinetica-1",
-        "title": "Ingeniería de las Reacciones I (Cinética)",
-        "level": 5,
+        "id": "sintesis-organica-en-la-industria-1",
+        "title": "Síntesis Orgánica en la Industria",
+        "level": 4,
         "score": 0.19,
         "keywords": [
-          "estudio",
-          "quimica",
-          "reacciones"
+          "aplicacion",
+          "industrial",
+          "organica"
         ]
       }
     ],
@@ -8425,9 +13269,21 @@ const syllabiContentData = {
         ]
       },
       {
-        "id": "quimica-analitica-1",
-        "title": "Química Analítica",
-        "level": 4,
+        "id": "balances-de-materia-y-energia-1",
+        "title": "Balances de Materia y Energía",
+        "level": 3,
+        "score": 0.25,
+        "keywords": [
+          "analisis",
+          "datos",
+          "reacciones",
+          "sistemas"
+        ]
+      },
+      {
+        "id": "calidad-y-tratamiento-de-suelos-1",
+        "title": "I3 Calidad y Tratamiento de Suelos",
+        "level": 9,
         "score": 0.25,
         "keywords": [
           "analisis",
@@ -8437,25 +13293,13 @@ const syllabiContentData = {
         ]
       },
       {
-        "id": "procesamiento-termico-de-alimentos-2",
-        "title": "I1 Procesamiento Térmico de Alimentos",
-        "level": 9,
-        "score": 0.25,
-        "keywords": [
-          "conocimientos",
-          "ingenieria",
-          "metodos",
-          "quimica"
-        ]
-      },
-      {
-        "id": "quimica-general-2",
-        "title": "Química General",
-        "level": 1,
+        "id": "quimica-analitica-1",
+        "title": "Química Analítica",
+        "level": 4,
         "score": 0.19,
         "keywords": [
-          "conocimientos",
-          "ingenieria",
+          "analisis",
+          "metodos",
           "quimica"
         ]
       }
@@ -8498,57 +13342,60 @@ const syllabiContentData = {
         ]
       },
       {
-        "id": "ingenieria-de-las-reacciones-ii-reactores-1",
-        "title": "Ingeniería de las Reacciones II (Reactores)",
-        "level": 6,
-        "score": 0.07,
+        "id": "quimica-analitica-1",
+        "title": "Química Analítica",
+        "level": 4,
+        "score": 0.12,
         "keywords": [
-          "desarrolla"
+          "metodos",
+          "problemas"
         ]
       }
     ],
     "termodinamica-1": [
       {
-        "id": "quimica-analitica-1",
-        "title": "Química Analítica",
-        "level": 4,
-        "score": 0.25,
-        "keywords": [
-          "analisis",
-          "ciencia",
-          "formacion",
-          "puede"
-        ]
-      },
-      {
-        "id": "calidad-y-tratamiento-de-suelos-1",
-        "title": "I3 Calidad y Tratamiento de Suelos",
-        "level": 9,
-        "score": 0.19,
-        "keywords": [
-          "analisis",
-          "formacion",
-          "quimico"
-        ]
-      },
-      {
         "id": "balances-de-materia-y-energia-1",
         "title": "Balances de Materia y Energía",
         "level": 3,
-        "score": 0.12,
+        "score": 0.25,
         "keywords": [
-          "definir",
-          "energia"
+          "energia",
+          "estado",
+          "reacciones",
+          "sistemas"
         ]
       },
       {
-        "id": "diseno-experimental-1",
-        "title": "Diseño Experimental",
-        "level": 4,
+        "id": "termotecnia-1",
+        "title": "Termotecnia",
+        "level": 6,
+        "score": 0.25,
+        "keywords": [
+          "balance",
+          "combustion",
+          "propiedades",
+          "termodinamica"
+        ]
+      },
+      {
+        "id": "quimica-general-2",
+        "title": "Química General",
+        "level": 1,
+        "score": 0.19,
+        "keywords": [
+          "propiedades",
+          "reacciones",
+          "temperatura"
+        ]
+      },
+      {
+        "id": "fisica-i-1",
+        "title": "Física I",
+        "level": 1,
         "score": 0.12,
         "keywords": [
-          "analisis",
-          "principios"
+          "energia",
+          "trabajo"
         ]
       }
     ],
@@ -8557,86 +13404,106 @@ const syllabiContentData = {
         "id": "escritura-cientifica-y-metodologia-de-investigacion-1",
         "title": "Escritura Científica y Metodología de Investigación",
         "level": 3,
-        "score": 0.12,
+        "score": 0.31,
         "keywords": [
-          "investigacion",
-          "metodologia"
+          "cientifica",
+          "cientifico",
+          "escritura",
+          "investigacion"
         ]
       },
       {
-        "id": "investigacion-de-operaciones-1",
-        "title": "Investigación de Operaciones",
-        "level": 10,
-        "score": 0.12,
+        "id": "trabajo-de-integracion-curricular-i-1",
+        "title": "Trabajo de Integración Curricular I",
+        "level": 9,
+        "score": 0.19,
         "keywords": [
-          "cientifico",
-          "investigacion"
+          "busqueda",
+          "seleccion",
+          "trabajo"
         ]
       },
       {
         "id": "diseno-experimental-1",
         "title": "Diseño Experimental",
         "level": 4,
-        "score": 0.06,
+        "score": 0.12,
         "keywords": [
-          "cientifico"
+          "cientifico",
+          "metodo"
         ]
       },
       {
-        "id": "emprendimiento-e-innovacion-1",
-        "title": "Emprendimiento e Innovación",
+        "id": "salud-y-seguridad-industrial-1",
+        "title": "Salud y Seguridad Industrial",
         "level": 6,
-        "score": 0.06,
+        "score": 0.12,
         "keywords": [
-          "herramientas"
+          "investigacion",
+          "trabajo"
         ]
       }
     ],
     "operaciones-unitarias-iii-humidificacion-y-secado-1": [
       {
-        "id": "transferencia-de-masa-1",
-        "title": "Transferencia de Masa",
-        "level": 5,
+        "id": "procesamiento-termico-de-alimentos-2",
+        "title": "I1 Procesamiento Térmico de Alimentos",
+        "level": 9,
         "score": 0.25,
         "keywords": [
-          "mecanismos",
-          "operaciones",
-          "transferencia",
-          "unitarias"
-        ]
-      },
-      {
-        "id": "termodinamica-1",
-        "title": "Termodinámica",
-        "level": 3,
-        "score": 0.12,
-        "keywords": [
-          "formacion",
-          "principios"
-        ]
-      },
-      {
-        "id": "quimica-analitica-1",
-        "title": "Química Analítica",
-        "level": 4,
-        "score": 0.12,
-        "keywords": [
-          "formacion",
-          "profesional"
-        ]
-      },
-      {
-        "id": "sintesis-organica-en-la-industria-1",
-        "title": "Síntesis Orgánica en la Industria",
-        "level": 4,
-        "score": 0.12,
-        "keywords": [
-          "principios",
+          "alimentos",
+          "bases",
+          "metodos",
           "productos"
+        ]
+      },
+      {
+        "id": "quimica-general-2",
+        "title": "Química General",
+        "level": 1,
+        "score": 0.19,
+        "keywords": [
+          "bases",
+          "presion",
+          "temperatura"
+        ]
+      },
+      {
+        "id": "microbiologia-industrial-1",
+        "title": "Microbiología Industrial",
+        "level": 5,
+        "score": 0.19,
+        "keywords": [
+          "alimentos",
+          "metodos",
+          "productos"
+        ]
+      },
+      {
+        "id": "operaciones-unitarias-i-filtracion-y-fluidizacion-1",
+        "title": "Operaciones Unitarias I Filtración y Fluidización",
+        "level": 6,
+        "score": 0.19,
+        "keywords": [
+          "operaciones",
+          "presion",
+          "unitarias"
         ]
       }
     ],
     "tecnologias-limpias-en-ingenieria-quimica-2": [
+      {
+        "id": "dibujo-asistido-por-computador-1",
+        "title": "Dibujo Asistido por Computador",
+        "level": 2,
+        "score": 0.25,
+        "keywords": [
+          "herramientas",
+          "ingenieria",
+          "proceso",
+          "quimica"
+        ]
+      },
       {
         "id": "sintesis-organica-en-la-industria-1",
         "title": "Síntesis Orgánica en la Industria",
@@ -8649,33 +13516,25 @@ const syllabiContentData = {
         ]
       },
       {
-        "id": "quimica-general-2",
-        "title": "Química General",
-        "level": 1,
-        "score": 0.12,
+        "id": "operaciones-unitarias-i-filtracion-y-fluidizacion-1",
+        "title": "Operaciones Unitarias I Filtración y Fluidización",
+        "level": 6,
+        "score": 0.19,
         "keywords": [
           "ingenieria",
+          "proceso",
           "quimica"
         ]
       },
       {
-        "id": "quimica-analitica-1",
-        "title": "Química Analítica",
-        "level": 4,
-        "score": 0.12,
+        "id": "procesamiento-industrial-de-frutas-y-verduras-1",
+        "title": "I1 Procesamiento Industrial de Frutas y Verduras",
+        "level": 10,
+        "score": 0.19,
         "keywords": [
-          "ingenieria",
-          "quimica"
-        ]
-      },
-      {
-        "id": "ingenieria-de-las-reacciones-i-cinetica-1",
-        "title": "Ingeniería de las Reacciones I (Cinética)",
-        "level": 5,
-        "score": 0.12,
-        "keywords": [
-          "ingenieria",
-          "quimica"
+          "proceso",
+          "produccion",
+          "tecnologia"
         ]
       }
     ],
@@ -8684,242 +13543,12 @@ const syllabiContentData = {
         "id": "gestion-y-tecnologia-del-medio-ambiente-1",
         "title": "Gestión y Tecnología del Medio Ambiente",
         "level": 7,
-        "score": 0.12,
-        "keywords": [
-          "control",
-          "gestion"
-        ]
-      },
-      {
-        "id": "gestion-de-calidad-1",
-        "title": "Gestión de Calidad",
-        "level": 8,
-        "score": 0.12,
-        "keywords": [
-          "calidad",
-          "gestion"
-        ]
-      },
-      {
-        "id": "calculo-integral-1",
-        "title": "Cálculo Integral",
-        "level": 2,
-        "score": 0.06,
-        "keywords": [
-          "variables"
-        ]
-      },
-      {
-        "id": "quimica-organica-i-1",
-        "title": "Química Orgánica I",
-        "level": 2,
-        "score": 0.06,
-        "keywords": [
-          "fuentes"
-        ]
-      }
-    ],
-    "operaciones-unitarias-i-manipulacion-de-solidos-1": [
-      {
-        "id": "operaciones-unitarias-iii-intercambio-ionico-1",
-        "title": "Operaciones Unitarias III Intercambio Iónico",
-        "level": 8,
         "score": 0.25,
         "keywords": [
-          "diseno",
-          "operaciones",
-          "procesos",
-          "unitarias"
-        ]
-      },
-      {
-        "id": "transferencia-de-masa-1",
-        "title": "Transferencia de Masa",
-        "level": 5,
-        "score": 0.19,
-        "keywords": [
-          "operaciones",
-          "procesos",
-          "unitarias"
-        ]
-      },
-      {
-        "id": "operaciones-unitarias-i-filtracion-y-fluidizacion-1",
-        "title": "Operaciones Unitarias I Filtración y Fluidización",
-        "level": 6,
-        "score": 0.19,
-        "keywords": [
-          "manejo",
-          "operaciones",
-          "unitarias"
-        ]
-      },
-      {
-        "id": "operaciones-unitarias-ii-evaporacion-destilacion-y-cristalizacion-1",
-        "title": "Operaciones Unitarias II Evaporación, Destilación y Cristalización",
-        "level": 7,
-        "score": 0.19,
-        "keywords": [
-          "equipos",
-          "operaciones",
-          "unitarias"
-        ]
-      }
-    ],
-    "mineralogia-aplicada-1": [
-      {
-        "id": "quimica-analitica-de-suelos-1",
-        "title": "Química Analítica de Suelos",
-        "level": 8,
-        "score": 0.12,
-        "keywords": [
-          "minerales",
-          "propiedades"
-        ]
-      },
-      {
-        "id": "algebra-lineal-2",
-        "title": "Álgebra Lineal",
-        "level": 1,
-        "score": 0.06,
-        "keywords": [
-          "sistemas"
-        ]
-      },
-      {
-        "id": "algebra-lineal-1",
-        "title": "Álgebra Lineal",
-        "level": 1,
-        "score": 0.06,
-        "keywords": [
-          "sistemas"
-        ]
-      },
-      {
-        "id": "algebra-lineal-2-2",
-        "title": "Álgebra Lineal",
-        "level": 1,
-        "score": 0.06,
-        "keywords": [
-          "sistemas"
-        ]
-      }
-    ],
-    "salud-y-seguridad-industrial-1": [
-      {
-        "id": "organizacion-y-direccion-de-empresas-1",
-        "title": "Organización y Dirección de Empresas",
-        "level": 8,
-        "score": 0.12,
-        "keywords": [
-          "gestion",
-          "tecnicas"
-        ]
-      },
-      {
-        "id": "polimeros-2",
-        "title": "I2 Polímeros",
-        "level": 9,
-        "score": 0.12,
-        "keywords": [
-          "gestion",
-          "tecnicas"
-        ]
-      },
-      {
-        "id": "ingenieria-de-las-reacciones-ii-reactores-1",
-        "title": "Ingeniería de las Reacciones II (Reactores)",
-        "level": 6,
-        "score": 0.07,
-        "keywords": [
-          "desarrolla"
-        ]
-      },
-      {
-        "id": "fisica-i-1",
-        "title": "Física I",
-        "level": 1,
-        "score": 0.06,
-        "keywords": [
-          "fisica"
-        ]
-      }
-    ],
-    "polimeros-2": [
-      {
-        "id": "operaciones-unitarias-i-manipulacion-de-solidos-1",
-        "title": "Operaciones Unitarias I Manipulación de Sólidos",
-        "level": 6,
-        "score": 0.19,
-        "keywords": [
-          "caracterizacion",
-          "materiales",
-          "procesos"
-        ]
-      },
-      {
-        "id": "balances-de-materia-y-energia-1",
-        "title": "Balances de Materia y Energía",
-        "level": 3,
-        "score": 0.12,
-        "keywords": [
-          "procesos",
-          "tecnicas"
-        ]
-      },
-      {
-        "id": "transferencia-de-masa-1",
-        "title": "Transferencia de Masa",
-        "level": 5,
-        "score": 0.12,
-        "keywords": [
-          "mecanismos",
-          "procesos"
-        ]
-      },
-      {
-        "id": "salud-y-seguridad-industrial-1",
-        "title": "Salud y Seguridad Industrial",
-        "level": 6,
-        "score": 0.12,
-        "keywords": [
-          "gestion",
-          "tecnicas"
-        ]
-      }
-    ],
-    "organizacion-y-direccion-de-empresas-1": [
-      {
-        "id": "lenguajes-de-programacion-1",
-        "title": "Lenguajes de Programación",
-        "level": 2,
-        "score": 0.19,
-        "keywords": [
+          "control",
           "introduccion",
-          "practica",
-          "teorica"
-        ]
-      },
-      {
-        "id": "ciencia-e-ingenieria-de-los-materiales-1",
-        "title": "Ciencia e Ingeniería de los Materiales",
-        "level": 4,
-        "score": 0.19,
-        "keywords": [
-          "introduccion",
-          "practica",
-          "teorica"
-        ]
-      },
-      {
-        "id": "quimica-analitica-1",
-        "title": "Química Analítica",
-        "level": 4,
-        "score": 0.19,
-        "keywords": [
-          "naturaleza",
-          "practica",
-          "teorica"
+          "tratamiento",
+          "tratamientos"
         ]
       },
       {
@@ -8928,23 +13557,161 @@ const syllabiContentData = {
         "level": 9,
         "score": 0.19,
         "keywords": [
-          "naturaleza",
-          "practica",
-          "teorica"
+          "calidad",
+          "metodos",
+          "tratamiento"
         ]
-      }
-    ],
-    "gestion-energetica-1": [
+      },
       {
         "id": "analisis-numerico-1",
         "title": "Análisis Numérico",
         "level": 4,
         "score": 0.12,
         "keywords": [
-          "estudiante",
-          "procesos"
+          "introduccion",
+          "metodos"
         ]
       },
+      {
+        "id": "analisis-instrumental-1",
+        "title": "Análisis Instrumental",
+        "level": 5,
+        "score": 0.12,
+        "keywords": [
+          "introduccion",
+          "metodos"
+        ]
+      }
+    ],
+    "operaciones-unitarias-i-manipulacion-de-solidos-1": [
+      {
+        "id": "operaciones-unitarias-i-filtracion-y-fluidizacion-1",
+        "title": "Operaciones Unitarias I Filtración y Fluidización",
+        "level": 6,
+        "score": 0.19,
+        "keywords": [
+          "diseno",
+          "operaciones",
+          "unitarias"
+        ]
+      },
+      {
+        "id": "operaciones-unitarias-iii-intercambio-ionico-1",
+        "title": "Operaciones Unitarias III Intercambio Iónico",
+        "level": 8,
+        "score": 0.19,
+        "keywords": [
+          "diseno",
+          "operaciones",
+          "unitarias"
+        ]
+      },
+      {
+        "id": "microbiologia-industrial-1",
+        "title": "Microbiología Industrial",
+        "level": 5,
+        "score": 0.12,
+        "keywords": [
+          "industriales",
+          "manipulacion"
+        ]
+      },
+      {
+        "id": "operaciones-unitarias-ii-evaporacion-destilacion-y-cristalizacion-1",
+        "title": "Operaciones Unitarias II Evaporación, Destilación y Cristalización",
+        "level": 7,
+        "score": 0.12,
+        "keywords": [
+          "operaciones",
+          "unitarias"
+        ]
+      }
+    ],
+    "mineralogia-aplicada-1": [
+      {
+        "id": "quimica-inorganica-1",
+        "title": "Química Inorgánica",
+        "level": 2,
+        "score": 0.12,
+        "keywords": [
+          "caracteristicas",
+          "propiedades"
+        ]
+      },
+      {
+        "id": "balances-de-materia-y-energia-1",
+        "title": "Balances de Materia y Energía",
+        "level": 3,
+        "score": 0.12,
+        "keywords": [
+          "leyes",
+          "sistemas"
+        ]
+      },
+      {
+        "id": "quimica-organica-ii-1",
+        "title": "Química Orgánica II",
+        "level": 3,
+        "score": 0.12,
+        "keywords": [
+          "caracteristicas",
+          "propiedades"
+        ]
+      },
+      {
+        "id": "termodinamica-1",
+        "title": "Termodinámica",
+        "level": 3,
+        "score": 0.12,
+        "keywords": [
+          "propiedades",
+          "sistemas"
+        ]
+      }
+    ],
+    "salud-y-seguridad-industrial-1": [
+      {
+        "id": "herramientas-de-metodologia-de-investigacion-1",
+        "title": "Herramientas de Metodología de Investigación",
+        "level": 1,
+        "score": 0.12,
+        "keywords": [
+          "investigacion",
+          "trabajo"
+        ]
+      },
+      {
+        "id": "bioquimica-de-alimentos-1",
+        "title": "Bioquímica de Alimentos",
+        "level": 6,
+        "score": 0.12,
+        "keywords": [
+          "clasificacion",
+          "definicion"
+        ]
+      },
+      {
+        "id": "economia-industrial-1",
+        "title": "Economía Industrial",
+        "level": 7,
+        "score": 0.12,
+        "keywords": [
+          "evaluacion",
+          "factores"
+        ]
+      },
+      {
+        "id": "procesamiento-industrial-de-lacteos-y-carnicos-1",
+        "title": "I1 Procesamiento Industrial de Lácteos y Cárnicos",
+        "level": 9,
+        "score": 0.12,
+        "keywords": [
+          "control",
+          "definicion"
+        ]
+      }
+    ],
+    "polimeros-2": [
       {
         "id": "gestion-de-calidad-1",
         "title": "Gestión de Calidad",
@@ -8956,49 +13723,141 @@ const syllabiContentData = {
         ]
       },
       {
-        "id": "metalurgia-extractiva-1",
-        "title": "I2 Metalurgia Extractiva",
-        "level": 9,
-        "score": 0.12,
-        "keywords": [
-          "estudiante",
-          "procesos"
-        ]
-      },
-      {
-        "id": "polimeros-2",
-        "title": "I2 Polímeros",
-        "level": 9,
+        "id": "diseno-y-desarrollo-de-productos-1",
+        "title": "Diseño y Desarrollo de Productos",
+        "level": 10,
         "score": 0.12,
         "keywords": [
           "gestion",
-          "procesos"
-        ]
-      }
-    ],
-    "procesamiento-industrial-de-lacteos-y-carnicos-1": [
-      {
-        "id": "procesamiento-industrial-de-cereales-y-fermentaciones-1",
-        "title": "I1 Procesamiento Industrial de Cereales y Fermentaciones",
-        "level": 10,
-        "score": 0.25,
-        "keywords": [
-          "busca",
-          "industrial",
-          "procesamiento",
-          "teorico"
+          "producto"
         ]
       },
       {
         "id": "procesamiento-industrial-de-frutas-y-verduras-1",
         "title": "I1 Procesamiento Industrial de Frutas y Verduras",
         "level": 10,
+        "score": 0.12,
+        "keywords": [
+          "procesos",
+          "transformacion"
+        ]
+      },
+      {
+        "id": "cementos-y-nanomateriales-1",
+        "title": "I2 Cementos y Nanomateriales",
+        "level": 10,
+        "score": 0.12,
+        "keywords": [
+          "procesos",
+          "tecnicas"
+        ]
+      }
+    ],
+    "organizacion-y-direccion-de-empresas-1": [
+      {
+        "id": "investigacion-de-operaciones-1",
+        "title": "Investigación de Operaciones",
+        "level": 10,
         "score": 0.25,
         "keywords": [
-          "ciencia",
-          "industrial",
+          "introduccion",
+          "operaciones",
+          "organizacion",
+          "programacion"
+        ]
+      },
+      {
+        "id": "lenguajes-de-programacion-1",
+        "title": "Lenguajes de Programación",
+        "level": 2,
+        "score": 0.12,
+        "keywords": [
+          "introduccion",
+          "programacion"
+        ]
+      },
+      {
+        "id": "procesamiento-industrial-de-frutas-y-verduras-1",
+        "title": "I1 Procesamiento Industrial de Frutas y Verduras",
+        "level": 10,
+        "score": 0.12,
+        "keywords": [
+          "operaciones",
+          "produccion"
+        ]
+      },
+      {
+        "id": "fisica-i-1",
+        "title": "Física I",
+        "level": 1,
+        "score": 0.06,
+        "keywords": [
+          "trabajo"
+        ]
+      }
+    ],
+    "gestion-energetica-1": [
+      {
+        "id": "termodinamica-1",
+        "title": "Termodinámica",
+        "level": 3,
+        "score": 0.12,
+        "keywords": [
+          "conceptos",
+          "energia"
+        ]
+      },
+      {
+        "id": "sintesis-organica-en-la-industria-1",
+        "title": "Síntesis Orgánica en la Industria",
+        "level": 4,
+        "score": 0.12,
+        "keywords": [
+          "industria",
+          "principales"
+        ]
+      },
+      {
+        "id": "fisica-i-1",
+        "title": "Física I",
+        "level": 1,
+        "score": 0.06,
+        "keywords": [
+          "energia"
+        ]
+      },
+      {
+        "id": "fisica-ii-1",
+        "title": "Física II",
+        "level": 2,
+        "score": 0.06,
+        "keywords": [
+          "energia"
+        ]
+      }
+    ],
+    "procesamiento-industrial-de-lacteos-y-carnicos-1": [
+      {
+        "id": "procesamiento-industrial-de-frutas-y-verduras-1",
+        "title": "I1 Procesamiento Industrial de Frutas y Verduras",
+        "level": 10,
+        "score": 0.25,
+        "keywords": [
+          "elaboracion",
           "procesamiento",
-          "tecnologia"
+          "proceso",
+          "productos"
+        ]
+      },
+      {
+        "id": "sintesis-organica-en-la-industria-1",
+        "title": "Síntesis Orgánica en la Industria",
+        "level": 4,
+        "score": 0.19,
+        "keywords": [
+          "industria",
+          "proceso",
+          "productos"
         ]
       },
       {
@@ -9007,43 +13866,186 @@ const syllabiContentData = {
         "level": 9,
         "score": 0.19,
         "keywords": [
-          "busca",
           "procesamiento",
-          "teorico"
+          "proceso",
+          "productos"
         ]
       },
       {
-        "id": "comunicacion-efectiva-1",
-        "title": "Comunicación Efectiva",
-        "level": 1,
+        "id": "dibujo-asistido-por-computador-1",
+        "title": "Dibujo Asistido por Computador",
+        "level": 2,
         "score": 0.12,
         "keywords": [
-          "busca",
-          "estudiante"
+          "equipos",
+          "proceso"
         ]
       }
     ],
     "investigacion-de-operaciones-1": [
       {
-        "id": "diseno-experimental-1",
-        "title": "Diseño Experimental",
-        "level": 4,
+        "id": "organizacion-y-direccion-de-empresas-1",
+        "title": "Organización y Dirección de Empresas",
+        "level": 8,
         "score": 0.25,
         "keywords": [
-          "aplicacion",
-          "cientifico",
-          "metodo",
-          "problemas"
+          "introduccion",
+          "operaciones",
+          "organizacion",
+          "programacion"
         ]
       },
       {
-        "id": "fisica-i-1",
-        "title": "Física I",
+        "id": "algebra-lineal-2",
+        "title": "Álgebra Lineal",
         "level": 1,
-        "score": 0.12,
+        "score": 0.19,
         "keywords": [
-          "permite",
-          "problemas"
+          "aplicaciones",
+          "lineal",
+          "operaciones"
+        ]
+      },
+      {
+        "id": "algebra-lineal-1",
+        "title": "Álgebra Lineal",
+        "level": 1,
+        "score": 0.19,
+        "keywords": [
+          "aplicaciones",
+          "lineal",
+          "operaciones"
+        ]
+      },
+      {
+        "id": "algebra-lineal-2-2",
+        "title": "Álgebra Lineal",
+        "level": 1,
+        "score": 0.19,
+        "keywords": [
+          "aplicaciones",
+          "lineal",
+          "operaciones"
+        ]
+      }
+    ],
+    "trabajo-de-integracion-curricular-i-1": [
+      {
+        "id": "herramientas-de-metodologia-de-investigacion-1",
+        "title": "Herramientas de Metodología de Investigación",
+        "level": 1,
+        "score": 0.19,
+        "keywords": [
+          "busqueda",
+          "seleccion",
+          "trabajo"
+        ]
+      },
+      {
+        "id": "dibujo-asistido-por-computador-1",
+        "title": "Dibujo Asistido por Computador",
+        "level": 2,
+        "score": 0.19,
+        "keywords": [
+          "diseno",
+          "ingenieria",
+          "quimica"
+        ]
+      },
+      {
+        "id": "operaciones-unitarias-i-filtracion-y-fluidizacion-1",
+        "title": "Operaciones Unitarias I Filtración y Fluidización",
+        "level": 6,
+        "score": 0.19,
+        "keywords": [
+          "diseno",
+          "ingenieria",
+          "quimica"
+        ]
+      },
+      {
+        "id": "diseno-y-calculo-de-plantas-industriales-1",
+        "title": "Diseño y Cálculo de Plantas Industriales",
+        "level": 9,
+        "score": 0.19,
+        "keywords": [
+          "diseno",
+          "ingenieria",
+          "seleccion"
+        ]
+      }
+    ],
+    "comunicacion-efectiva-1": [
+      {
+        "id": "lenguajes-de-programacion-1",
+        "title": "Lenguajes de Programación",
+        "level": 2,
+        "score": 0.06,
+        "keywords": [
+          "lenguaje"
+        ]
+      },
+      {
+        "id": "quimica-inorganica-1",
+        "title": "Química Inorgánica",
+        "level": 2,
+        "score": 0.06,
+        "keywords": [
+          "elementos"
+        ]
+      },
+      {
+        "id": "escritura-cientifica-y-metodologia-de-investigacion-1",
+        "title": "Escritura Científica y Metodología de Investigación",
+        "level": 3,
+        "score": 0.06,
+        "keywords": [
+          "elementos"
+        ]
+      },
+      {
+        "id": "emprendimiento-e-innovacion-1",
+        "title": "Emprendimiento e Innovación",
+        "level": 6,
+        "score": 0.06,
+        "keywords": [
+          "necesarias"
+        ]
+      }
+    ],
+    "diseno-experimental-1": [
+      {
+        "id": "estadistica-1",
+        "title": "Estadística",
+        "level": 3,
+        "score": 0.25,
+        "keywords": [
+          "analisis",
+          "estadistica",
+          "hipotesis",
+          "varianza"
+        ]
+      },
+      {
+        "id": "termotecnia-1",
+        "title": "Termotecnia",
+        "level": 6,
+        "score": 0.19,
+        "keywords": [
+          "analisis",
+          "basicos",
+          "principios"
+        ]
+      },
+      {
+        "id": "economia-industrial-1",
+        "title": "Economía Industrial",
+        "level": 7,
+        "score": 0.19,
+        "keywords": [
+          "analisis",
+          "basicos",
+          "metodo"
         ]
       },
       {
@@ -9053,151 +14055,7 @@ const syllabiContentData = {
         "score": 0.12,
         "keywords": [
           "cientifico",
-          "investigacion"
-        ]
-      },
-      {
-        "id": "organizacion-y-direccion-de-empresas-1",
-        "title": "Organización y Dirección de Empresas",
-        "level": 8,
-        "score": 0.12,
-        "keywords": [
-          "operaciones",
-          "organizacion"
-        ]
-      }
-    ],
-    "trabajo-de-integracion-curricular-i-1": [
-      {
-        "id": "quimica-general-2",
-        "title": "Química General",
-        "level": 1,
-        "score": 0.19,
-        "keywords": [
-          "estudiante",
-          "ingenieria",
-          "quimica"
-        ]
-      },
-      {
-        "id": "quimica-inorganica-1",
-        "title": "Química Inorgánica",
-        "level": 2,
-        "score": 0.19,
-        "keywords": [
-          "elementos",
-          "estudiante",
-          "quimica"
-        ]
-      },
-      {
-        "id": "procesamiento-termico-de-alimentos-2",
-        "title": "I1 Procesamiento Térmico de Alimentos",
-        "level": 9,
-        "score": 0.19,
-        "keywords": [
-          "busca",
-          "ingenieria",
-          "quimica"
-        ]
-      },
-      {
-        "id": "procesamiento-industrial-de-cereales-y-fermentaciones-1",
-        "title": "I1 Procesamiento Industrial de Cereales y Fermentaciones",
-        "level": 10,
-        "score": 0.19,
-        "keywords": [
-          "busca",
-          "ingenieria",
-          "quimica"
-        ]
-      }
-    ],
-    "comunicacion-efectiva-1": [
-      {
-        "id": "procesamiento-industrial-de-lacteos-y-carnicos-1",
-        "title": "I1 Procesamiento Industrial de Lácteos y Cárnicos",
-        "level": 9,
-        "score": 0.12,
-        "keywords": [
-          "busca",
-          "estudiante"
-        ]
-      },
-      {
-        "id": "practicas-laborales-i-2",
-        "title": "Prácticas Laborales I",
-        "level": 9,
-        "score": 0.12,
-        "keywords": [
-          "competencias",
-          "entornos"
-        ]
-      },
-      {
-        "id": "trabajo-de-integracion-curricular-i-1",
-        "title": "Trabajo de Integración Curricular I",
-        "level": 9,
-        "score": 0.12,
-        "keywords": [
-          "busca",
-          "estudiante"
-        ]
-      },
-      {
-        "id": "practicas-laborales-ii-2",
-        "title": "Prácticas Laborales II",
-        "level": 10,
-        "score": 0.12,
-        "keywords": [
-          "competencias",
-          "entornos"
-        ]
-      }
-    ],
-    "diseno-experimental-1": [
-      {
-        "id": "economia-industrial-1",
-        "title": "Economía Industrial",
-        "level": 7,
-        "score": 0.25,
-        "keywords": [
-          "analisis",
-          "basicos",
-          "conceptos",
-          "principios"
-        ]
-      },
-      {
-        "id": "investigacion-de-operaciones-1",
-        "title": "Investigación de Operaciones",
-        "level": 10,
-        "score": 0.25,
-        "keywords": [
-          "aplicacion",
-          "cientifico",
-          "metodo",
-          "problemas"
-        ]
-      },
-      {
-        "id": "lenguajes-de-programacion-1",
-        "title": "Lenguajes de Programación",
-        "level": 2,
-        "score": 0.12,
-        "keywords": [
-          "aplicacion",
-          "disenos"
-        ]
-      },
-      {
-        "id": "ecuaciones-diferenciales-1",
-        "title": "Ecuaciones Diferenciales",
-        "level": 3,
-        "score": 0.12,
-        "keywords": [
-          "basicos",
-          "problemas"
+          "metodo"
         ]
       }
     ],
@@ -9215,35 +14073,34 @@ const syllabiContentData = {
         ]
       },
       {
-        "id": "quimica-general-2",
-        "title": "Química General",
-        "level": 1,
-        "score": 0.19,
-        "keywords": [
-          "adquiridos",
-          "conocimientos",
-          "ingenieria"
-        ]
-      },
-      {
         "id": "ciencia-e-ingenieria-de-los-materiales-1",
         "title": "Ciencia e Ingeniería de los Materiales",
         "level": 4,
         "score": 0.19,
         "keywords": [
+          "aplicaciones",
           "conocimientos",
-          "estudio",
           "ingenieria"
         ]
       },
       {
-        "id": "ingenieria-de-las-reacciones-ii-reactores-1",
-        "title": "Ingeniería de las Reacciones II (Reactores)",
-        "level": 6,
-        "score": 0.14,
+        "id": "quimica-general-2",
+        "title": "Química General",
+        "level": 1,
+        "score": 0.12,
         "keywords": [
-          "ingenieria",
+          "bases",
           "reacciones"
+        ]
+      },
+      {
+        "id": "dibujo-asistido-por-computador-1",
+        "title": "Dibujo Asistido por Computador",
+        "level": 2,
+        "score": 0.12,
+        "keywords": [
+          "diseno",
+          "ingenieria"
         ]
       }
     ],
@@ -9252,64 +14109,57 @@ const syllabiContentData = {
         "id": "sintesis-organica-en-la-industria-1",
         "title": "Síntesis Orgánica en la Industria",
         "level": 4,
-        "score": 0.19,
+        "score": 0.31,
         "keywords": [
           "aplicaciones",
+          "materias",
+          "primas",
+          "proceso"
+        ]
+      },
+      {
+        "id": "balances-de-materia-y-energia-1",
+        "title": "Balances de Materia y Energía",
+        "level": 3,
+        "score": 0.19,
+        "keywords": [
+          "analisis",
           "proceso",
           "procesos"
         ]
       },
       {
-        "id": "analisis-numerico-1",
-        "title": "Análisis Numérico",
-        "level": 4,
+        "id": "calculo-integral-1",
+        "title": "Cálculo Integral",
+        "level": 2,
         "score": 0.12,
         "keywords": [
-          "analisis",
+          "aplicaciones",
+          "tecnicas"
+        ]
+      },
+      {
+        "id": "dibujo-asistido-por-computador-1",
+        "title": "Dibujo Asistido por Computador",
+        "level": 2,
+        "score": 0.12,
+        "keywords": [
+          "proceso",
           "procesos"
-        ]
-      },
-      {
-        "id": "produccion-ceramica-1",
-        "title": "I2 Producción Cerámica",
-        "level": 10,
-        "score": 0.12,
-        "keywords": [
-          "materias",
-          "primas"
-        ]
-      },
-      {
-        "id": "algebra-lineal-2",
-        "title": "Álgebra Lineal",
-        "level": 1,
-        "score": 0.06,
-        "keywords": [
-          "aplicaciones"
         ]
       }
     ],
     "quimica-inorganica-1": [
       {
-        "id": "quimica-general-2",
-        "title": "Química General",
-        "level": 1,
-        "score": 0.19,
-        "keywords": [
-          "estudiante",
-          "inorganica",
-          "quimica"
-        ]
-      },
-      {
         "id": "quimica-organica-i-1",
         "title": "Química Orgánica I",
         "level": 2,
-        "score": 0.19,
+        "score": 0.25,
         "keywords": [
           "compuestos",
+          "fisicas",
           "propiedades",
-          "quimica"
+          "quimicas"
         ]
       },
       {
@@ -9318,68 +14168,77 @@ const syllabiContentData = {
         "level": 3,
         "score": 0.19,
         "keywords": [
+          "caracteristicas",
           "compuestos",
-          "propiedades",
-          "quimica"
+          "propiedades"
         ]
       },
       {
-        "id": "quimica-analitica-de-suelos-1",
-        "title": "Química Analítica de Suelos",
-        "level": 8,
-        "score": 0.19,
+        "id": "quimica-general-2",
+        "title": "Química General",
+        "level": 1,
+        "score": 0.12,
         "keywords": [
-          "estudiante",
           "propiedades",
-          "quimica"
+          "quimicas"
+        ]
+      },
+      {
+        "id": "ciencia-e-ingenieria-de-los-materiales-1",
+        "title": "Ciencia e Ingeniería de los Materiales",
+        "level": 4,
+        "score": 0.12,
+        "keywords": [
+          "aplicaciones",
+          "propiedades"
         ]
       }
     ],
     "quimica-general-2": [
       {
-        "id": "procesamiento-termico-de-alimentos-2",
-        "title": "I1 Procesamiento Térmico de Alimentos",
-        "level": 9,
-        "score": 0.25,
-        "keywords": [
-          "carrera",
-          "conocimientos",
-          "ingenieria",
-          "quimica"
-        ]
-      },
-      {
-        "id": "procesamiento-industrial-de-cereales-y-fermentaciones-1",
-        "title": "I1 Procesamiento Industrial de Cereales y Fermentaciones",
-        "level": 10,
-        "score": 0.25,
-        "keywords": [
-          "carrera",
-          "conocimientos",
-          "ingenieria",
-          "quimica"
-        ]
-      },
-      {
-        "id": "quimica-inorganica-1",
-        "title": "Química Inorgánica",
+        "id": "quimica-organica-i-1",
+        "title": "Química Orgánica I",
         "level": 2,
-        "score": 0.19,
+        "score": 0.25,
         "keywords": [
-          "estudiante",
-          "inorganica",
-          "quimica"
+          "acidos",
+          "propiedades",
+          "quimicas",
+          "reacciones"
         ]
       },
       {
-        "id": "ecuaciones-diferenciales-1",
-        "title": "Ecuaciones Diferenciales",
+        "id": "bioquimica-de-alimentos-1",
+        "title": "Bioquímica de Alimentos",
+        "level": 6,
+        "score": 0.25,
+        "keywords": [
+          "generalidades",
+          "propiedades",
+          "quimica",
+          "reacciones"
+        ]
+      },
+      {
+        "id": "termodinamica-1",
+        "title": "Termodinámica",
         "level": 3,
         "score": 0.19,
         "keywords": [
-          "conocimientos",
-          "ingenieria",
-          "primer"
+          "propiedades",
+          "reacciones",
+          "temperatura"
+        ]
+      },
+      {
+        "id": "fisico-quimica-1",
+        "title": "Físico Química",
+        "level": 4,
+        "score": 0.19,
+        "keywords": [
+          "equilibrio",
+          "generalidades",
+          "quimica"
         ]
       }
     ],
@@ -9390,8 +14249,8 @@ const syllabiContentData = {
         "level": 4,
         "score": 0.25,
         "keywords": [
-          "aplicacion",
           "industrial",
+          "proceso",
           "procesos",
           "productos"
         ]
@@ -9402,32 +14261,32 @@ const syllabiContentData = {
         "level": 9,
         "score": 0.25,
         "keywords": [
-          "ciencia",
-          "industrial",
+          "elaboracion",
           "procesamiento",
-          "tecnologia"
+          "proceso",
+          "productos"
         ]
       },
       {
-        "id": "lenguajes-de-programacion-1",
-        "title": "Lenguajes de Programación",
-        "level": 2,
+        "id": "balances-de-materia-y-energia-1",
+        "title": "Balances de Materia y Energía",
+        "level": 3,
         "score": 0.19,
         "keywords": [
-          "aplicacion",
-          "practica",
-          "teorica"
+          "materia",
+          "proceso",
+          "procesos"
         ]
       },
       {
-        "id": "ciencia-e-ingenieria-de-los-materiales-1",
-        "title": "Ciencia e Ingeniería de los Materiales",
-        "level": 4,
+        "id": "procesamiento-termico-de-alimentos-2",
+        "title": "I1 Procesamiento Térmico de Alimentos",
+        "level": 9,
         "score": 0.19,
         "keywords": [
-          "ciencia",
-          "practica",
-          "teorica"
+          "procesamiento",
+          "proceso",
+          "productos"
         ]
       }
     ],
@@ -9463,65 +14322,63 @@ const syllabiContentData = {
         "score": 0.19,
         "keywords": [
           "ecuaciones",
-          "ingenieria",
-          "lineales"
+          "lineales",
+          "sistemas"
         ]
       },
       {
-        "id": "operaciones-unitarias-i-filtracion-y-fluidizacion-1",
-        "title": "Operaciones Unitarias I Filtración y Fluidización",
-        "level": 6,
-        "score": 0.12,
+        "id": "investigacion-de-operaciones-1",
+        "title": "Investigación de Operaciones",
+        "level": 10,
+        "score": 0.19,
         "keywords": [
-          "ingenieria",
+          "aplicaciones",
+          "lineal",
           "operaciones"
         ]
       }
     ],
     "transferencia-de-masa-1": [
       {
-        "id": "operaciones-unitarias-iii-humidificacion-y-secado-1",
-        "title": "Operaciones Unitarias III Humidificación y Secado",
-        "level": 8,
-        "score": 0.25,
+        "id": "transferencia-de-calor-1",
+        "title": "Transferencia de Calor",
+        "level": 5,
+        "score": 0.19,
         "keywords": [
-          "mecanismos",
-          "operaciones",
+          "calor",
+          "conveccion",
+          "transferencia"
+        ]
+      },
+      {
+        "id": "operaciones-unitarias-ii-evaporacion-destilacion-y-cristalizacion-1",
+        "title": "Operaciones Unitarias II Evaporación, Destilación y Cristalización",
+        "level": 7,
+        "score": 0.19,
+        "keywords": [
+          "calor",
+          "materia",
+          "operaciones"
+        ]
+      },
+      {
+        "id": "ciencia-e-ingenieria-de-los-materiales-1",
+        "title": "Ciencia e Ingeniería de los Materiales",
+        "level": 4,
+        "score": 0.12,
+        "keywords": [
+          "difusion",
+          "fases"
+        ]
+      },
+      {
+        "id": "transferencia-de-fluidos-1",
+        "title": "Transferencia de Fluidos",
+        "level": 5,
+        "score": 0.12,
+        "keywords": [
           "transferencia",
-          "unitarias"
-        ]
-      },
-      {
-        "id": "operaciones-unitarias-i-manipulacion-de-solidos-1",
-        "title": "Operaciones Unitarias I Manipulación de Sólidos",
-        "level": 6,
-        "score": 0.19,
-        "keywords": [
-          "operaciones",
-          "procesos",
-          "unitarias"
-        ]
-      },
-      {
-        "id": "termotecnia-1",
-        "title": "Termotecnia",
-        "level": 6,
-        "score": 0.19,
-        "keywords": [
-          "mecanismos",
-          "procesos",
           "transporte"
-        ]
-      },
-      {
-        "id": "operaciones-unitarias-iii-intercambio-ionico-1",
-        "title": "Operaciones Unitarias III Intercambio Iónico",
-        "level": 8,
-        "score": 0.19,
-        "keywords": [
-          "operaciones",
-          "procesos",
-          "unitarias"
         ]
       }
     ],
@@ -9563,12 +14420,12 @@ const syllabiContentData = {
         ]
       },
       {
-        "id": "algebra-lineal-2",
-        "title": "Álgebra Lineal",
-        "level": 1,
+        "id": "balances-de-materia-y-energia-1",
+        "title": "Balances de Materia y Energía",
+        "level": 3,
         "score": 0.06,
         "keywords": [
-          "ejercicios"
+          "variables"
         ]
       }
     ],
@@ -9586,79 +14443,74 @@ const syllabiContentData = {
         ]
       },
       {
+        "id": "practicas-de-servicio-comunitario-1",
+        "title": "Prácticas de Servicio Comunitario",
+        "level": 8,
+        "score": 0.19,
+        "keywords": [
+          "actividades",
+          "desarrollo",
+          "practicas"
+        ]
+      },
+      {
         "id": "comunicacion-efectiva-1",
         "title": "Comunicación Efectiva",
         "level": 1,
-        "score": 0.12,
+        "score": 0.06,
         "keywords": [
-          "competencias",
-          "entornos"
+          "competencias"
         ]
       },
       {
-        "id": "lenguajes-de-programacion-1",
-        "title": "Lenguajes de Programación",
+        "id": "dibujo-asistido-por-computador-1",
+        "title": "Dibujo Asistido por Computador",
         "level": 2,
-        "score": 0.12,
+        "score": 0.06,
         "keywords": [
-          "aplicacion",
-          "practica"
-        ]
-      },
-      {
-        "id": "ciencia-e-ingenieria-de-los-materiales-1",
-        "title": "Ciencia e Ingeniería de los Materiales",
-        "level": 4,
-        "score": 0.12,
-        "keywords": [
-          "conocimientos",
-          "practica"
+          "desarrollo"
         ]
       }
     ],
     "ciencia-e-ingenieria-de-los-materiales-1": [
-      {
-        "id": "quimica-analitica-1",
-        "title": "Química Analítica",
-        "level": 4,
-        "score": 0.25,
-        "keywords": [
-          "ciencia",
-          "ingenieria",
-          "practica",
-          "teorica"
-        ]
-      },
-      {
-        "id": "lenguajes-de-programacion-1",
-        "title": "Lenguajes de Programación",
-        "level": 2,
-        "score": 0.19,
-        "keywords": [
-          "introduccion",
-          "practica",
-          "teorica"
-        ]
-      },
-      {
-        "id": "ingenieria-de-las-reacciones-i-cinetica-1",
-        "title": "Ingeniería de las Reacciones I (Cinética)",
-        "level": 5,
-        "score": 0.19,
-        "keywords": [
-          "conocimientos",
-          "estudio",
-          "ingenieria"
-        ]
-      },
       {
         "id": "ingenieria-de-las-reacciones-iii-catalisis-1",
         "title": "Ingeniería de las Reacciones III (Catálisis)",
         "level": 7,
         "score": 0.19,
         "keywords": [
+          "aplicaciones",
           "conocimientos",
-          "estudio",
+          "ingenieria"
+        ]
+      },
+      {
+        "id": "quimica-inorganica-1",
+        "title": "Química Inorgánica",
+        "level": 2,
+        "score": 0.12,
+        "keywords": [
+          "aplicaciones",
+          "propiedades"
+        ]
+      },
+      {
+        "id": "sintesis-organica-en-la-industria-1",
+        "title": "Síntesis Orgánica en la Industria",
+        "level": 4,
+        "score": 0.12,
+        "keywords": [
+          "aplicaciones",
+          "sintesis"
+        ]
+      },
+      {
+        "id": "ingenieria-de-las-reacciones-i-cinetica-1",
+        "title": "Ingeniería de las Reacciones I (Cinética)",
+        "level": 5,
+        "score": 0.12,
+        "keywords": [
+          "conocimientos",
           "ingenieria"
         ]
       }
@@ -9668,38 +14520,39 @@ const syllabiContentData = {
         "id": "herramientas-de-metodologia-de-investigacion-1",
         "title": "Herramientas de Metodología de Investigación",
         "level": 1,
-        "score": 0.12,
+        "score": 0.31,
         "keywords": [
-          "investigacion",
-          "metodologia"
+          "cientifica",
+          "cientifico",
+          "escritura",
+          "investigacion"
+        ]
+      },
+      {
+        "id": "comunicacion-efectiva-1",
+        "title": "Comunicación Efectiva",
+        "level": 1,
+        "score": 0.06,
+        "keywords": [
+          "elementos"
+        ]
+      },
+      {
+        "id": "quimica-general-2",
+        "title": "Química General",
+        "level": 1,
+        "score": 0.06,
+        "keywords": [
+          "bases"
         ]
       },
       {
         "id": "dibujo-asistido-por-computador-1",
         "title": "Dibujo Asistido por Computador",
         "level": 2,
-        "score": 0.12,
-        "keywords": [
-          "desarrollo",
-          "revision"
-        ]
-      },
-      {
-        "id": "lenguajes-de-programacion-1",
-        "title": "Lenguajes de Programación",
-        "level": 2,
         "score": 0.06,
         "keywords": [
-          "caracter"
-        ]
-      },
-      {
-        "id": "fisico-quimica-1",
-        "title": "Físico Química",
-        "level": 4,
-        "score": 0.06,
-        "keywords": [
-          "comprension"
+          "desarrollo"
         ]
       }
     ],
@@ -9708,142 +14561,155 @@ const syllabiContentData = {
         "id": "procesamiento-termico-de-alimentos-2",
         "title": "I1 Procesamiento Térmico de Alimentos",
         "level": 9,
-        "score": 0.75,
+        "score": 0.19,
         "keywords": [
-          "adquieran",
-          "busca",
-          "carrera",
-          "conocimientos"
+          "alimentos",
+          "generalidades",
+          "procesamiento"
         ]
       },
       {
         "id": "microbiologia-industrial-1",
         "title": "Microbiología Industrial",
         "level": 5,
-        "score": 0.38,
+        "score": 0.12,
         "keywords": [
-          "carrera",
-          "conocimientos",
-          "dentro",
-          "dicta"
+          "alimentos",
+          "microorganismos"
         ]
       },
       {
-        "id": "quimica-general-2",
-        "title": "Química General",
-        "level": 1,
-        "score": 0.25,
+        "id": "bioquimica-de-alimentos-1",
+        "title": "Bioquímica de Alimentos",
+        "level": 6,
+        "score": 0.12,
         "keywords": [
-          "carrera",
-          "conocimientos",
-          "ingenieria",
-          "quimica"
+          "alimentos",
+          "generalidades"
         ]
       },
       {
-        "id": "procesamiento-industrial-de-lacteos-y-carnicos-1",
-        "title": "I1 Procesamiento Industrial de Lácteos y Cárnicos",
-        "level": 9,
-        "score": 0.25,
+        "id": "procesamiento-industrial-de-frutas-y-verduras-1",
+        "title": "I1 Procesamiento Industrial de Frutas y Verduras",
+        "level": 10,
+        "score": 0.12,
         "keywords": [
-          "busca",
           "industrial",
-          "procesamiento",
-          "teorico"
+          "procesamiento"
         ]
       }
     ],
     "analisis-numerico-1": [
       {
-        "id": "quimica-analitica-de-suelos-1",
-        "title": "Química Analítica de Suelos",
-        "level": 8,
+        "id": "ecuaciones-diferenciales-1",
+        "title": "Ecuaciones Diferenciales",
+        "level": 3,
         "score": 0.19,
         "keywords": [
-          "analisis",
-          "estudiante",
-          "metodos"
+          "diferenciales",
+          "ecuaciones",
+          "orden"
         ]
       },
       {
-        "id": "quimica-analitica-1",
-        "title": "Química Analítica",
-        "level": 4,
-        "score": 0.12,
+        "id": "investigacion-de-operaciones-1",
+        "title": "Investigación de Operaciones",
+        "level": 10,
+        "score": 0.19,
         "keywords": [
-          "analisis",
-          "metodos"
+          "introduccion",
+          "lineal",
+          "metodo"
         ]
       },
       {
-        "id": "analisis-instrumental-1",
-        "title": "Análisis Instrumental",
-        "level": 5,
+        "id": "algebra-lineal-2",
+        "title": "Álgebra Lineal",
+        "level": 1,
         "score": 0.12,
         "keywords": [
-          "analisis",
-          "metodos"
+          "ecuaciones",
+          "lineal"
         ]
       },
       {
-        "id": "ingenieria-de-las-reacciones-i-cinetica-1",
-        "title": "Ingeniería de las Reacciones I (Cinética)",
-        "level": 5,
+        "id": "algebra-lineal-1",
+        "title": "Álgebra Lineal",
+        "level": 1,
         "score": 0.12,
         "keywords": [
-          "analisis",
-          "metodos"
+          "ecuaciones",
+          "lineal"
         ]
       }
     ],
     "dibujo-asistido-por-computador-1": [
       {
-        "id": "escritura-cientifica-y-metodologia-de-investigacion-1",
-        "title": "Escritura Científica y Metodología de Investigación",
-        "level": 3,
-        "score": 0.12,
-        "keywords": [
-          "desarrollo",
-          "revision"
-        ]
-      },
-      {
-        "id": "diseno-y-desarrollo-de-productos-1",
-        "title": "Diseño y Desarrollo de Productos",
-        "level": 10,
-        "score": 0.12,
-        "keywords": [
-          "desarrollo",
-          "diseno"
-        ]
-      },
-      {
-        "id": "diseno-experimental-1",
-        "title": "Diseño Experimental",
-        "level": 4,
-        "score": 0.06,
-        "keywords": [
-          "diseno"
-        ]
-      },
-      {
-        "id": "emprendimiento-e-innovacion-1",
-        "title": "Emprendimiento e Innovación",
+        "id": "operaciones-unitarias-i-filtracion-y-fluidizacion-1",
+        "title": "Operaciones Unitarias I Filtración y Fluidización",
         "level": 6,
-        "score": 0.06,
+        "score": 0.25,
         "keywords": [
-          "desarrollo"
+          "diseno",
+          "ingenieria",
+          "proceso",
+          "quimica"
+        ]
+      },
+      {
+        "id": "diseno-y-calculo-de-plantas-industriales-1",
+        "title": "Diseño y Cálculo de Plantas Industriales",
+        "level": 9,
+        "score": 0.25,
+        "keywords": [
+          "diseno",
+          "equipos",
+          "ingenieria",
+          "proceso"
+        ]
+      },
+      {
+        "id": "tecnologias-limpias-en-ingenieria-quimica-2",
+        "title": "I3 Tecnologías Limpias en Ingeniería Química",
+        "level": 9,
+        "score": 0.25,
+        "keywords": [
+          "herramientas",
+          "ingenieria",
+          "proceso",
+          "quimica"
+        ]
+      },
+      {
+        "id": "sintesis-organica-en-la-industria-1",
+        "title": "Síntesis Orgánica en la Industria",
+        "level": 4,
+        "score": 0.19,
+        "keywords": [
+          "proceso",
+          "procesos",
+          "quimica"
         ]
       }
     ],
     "analisis-instrumental-1": [
+      {
+        "id": "calculo-integral-1",
+        "title": "Cálculo Integral",
+        "level": 2,
+        "score": 0.12,
+        "keywords": [
+          "diferentes",
+          "metodos"
+        ]
+      },
       {
         "id": "analisis-numerico-1",
         "title": "Análisis Numérico",
         "level": 4,
         "score": 0.12,
         "keywords": [
-          "analisis",
+          "introduccion",
           "metodos"
         ]
       },
@@ -9861,16 +14727,6 @@ const syllabiContentData = {
         "id": "ingenieria-de-las-reacciones-i-cinetica-1",
         "title": "Ingeniería de las Reacciones I (Cinética)",
         "level": 5,
-        "score": 0.12,
-        "keywords": [
-          "analisis",
-          "metodos"
-        ]
-      },
-      {
-        "id": "economia-industrial-1",
-        "title": "Economía Industrial",
-        "level": 7,
         "score": 0.12,
         "keywords": [
           "analisis",
@@ -9880,71 +14736,86 @@ const syllabiContentData = {
     ],
     "operaciones-unitarias-i-filtracion-y-fluidizacion-1": [
       {
-        "id": "ingenieria-de-las-reacciones-i-cinetica-1",
-        "title": "Ingeniería de las Reacciones I (Cinética)",
-        "level": 5,
-        "score": 0.19,
+        "id": "dibujo-asistido-por-computador-1",
+        "title": "Dibujo Asistido por Computador",
+        "level": 2,
+        "score": 0.25,
         "keywords": [
-          "estudio",
+          "diseno",
           "ingenieria",
+          "proceso",
           "quimica"
-        ]
-      },
-      {
-        "id": "operaciones-unitarias-i-manipulacion-de-solidos-1",
-        "title": "Operaciones Unitarias I Manipulación de Sólidos",
-        "level": 6,
-        "score": 0.19,
-        "keywords": [
-          "manejo",
-          "operaciones",
-          "unitarias"
         ]
       },
       {
         "id": "operaciones-unitarias-iii-intercambio-ionico-1",
         "title": "Operaciones Unitarias III Intercambio Iónico",
         "level": 8,
-        "score": 0.19,
+        "score": 0.25,
         "keywords": [
+          "diseno",
           "lecho",
           "operaciones",
           "unitarias"
         ]
       },
       {
-        "id": "ingenieria-de-las-reacciones-ii-reactores-1",
-        "title": "Ingeniería de las Reacciones II (Reactores)",
-        "level": 6,
-        "score": 0.14,
+        "id": "diseno-y-calculo-de-plantas-industriales-1",
+        "title": "Diseño y Cálculo de Plantas Industriales",
+        "level": 9,
+        "score": 0.25,
         "keywords": [
-          "aborda",
-          "ingenieria"
+          "calculo",
+          "diseno",
+          "ingenieria",
+          "proceso"
+        ]
+      },
+      {
+        "id": "ingenieria-de-las-reacciones-i-cinetica-1",
+        "title": "Ingeniería de las Reacciones I (Cinética)",
+        "level": 5,
+        "score": 0.19,
+        "keywords": [
+          "ingenieria",
+          "quimica",
+          "velocidad"
         ]
       }
     ],
     "calidad-y-tratamiento-de-suelos-1": [
       {
-        "id": "quimica-analitica-1",
-        "title": "Química Analítica",
-        "level": 4,
-        "score": 0.69,
-        "keywords": [
-          "analisis",
-          "carrera",
-          "corresponde",
-          "formacion"
-        ]
-      },
-      {
         "id": "quimica-analitica-de-suelos-1",
         "title": "Química Analítica de Suelos",
         "level": 8,
-        "score": 0.31,
+        "score": 0.38,
         "keywords": [
           "analisis",
           "formacion",
-          "misma",
+          "metodos",
+          "quimica"
+        ]
+      },
+      {
+        "id": "ingenieria-de-las-reacciones-i-cinetica-1",
+        "title": "Ingeniería de las Reacciones I (Cinética)",
+        "level": 5,
+        "score": 0.25,
+        "keywords": [
+          "analisis",
+          "ingenieria",
+          "metodos",
+          "quimica"
+        ]
+      },
+      {
+        "id": "quimica-analitica-1",
+        "title": "Química Analítica",
+        "level": 4,
+        "score": 0.19,
+        "keywords": [
+          "analisis",
+          "metodos",
           "quimica"
         ]
       },
@@ -9952,111 +14823,136 @@ const syllabiContentData = {
         "id": "metalurgia-extractiva-1",
         "title": "I2 Metalurgia Extractiva",
         "level": 9,
-        "score": 0.25,
+        "score": 0.19,
         "keywords": [
           "corresponde",
           "formacion",
-          "misma",
           "profesional"
-        ]
-      },
-      {
-        "id": "quimica-general-2",
-        "title": "Química General",
-        "level": 1,
-        "score": 0.19,
-        "keywords": [
-          "carrera",
-          "ingenieria",
-          "quimica"
         ]
       }
     ],
     "procesamiento-termico-de-alimentos-2": [
       {
-        "id": "procesamiento-industrial-de-cereales-y-fermentaciones-1",
-        "title": "I1 Procesamiento Industrial de Cereales y Fermentaciones",
-        "level": 10,
-        "score": 0.75,
-        "keywords": [
-          "adquieran",
-          "busca",
-          "carrera",
-          "conocimientos"
-        ]
-      },
-      {
         "id": "microbiologia-industrial-1",
         "title": "Microbiología Industrial",
         "level": 5,
-        "score": 0.38,
+        "score": 0.25,
         "keywords": [
           "alimentos",
-          "carrera",
-          "conocimientos",
-          "dentro"
-        ]
-      },
-      {
-        "id": "quimica-general-2",
-        "title": "Química General",
-        "level": 1,
-        "score": 0.25,
-        "keywords": [
-          "carrera",
-          "conocimientos",
-          "ingenieria",
-          "quimica"
-        ]
-      },
-      {
-        "id": "quimica-analitica-1",
-        "title": "Química Analítica",
-        "level": 4,
-        "score": 0.25,
-        "keywords": [
-          "carrera",
-          "ingenieria",
+          "conservacion",
           "metodos",
-          "quimica"
+          "productos"
+        ]
+      },
+      {
+        "id": "operaciones-unitarias-iii-humidificacion-y-secado-1",
+        "title": "Operaciones Unitarias III Humidificación y Secado",
+        "level": 8,
+        "score": 0.25,
+        "keywords": [
+          "alimentos",
+          "bases",
+          "metodos",
+          "productos"
+        ]
+      },
+      {
+        "id": "procesamiento-industrial-de-lacteos-y-carnicos-1",
+        "title": "I1 Procesamiento Industrial de Lácteos y Cárnicos",
+        "level": 9,
+        "score": 0.19,
+        "keywords": [
+          "procesamiento",
+          "proceso",
+          "productos"
+        ]
+      },
+      {
+        "id": "procesamiento-industrial-de-cereales-y-fermentaciones-1",
+        "title": "I1 Procesamiento Industrial de Cereales y Fermentaciones",
+        "level": 10,
+        "score": 0.19,
+        "keywords": [
+          "alimentos",
+          "generalidades",
+          "procesamiento"
         ]
       }
     ],
     "metalurgia-extractiva-1": [
       {
-        "id": "quimica-analitica-de-suelos-1",
-        "title": "Química Analítica de Suelos",
-        "level": 8,
-        "score": 0.31,
-        "keywords": [
-          "basada",
-          "brindar",
-          "estudiante",
-          "formacion"
-        ]
-      },
-      {
-        "id": "quimica-analitica-1",
-        "title": "Química Analítica",
-        "level": 4,
-        "score": 0.25,
+        "id": "calidad-y-tratamiento-de-suelos-1",
+        "title": "I3 Calidad y Tratamiento de Suelos",
+        "level": 9,
+        "score": 0.19,
         "keywords": [
           "corresponde",
           "formacion",
-          "misma",
           "profesional"
+        ]
+      },
+      {
+        "id": "ingenieria-de-las-reacciones-i-cinetica-1",
+        "title": "Ingeniería de las Reacciones I (Cinética)",
+        "level": 5,
+        "score": 0.12,
+        "keywords": [
+          "cinetica",
+          "conocimientos"
+        ]
+      },
+      {
+        "id": "comunicacion-efectiva-1",
+        "title": "Comunicación Efectiva",
+        "level": 1,
+        "score": 0.06,
+        "keywords": [
+          "profesional"
+        ]
+      },
+      {
+        "id": "dibujo-asistido-por-computador-1",
+        "title": "Dibujo Asistido por Computador",
+        "level": 2,
+        "score": 0.06,
+        "keywords": [
+          "procesos"
+        ]
+      }
+    ],
+    "quimica-analitica-1": [
+      {
+        "id": "quimica-analitica-de-suelos-1",
+        "title": "Química Analítica de Suelos",
+        "level": 8,
+        "score": 0.25,
+        "keywords": [
+          "analisis",
+          "analitica",
+          "metodos",
+          "quimica"
+        ]
+      },
+      {
+        "id": "ingenieria-de-las-reacciones-i-cinetica-1",
+        "title": "Ingeniería de las Reacciones I (Cinética)",
+        "level": 5,
+        "score": 0.19,
+        "keywords": [
+          "analisis",
+          "metodos",
+          "quimica"
         ]
       },
       {
         "id": "calidad-y-tratamiento-de-suelos-1",
         "title": "I3 Calidad y Tratamiento de Suelos",
         "level": 9,
-        "score": 0.25,
+        "score": 0.19,
         "keywords": [
-          "corresponde",
-          "formacion",
-          "misma",
-          "profesional"
+          "analisis",
+          "metodos",
+          "quimica"
         ]
       },
       {
@@ -10065,58 +14961,8 @@ const syllabiContentData = {
         "level": 1,
         "score": 0.12,
         "keywords": [
-          "conocimientos",
-          "estudiante"
-        ]
-      }
-    ],
-    "quimica-analitica-1": [
-      {
-        "id": "calidad-y-tratamiento-de-suelos-1",
-        "title": "I3 Calidad y Tratamiento de Suelos",
-        "level": 9,
-        "score": 0.69,
-        "keywords": [
-          "analisis",
-          "carrera",
-          "corresponde",
-          "formacion"
-        ]
-      },
-      {
-        "id": "quimica-analitica-de-suelos-1",
-        "title": "Química Analítica de Suelos",
-        "level": 8,
-        "score": 0.38,
-        "keywords": [
-          "analisis",
-          "analitica",
-          "formacion",
-          "metodos"
-        ]
-      },
-      {
-        "id": "termodinamica-1",
-        "title": "Termodinámica",
-        "level": 3,
-        "score": 0.25,
-        "keywords": [
-          "analisis",
-          "ciencia",
-          "formacion",
-          "puede"
-        ]
-      },
-      {
-        "id": "ciencia-e-ingenieria-de-los-materiales-1",
-        "title": "Ciencia e Ingeniería de los Materiales",
-        "level": 4,
-        "score": 0.25,
-        "keywords": [
-          "ciencia",
-          "ingenieria",
-          "practica",
-          "teorica"
+          "acido",
+          "quimica"
         ]
       }
     ],
@@ -10152,17 +14998,18 @@ const syllabiContentData = {
         "score": 0.19,
         "keywords": [
           "ecuaciones",
-          "ingenieria",
-          "lineales"
+          "lineales",
+          "sistemas"
         ]
       },
       {
-        "id": "operaciones-unitarias-i-filtracion-y-fluidizacion-1",
-        "title": "Operaciones Unitarias I Filtración y Fluidización",
-        "level": 6,
-        "score": 0.12,
+        "id": "investigacion-de-operaciones-1",
+        "title": "Investigación de Operaciones",
+        "level": 10,
+        "score": 0.19,
         "keywords": [
-          "ingenieria",
+          "aplicaciones",
+          "lineal",
           "operaciones"
         ]
       }
@@ -10199,17 +15046,18 @@ const syllabiContentData = {
         "score": 0.19,
         "keywords": [
           "ecuaciones",
-          "ingenieria",
-          "lineales"
+          "lineales",
+          "sistemas"
         ]
       },
       {
-        "id": "operaciones-unitarias-i-filtracion-y-fluidizacion-1",
-        "title": "Operaciones Unitarias I Filtración y Fluidización",
-        "level": 6,
-        "score": 0.12,
+        "id": "investigacion-de-operaciones-1",
+        "title": "Investigación de Operaciones",
+        "level": 10,
+        "score": 0.19,
         "keywords": [
-          "ingenieria",
+          "aplicaciones",
+          "lineal",
           "operaciones"
         ]
       }
