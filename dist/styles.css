@@ -93,6 +93,18 @@ a {
   color: var(--ucuenca-red);
 }
 
+.main-nav a.external-nav {
+  border-color: var(--ucuenca-red);
+  background: var(--ucuenca-red);
+  color: var(--white);
+}
+
+.main-nav a.external-nav:hover {
+  border-color: var(--ucuenca-red-dark);
+  background: var(--ucuenca-red-dark);
+  color: var(--white);
+}
+
 .page-shell {
   display: grid;
   gap: 24px;
